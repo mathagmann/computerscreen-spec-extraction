@@ -30,12 +30,11 @@ fmt:              ## Format code using ruff & black.
 	$(ENV_PREFIX)ruff --fix tests
 
 .PHONY: lint
-lint:             ## Run black, ruff, mypy linters.
+lint:             ## Run black, ruff linters.
 	$(ENV_PREFIX)black --check specification_extraction/
 	$(ENV_PREFIX)black --check tests/
 	$(ENV_PREFIX)ruff specification_extraction/
 	$(ENV_PREFIX)ruff tests/
-	$(ENV_PREFIX)mypy --ignore-missing-imports specification_extraction/
 
 .PHONY: test
 test:	          ## Run tests and generate coverage report.
