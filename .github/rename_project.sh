@@ -16,10 +16,10 @@ echo "Description: $description";
 
 echo "Renaming project..."
 
-original_author="author_name"
-original_name="project_name"
-original_urlname="project_urlname"
-original_description="project_description"
+original_author="MattHag"
+original_name="specification_extraction"
+original_urlname="specification-extraction"
+original_description="Awesome specification_extraction created by MattHag"
 for filename in $(git ls-files)
 do
     sed -i "s/$original_author/$author/g" $filename
@@ -29,7 +29,7 @@ do
     echo "Renamed $filename"
 done
 
-mv project_name $name
+mv specification_extraction $name
 
 # This command runs only once on GHA!
 rm -rf .github/workflows/rename_project.yml

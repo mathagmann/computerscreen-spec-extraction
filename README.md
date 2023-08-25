@@ -1,29 +1,29 @@
-# project_name
+# specification_extraction
 
-[![CI](https://github.com/author_name/project_urlname/actions/workflows/build.yml/badge.svg)](https://github.com/author_name/project_urlname/actions/workflows/main.yml)
+[![CI](https://github.com/MattHag/specification-extraction/actions/workflows/build.yml/badge.svg)](https://github.com/MattHag/specification-extraction/actions/workflows/main.yml)
 
-project_description
+Awesome specification_extraction created by MattHag
 
 ## Install it from PyPI
 
 ```bash
-pip install project_name
+pip install specification_extraction
 ```
 
 ## Usage
 
 ```py
-from project_name import BaseClass
-from project_name import base_function
+from specification_extraction import BaseClass
+from specification_extraction import base_function
 
 BaseClass().base_method()
 base_function()
 ```
 
 ```bash
-$ python -m project_name
+$ python -m specification_extraction
 #or
-$ project_name
+$ specification_extraction
 ```
 
 ## Development

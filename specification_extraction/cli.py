@@ -1,4 +1,4 @@
-"""CLI interface for project_name project.
+"""CLI interface for specification_extraction project.
 
 - Install click and create a CLI app
 - Use builtin argparse
@@ -10,7 +10,7 @@
 def main():  # pragma: no cover
     """
     The main function executes on commands:
-    `python -m project_name` and `$ project_name `.
+    `python -m specification_extraction` and `$ specification_extraction `.
 
     This is your program's entry point.
 

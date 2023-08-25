@@ -24,22 +24,22 @@ install:          ## Install the project in dev mode.
 
 .PHONY: fmt
 fmt:              ## Format code using ruff & black.
-	$(ENV_PREFIX)black project_name/
+	$(ENV_PREFIX)black specification_extraction/
 	$(ENV_PREFIX)black tests/
-	$(ENV_PREFIX)ruff --fix project_name
+	$(ENV_PREFIX)ruff --fix specification_extraction
 	$(ENV_PREFIX)ruff --fix tests
 
 .PHONY: lint
 lint:             ## Run black, ruff, mypy linters.
-	$(ENV_PREFIX)black --check project_name/
+	$(ENV_PREFIX)black --check specification_extraction/
 	$(ENV_PREFIX)black --check tests/
-	$(ENV_PREFIX)ruff project_name/
+	$(ENV_PREFIX)ruff specification_extraction/
 	$(ENV_PREFIX)ruff tests/
-	$(ENV_PREFIX)mypy --ignore-missing-imports project_name/
+	$(ENV_PREFIX)mypy --ignore-missing-imports specification_extraction/
 
 .PHONY: test
 test:	          ## Run tests and generate coverage report.
-	$(ENV_PREFIX)pytest -v --cov-config .coveragerc --cov=project_name tests/
+	$(ENV_PREFIX)pytest -v --cov-config .coveragerc --cov=specification_extraction tests/
 	$(ENV_PREFIX)coverage xml
 	$(ENV_PREFIX)coverage html
 
@@ -73,9 +73,9 @@ virtualenv:       ## Create a virtual environment.
 release:          ## Create a new tag for release.
 	@echo "WARNING: This operation will create a version tag and push to github"
 	@read -p "Version? (provide the next x.y.z semver): " TAG
-	@echo "$${TAG}" > project_name/VERSION
+	@echo "$${TAG}" > specification_extraction/VERSION
 	@$(ENV_PREFIX)gitchangelog > HISTORY.md
-	@git add project_name/VERSION HISTORY.md
+	@git add specification_extraction/VERSION HISTORY.md
 	@git commit -m "release: version $${TAG}"
 	@echo "creating git tag: $${TAG}"
 	@git tag $${TAG}
