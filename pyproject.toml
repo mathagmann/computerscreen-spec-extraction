@@ -1,0 +1,14 @@
+[tool.black]
+line-length = 120
+
+[tool.ruff]
+line-length = 120
+select = [
+    "E",
+    "F",
+    "I",
+    "W",
+]
+
+[tool.ruff.isort]
+force-single-line = true

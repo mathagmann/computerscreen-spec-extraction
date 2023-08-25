@@ -1,0 +1,9 @@
+black
+coverage
+gitchangelog
+mkdocs
+mypy
+pre-commit
+pytest
+pytest-cov
+ruff
