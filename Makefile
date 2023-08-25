@@ -21,6 +21,7 @@ install:          ## Install the project in dev mode.
 	@echo "Don't forget to run 'make virtualenv' if you got errors."
 	$(ENV_PREFIX)pip install -e .[dev]
 	$(ENV_PREFIX)pre-commit install
+	$(ENV_PREFIX)python -m playwright install chromium
 
 .PHONY: fmt
 fmt:              ## Format code using ruff & black.
