@@ -36,6 +36,11 @@ setup(
     author="MattHag",
     packages=find_packages(exclude=["tests", ".github"]),
     install_requires=read_requirements("requirements.txt"),
-    entry_points={"console_scripts": ["specification_extraction = specification_extraction.__main__:main"]},
+    entry_points={
+        "console_scripts": [
+            "specification_extraction = specification_extraction.__main__:main",
+            "data_retrieval = data_generation.__main__:main",
+        ]
+    },
     extras_require={"dev": read_requirements("requirements-dev.txt")},
 )

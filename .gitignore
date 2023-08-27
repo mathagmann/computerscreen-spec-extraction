@@ -104,3 +104,8 @@ dmypy.json
 
 # PyCharm
 .idea
+
+# Custom
+/data/
+/logs/
+/tmp/

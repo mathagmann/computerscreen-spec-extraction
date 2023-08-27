@@ -41,13 +41,16 @@ class Browser:
             stealth_sync(self.page)
         return self
 
-    def goto(self, url: str, no_wait=True) -> Page:
+    def goto(self, url: str, no_wait=False) -> Page:
         if not no_wait:
             long_sleep(self.last_request)
             self.last_request = time.time()
         response = self.page.goto(url, wait_until="domcontentloaded")
         if response.status == 429:
             logger.error(f"429: Too many requests. Failed to load {url}\nSleep 60s")
+            if not self.headless:
+                logger.info("30s to solve captcha etc.")
+                time.sleep(30)
         assert response.ok, f"{response.status} Failed to load: {url}"
         return self.page.content()
 
