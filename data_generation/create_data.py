@@ -12,7 +12,7 @@ from specification_extraction import ROOT_DIR
 
 
 @marshmallow_dataclass.dataclass
-class ExtendedOffer(Product):
+class ExtendedOffer(Offer):
     html_file: str
     reference_file: str
 
