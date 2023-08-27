@@ -1,0 +1,7 @@
+iterator: div#product-tags > div
+fields:
+  title:
+    sel: span.tag-title
+  description:
+    sel: span.tag-value
+filter: description

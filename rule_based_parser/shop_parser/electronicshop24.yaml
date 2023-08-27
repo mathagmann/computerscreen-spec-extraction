@@ -1,0 +1,6 @@
+iterator: table.detailbox table table table tr
+fields:
+  title:
+    sel: td:nth-child(1)
+  description:
+    sel: td:nth-child(2)

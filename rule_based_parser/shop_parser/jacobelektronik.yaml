@@ -1,0 +1,7 @@
+iterator: div.c1_productDesc > section > table tr
+fields:
+  title:
+    sel: td:nth-child(1)
+  description:
+    sel: td:nth-child(2)
+filter: description

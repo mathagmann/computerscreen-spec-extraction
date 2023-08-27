@@ -1,0 +1,7 @@
+iterator: div#HTML_SPEC > div
+fields:
+  title:
+    sel: div:nth-child(1)
+  description:
+    sel: div:nth-child(2)
+filter: description

@@ -1,0 +1,7 @@
+iterator: main#pageContent section > div:nth-child(4) > div> div > div > div > table > tbody > tr
+fields:
+  title:
+    sel: td:nth-child(1)
+  description:
+    sel: td:nth-child(2)
+filter: description

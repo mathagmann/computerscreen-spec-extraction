@@ -1,0 +1,7 @@
+iterator: div.specification__list > ul > li
+fields:
+  title:
+    sel: div.specification__list__key
+  description:
+    sel: div.specification__list__value
+filter: description

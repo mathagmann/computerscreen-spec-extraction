@@ -1,0 +1,7 @@
+iterator: table.es-article-detail-cop-attributes-table > tbody > tr
+fields:
+  title:
+    sel: td:nth-child(1)
+  description:
+    sel: td:nth-child(2)
+filter: description

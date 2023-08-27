@@ -1,0 +1,7 @@
+iterator: div#techdata > div.columns
+fields:
+  title:
+    sel: div.column:nth-child(1)
+  description:
+    sel: div.column:nth-child(2)
+filter: description

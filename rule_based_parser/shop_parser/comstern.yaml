@@ -1,0 +1,7 @@
+iterator: section#product-datasheet div.group-reviews ul > li
+fields:
+  title:
+    sel: span:nth-child(1)
+  description:
+    sel: span:nth-child(2)
+filter: description
