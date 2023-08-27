@@ -1,1 +1,7 @@
+beautifulsoup4
 loguru
+marshmallow_dataclass
+minet
+playwright
+playwright-stealth
+requests
