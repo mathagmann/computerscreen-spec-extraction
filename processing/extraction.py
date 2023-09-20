@@ -95,13 +95,13 @@ class DataExtractor:
 class Feature:
     def __init__(
         self,
-        name: str,
+        name,  # MonitorSpecifications
         formatter=DataExtractor.apply_synonyms,
         pattern=None,
         match_to=None,
         separator: [str, List] = "\u00a0",
     ):
-        self.name = name
+        self.name = name.value
         self.formatter = formatter  # DataExtractor function
         self.pattern = pattern  # regex pattern
         self.match_to = match_to  # list of keys to map to
@@ -206,7 +206,8 @@ class Parser:
     def parse(self, raw_specifications: dict) -> dict:
         """Parses features from raw specifications and returns a plain dict."""
         result = {}
-        for feature_name, feature_value in raw_specifications.items():
+        for feature, feature_value in raw_specifications.items():
+            feature_name = feature.value
             clean_value = clean_text(feature_value)
             try:
                 result[feature_name] = self.parser[feature_name].parse(clean_value)
