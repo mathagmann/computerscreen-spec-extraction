@@ -1,8 +1,11 @@
 beautifulsoup4
+jsoncomparison
 loguru
 marshmallow_dataclass
 minet
+pandas
 playwright
 playwright-stealth
 requests
+thefuzz
 transformers
