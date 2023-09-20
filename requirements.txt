@@ -5,3 +5,4 @@ minet
 playwright
 playwright-stealth
 requests
+transformers
