@@ -6,7 +6,7 @@ from torch.utils.data import Dataset
 from torch.utils.data import RandomSampler
 from transformers import BertTokenizer
 
-from ner_data.computerscreens2023.brise_dataset import BriseDataset
+from ner_data.computerscreens2023.computerscreens2023 import ComputerScreens2023Dataset
 
 BATCH_SIZE = 64
 BERT_TOKENS_MAX_LEN = 512
@@ -89,7 +89,7 @@ def get_x_y_dataframes(sub_dir):
 
 def create_brise_dataset(tokens: pd.DataFrame, ner_tags: pd.DataFrame):
     tokenizer = BertTokenizer.from_pretrained(BERT_NAME)
-    return BriseDataset(
+    return ComputerScreens2023Dataset(
         tokens,
         ner_tags,
         tokenizer,

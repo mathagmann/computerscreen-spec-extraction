@@ -1,10 +1,12 @@
 from pathlib import Path
+from unittest import mock
 
 import pytest
 from datasets import load_dataset
 from datasets import load_dataset_builder
 from transformers import BertTokenizer
 
+from ner_data.computerscreens2023.prepare_data import create_data_loader
 from ner_data.computerscreens2023.shuffle_and_split import _split_data
 
 DATASETS_PATH = Path(__file__).parent.parent.parent / "ner_data"
@@ -55,3 +57,16 @@ def test_custom_dataset_loader():
 
     for dataset in local_csv_dataset.values():
         assert dataset.column_names == ["token", "ner_tags"]
+
+
+def test_create_brise_dataset():
+    dataloader = create_data_loader("train")
+    expected_result = {
+        "text_rebuild": mock.ANY,
+        "input_ids": mock.ANY,
+        "attention_mask": mock.ANY,
+        "labels": mock.ANY,
+    }
+
+    assert dataloader
+    assert dataloader.dataset[0] == expected_result
