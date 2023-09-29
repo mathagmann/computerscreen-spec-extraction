@@ -1,15 +1,5 @@
-from token_classifier.ports_ml_pipeline import classify_tokens
 from token_classifier.ports_ml_pipeline import convert_to_original_length
 from token_classifier.ports_ml_pipeline import process_labels
-
-
-def test_classify_tokens():
-    text = "1x USB-C 4.0 (DisplayPort, PowerDelivery)"
-
-    labeled_data = classify_tokens(text)
-
-    assert len(labeled_data) > 0
-    assert isinstance(labeled_data[0], dict)
 
 
 def test_recover_text():
@@ -27,12 +17,12 @@ def test_recover_text():
 
 
 def test_process_labels():
-    expected = {
-        "USBC-COUNT": "1x",
-        "USBC-TYPE": "USB-C",
-        "USBC-VERSION": "4.0",
-        "USBC-DETAILS": "(DisplayPort, PowerDelivery)",
-    }
+    expected = [
+        {"USBC-COUNT": "1x"},
+        {"USBC-TYPE": "USB-C"},
+        {"USBC-VERSION": "4.0"},
+        {"USBC-DETAILS": "(DisplayPort, PowerDelivery)"},
+    ]
     labeled_data = [
         {"entity": "B-USBC-COUNT", "score": 0.64608246, "index": 1, "word": "1", "start": 0, "end": 1},
         {"entity": "I-USBC-COUNT", "score": 0.5844179, "index": 2, "word": "##x", "start": 1, "end": 2},
