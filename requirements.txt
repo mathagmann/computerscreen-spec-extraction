@@ -1,4 +1,6 @@
 beautifulsoup4
+datasets >= 1.8.0
+evaluate
 jsoncomparison
 loguru
 marshmallow_dataclass
@@ -7,5 +9,7 @@ pandas
 playwright
 playwright-stealth
 requests
+seqeval
 thefuzz
+torch >= 1.3
 transformers
