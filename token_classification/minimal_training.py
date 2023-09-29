@@ -1,6 +1,6 @@
 from typing import Any
 
-from datasets import load_metric
+import evaluate
 from seqeval.metrics import accuracy_score
 from seqeval.metrics import f1_score
 from seqeval.metrics import precision_score
@@ -52,7 +52,7 @@ train_dataset = get_dataset("train")
 test_dataset = get_dataset("test")
 valid_dataset = get_dataset("valid")
 
-metric = load_metric("seqeval")
+metric = evaluate.load("seqeval")
 
 
 def compute_metrics(p) -> dict[str, Any]:
@@ -85,12 +85,13 @@ def compute_metrics(p) -> dict[str, Any]:
     }
 
 
-def run_training(epochs: int = 3, name: str = "ner_model"):
+def run_training(epochs: int = 30, name: str = "ner_model"):
     # Create a new model with a custom number of labels
     config = AutoConfig.from_pretrained(model_checkpoint)
     config.id2label = id2label
     config.label2id = label2id
     config.num_labels = len(label2id)
+    # ['bert.pooler.dense.bias', 'bert.pooler.dense.weight'] is not used with Token Classification models
     model = AutoModelForTokenClassification.from_pretrained(model_checkpoint, config=config)
 
     args = TrainingArguments(
@@ -100,6 +101,8 @@ def run_training(epochs: int = 3, name: str = "ner_model"):
         learning_rate=2e-5,
         num_train_epochs=epochs,
         weight_decay=0.01,
+        save_total_limit=2,  # Set to 2 to save the last and the best model
+        load_best_model_at_end=True,  # Load the best model at the end of training
     )
 
     data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
