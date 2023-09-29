@@ -5,6 +5,7 @@ from seqeval.metrics import accuracy_score
 from seqeval.metrics import f1_score
 from seqeval.metrics import precision_score
 from seqeval.metrics import recall_score
+from transformers import AutoConfig
 from transformers import AutoModelForTokenClassification
 from transformers import AutoTokenizer
 from transformers import DataCollatorForTokenClassification
@@ -45,6 +46,7 @@ custom_labels = [
     "details-hdmi",
 ]
 label2id = create_label2id(custom_labels)
+id2label = {i: label for label, i in label2id.items()}  # label2id is your label mapping
 
 train_dataset = get_dataset("train")
 test_dataset = get_dataset("test")
@@ -57,7 +59,6 @@ def compute_metrics(p) -> dict[str, Any]:
     predictions, labels = p
 
     predictions = predictions.argmax(axis=2)
-    id2label = {i: label for label, i in label2id.items()}  # label2id is your label mapping
 
     # Convert ids to labels
     pred_labels = []
@@ -85,8 +86,12 @@ def compute_metrics(p) -> dict[str, Any]:
 
 
 def run_training(epochs: int = 3, name: str = "ner_model"):
-    num_labels = len(label2id)
-    model = AutoModelForTokenClassification.from_pretrained(model_checkpoint, num_labels=num_labels)
+    # Create a new model with a custom number of labels
+    config = AutoConfig.from_pretrained(model_checkpoint)
+    config.id2label = id2label
+    config.label2id = label2id
+    config.num_labels = len(label2id)
+    model = AutoModelForTokenClassification.from_pretrained(model_checkpoint, config=config)
 
     args = TrainingArguments(
         name,
