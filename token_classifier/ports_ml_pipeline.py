@@ -1,17 +1,3 @@
-from transformers import AutoModelForTokenClassification
-from transformers import AutoTokenizer
-from transformers import pipeline
-
-# TODO Replace this with own checkpoint
-model = AutoModelForTokenClassification.from_pretrained("bert-base-cased")
-tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
-token_classifier = pipeline("ner", model=model, tokenizer=tokenizer)
-
-
-def classify_tokens(text) -> list[dict]:
-    return token_classifier(text)
-
-
 def convert_to_original_length(labeled_data: list[dict]) -> list[dict]:
     word = None
     active_label = None
@@ -43,12 +29,10 @@ def convert_to_original_length(labeled_data: list[dict]) -> list[dict]:
 
 
 def process_labels(labels: list[dict], preprocess=None) -> dict:
-    structured_data = {}
+    structured_data = []
     if preprocess:
         labels = preprocess(labels)
     for label in labels:
-        if label["entity"] not in structured_data:
-            structured_data[label["entity"]] = []
-        structured_data[label["entity"]] = label["word"]
+        structured_data.append({label["entity"]: label["word"]})
 
     return structured_data
