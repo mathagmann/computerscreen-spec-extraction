@@ -1511,7 +1511,7 @@ cm -X- _ O
 Swivelfunktion -X- _ O
 : -X- _ O
 nein -X- _ O
-HDMI -X- _ B-count-hdmi
+HDMI -X- _ B-type-hdmi
 : -X- _ O
 2x -X- _ B-count-hdmi
 
@@ -1933,7 +1933,7 @@ Verpackungstiefe -X- _ O
 mm -X- _ O
 HDMI-Version -X- _ O
 : -X- _ O
-2.0 -X- _ B-type-hdmi
+2.0 -X- _ B-version-hdmi
 Rahmenloses -X- _ O
 Design -X- _ O
 : -X- _ O
@@ -6185,7 +6185,7 @@ Kabel -X- _ O
 AC -X- _ O
 , -X- _ O
 HDMI -X- _ O
-HDMI -X- _ B-count-hdmi
+HDMI -X- _ B-type-hdmi
 : -X- _ O
 Ja -X- _ O
 USB-Upstream-Porttyp -X- _ O
