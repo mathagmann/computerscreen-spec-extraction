@@ -2,7 +2,7 @@ from pathlib import Path
 
 from minet import Scraper
 
-SCRAPER_CONFIG_DIR = Path(__file__).parent / "shop_parser"
+SCRAPER_CONFIG_DIR = Path(__file__).parent / "config"
 FIELDNAMES = ["title", "id", "shop", "path"]
 
 
