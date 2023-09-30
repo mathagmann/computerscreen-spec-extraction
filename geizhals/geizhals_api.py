@@ -16,12 +16,14 @@ class SupportsGoto(Protocol):
 
 
 def get_category_page(category_url: str, browser: SupportsGoto) -> CategoryPage:
+    """Returns all products listed on a Geizhals category page."""
     html = browser.goto(category_url)
     data = parse_category_page(html, category_url)
     return CategoryPage.Schema().load(data)
 
 
 def get_product_page(product_url: str, browser: SupportsGoto) -> ProductPage:
+    """Returns the product details from a Geizhals product page."""
     html = browser.goto(product_url)
     data = parse_product_page(html, product_url)
     return ProductPage.Schema().load(data)
