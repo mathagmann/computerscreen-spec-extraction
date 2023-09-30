@@ -67,16 +67,16 @@ def _split_data(data: list[Tuple], train_ratio=0.8, test_ratio=0.1) -> dict[str,
 
 def _write_data(filename, data):
     with open(filename, "w", encoding="utf-8") as file:
-        file.write(f"{DELIMITER_TSV.join(COLUMNS)}\n")
+        file.write(f"{DELIMITER_TSV.join(COLUMNS)}")
         for item in data:
             words, labels = item
             assert len(words) == len(labels), "Length of tokens and labels have to be the same."
 
+            file.write("\n")
             for word, label in zip(words, labels):
                 if word == '"':
                     word = '\\"'  # escape double quotes
                 file.write(f"{word}{DELIMITER_TSV}{label}\n")
-            file.write("\n")
 
 
 def shuffle_and_split(conll_file, overwrite=False):
