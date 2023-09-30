@@ -1,6 +1,7 @@
 from typing import Any
 
 import evaluate
+import torch
 from seqeval.metrics import accuracy_score
 from seqeval.metrics import f1_score
 from seqeval.metrics import precision_score
@@ -11,6 +12,7 @@ from transformers import AutoTokenizer
 from transformers import DataCollatorForTokenClassification
 from transformers import Trainer
 from transformers import TrainingArguments
+from transformers import get_linear_schedule_with_warmup
 
 from ner_data.computerscreens2023.prepare_data import get_dataset
 
@@ -100,12 +102,25 @@ def run_training(epochs: int = 30, name: str = "ner_model"):
         save_strategy="epoch",
         learning_rate=2e-5,
         num_train_epochs=epochs,
-        weight_decay=0.01,
-        save_total_limit=2,  # Set to 2 to save the last and the best model
-        load_best_model_at_end=True,  # Load the best model at the end of training
+        save_total_limit=2,
+        load_best_model_at_end=True,
     )
 
     data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
+
+    # Create AdamW Optimizer
+    optimizer = torch.optim.AdamW(
+        model.parameters(),
+        lr=2e-5,
+        weight_decay=0.01,
+    )
+
+    # Create a learning rate scheduler
+    scheduler = get_linear_schedule_with_warmup(
+        optimizer,
+        num_warmup_steps=0,
+        num_training_steps=len(train_dataset) * epochs,
+    )
 
     trainer = Trainer(
         model,
@@ -115,6 +130,7 @@ def run_training(epochs: int = 30, name: str = "ner_model"):
         data_collator=data_collator,
         tokenizer=tokenizer,
         compute_metrics=compute_metrics,
+        optimizers=(optimizer, scheduler),
     )
     trainer.train()
 
