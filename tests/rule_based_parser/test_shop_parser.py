@@ -2,9 +2,9 @@ from pathlib import Path
 
 import pytest
 
-from rule_based_parser.shop_parser import parse_shop
+from merchant_html_parser.shop_parser import parse_shop
 
-TEST_DATA_DIR = Path("tests") / "rule_based_parser" / "test_data"
+TEST_DATA_DIR = Path("tests") / "merchant_html_parser" / "test_data"
 
 
 @pytest.mark.parametrize(

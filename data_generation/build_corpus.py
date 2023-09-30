@@ -5,7 +5,7 @@ from loguru import logger
 
 from data_generation.browser import ROOT_DIR
 from data_generation.create_data import ExtendedOffer
-from rule_based_parser import shop_parser
+from merchant_html_parser import shop_parser
 
 
 def build_corpus():
