@@ -27,7 +27,7 @@ MAPPING_CONFIG = {
 }
 
 
-def parse_shop(raw_html: str, shop_name: str) -> dict:
+def extract_tabular_data(raw_html: str, shop_name: str) -> dict:
     """Parse a shop page and store the result as JSON.
 
     Shop names from Geizhals are mapped to the corresponding parser configuration file.

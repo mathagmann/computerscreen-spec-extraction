@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pytest
 
-from merchant_html_parser.shop_parser import parse_shop
+from merchant_html_parser.shop_parser import extract_tabular_data
 
 TEST_DATA_DIR = Path("tests") / "merchant_html_parser" / "test_data"
 
@@ -31,6 +31,6 @@ TEST_DATA_DIR = Path("tests") / "merchant_html_parser" / "test_data"
 def test_shop_parser(shop_name, test_html):
     html_dir = TEST_DATA_DIR / test_html
     raw_html = html_dir.read_text()
-    data = parse_shop(raw_html, shop_name)
+    data = extract_tabular_data(raw_html, shop_name)
 
     assert data

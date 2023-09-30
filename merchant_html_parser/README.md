@@ -14,7 +14,7 @@ The configuration files are located in the `config` folder.
 The shop parser can be used as follows:
 
 ```python
-specification_dict = shop_parser.parse_shop(shop_html, shop_name)
+specification_dict = shop_parser.extract_tabular_data(shop_html, shop_name)
 ```
 
 It returns a dictionary containing the extracted sem-structured specifications as key-value pairs.

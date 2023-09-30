@@ -33,7 +33,7 @@ def build_corpus():
 
                 product_offer = ROOT_DIR / "data" / offer.html_file
                 shop_html = product_offer.read_text()
-                specification_dict = shop_parser.parse_shop(shop_html, offer.shop_name)
+                specification_dict = shop_parser.extract_tabular_data(shop_html, offer.shop_name)
                 if not specification_dict:
                     logger.error(f"Empty specification for {offer.shop_name}")
                     continue
