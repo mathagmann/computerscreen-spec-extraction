@@ -79,14 +79,14 @@ def _write_data(filename, data):
             file.write("\n")
 
 
-def shuffle_and_split(conll_file):
+def shuffle_and_split(conll_file, overwrite=False):
     file_content = _read_data(conll_file)
     datasets = _split_data(file_content, train_ratio=0.8, test_ratio=0.1)
 
-    for file in datasets.keys():
-        # check if files exist
-        if Path(f"{file}.tsv").exists():
-            raise FileExistsError(f"File {file} already exists. Please remove all .tsv files and try again.")
+    if not overwrite:
+        for file in datasets.keys():
+            if Path(f"{file}.tsv").exists():
+                raise FileExistsError(f"File {file} already exists. Please remove all .tsv files and try again.")
 
     for key, data in datasets.items():
         print(f"{key}: {len(data)}")
@@ -94,5 +94,5 @@ def shuffle_and_split(conll_file):
 
 
 if __name__ == "__main__":
-    shuffle_and_split("computerscreens2023_labeled.conll")
+    shuffle_and_split("computerscreens2023_labeled.conll", overwrite=True)
     print("Data split and saved three .tsv files in the current directory.")
