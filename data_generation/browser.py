@@ -30,6 +30,7 @@ def _load_cookies() -> list:
 def _save_cookies(cookies: list = None):
     """Saves cookies to JSON file."""
     if cookies:
+        COOKIE_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(COOKIE_FILE, "w") as f:
             f.write(json.dumps())
 
