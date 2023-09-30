@@ -11,6 +11,28 @@ from playwright_stealth import stealth_sync
 
 ROOT_DIR = Path(__file__).parent.parent
 
+COOKIE_FILE = ROOT_DIR / "tmp" / "cookies.json"
+
+
+def _load_cookies() -> list:
+    """Loads cookies from JSON file."""
+    try:
+        with open(COOKIE_FILE, "r") as f:
+            cookies = json.loads(f.read())
+            return cookies
+    except FileNotFoundError:
+        logger.debug(f"Cookie file '{COOKIE_FILE}' not found")
+    except JSONDecodeError:
+        logger.debug("Cookies empty")
+    return []
+
+
+def _save_cookies(cookies: list = None):
+    """Saves cookies to JSON file."""
+    if cookies:
+        with open(COOKIE_FILE, "w") as f:
+            f.write(json.dumps())
+
 
 class Browser:
     def __init__(self, headless=True, undetectable=True):
@@ -19,7 +41,6 @@ class Browser:
         self.playwright = None
         self._browser = None
         self.page = None
-        self.cookie_path = ROOT_DIR / "tmp" / "cookies.json"
         self.last_request = None
 
     def __enter__(self):
@@ -27,15 +48,7 @@ class Browser:
         self._browser = self.playwright.chromium.launch(headless=self.headless)
         self.context = self._browser.new_context(viewport={"width": 1920, "height": 1080})
         self.context.set_default_timeout(10000)
-        # Load cookies
-        try:
-            with open(self.cookie_path, "r") as f:
-                cookies = json.loads(f.read())
-                self.context.add_cookies(cookies)
-        except FileNotFoundError:
-            logger.debug("Cookies not found")
-        except JSONDecodeError:
-            logger.debug("Cookies empty")
+        self.context.add_cookies(_load_cookies())
         self.page = self.context.new_page()
         if self.undetectable:
             stealth_sync(self.page)
@@ -55,9 +68,7 @@ class Browser:
         return self.page.content()
 
     def __exit__(self, exc_type, exc_val, exc_tb):
-        # Save cookies
-        with open(self.cookie_path, "w") as f:
-            f.write(json.dumps(self.context.cookies()))
+        _save_cookies(self.context.cookies())
         self.playwright.stop()
 
 
