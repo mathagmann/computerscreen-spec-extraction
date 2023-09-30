@@ -26,16 +26,30 @@ MAPPING_CONFIG = {
     "geizhals": "geizhals.yaml",
 }
 
-# load file contents into cache
-PARSER_MAPPING = {}
-for shop, filename in MAPPING_CONFIG.items():
-    parser_file = SCRAPER_CONFIG_DIR / filename
-    # PARSER_MAPPING[shop] = parser_file.read_text()
-    PARSER_MAPPING[shop] = parser_file
-
 
 def parse_shop(raw_html: str, shop_name: str) -> dict:
     """Parse a shop page and store the result as JSON.
+
+    Shop names from Geizhals are mapped to the corresponding parser configuration file.
+
+    Raises
+    ------
+        ValueError: If a shop has no configured parser.
+
+    Returns
+    -------
+    dict
+        The extracted tabular specifications as key-value pairs.
+    """
+    parser_file = _get_parser_config(shop_name)
+    scraper = Scraper(parser_file)
+    specifications = scraper(raw_html)
+
+    return {item["title"].rstrip(":"): item["description"] for item in specifications}
+
+
+def _get_parser_config(shop_name: str) -> str:
+    """Get the parser configuration file for a shop.
 
     Shop names from Geizhals are mapped to the corresponding parser configuration file.
 
@@ -43,13 +57,8 @@ def parse_shop(raw_html: str, shop_name: str) -> dict:
         ValueError: If a shop has no configured parser.
     """
     try:
-        shop_parser_conf = PARSER_MAPPING[shop_name]
+        parser_config = MAPPING_CONFIG[shop_name]
+        shop_parser_conf = SCRAPER_CONFIG_DIR / parser_config
     except Exception:
         raise ValueError(f"Unknown shop name: {shop_name}")
-
-    parser_file = SCRAPER_CONFIG_DIR / shop_parser_conf
-
-    scraper = Scraper(str(parser_file))
-    specifications = scraper(raw_html)
-
-    return {item["title"].rstrip(":"): item["description"] for item in specifications}
+    return str(shop_parser_conf)
