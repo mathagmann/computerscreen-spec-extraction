@@ -10,6 +10,11 @@ from geizhals.geizhals_model import Product
 from geizhals.geizhals_model import ProductPage
 from specification_extraction import ROOT_DIR
 
+DATA_DIR = ROOT_DIR / "data"
+PRODUCT_LISTING = DATA_DIR / "product_listing.json"
+
+CATEGORY_URL = "https://geizhals.at/?cat=monlcd19wide&asuch=&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&sort=n"
+
 
 @marshmallow_dataclass.dataclass
 class ExtendedOffer(Offer):
@@ -28,12 +33,12 @@ def retrieve_all_products(browser, max_products=None) -> list[Product]:
     force_stop = False
     products = []
     page_counter = 0
-    next_page = "https://geizhals.at/?cat=monlcd19wide&asuch=&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&sort=p&bl1_id=30&togglecountry=set"
+    next_page = CATEGORY_URL
     while next_page:
         page_counter += 1
         category_page = geizhals_api.get_category_page(next_page, browser)
-        for product in category_page.products:
-            logger.debug(f"{product.name} {product.link}")
+        for idx, product in enumerate(category_page.products):
+            logger.debug(f"{idx} {product.name} {product.link}")
             products.append(product)
 
             if max_products and len(products) >= max_products:
@@ -44,12 +49,14 @@ def retrieve_all_products(browser, max_products=None) -> list[Product]:
         next_page = category_page.next_page
         if not next_page:
             break
+    _dump_product_listing(products)
+    return products
 
-    with open(ROOT_DIR / "data" / "product_listing.json", "w") as f:
+
+def _dump_product_listing(products: list[Product]):
+    with open(PRODUCT_LISTING, "w") as f:
         products_dict = [marshmallow_dataclass.class_schema(Product)().dump(p) for p in products]
         json.dump(products_dict, f, indent=4)
-
-    return products
 
 
 def retrieve_product_details(browser, products: list[Product]):
@@ -63,7 +70,7 @@ def retrieve_product_details(browser, products: list[Product]):
         product_page = geizhals_api.get_product_page(product.link, browser)
 
         reference_file = f"offer_reference_{product_idx}.json"
-        with open(ROOT_DIR / "data" / reference_file, "w") as f:
+        with open(DATA_DIR / reference_file, "w") as f:
             product_page_schema = marshmallow_dataclass.class_schema(ProductPage)()
             product_dict = product_page_schema.dump(product_page)
             json.dump(product_dict, f, indent=4)
@@ -84,11 +91,11 @@ def download_merchant_offers(browser, merchant_offers: list[Offer], reference_fi
         try:
             html = browser.goto(merchant_offer.offer_link, no_wait=True)
             html_name = f"offer_{product_idx}_{idx}.html"
-            html_file = ROOT_DIR / "data" / html_name
+            html_file = DATA_DIR / html_name
             with open(html_file, "w") as f:
                 f.write(html)
 
-            with open(ROOT_DIR / "data" / f"offer_{product_idx}_{idx}.json", "w") as f:
+            with open(DATA_DIR / f"offer_{product_idx}_{idx}.json", "w") as f:
                 offer_schema = marshmallow_dataclass.class_schema(ExtendedOffer)()
                 offer_dict = offer_schema.dump(merchant_offer)
                 offer_dict.update({"html_file": html_name, "reference_file": reference_file})
