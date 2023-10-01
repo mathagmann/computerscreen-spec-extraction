@@ -2,8 +2,10 @@ import re
 from typing import Protocol
 from urllib.parse import urljoin
 
+import playwright.sync_api
 import requests
 from bs4 import BeautifulSoup
+from loguru import logger
 
 from .geizhals_model import CategoryPage
 from .geizhals_model import ProductPage
@@ -22,7 +24,7 @@ class SupportsGoto(Protocol):
 
 def get_category_page(category_url: str, browser: SupportsGoto) -> CategoryPage:
     """Returns all products listed on a Geizhals category page."""
-    html = browser.goto(category_url)
+    html = browser.goto(category_url, post_load_hooks=[_dismiss_cookie_banner, _select_products_per_page])
     data = parse_category_page(html, category_url)
     return CategoryPage.Schema().load(data)
 
@@ -86,6 +88,39 @@ def parse_product_page(html, product_url) -> dict:
         offers.append(res)
 
     return {"url": product_url, "product_name": product_name, "product_details": product_details, "offers": offers}
+
+
+def _dismiss_cookie_banner(page: playwright.sync_api.Page):
+    """Dismisses the cookie banner on a Geizhals page.
+
+    Automatically clicks on the "Accept" button.
+    """
+    accept_button = page.query_selector("button#onetrust-accept-btn-handler")
+    if accept_button:
+        logger.debug("Dismiss cookie banner")
+        accept_button.click()
+        page.wait_for_timeout(1000)
+
+
+def _select_products_per_page(page: playwright.sync_api.Page):
+    """Selects max. products per page on a Geizhals category page.
+
+    Automatically selects the highest option in the select field with ID "bl1_id".
+    """
+    select_field = page.query_selector("#bl1_id")
+    options = select_field.query_selector_all("option")
+
+    # Dynamically find the highest option value
+    highest_option = options[-1]
+    highest_option_value = highest_option.get_attribute("value")
+
+    # Check if the last option is not already selected
+    current_value = select_field.get_attribute("data-limit")
+    if current_value != highest_option_value:
+        logger.debug("Select {highest_option_value} products per page")
+        select_field.select_option(highest_option_value)
+        # Wait for the selection to change to the selected value
+        page.wait_for_function(f'() => document.querySelector("#bl1_id").value === "{highest_option_value}"')
 
 
 def _convert_to_url(encoded_url: str) -> str:
