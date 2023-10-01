@@ -55,7 +55,7 @@ class Browser:
             stealth_sync(self.page)
         return self
 
-    def goto(self, url: str, no_wait=False) -> Page:
+    def goto(self, url: str, post_load_hooks=None, no_wait=False) -> Page:
         if not no_wait:
             long_sleep(self.last_request)
             self.last_request = time.time()
@@ -66,6 +66,12 @@ class Browser:
                 logger.info("30s to solve captcha etc.")
                 time.sleep(30)
         assert response.ok, f"{response.status} Failed to load: {url}"
+        if post_load_hooks:
+            for hook in post_load_hooks:
+                try:
+                    hook(self.page)
+                except Exception:
+                    logger.exception(f"Hook '{hook}' failed for {url}")
         return self.page.content()
 
     def __exit__(self, exc_type, exc_val, exc_tb):

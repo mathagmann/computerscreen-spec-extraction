@@ -10,8 +10,13 @@ from .geizhals_model import ProductPage
 
 
 class SupportsGoto(Protocol):
-    def goto(self, url: str) -> str:
-        """Visits given url and returns the html content."""
+    def goto(self, url: str, post_load_hooks=None) -> str:
+        """Visits given url and returns the html content.
+
+        Via the hook parameter, a function can be passed that is called
+        after the page is loaded. This can be used to wait for certain
+        elements to be loaded or to click on elements.
+        """
         ...
 
 
