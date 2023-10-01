@@ -32,7 +32,7 @@ def _save_cookies(cookies: list = None):
     if cookies:
         COOKIE_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(COOKIE_FILE, "w") as f:
-            f.write(json.dumps())
+            f.write(json.dumps(cookies))
 
 
 class Browser:
