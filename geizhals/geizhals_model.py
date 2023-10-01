@@ -13,7 +13,7 @@ class Product:
 class CategoryPage:
     url: str
     products: list[Product]
-    next_page: str
+    next_page: Optional[str]
 
 
 @dataclass

@@ -56,8 +56,11 @@ def parse_category_page(html: str, url: str) -> dict:
         link = product.find("a", attrs={"class": "productlist__link"}).get("href")
         link = urljoin(base_domain, link)
         products.append({"name": name, "link": link})
-    next_page = body.find("a", attrs={"class": "gh_pag_i_last"}).get("href")
-    next_page = urljoin(base_domain, next_page)
+    try:
+        next_page = body.find("a", attrs={"class": "gh_pag_i_last"}).get("href")
+        next_page = urljoin(base_domain, next_page)
+    except AttributeError:
+        next_page = None
 
     return {"url": url, "products": products, "next_page": next_page}
 
