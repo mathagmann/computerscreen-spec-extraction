@@ -68,10 +68,7 @@ class Browser:
         assert response.ok, f"{response.status} Failed to load: {url}"
         if post_load_hooks:
             for hook in post_load_hooks:
-                try:
-                    hook(self.page)
-                except Exception:
-                    logger.exception(f"Hook '{hook}' failed for {url}")
+                hook(self.page)
         return self.page.content()
 
     def __exit__(self, exc_type, exc_val, exc_tb):
