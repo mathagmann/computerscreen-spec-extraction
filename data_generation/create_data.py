@@ -1,5 +1,6 @@
 import json
 import time
+from pathlib import Path
 
 import marshmallow_dataclass
 from loguru import logger
@@ -49,14 +50,7 @@ def retrieve_all_products(browser, max_products=None) -> list[Product]:
         next_page = category_page.next_page
         if not next_page:
             break
-    _dump_product_listing(products)
     return products
-
-
-def _dump_product_listing(products: list[Product]):
-    with open(PRODUCT_LISTING, "w") as f:
-        products_dict = [marshmallow_dataclass.class_schema(Product)().dump(p) for p in products]
-        json.dump(products_dict, f, indent=4)
 
 
 def retrieve_product_details(browser, products: list[Product]):
@@ -102,3 +96,18 @@ def download_merchant_offers(browser, merchant_offers: list[Offer], reference_fi
                 json.dump(offer_dict, f, indent=4)
         except Exception:
             logger.error(f"Failed to download offer {merchant_offer.offer_link}")
+
+
+def dump_product_listing(products: list[Product], filename: Path = PRODUCT_LISTING):
+    """Stores the product listing as JSON in the given file."""
+    with open(filename, "w") as f:
+        products_dict = [marshmallow_dataclass.class_schema(Product)().dump(p) for p in products]
+        json.dump(products_dict, f, indent=4)
+
+
+def get_product_listing(filename: Path = PRODUCT_LISTING):
+    """Loads the product listing from the given file."""
+    with open(filename, "r") as f:
+        products_dict = json.load(f)
+    products = [marshmallow_dataclass.class_schema(Product)().load(p) for p in products_dict]
+    return products
