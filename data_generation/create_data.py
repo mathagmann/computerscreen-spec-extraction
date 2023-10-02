@@ -56,14 +56,20 @@ def retrieve_all_products(browser, max_products=None) -> list[Product]:
 def retrieve_product_details(browser, products: list[Product]):
     """Collects all product details from the given products.
 
-    Stores the reference product details from Geizhals in a json file.
+    Stores the reference product details from Geizhals in a JSON file
+    for each product called offer_reference_{product_idx}.json.
     """
     for product_idx, product in enumerate(products, start=1):
         logger.debug(f"{product_idx} {product.name}")
         start = time.time()
-        product_page = geizhals_api.get_product_page(product.link, browser)
 
         reference_file = f"offer_reference_{product_idx}.json"
+        # Skip already retrieved Geizhals products
+        if (DATA_DIR / reference_file).exists():
+            logger.debug(f"Skip {product.name}: Geizhals reference data for already exists")
+            continue
+
+        product_page = geizhals_api.get_product_page(product.link, browser)
         with open(DATA_DIR / reference_file, "w") as f:
             product_page_schema = marshmallow_dataclass.class_schema(ProductPage)()
             product_dict = product_page_schema.dump(product_page)
@@ -110,4 +116,5 @@ def get_product_listing(filename: Path = PRODUCT_LISTING):
     with open(filename, "r") as f:
         products_dict = json.load(f)
     products = [marshmallow_dataclass.class_schema(Product)().load(p) for p in products_dict]
+    logger.debug(f"Loaded products from {filename}")
     return products
