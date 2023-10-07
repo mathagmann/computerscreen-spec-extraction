@@ -1,0 +1,7 @@
+iterator: div#Container_Features div[class$="tableRow"]
+fields:
+  title:
+    sel: div:nth-child(1) > div > div
+  description:
+    sel: div[class*="data"]
+filter: description

@@ -1,4 +1,4 @@
-iterator: main#pageContent section > div  table > tbody > tr
+iterator: table.es_productdetail-article_detail > tbody > tr
 fields:
   title:
     sel: td:nth-child(1)

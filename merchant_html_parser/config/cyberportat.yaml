@@ -1,0 +1,16 @@
+iterator: table.tblProductDataSheet tr td:nth-child(2) div.article p
+fields:
+  title:
+    eval: |
+      value = element.get_text()
+      title = value.split(": ", maxsplit=1)
+      return title[0]
+  description:
+    eval: |
+      value = element.get_text()
+      desc = value.split(": ", maxsplit=1)
+      if len(desc) > 1:
+        return desc[1]
+      else:
+        return None
+filter: description

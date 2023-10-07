@@ -1,0 +1,7 @@
+iterator: div.product--description :is(efeature, mfeature)
+fields:
+  title:
+    sel: key
+  description:
+    sel: value
+filter: description

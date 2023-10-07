@@ -1,4 +1,4 @@
-iterator: div:is(#general,#specs) section > div > div
+iterator: div#HTML_SPEC > div
 fields:
   title:
     sel: div:nth-child(1)

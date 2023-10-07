@@ -1,0 +1,7 @@
+iterator: table.prodDetTable tr
+fields:
+  title:
+    sel: th
+  description:
+    sel: td
+filter: description

@@ -8,21 +8,40 @@ FIELDNAMES = ["title", "id", "shop", "path"]
 
 MAPPING_CONFIG = {
     "mylemon.at": "mylemon.yaml",
+    "Jacob Elektronik direkt (AT)": "jacobelektronik.yaml",
     "ElectronicShop24": "electronicshop24.yaml",
-    "Jacob Elektronik direkt": "jacobelektronik.yaml",
     "Proshop.at": "proshop_at.yaml",
+    "TaufNaus": "bacomputer.yaml",  # duplicate
     "haym.infotec": "haym_infotec.yaml",
+    "CSV-Direct.de": "csvdirect.yaml",
     "computeruniverse.at": "computeruniverse_at.yaml",
     "galaxus.at": "galaxus_at.yaml",
     "Universal Versand": "unito.yaml",
     "OTTO Österreich": "unito.yaml",
     "Future-X.at": "future_x.yaml",
-    "BA-Computer": "future_x.yaml",
+    "playox (AT)": "playox.yaml",
+    "office-partner (AT)": "playox.yaml",  # duplicate
     "e-tec.at": "e_tec.yaml",
-    "DiTech.at": "e_tec.yaml",
-    "barax": "barax.yaml",
+    "DiTech.at": "e_tec.yaml",  # duplicate
     "1ashop.at": "1ashop.yaml",
-    "ComStern.at": "comstern.yaml",
+    "BA-Computer": "bacomputer.yaml",
+    "TechnikLaden": "bacomputer.yaml",  # duplicate
+    "Amazon.at": "amazon.yaml",
+    # "Waldbauer": "waldbauer.yaml", # no specs in html
+    "Syswork": "syswork.yaml",
+    "ARLT Computer": "arltcomputer.yaml",
+    "I-CS": "ics.yaml",
+    "Alternate.at": "alternateat.yaml",
+    "Cyberport.at": "cyberportat.yaml",
+    "Cyberport Stores Österreich": "cyberportat.yaml",
+    # "CLS-IT": 720), # no useful data
+    "ms-it-beratung": "msitberatung.yaml",
+    "cw-mobile.de": "cwmobile.yaml",
+    "bauguru": "bauguru.yaml",
+    "HEINZSOFT (AT)": "heinzsoftat.yaml",
+    "HiQ24": "hiq24.yaml",
+    # "barax": "barax.yaml",
+    # "ComStern.at": "comstern.yaml",
     "geizhals": "geizhals.yaml",
 }
 

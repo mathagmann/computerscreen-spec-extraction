@@ -1,7 +1,7 @@
-iterator: div#product-tags > div
+iterator: ul#product-properties li
 fields:
   title:
-    sel: span.tag-title
+    sel: span.property-title
   description:
-    sel: span.tag-value
+    sel: span.property-value
 filter: description
