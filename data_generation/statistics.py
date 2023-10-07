@@ -17,10 +17,10 @@ def get_offer_metadata(filename: Path) -> ExtendedOffer:
 def load_products(data_directory: Path):
     products = []
     for metadata_file in data_directory.glob("*.json"):
-        if "reference" not in metadata_file.name:
-            # print(metadata_file.name)
-            metadata = get_offer_metadata(metadata_file)
-            products.append(metadata)
+        if not metadata_file.name.startswith("offer") or "reference" in metadata_file.name:
+            continue
+        metadata = get_offer_metadata(metadata_file)
+        products.append(metadata)
     return products
 
 
