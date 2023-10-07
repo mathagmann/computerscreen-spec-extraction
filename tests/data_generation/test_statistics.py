@@ -34,4 +34,4 @@ def test_statistics():
     assert result["median_price"] == 200
     assert result["total_products"] == 3
     assert result["total_shops"] == 2
-    assert result["count_per_shop"] == [("shop2", 2), ("shop1", 1)]
+    assert result["product_count_per_shop"] == [("shop2", 2), ("shop1", 1)]

@@ -24,20 +24,30 @@ def load_products(data_directory: Path):
     return products
 
 
-def calc_statistics(products: list):
-    # count number of offers per shop, use Counter
+def calc_statistics(products: list, most_common: int = 30):
     shop_offers = Counter(p.shop_name for p in products)
     median_price = sum(p.price for p in products) / len(products)
+
+    top_shops = shop_offers.most_common(most_common)
+    total_products_common_shops = sum(count for _, count in top_shops)
+    percentage_top_shops = total_products_common_shops / len(products) * 100
+
     return dict(
-        count_per_shop=shop_offers.most_common(10),
+        product_count_per_shop=shop_offers.most_common(most_common),
         total_shops=len(shop_offers),
         total_products=len(products),
-        median_price=median_price,
+        n_most_common_shops=most_common,
+        total_products_n_most_common_shops=total_products_common_shops,
+        percentage_products_most_common_shops=round(percentage_top_shops, 2),
+        median_price=round(median_price, 2),
     )
 
 
 if __name__ == "__main__":
-    path = Path("../data_10/")
+    print("Calculating statistics...")
+    path = Path("../data/")
     products = load_products(path)
     result = calc_statistics(products)
-    print(json.dumps(result, indent=4))
+    with open(path / "statistics.json", "w") as f:
+        json.dump(result, f, indent=4)
+    print(f"Written statistics to {path / 'statistics.json'}")
