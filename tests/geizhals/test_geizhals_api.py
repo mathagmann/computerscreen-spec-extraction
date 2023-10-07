@@ -7,7 +7,7 @@ from geizhals import geizhals_api
 
 
 class MockBrowser:
-    def goto(self, url: str) -> str:
+    def goto(self, url: str, post_load_hooks=None, **kwargs) -> str:
         if "?cat=" in url:
             dummy_file = Path("tests") / "geizhals" / "test_data" / "category_page.html"
         else:
