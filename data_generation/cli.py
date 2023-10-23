@@ -4,6 +4,7 @@ import click
 import create_data
 from loguru import logger
 
+import data_generation.utilities
 from data_generation.browser import Browser
 
 
@@ -19,7 +20,7 @@ def main(max_products: int, product_listing: Path):
     with Browser(headless=False) as browser:
         if product_listing:
             # Download products based on an existing product listing
-            products = create_data.get_product_listing(product_listing)
+            products = data_generation.utilities.get_product_listing(product_listing)
         else:
             products = create_data.retrieve_all_products(browser, max_products)
         logger.info(f"Found {len(products)} products")

@@ -2,26 +2,7 @@ import json
 from collections import Counter
 from pathlib import Path
 
-from marshmallow_dataclass import class_schema
-
-from data_generation.create_data import ExtendedOffer
-
-
-def get_offer_metadata(filename: Path) -> ExtendedOffer:
-    """Loads the offer JSON file and returns the offer metadata."""
-    with open(filename, "r") as f:
-        products_dict = json.load(f)
-    return class_schema(ExtendedOffer)().load(products_dict)
-
-
-def load_products(data_directory: Path):
-    products = []
-    for metadata_file in data_directory.glob("*.json"):
-        if not metadata_file.name.startswith("offer") or "reference" in metadata_file.name:
-            continue
-        metadata = get_offer_metadata(metadata_file)
-        products.append(metadata)
-    return products
+from data_generation.utilities import load_products
 
 
 def calc_statistics(products: list, most_common: int = 30):

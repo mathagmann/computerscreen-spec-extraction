@@ -109,12 +109,3 @@ def dump_product_listing(products: list[Product], filename: Path = PRODUCT_LISTI
     with open(filename, "w") as f:
         products_dict = [marshmallow_dataclass.class_schema(Product)().dump(p) for p in products]
         json.dump(products_dict, f, indent=4)
-
-
-def get_product_listing(filename: Path = PRODUCT_LISTING):
-    """Loads the product listing from the given file."""
-    with open(filename, "r") as f:
-        products_dict = json.load(f)
-    products = [marshmallow_dataclass.class_schema(Product)().load(p) for p in products_dict]
-    logger.debug(f"Loaded products from {filename}")
-    return products
