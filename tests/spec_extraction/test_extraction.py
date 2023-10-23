@@ -1,25 +1,8 @@
-from unittest import mock
-
 import pytest
 
-from processing.extraction import DataExtractor
-
-
-@pytest.fixture
-def mock_synonyms():
-    def apply_synonyms(text: str) -> str:
-        synonyms = {
-            "zero frame": "Slim Bezel",
-            "schmaler Rahmen": "Slim Bezel",
-            "entspiegelt": "matt",
-        }
-        for key, value in synonyms.items():
-            if key.lower() == text.lower():
-                return value
-        return text
-
-    with mock.patch("processing.monitorparser.DataExtractor.apply_synonyms", apply_synonyms):
-        yield
+from spec_extraction.extraction import apply_synonyms
+from spec_extraction.extraction_config import create_listing
+from spec_extraction.extraction_config import create_pattern_structure
 
 
 def test_data_extraction_pattern():
@@ -33,7 +16,7 @@ def test_data_extraction_pattern():
         ["1_value", "z_unit"],
     ]
 
-    res = DataExtractor.create_pattern_structure(*list_input)
+    res = create_pattern_structure(*list_input)
 
     assert expected == res
 
@@ -43,7 +26,7 @@ def test_data_extraction_create_listing(mock_synonyms):
     expected = ["Slim Bezel"]
     text = "schmaler Rahmen"
 
-    res = DataExtractor.create_listing(text)
+    res = create_listing(text)
 
     assert expected == res
 
@@ -52,7 +35,7 @@ def test_data_extraction_apply_synonyms_to_list(mock_synonyms):
     expected = "Slim Bezel"
     text = "ErgoStand, Acer Adaptive Contrast Management (ACM), Zero Frame, an 3 Seiten ohne Blende"
 
-    res = DataExtractor.create_listing(text)
+    res = create_listing(text)
 
     assert res.__contains__(expected)
 
@@ -81,7 +64,7 @@ def test_data_extraction_apply_synonyms_to_list(mock_synonyms):
     ],
 )
 def test_regex(test_input, pattern, expected, match_to, mock_synonyms):
-    res = DataExtractor.create_pattern_structure(test_input, pattern, match_to)
+    res = create_pattern_structure(test_input, pattern, match_to)
 
     assert res == expected
 
@@ -89,6 +72,6 @@ def test_regex(test_input, pattern, expected, match_to, mock_synonyms):
 def test_synonyms(mock_synonyms):
     test_input = "entspiegelt"
 
-    res = DataExtractor.apply_synonyms(test_input)
+    res = apply_synonyms(test_input)
 
     assert res == "matt"

@@ -9,8 +9,8 @@ from geizhals import geizhals_api
 from geizhals.geizhals_model import Offer
 from geizhals.geizhals_model import Product
 from geizhals.geizhals_model import ProductPage
-from specification_extraction import ROOT_DIR
 
+ROOT_DIR = Path(__file__).parent.parent
 DATA_DIR = ROOT_DIR / "data"
 PRODUCT_LISTING = DATA_DIR / "product_listing.json"
 

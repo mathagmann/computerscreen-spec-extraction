@@ -5,8 +5,8 @@ from functools import lru_cache
 from pathlib import Path
 from typing import List
 
-from processing.shop_product import RawShopProduct
-from processing.shop_product import ShopParserNotImplementedError
+from spec_extraction import exceptions
+from spec_extraction.shop_product import RawShopProduct
 
 
 def monitor_repeater(listing_file: str = "detailed_listing.csv"):
@@ -45,7 +45,7 @@ class RawMonitor:
             )
             try:
                 shop.get_raw_specifications()
-            except ShopParserNotImplementedError:
+            except exceptions.ShopParserNotImplementedError:
                 continue
             self.shops.append(shop)
 

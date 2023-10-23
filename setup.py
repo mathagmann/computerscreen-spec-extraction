@@ -7,7 +7,7 @@ from setuptools import setup
 
 def read(*paths, **kwargs):
     """Read the contents of a text file safely.
-    >>> read("specification_extraction", "VERSION")
+    >>> read("spec_extraction", "VERSION")
     '0.1.0'
     >>> read("README.md")
     ...
@@ -38,7 +38,7 @@ setup(
     install_requires=read_requirements("requirements.txt"),
     entry_points={
         "console_scripts": [
-            "specification_extraction = specification_extraction.__main__:main",
+            "specification_extraction = spec_extraction.cli:main",
             "data_retrieval = data_generation.__main__:main",
         ]
     },

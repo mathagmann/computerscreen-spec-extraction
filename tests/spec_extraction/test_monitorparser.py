@@ -1,27 +1,8 @@
 from unittest import mock
 
-import pytest
-
-from processing.monitorparser import MonitorSpecifications
-from processing.monitorparser import monitor_parser
-from processing.process import CATALOG_EXAMPLE
-
-
-@pytest.fixture
-def mock_synonyms():
-    def apply_synonyms(text: str) -> str:
-        synonyms = {
-            "zero frame": "Slim Bezel",
-            "schmaler Rahmen": "Slim Bezel",
-            "entspiegelt": "matt",
-        }
-        for key, value in synonyms.items():
-            if key.lower() == text.lower():
-                return value
-        return text
-
-    with mock.patch("processing.monitorparser.DataExtractor.apply_synonyms", apply_synonyms):
-        yield
+from spec_extraction.catalog_model import MonitorSpecifications
+from spec_extraction.extraction_config import monitor_parser
+from spec_extraction.process import CATALOG_EXAMPLE
 
 
 def test_colorspace_extraction(mock_synonyms):
@@ -41,7 +22,7 @@ def test_colorspace_extraction(mock_synonyms):
 def test_parse_properly(mock_synonyms):
     input_dict = CATALOG_EXAMPLE
 
-    with mock.patch("processing.monitorparser.DataExtractor.load_synonyms", return_value={}):
+    with mock.patch("spec_extraction.extraction_config.load_synonyms", return_value={}):
         result = monitor_parser.parse(input_dict)
 
     for feature in input_dict.keys():

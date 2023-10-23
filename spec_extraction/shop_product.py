@@ -5,12 +5,10 @@ from pathlib import Path
 import yaml
 from minet import Scraper
 
+from spec_extraction import exceptions
+
 SHOP_PARSER_DIR = Path(__file__).parent / "extraction" / "shop_parser"
 MAPPING_CONFIG = Path(__file__).parent / "extraction" / "shop_mappings.yaml"
-
-
-class ShopParserNotImplementedError(Exception):
-    pass
 
 
 @lru_cache(maxsize=32)
@@ -64,7 +62,7 @@ class RawShopProduct:
         """Parse a shop page and store the result as JSON."""
         shop_mappings = load_conf_cached(MAPPING_CONFIG)["mappings"]
         if gh_shop_name not in shop_mappings:
-            raise ShopParserNotImplementedError(f"Unknown shop name: {gh_shop_name}")
+            raise exceptions.ShopParserNotImplementedError(f"Unknown shop name: {gh_shop_name}")
 
         shop_parser = shop_mappings[gh_shop_name]
         parser_conf = load_conf_cached(SHOP_PARSER_DIR / f"{shop_parser}.yml")

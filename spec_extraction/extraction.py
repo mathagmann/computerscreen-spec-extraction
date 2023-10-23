@@ -1,24 +1,15 @@
 import copy
 import json
-import re
 from functools import lru_cache
+from pathlib import Path
 from typing import List
 
 from loguru import logger
 
-from processing.bag_of_words import BagOfWords
+from spec_extraction import exceptions
+from spec_extraction.bag_of_words import BagOfWords
 
-
-class TextExtractionError(ValueError):
-    pass
-
-
-class ParserError(Exception):
-    pass
-
-
-class NicePlotError(Exception):
-    pass
+CONFIG_DIR = Path(__file__).parent / "configs"
 
 
 def clean_text(text):
@@ -27,76 +18,29 @@ def clean_text(text):
     return text.replace("\u200b", "").strip()  # remove zero-width space
 
 
-class DataExtractor:
-    """Provides data extraction functions for the Parser."""
+def apply_synonyms(text: str) -> str:
+    """Replaces synonyms in a text."""
+    synonyms = load_synonyms()
+    for key, value in synonyms.items():
+        if key.lower() == text.lower():
+            logger.debug(f"Synonym found '{text}' replaced with '{value}'")
+            return value
+    return text
 
-    @staticmethod
-    def create_pattern_structure(text: str, pattern, map_to: List[str] = None) -> str:
-        """Returns the mapped of a regex pattern."""
 
-        def findall(pattern_: str, text_: str, mapping) -> List:
-            """Returns all matches of a regex pattern in a list."""
-            regex_matches = []
-            while True:
-                match_res = re.search(pattern_, text_)
-                if not match_res:
-                    break
-
-                result = {}
-                for key in mapping:
-                    result[key] = match_res.group(mapping.index(key) + 1)
-                regex_matches.append(result)
-
-                text_ = text_[match_res.end() :]
-            return regex_matches
-
-        extracted = re.search(pattern, text)
-        if not map_to:
-            try:
-                return extracted.group()
-            except AttributeError:
-                logger.error("No match found for pattern: %s", pattern)
-
-        if extracted:
-            if map_to:
-                if isinstance(map_to[0], list):  # map to a List of entries
-                    return findall(pattern, text, map_to[0])
-                else:  # map to dict
-                    res = {}
-                    for idx, value in enumerate(extracted.groups()):
-                        res[map_to[idx]] = value
-                    return res
-        raise TextExtractionError(f"Could not extract data from '{text}' with pattern '{pattern}'")
-
-    @staticmethod
-    def create_listing(text: str) -> List:
-        """Creates a listing from a text and strips white space."""
-        return [DataExtractor.apply_synonyms(item.strip()).strip() for item in text.split(", ")]
-
-    @staticmethod
-    def apply_synonyms(text: str) -> str:
-        """Replaces synonyms in a text."""
-        synonyms = DataExtractor.load_synonyms()
-        for key, value in synonyms.items():
-            if key.lower() == text.lower():
-                logger.debug(f"Synonym found '{text}' replaced with '{value}'")
-                return value
-        return text
-
-    @staticmethod
-    @lru_cache(maxsize=1)
-    def load_synonyms():
-        """Loads synonyms from a file."""
-        with open("synonyms.json") as json_file:
-            data = json.load(json_file)
-        return data
+@lru_cache(maxsize=1)
+def load_synonyms():
+    """Loads synonyms from a file."""
+    with open(CONFIG_DIR / "synonyms.json") as json_file:
+        data = json.load(json_file)
+    return data
 
 
 class Feature:
     def __init__(
         self,
         name,  # MonitorSpecifications
-        formatter=DataExtractor.apply_synonyms,
+        formatter=apply_synonyms,
         pattern=None,
         match_to=None,
         separator: [str, List] = "\u00a0",
@@ -124,13 +68,13 @@ class Feature:
                 return self.formatter(text, self.pattern)
             elif self.formatter:
                 return self.formatter(text)
-        except TextExtractionError as e:
-            raise ParserError(f"ParseError, Could not parse from text '{text}'") from e
+        except exceptions.TextExtractionError as e:
+            raise exceptions.ParserError(f"ParseError, Could not parse from text '{text}'") from e
         except KeyError as e:
-            raise ParserError(f"KeyError, Could not parse from text '{text}'") from e
+            raise exceptions.ParserError(f"KeyError, Could not parse from text '{text}'") from e
         except TypeError as e:
-            raise ParserError(f"TypeError, Could not parse from text '{text}'") from e
-        raise ParserError(f"No parser specified to get from text '{text}'")
+            raise exceptions.ParserError(f"TypeError, Could not parse from text '{text}'") from e
+        raise exceptions.ParserError(f"No parser specified to get from text '{text}'")
 
     def nice_output(self, data) -> str:
         """Returns a nice output of the data."""
@@ -178,9 +122,9 @@ class FeatureGroup:
                 pass
             except TypeError:
                 logger.warning(f"Type error '{feature.name}'")
-                raise NicePlotError
+                raise exceptions.NicePlotError
         if not output:
-            raise NicePlotError("Empty output")
+            raise exceptions.NicePlotError("Empty output")
         return self.SEPARATOR.join(output)
 
 
@@ -214,7 +158,7 @@ class Parser:
             except KeyError as e:
                 logger.warning(f"No parser for feature '{feature_name}': {e}")
                 self.bow.add_word(feature_name, feature_value)
-            except ParserError as e:
+            except exceptions.ParserError as e:
                 logger.warning(f"Parsing of feature '{feature_name}' failed: {e}")
                 self.bow.add_word(feature_name, feature_value)
         self.parse_count += 1
@@ -229,7 +173,7 @@ class Parser:
                 output.append(f"{feature_group.name + ':':<30} {feature_group.nice_output(parsed_data)}")
             except KeyError:
                 pass
-            except NicePlotError:
+            except exceptions.NicePlotError:
                 pass
         output = [item for item in output if item]
         return self.SEPARATOR.join(output)

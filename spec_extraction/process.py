@@ -12,10 +12,10 @@ from jsoncomparison import Compare
 from loguru import logger
 from thefuzz import fuzz
 
-from processing.extraction import clean_text
-from processing.monitorparser import MonitorParser
-from processing.monitorparser import MonitorSpecifications
-from processing.raw_monitor import RawMonitor
+from spec_extraction.catalog_model import MonitorSpecifications
+from spec_extraction.extraction import clean_text
+from spec_extraction.extraction_config import MonitorParser
+from spec_extraction.raw_monitor import RawMonitor
 
 Monitor = namedtuple("Monitor", "title, shop, raw_specs")
 
