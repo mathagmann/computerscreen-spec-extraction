@@ -39,7 +39,7 @@ lint:             ## Run black, ruff linters.
 
 .PHONY: test
 test:	          ## Run tests and generate coverage report.
-	$(ENV_PREFIX)pytest -v --cov-config .coveragerc --cov=specification_extraction tests/
+	$(ENV_PREFIX)pytest --cov
 	$(ENV_PREFIX)coverage xml
 	$(ENV_PREFIX)coverage html
 
