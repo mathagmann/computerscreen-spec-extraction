@@ -150,8 +150,7 @@ class Parser:
     def parse(self, raw_specifications: dict) -> dict:
         """Parses features from raw specifications and returns a plain dict."""
         result = {}
-        for feature, feature_value in raw_specifications.items():
-            feature_name = feature.value
+        for feature_name, feature_value in raw_specifications.items():
             clean_value = clean_text(feature_value)
             try:
                 result[feature_name] = self.parser[feature_name].parse(clean_value)

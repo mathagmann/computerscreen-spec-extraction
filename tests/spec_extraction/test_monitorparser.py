@@ -7,8 +7,8 @@ from spec_extraction.process import CATALOG_EXAMPLE
 
 def test_colorspace_extraction(mock_synonyms):
     example = {
-        MonitorSpecifications.COLOR_SPACE_SRGB: "100% sRGB",
-        MonitorSpecifications.COLOR_SPACE_DCIP3: "75% DCI-P3",
+        MonitorSpecifications.COLOR_SPACE_SRGB.value: "100% sRGB",
+        MonitorSpecifications.COLOR_SPACE_DCIP3.value: "75% DCI-P3",
     }
 
     result = monitor_parser.parse(example)
@@ -26,7 +26,7 @@ def test_parse_properly(mock_synonyms):
         result = monitor_parser.parse(input_dict)
 
     for feature in input_dict.keys():
-        assert result[feature.value]
+        assert result[feature]
 
 
 def test_nice_output():
