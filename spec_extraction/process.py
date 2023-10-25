@@ -115,7 +115,7 @@ class FieldMappings:
         try:
             with open(self.filepath) as json_file:
                 data = json.load(json_file)
-                self.mappings = self._remove_empty_mappings(data)
+                self.mappings = _remove_empty_mappings(data)
 
         except (FileNotFoundError, JSONDecodeError):
             os.makedirs(self.filepath.parent, exist_ok=True)
@@ -144,36 +144,36 @@ class FieldMappings:
     def flush(self):
         # write mappings to file
         with open(self.filepath, "w") as outfile:
-            filled_mappings = self._fill_empty_mappings(self.mappings)
+            filled_mappings = _fill_empty_mappings(self.mappings)
             json.dump(filled_mappings, outfile, indent=4, sort_keys=True)
         logger.debug(f"Flushed mappings to {str(self.filepath).split('/')[-1]}")
 
-    @staticmethod
-    def _fill_empty_mappings(mappings: Dict[str, Dict[str, str]]) -> Dict[str, Dict[str, str]]:
-        """Fills empty mappings with None to simplify manual improvements."""
-        save_mappings = {}
-        for shop in mappings:
-            save_mappings[shop] = {}
-            for cat_key in MonitorSpecifications.list():
-                save_mappings[shop][cat_key] = mappings[shop].get(cat_key, None)
-        return save_mappings
 
-    @staticmethod
-    def _remove_empty_mappings(data):
-        """Removes empty mappings from working data."""
-        mappings = {}
-        for shop, specs in data.items():
-            mappings[shop] = {k: v for k, v in specs.items() if v is not None}
-        return mappings
+def _fill_empty_mappings(mappings: Dict[str, Dict[str, str]]) -> Dict[str, Dict[str, str]]:
+    """Fills empty mappings with None to simplify manual improvements."""
+    save_mappings = {}
+    for shop in mappings:
+        save_mappings[shop] = {}
+        for cat_key in MonitorSpecifications.list():
+            save_mappings[shop][cat_key] = mappings[shop].get(cat_key, None)
+    return save_mappings
 
-    @staticmethod
-    def rate_mapping(merchant_value, catalog_value):
-        max_score = fuzz.ratio(merchant_value, catalog_value)
-        for value in merchant_value.split(","):
-            res = fuzz.ratio(value, catalog_value)
-            if res > max_score:
-                max_score = res
-        return max_score
+
+def _remove_empty_mappings(data):
+    """Removes empty mappings from working data."""
+    mappings = {}
+    for shop, specs in data.items():
+        mappings[shop] = {k: v for k, v in specs.items() if v is not None}
+    return mappings
+
+
+def rate_mapping(merchant_value, catalog_value):
+    max_score = fuzz.ratio(merchant_value, catalog_value)
+    for value in merchant_value.split(","):
+        res = fuzz.ratio(value, catalog_value)
+        if res > max_score:
+            max_score = res
+    return max_score
 
 
 class Processing:
