@@ -2,6 +2,8 @@ from pathlib import Path
 
 from minet import Scraper
 
+from spec_extraction import exceptions
+
 SCRAPER_CONFIG_DIR = Path(__file__).parent / "config"
 FIELDNAMES = ["title", "id", "shop", "path"]
 
@@ -46,7 +48,7 @@ MAPPING_CONFIG = {
 }
 
 
-def extract_tabular_data(raw_html: str, shop_name: str) -> dict:
+def extract_tabular_data(raw_html: str, shop_name: str) -> dict[str, str]:
     """Parse a shop page and store the result as JSON.
 
     Shop names from Geizhals are mapped to the corresponding parser configuration file.
@@ -78,6 +80,7 @@ def _get_parser_config(shop_name: str) -> str:
     try:
         parser_config = MAPPING_CONFIG[shop_name]
         shop_parser_conf = SCRAPER_CONFIG_DIR / parser_config
-    except Exception:
-        raise ValueError(f"Unknown shop name: {shop_name}")
+    except KeyError:
+        msg = f"Unknown shop name: {shop_name}"
+        raise exceptions.ShopParserNotImplementedError(msg)
     return str(shop_parser_conf)

@@ -1,10 +1,12 @@
-iterator: table.sa_extradaten_specs_table table.sa_extradaten_specs_table tr:not(.speccategory)
+iterator: :is(table.sa_extradaten_specs_table table.sa_extradaten_specs_table, td#sa_beschreibung > table) tr:not(.speccategory)
 fields:
   title:
     sel: td:nth-child(1)
   description:
     eval: |
       el = element.select_one("td:nth-child(2)")
+      if not el:
+        return None
       value = el.get_text().strip()
       if value:
         return value

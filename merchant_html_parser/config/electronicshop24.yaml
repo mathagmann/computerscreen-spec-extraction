@@ -4,3 +4,4 @@ fields:
     sel: td:nth-child(1)
   description:
     sel: td:nth-child(2)
+filter: description
