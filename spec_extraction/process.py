@@ -1,23 +1,23 @@
-import csv
 import json
 import os
-from collections import namedtuple
 from json import JSONDecodeError
 from pathlib import Path
 from typing import Any
 from typing import Dict
 
-import pandas
 from jsoncomparison import Compare
 from loguru import logger
+from marshmallow import EXCLUDE
 from thefuzz import fuzz
 
+from data_generation import utilities
+from geizhals.geizhals_model import ProductPage
+from merchant_html_parser import shop_parser
+from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import clean_text
 from spec_extraction.extraction_config import MonitorParser
-from spec_extraction.raw_monitor import RawMonitor
-
-Monitor = namedtuple("Monitor", "title, shop, raw_specs")
+from spec_extraction.model import RawProduct
 
 REFERENCE_SHOP = "geizhals"
 
@@ -102,7 +102,7 @@ def compare_specifications(reference_spec: dict, catalog_spec: dict) -> int:
 class FieldMappings:
     def __init__(self):
         self.mappings = {}
-        self.filepath = Path(".") / "src" / "processing" / "field_mappings.json"
+        self.filepath = Path(".") / "src" / "processing" / "auto_field_mappings.json"
 
     def __enter__(self):
         self.load()
@@ -146,7 +146,23 @@ class FieldMappings:
         with open(self.filepath, "w") as outfile:
             filled_mappings = _fill_empty_mappings(self.mappings)
             json.dump(filled_mappings, outfile, indent=4, sort_keys=True)
+        create_mapping_stats(filled_mappings)
         logger.debug(f"Flushed mappings to {str(self.filepath).split('/')[-1]}")
+
+
+def create_mapping_stats(mappings: dict[str, dict[str, str]]) -> int:
+    """Counts and Returns automatically mapped properties."""
+    non_empty_mappings = 0
+    total_possible_mappings = 0
+    for shop in mappings:
+        for cat_key in mappings[shop]:
+            if mappings[shop][cat_key]:
+                non_empty_mappings += 1
+            total_possible_mappings += 1
+    logger.info(
+        f"{non_empty_mappings}/{total_possible_mappings} properties automatically mapped for {len(mappings)} shops"
+    )
+    return non_empty_mappings
 
 
 def _fill_empty_mappings(mappings: Dict[str, Dict[str, str]]) -> Dict[str, Dict[str, str]]:
@@ -189,13 +205,11 @@ class Processing:
         self.check_example(catalog_example)
 
         with FieldMappings() as fm:
-            for idx, monitor in enumerate(self._next_monitor()):
-                merchant_specs = monitor["raw_specifications"]
-                shop_id = monitor["shop"]
+            for idx, raw_monitor in enumerate(self._next_raw_monitor()):
                 for catalog_key, example_value in catalog_example.items():
                     # Tries to map a merchant key to a catalog key.
-                    for merchant_key, merchant_text in merchant_specs.items():
-                        if not merchant_text or fm.mapping_exists(shop_id, catalog_key):
+                    for merchant_key, merchant_text in raw_monitor.raw_specifications.items():
+                        if not merchant_text or fm.mapping_exists(raw_monitor.shop_name, catalog_key):
                             continue
                         merchant_text = clean_text(merchant_text)
                         if not merchant_text:
@@ -203,105 +217,153 @@ class Processing:
 
                         # Check possible new mappings
                         catalog_text = catalog_example[catalog_key]
-                        max_score = fm.rate_mapping(merchant_text, catalog_text)
+                        max_score = rate_mapping(merchant_text, catalog_text)
                         if max_score >= self.FIELD_MAPPING_MIN_SCORE:
                             logger.debug(f"Score '{max_score}': {merchant_text}\t->\t{catalog_text}")
-                            fm.add_mapping(shop_id, catalog_key, merchant_key)
+                            fm.add_mapping(raw_monitor.shop_name, catalog_key, merchant_key)
                 # logger.debug(f"Mappings for {monitor['title']} done")
                 if idx % 1000 == 0:
                     fm.flush()
+        fm.flush()
 
     def check_example(self, catalog_example: dict):
         for feature in MonitorSpecifications.list():
             if feature not in catalog_example:
                 logger.warning(f"Missing feature in catalog example, no auto mapping: '{feature}'")
 
-    def create_monitor_specs(self):
-        logger.info("Creating monitor specifications...")
+    def create_monitor_specs(self, catalog_dir: Path):
+        """Extracts properties from raw specifications and merges them.
 
+        The resulting product specifications are saved to a JSON file.
+
+        Executes the following steps:
+        - Schema matching
+        - Property extraction
+        - Value fusion (merge data from multiple shops)
+        """
+        logger.info("Creating monitor specifications...")
         self.parser.init()
 
-        differing_entries = 0
-        parsed_features_count = 0
-        reference_specs = {}
-        for df in self._next_monitor_group():
-            combined_specs = {}  # All specs for this monitor combined
-            monitor_name = ""
-            assert len(df) > 0
-            for entry in df.itertuples():
-                monitor = entry._asdict()
-                with open(monitor["path"]) as json_file:
-                    monitor["raw_specifications"] = json.load(json_file)["raw_specifications"]
+        os.makedirs(catalog_dir, exist_ok=True)
 
-                # Convert semi-structured text into structured specifications
-                monitor = Monitor(title=monitor["title"], shop=monitor["shop"], raw_specs=monitor["raw_specifications"])
+        # Value fusion
+        for grouped_specs in _group_of_specs(self.out_dir):
+            combined_specs = {}
+            product_name = None
+            for raw_product in grouped_specs:
+                product_name = raw_product.name
 
-                monitor_specs = self._parse_monitor_specs(monitor)
-                # Merge fields, but exclude Geizhals reference
-                if monitor.shop == REFERENCE_SHOP:
-                    reference_specs: dict = monitor_specs
-                else:
-                    logger.debug(
-                        f"Parsing monitor '{monitor.title}' from '{monitor.shop}':\n" f"{pretty(monitor.raw_specs)}"
-                    )
-                    combined_specs: dict = combined_specs | monitor_specs
-                    parsed_features_count += 1
-                    print(f"{monitor.title} specs from '{monitor.shop}':\n{pretty(monitor_specs)}")
-                    print(f"{monitor.title}\n{self.parser.nice_output(monitor_specs)}")
-                monitor_name = monitor.title
-            assert reference_specs  # Geizhals reference must exist
+                structured_specs = self._parse_monitor_specs(raw_product.raw_specifications, raw_product.shop_name)
 
-            self._store_created_specifications(monitor_name, combined_specs, reference_specs)
+                logger.debug(
+                    f"Parsing monitor '{product_name}' from '{raw_product.shop_name}':\n" f"{pretty(raw_product.raw_specifications)}"
+                )
+                # Value fusion, last shop wins
+                combined_specs: dict = combined_specs | structured_specs
+                print(f"{product_name} specs from '{raw_product.shop_name}':\n{pretty(structured_specs)}")
 
-            logger.info(f"Combined specs {monitor_name}\n" f"{pretty(combined_specs)}")
-            logger.info(f"Reference Specs\n" f"{pretty(reference_specs)}")
-            differing_entries += compare_specifications(reference_specs, combined_specs)
-            parsed_features_count += len(combined_specs)
-        logger.info(f"Parsed features: {parsed_features_count}")
-        if differing_entries > 0:
-            logger.warning(f"Found {differing_entries} differing entries between combined and reference specs.")
+            print(f"{product_name}\n{self.parser.nice_output(combined_specs)}")
 
-    def _next_monitor(self) -> Dict[str, Any]:
-        with open(self.data_dir / "semistructured.csv", "r") as csvfile:
-            raw_data = csv.DictReader(csvfile)
-            for monitor in raw_data:
-                with open(monitor["path"]) as json_file:
-                    monitor["raw_specifications"] = json.load(json_file)["raw_specifications"]
-                yield monitor
+    def _next_raw_monitor(self) -> Dict[str, Any]:
+        products = utilities.load_products(self.data_dir)
+        for monitor in products:
+            # load raw HTML
+            with open(self.data_dir / monitor.html_file) as file:
+                html = file.read()
 
-    def _next_monitor_group(self) -> pandas.DataFrame:
-        """Returns entries of a monitors, marked by same ID.
+            try:
+                raw_specifications = shop_parser.extract_tabular_data(html, monitor.shop_name)
+            except exceptions.ShopParserNotImplementedError:
+                continue
 
-        A group contains the same monitor, but with specifications from different shops.
+            if not raw_specifications:
+                logger.debug(f"Empty specifications for {monitor.html_file} from {monitor.shop_name}")
+                continue
+
+            # Retrieve name from Geizhals reference JSON
+            with open(self.data_dir / monitor.reference_file) as geizhals_file:
+                product_dict = json.load(geizhals_file)
+                geizhals_reference = ProductPage.Schema().load(product_dict)
+            product_name = geizhals_reference.product_name
+
+            # turn data and raw_specifications into RawProduct
+            data = monitor.__dict__
+            data["raw_specifications"] = raw_specifications
+            data["name"] = product_name
+            raw_product = RawProduct.Schema().load(data, unknown=EXCLUDE)
+
+            # Write raw specs to file in output_dir
+            filename_specification = monitor.html_file.rstrip(".html") + "_specification.json"
+            os.makedirs(self.out_dir, exist_ok=True)
+
+            with open(self.out_dir / filename_specification, "w") as raw_monitor_file:
+                product_dict = RawProduct.Schema().dump(raw_product)
+                json.dump(product_dict, raw_monitor_file, indent=4)
+
+            yield raw_product
+
+    def _parse_monitor_specs(self, raw_specification: dict, shop_name: str) -> dict[str, Any]:
+        """Extracts structured properties from raw specifications.
+
+        Executes the following steps:
+        - Schema matching
+        - Property extraction
         """
-        df = pandas.read_csv(self.data_dir / "semistructured.csv")
-        for group in df.groupby("id"):
-            _, df = group
-            yield df
-
-    def _parse_monitor_specs(self, monitor: Monitor) -> Dict:
         fm = FieldMappings()
         fm.load()
         monitor_specs = {}
         for catalog_key in MonitorSpecifications:
             catalog_key = catalog_key.value
-            if catalog_key not in fm.get_mappings_shop(monitor.shop):
+            if catalog_key not in fm.get_mappings_shop(shop_name):
                 continue
 
-            merchant_key = fm.get_mappings_shop(monitor.shop)[catalog_key]
-            if merchant_key not in monitor.raw_specs:
+            merchant_key = fm.get_mappings_shop(shop_name)[catalog_key]
+            if merchant_key not in raw_specification:
                 continue
 
-            merchant_value = monitor.raw_specs[merchant_key]
+            merchant_value = raw_specification[merchant_key]
             merchant_value = clean_text(merchant_value)
             monitor_specs[catalog_key] = merchant_value
         return self.parser.parse(monitor_specs)
 
-    def _store_created_specifications(self, monitor_name, created_specs, reference_specs):
-        data = {"title": monitor_name, "created": created_specs, "reference": reference_specs}
-        filename = RawMonitor.create_valid_filename(monitor_name)
-        with open(filename, "w"):
-            json.dump(data, self.out_dir / f"{filename}_specs.json", indent=4, sort_keys=True)
+
+def _group_of_specs(data_dir: str) -> list[RawProduct]:
+    grouped_data_for_one_screen = []
+    reference_name_for_screen = None
+    for raw_product in _next_raw_product(data_dir):
+        if reference_name_for_screen and reference_name_for_screen != raw_product.reference_file:
+            # Reference file changed, so we have all data for one screen -> merge data
+            yield grouped_data_for_one_screen
+
+            grouped_data_for_one_screen = []
+        reference_name_for_screen = raw_product.reference_file  # equal for all products of one screen
+        grouped_data_for_one_screen.append(raw_product)
+
+
+def _next_raw_product(data_dir: str) -> RawProduct:
+    """Yields raw specification with metadata from JSON files.
+
+    The order of the files is not guaranteed, but specifications from the same
+    monitor follow each other.
+
+    Example:
+    --------
+    offer_1_3_specification.json
+    offer_1_2_specification.json
+    offer_1_1_specification.json
+    offer_10_5_specification.json
+    offer_10_3_specification.json
+    """
+    for file in sorted(data_dir.glob("*.json")):
+        if not file.name.startswith("offer") or not file.name.endswith("specification.json"):
+            continue
+
+        logger.debug(f"Loading {file.name}...")
+        with open(data_dir / file.name, "r") as f:
+            products_dict = json.load(f)
+        raw_product = RawProduct.Schema().load(products_dict)
+
+        yield raw_product
 
 
 if __name__ == "__main__":
