@@ -5,6 +5,7 @@ from json import JSONDecodeError
 from pathlib import Path
 from typing import Any
 from typing import Dict
+from typing import Generator
 
 from jsoncomparison import Compare
 from loguru import logger
@@ -20,8 +21,7 @@ from spec_extraction.extraction import clean_text
 from spec_extraction.extraction_config import MonitorParser
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
-
-REFERENCE_SHOP = "geizhals"
+from spec_extraction.raw_monitor import RawMonitor
 
 CATALOG_EXAMPLE = {
     MonitorSpecifications.EAN.value: "4710886422812",
@@ -84,6 +84,7 @@ CATALOG_EXAMPLE = {
     MonitorSpecifications.CABLES_AC_POWER.value: "1x Strom-Kabel",
     MonitorSpecifications.WARRANTY.value: "2 Jahre",
 }
+FIELD_MAPPING_MIN_SCORE = 75
 
 
 def pretty(dictionary: dict):
@@ -195,19 +196,38 @@ def rate_mapping(merchant_value, catalog_value):
 
 
 class Processing:
-    FIELD_MAPPING_MIN_SCORE = 75
-
-    def __init__(self, parser: MonitorParser, data_dir, out_dir):
+    def __init__(self, parser: MonitorParser, data_dir, raw_specs_output_dir, specs_as_text_output_dir):
         self.parser = parser
-        self.data_dir = data_dir
-        self.out_dir = out_dir
+        self.data_dir = data_dir  # Raw HTML data
+        self.raw_specs_output_dir = raw_specs_output_dir  # RAW Specifications as JSON with metadata
+        self.specs_as_text_output_dir = specs_as_text_output_dir  # Input for NER labeling in Label Studio
+
+    def extract_raw_specifications(self):
+        logger.info("--- Extracting raw specifications... ---")
+
+        os.makedirs(self.raw_specs_output_dir, exist_ok=True)
+        for idx, raw_monitor in enumerate(next_raw_monitor(self.data_dir)):
+            # Write raw specs to file in output_dir
+            filename_specification = raw_monitor.html_file.rstrip(".html") + "_specification.json"
+
+            product_dict = RawProduct.Schema().dump(raw_monitor)
+            with open(self.raw_specs_output_dir / filename_specification, "w") as raw_monitor_file:
+                json.dump(product_dict, raw_monitor_file, indent=4)
+
+            # prepare plain text for NER labeling too
+            os.makedirs(self.specs_as_text_output_dir, exist_ok=True)
+            filename_specification = raw_monitor.html_file.rstrip(".html") + "_token_labeling.json"
+            with open(self.specs_as_text_output_dir / filename_specification, "w") as raw_monitor_file:
+                product_dict["raw_specifications"] = specs_to_text(product_dict["raw_specifications"])
+                json.dump(product_dict, raw_monitor_file, indent=4)
+        logger.info("--- Extracting raw specifications done. ---")
 
     def find_mappings(self, catalog_example: Dict[MonitorSpecifications, str]):
         logger.info("Find mappings...")
-        self.check_example(catalog_example)
+        check_example(catalog_example)
 
         with FieldMappings() as fm:
-            for idx, raw_monitor in enumerate(self._next_raw_monitor()):
+            for idx, raw_monitor in enumerate(next_raw_monitor(self.data_dir)):
                 for catalog_key, example_value in catalog_example.items():
                     # Tries to map a merchant key to a catalog key.
                     for merchant_key, merchant_text in raw_monitor.raw_specifications.items():
@@ -220,18 +240,13 @@ class Processing:
                         # Check possible new mappings
                         catalog_text = catalog_example[catalog_key]
                         max_score = rate_mapping(merchant_text, catalog_text)
-                        if max_score >= self.FIELD_MAPPING_MIN_SCORE:
+                        if max_score >= FIELD_MAPPING_MIN_SCORE:
                             logger.debug(f"Score '{max_score}': {merchant_text}\t->\t{catalog_text}")
                             fm.add_mapping(raw_monitor.shop_name, catalog_key, merchant_key)
                 # logger.debug(f"Mappings for {monitor['title']} done")
                 if idx % 1000 == 0:
                     fm.flush()
         fm.flush()
-
-    def check_example(self, catalog_example: dict):
-        for feature in MonitorSpecifications.list():
-            if feature not in catalog_example:
-                logger.warning(f"Missing feature in catalog example, no auto mapping: '{feature}'")
 
     def create_monitor_specs(self, catalog_dir: Path):
         """Extracts properties from raw specifications and merges them.
@@ -249,13 +264,13 @@ class Processing:
         os.makedirs(catalog_dir, exist_ok=True)
 
         # Value fusion
-        for grouped_specs in _group_of_specs(self.out_dir):
+        for grouped_specs in _group_of_specs(self.raw_specs_output_dir):
             combined_specs = {}
             product_name = None
             for raw_product in grouped_specs:
                 product_name = raw_product.name
 
-                structured_specs = self._parse_monitor_specs(raw_product.raw_specifications, raw_product.shop_name)
+                structured_specs = self.parse_monitor_specs(raw_product.raw_specifications, raw_product.shop_name)
 
                 logger.debug(
                     f"Parsing monitor '{product_name}' from '{raw_product.shop_name}':\n"
@@ -278,45 +293,7 @@ class Processing:
                 file.write(pretty(catalog_product))
             logger.debug(f"Saved catalog ready product to {catalog_dir / catalog_filename}")
 
-    def _next_raw_monitor(self) -> Dict[str, Any]:
-        products = utilities.load_products(self.data_dir)
-        for monitor in products:
-            # load raw HTML
-            with open(self.data_dir / monitor.html_file) as file:
-                html = file.read()
-
-            try:
-                raw_specifications = shop_parser.extract_tabular_data(html, monitor.shop_name)
-            except exceptions.ShopParserNotImplementedError:
-                continue
-
-            if not raw_specifications:
-                logger.debug(f"Empty specifications for {monitor.html_file} from {monitor.shop_name}")
-                continue
-
-            # Retrieve name from Geizhals reference JSON
-            with open(self.data_dir / monitor.reference_file) as geizhals_file:
-                product_dict = json.load(geizhals_file)
-                geizhals_reference = ProductPage.Schema().load(product_dict)
-            product_name = geizhals_reference.product_name
-
-            # turn data and raw_specifications into RawProduct
-            data = monitor.__dict__
-            data["raw_specifications"] = raw_specifications
-            data["name"] = product_name
-            raw_product = RawProduct.Schema().load(data, unknown=EXCLUDE)
-
-            # Write raw specs to file in output_dir
-            filename_specification = monitor.html_file.rstrip(".html") + "_specification.json"
-            os.makedirs(self.out_dir, exist_ok=True)
-
-            with open(self.out_dir / filename_specification, "w") as raw_monitor_file:
-                product_dict = RawProduct.Schema().dump(raw_product)
-                json.dump(product_dict, raw_monitor_file, indent=4)
-
-            yield raw_product
-
-    def _parse_monitor_specs(self, raw_specification: dict, shop_name: str) -> dict[str, Any]:
+    def parse_monitor_specs(self, raw_specification: dict, shop_name: str) -> dict[str, Any]:
         """Extracts structured properties from raw specifications.
 
         Executes the following steps:
@@ -341,10 +318,58 @@ class Processing:
         return self.parser.parse(monitor_specs)
 
 
+def check_example(catalog_example: dict):
+    for feature in MonitorSpecifications.list():
+        if feature not in catalog_example:
+            logger.warning(f"Missing feature in catalog example, no auto mapping: '{feature}'")
+
+
+def next_raw_monitor(raw_html_data_dir) -> Generator[RawMonitor, None, None]:
+    products = utilities.load_products(raw_html_data_dir)
+    for monitor in products:
+        # load raw HTML
+        with open(raw_html_data_dir / monitor.html_file) as file:
+            html = file.read()
+
+        try:
+            raw_specifications = shop_parser.extract_tabular_data(html, monitor.shop_name)
+        except exceptions.ShopParserNotImplementedError:
+            continue
+
+        if not raw_specifications:
+            logger.debug(f"Empty specifications for {monitor.html_file} from {monitor.shop_name}")
+            continue
+
+        # Retrieve name from Geizhals reference JSON
+        with open(raw_html_data_dir / monitor.reference_file) as geizhals_file:
+            product_dict = json.load(geizhals_file)
+            geizhals_reference = ProductPage.Schema().load(product_dict)
+        product_name = geizhals_reference.product_name
+
+        # turn data and raw_specifications into RawProduct
+        data = monitor.__dict__
+        data["raw_specifications"] = raw_specifications
+        data["name"] = product_name
+        raw_product = RawProduct.Schema().load(data, unknown=EXCLUDE)
+
+        yield raw_product
+
+
+def specs_to_text(raw_specifications: dict[str, Any]) -> str:
+    """Converts raw specifications into a plain text string.
+
+    Formats the text in the following format:
+
+    <property name>: <property value>
+    <property name>: <property value>
+    """
+    return "\n".join([f"{key}: {value}" for key, value in raw_specifications.items()])
+
+
 def _group_of_specs(data_dir: str) -> list[RawProduct]:
     grouped_data_for_one_screen = []
     reference_name_for_screen = None
-    for raw_product in _next_raw_product(data_dir):
+    for raw_product in _next_raw_specs(data_dir):
         if reference_name_for_screen and reference_name_for_screen != raw_product.reference_file:
             # Reference file changed, so we have all data for one screen -> merge data
             yield grouped_data_for_one_screen
@@ -354,7 +379,7 @@ def _group_of_specs(data_dir: str) -> list[RawProduct]:
         grouped_data_for_one_screen.append(raw_product)
 
 
-def _next_raw_product(data_dir: str) -> RawProduct:
+def _next_raw_specs(data_dir: str) -> Generator[RawProduct, None, None]:
     """Yields raw specification with metadata from JSON files.
 
     The order of the files is not guaranteed, but specifications from the same

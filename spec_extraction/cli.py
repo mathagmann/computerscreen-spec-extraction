@@ -15,8 +15,11 @@ def main():  # pragma: no cover
     html_data_dir = DATA_DIR / dataset_name
 
     raw_specs_json_dir = DATA_DIR / f"{dataset_name}_raw_specs"
+    specs_as_text_output_dir = DATA_DIR / f"{dataset_name}_raw_specs_as_text"
     product_catalog_dir = DATA_DIR / f"{dataset_name}_product_catalog"
 
-    p = Processing(MonitorParser(), html_data_dir, raw_specs_json_dir)
+    p = Processing(MonitorParser(), html_data_dir, raw_specs_json_dir, specs_as_text_output_dir)
+    p.extract_raw_specifications()
+
     p.find_mappings(CATALOG_EXAMPLE)
     p.create_monitor_specs(product_catalog_dir)
