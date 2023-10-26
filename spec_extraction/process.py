@@ -258,7 +258,8 @@ class Processing:
                 structured_specs = self._parse_monitor_specs(raw_product.raw_specifications, raw_product.shop_name)
 
                 logger.debug(
-                    f"Parsing monitor '{product_name}' from '{raw_product.shop_name}':\n" f"{pretty(raw_product.raw_specifications)}"
+                    f"Parsing monitor '{product_name}' from '{raw_product.shop_name}':\n"
+                    f"{pretty(raw_product.raw_specifications)}"
                 )
                 # Value fusion, last shop wins
                 combined_specs: dict = combined_specs | structured_specs
