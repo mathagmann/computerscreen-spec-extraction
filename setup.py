@@ -28,7 +28,7 @@ def read_requirements(path):
 
 setup(
     name="specification_extraction",
-    version=read("specification_extraction", "VERSION"),
+    version=read("spec_extraction", "VERSION"),
     description="Awesome specification_extraction created by MattHag",
     url="https://github.com/MattHag/specification-extraction/",
     long_description=read("README.md"),
