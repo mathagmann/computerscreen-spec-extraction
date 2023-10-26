@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from json import JSONDecodeError
 from pathlib import Path
 from typing import Any
@@ -17,6 +18,7 @@ from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import clean_text
 from spec_extraction.extraction_config import MonitorParser
+from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
 
 REFERENCE_SHOP = "geizhals"
@@ -263,6 +265,17 @@ class Processing:
                 print(f"{product_name} specs from '{raw_product.shop_name}':\n{pretty(structured_specs)}")
 
             print(f"{product_name}\n{self.parser.nice_output(combined_specs)}")
+
+            # Store structured product specifications in catalog directory
+            matched_groups = re.search(r"\d+", raw_product.reference_file)
+            product_nr = matched_groups.group(0)
+
+            catalog_filename = f"product_{product_nr}_catalog.json"
+            with open(catalog_dir / catalog_filename, "w") as file:
+                catalog = dict(name=product_name, specifications=combined_specs)
+                catalog_product = CatalogProduct.Schema().dump(catalog)
+                file.write(pretty(catalog_product))
+            logger.debug(f"Saved catalog ready product to {catalog_dir / catalog_filename}")
 
     def _next_raw_monitor(self) -> Dict[str, Any]:
         products = utilities.load_products(self.data_dir)
