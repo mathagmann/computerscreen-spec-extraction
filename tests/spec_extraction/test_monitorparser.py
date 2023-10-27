@@ -1,8 +1,20 @@
+from pathlib import Path
 from unittest import mock
 
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction_config import monitor_parser
 from spec_extraction.process import CATALOG_EXAMPLE
+
+
+def test_parse_catalog_example():
+    catalog_example = Path(__file__).parent / "catalog_example.txt"
+    expected = catalog_example.read_text()
+
+    result = monitor_parser.parse(CATALOG_EXAMPLE)
+    text = monitor_parser.nice_output(result)
+
+    assert isinstance(result, dict)
+    assert text == expected.strip()
 
 
 def test_colorspace_extraction(mock_synonyms):
