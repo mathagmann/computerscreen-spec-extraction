@@ -1,3 +1,5 @@
+import pytest
+
 from token_classifier.ports_ml_pipeline import convert_to_original_length
 from token_classifier.ports_ml_pipeline import process_labels
 
@@ -16,17 +18,34 @@ def test_recover_text():
     assert expected_text == recovered_text
 
 
-def test_process_labels():
-    expected = [{"type-hdmi": "HDMI"}, {"count-hdmi": "3"}, {"type-hdmi": "HDMI"}]
-    ner_output = [
-        {"entity": "B-type-hdmi", "score": 0.99814475, "index": 1, "word": "HD", "start": 0, "end": 2},
-        {"entity": "I-type-hdmi", "score": 0.9938002, "index": 2, "word": "##MI", "start": 2, "end": 4},
-        {"entity": "B-count-hdmi", "score": 0.5813768, "index": 8, "word": "3", "start": 16, "end": 17},
-        {"entity": "B-type-hdmi", "score": 0.998292, "index": 11, "word": "HD", "start": 19, "end": 21},
-        {"entity": "I-type-hdmi", "score": 0.99412596, "index": 12, "word": "##MI", "start": 21, "end": 23},
-    ]
-
-    res = process_labels(ner_output, preprocess=convert_to_original_length)
+@pytest.mark.parametrize(
+    "ml_labeled_data, expected",
+    [
+        (
+            [
+                {"entity": "B-type-hdmi", "score": 0.99814475, "index": 1, "word": "HD", "start": 0, "end": 2},
+                {"entity": "I-type-hdmi", "score": 0.9938002, "index": 2, "word": "##MI", "start": 2, "end": 4},
+                {"entity": "B-count-hdmi", "score": 0.5813768, "index": 8, "word": "3", "start": 16, "end": 17},
+                {"entity": "B-type-hdmi", "score": 0.998292, "index": 11, "word": "HD", "start": 19, "end": 21},
+                {"entity": "I-type-hdmi", "score": 0.99412596, "index": 12, "word": "##MI", "start": 21, "end": 23},
+            ],
+            {"count-hdmi": "3", "type-hdmi": "HDMI"},
+        ),
+        (
+            [
+                {"entity": "B-count-hdmi", "score": 0.9277841, "index": 224, "word": "1", "start": 508, "end": 509},
+                {"entity": "B-count-hdmi", "score": 0.95756745, "index": 225, "word": "##x", "start": 509, "end": 510},
+                {"entity": "B-type-hdmi", "score": 0.997171, "index": 226, "word": "HD", "start": 511, "end": 513},
+                {"entity": "B-type-hdmi", "score": 0.9974739, "index": 227, "word": "##MI", "start": 513, "end": 515},
+                {"entity": "B-type-hdmi", "score": 0.9914624, "index": 234, "word": "HD", "start": 526, "end": 528},
+                {"entity": "B-type-hdmi", "score": 0.9944518, "index": 235, "word": "##MI", "start": 528, "end": 530},
+            ],
+            {"count-hdmi": "1x", "type-hdmi": "HDMI"},
+        ),
+    ],
+)
+def test_process_labels(ml_labeled_data, expected):
+    res = process_labels(ml_labeled_data, preprocess=convert_to_original_length)
 
     assert res == expected
 
