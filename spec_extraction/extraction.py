@@ -1,4 +1,3 @@
-import copy
 import json
 from functools import lru_cache
 from pathlib import Path
@@ -43,20 +42,13 @@ class Feature:
         formatter=apply_synonyms,
         pattern=None,
         match_to=None,
-        separator: [str, List] = "\u00a0",
         string_repr: [str] = None,
     ):
         self.name = name.value
         self.formatter = formatter  # DataExtractor function
         self.pattern = pattern  # regex pattern
         self.match_to = match_to  # list of keys to map to
-        self.separator = separator  # default separator for print output
         self.string_repr = string_repr  # string format placeholder
-
-        if isinstance(self.separator, list):
-            assert len(self.separator) + 1 == len(
-                self.match_to
-            ), "Separator list must be one element longer than match_to list"
 
     def parse(self, text: str) -> object:
         """Parses a text to a structured value.
@@ -86,36 +78,22 @@ class Feature:
         elif isinstance(data, list):
             return ", ".join(data)
         elif isinstance(data, dict):
-            # contains_width = any(True for key in data if "width" in key)
-            # contains_unit = any(True for key in data if "unit" in key)
             for k in sorted(data.keys()):
                 value = data[k]
                 output.append(f"{value}")
 
         if self.string_repr:
             return self.string_repr.format(**data)
-
-        if isinstance(self.separator, list):
-            return self._join_separator_list(output)
-        return self.separator.join(output)
-
-    def _join_separator_list(self, items: list):
-        items_copy = copy.deepcopy(items)
-        text = [items_copy.pop(0)]
-        for sep in self.separator:
-            text.append(sep)
-            text.append(items_copy.pop(0))
-        return "".join(text)
+        return "\u00a0".join(output)
 
 
 class FeatureGroup:
     """Groups related features together."""
 
-    SEPARATOR = ", "
-
-    def __init__(self, name: str, features: List[Feature] = []):
+    def __init__(self, name: str, features: List[Feature] = [], separator: str = ", "):
         self.name = name
         self.features = features
+        self.separator = separator
 
     def nice_output(self, full_data: dict) -> str:
         """Returns a nicely formatted output of the data."""
@@ -131,16 +109,15 @@ class FeatureGroup:
                 raise exceptions.NicePlotError
         if not output:
             raise exceptions.NicePlotError("Empty output")
-        return self.SEPARATOR.join(output)
+        return self.separator.join(output)
 
 
 class Parser:
     """Parses a semi-structured specifications to structured specifications."""
 
-    SEPARATOR = "\n"
-
-    def __init__(self, specifications: List[FeatureGroup]):
+    def __init__(self, specifications: List[FeatureGroup], separator: str = "\n"):
         self.specifications = specifications
+        self.separator = separator
         self.parser = {}
         self.last_data = None
         self.bow = None
@@ -181,4 +158,4 @@ class Parser:
             except exceptions.NicePlotError:
                 pass
         output = [item for item in output if item]
-        return self.SEPARATOR.join(output)
+        return self.separator.join(output)
