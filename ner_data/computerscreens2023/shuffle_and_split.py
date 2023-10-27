@@ -11,6 +11,9 @@ DELIMITER_TSV = "\t"
 
 COLUMNS = ["tokens", "ner_tags"]
 
+LABELED_DATASET_DIR = Path(__file__).parent
+CONLL_DIR = LABELED_DATASET_DIR / "conll"
+
 
 def _read_data(file_path):
     """Reads CoNLL data and returns it as a list of (text, labels) pairs."""
@@ -90,9 +93,11 @@ def shuffle_and_split(conll_file, overwrite=False):
 
     for key, data in datasets.items():
         print(f"{key}: {len(data)}")
-        _write_data(key + ".tsv", data)
+        filename = key + ".tsv"
+        _write_data(LABELED_DATASET_DIR / filename, data)
 
 
 if __name__ == "__main__":
-    shuffle_and_split("computerscreens2023_labeled.conll", overwrite=True)
+    conll_file = "computerscreens2023_labeled.conll"
+    shuffle_and_split(CONLL_DIR / conll_file, overwrite=True)
     print("Data split and saved three .tsv files in the current directory.")
