@@ -76,16 +76,7 @@ def load_synonyms():
 
 
 monitor_spec = [
-    FeatureGroup(
-        "EAN",
-        [
-            Feature(
-                MonitorSpecifications.EAN,
-                create_pattern_structure,
-                r"(\d{12}\d?)",
-            ),
-        ],
-    ),
+    FeatureGroup("EAN", [Feature(MonitorSpecifications.EAN, create_pattern_structure, r"(\d{12}\d?)")]),
     FeatureGroup(
         "Diagonale",
         [
@@ -93,23 +84,19 @@ monitor_spec = [
                 MonitorSpecifications.DIAGONAL_INCH,
                 create_pattern_structure,
                 r"(\d+[.,]*\d*)\s*(\"|Zoll)",  # 27 "
-                ["1_value", "z_unit"],
-                separator="",
+                ["value", "unit"],
+                string_repr="{value}{unit}",
             ),
             Feature(
                 MonitorSpecifications.DIAGONAL_CM,
                 create_pattern_structure,
                 r"(\d+[.,]*\d*)\s*(mm|cm|m)",  # 68.6 cm
-                ["1_value", "z_unit"],
+                ["value", "unit"],
+                string_repr="{value}\u00a0{unit}",
             ),
         ],
     ),
-    FeatureGroup(
-        "Marke",
-        [
-            Feature(MonitorSpecifications.BRAND),
-        ],
-    ),
+    FeatureGroup("Marke", [Feature(MonitorSpecifications.BRAND)]),
     FeatureGroup(
         "Auflösung",
         [
@@ -117,15 +104,15 @@ monitor_spec = [
                 MonitorSpecifications.RESOLUTION,
                 create_pattern_structure,
                 r"(\d+)[^\d]*[x*]\D*(\d+)",
-                ["1_width", "2_height"],
-                separator="x",
+                ["width", "height"],
+                string_repr="{width}x{height}",
             ),
             Feature(
                 MonitorSpecifications.ASPECT_RATIO,
                 create_pattern_structure,
                 r"(\d+):(\d+)",
-                ["1_width", "2_height"],
-                separator=":",
+                ["width", "height"],
+                string_repr="{width}:{height}",
             ),
         ],
     ),
@@ -136,8 +123,9 @@ monitor_spec = [
                 MonitorSpecifications.BRIGHTNESS,
                 create_pattern_structure,
                 r"(\d+)\D*(cd\/m\u00b2)",
-                ["1_value", "z_unit"],
-            ),
+                ["value", "unit"],
+                string_repr="{value}\u00a0{unit}",
+            )
         ],
     ),
     FeatureGroup(
@@ -147,9 +135,9 @@ monitor_spec = [
                 MonitorSpecifications.CONTRAST,
                 create_pattern_structure,
                 r"(\d+)\s?:\s?(\d+)",
-                ["1_dividend", "2_divisor"],
-                separator=":",
-            ),
+                ["dividend", "divisor"],
+                string_repr="{dividend}:{divisor}",
+            )
         ],
     ),
     FeatureGroup(
@@ -159,8 +147,9 @@ monitor_spec = [
                 MonitorSpecifications.REACTION_TIME,
                 create_pattern_structure,
                 r"(\d+.?\d*)\s*\(?\S*\)?\s*(ms)",  # 0,5 (MPRT) ms
-                ["1_value", "z_unit"],
-            ),
+                ["value", "unit"],
+                string_repr="{value}\u00a0{unit}",
+            )
         ],
     ),
     FeatureGroup(
@@ -170,60 +159,37 @@ monitor_spec = [
                 MonitorSpecifications.VIEWING_ANGLE_HOR,
                 create_pattern_structure,
                 r"(\d+)",  # r"(\d+)\s?(\\u00b0)",
-                ["1_value"],
+                ["value"],
             ),
             Feature(
                 MonitorSpecifications.VIEWING_ANGLE_VER,
                 create_pattern_structure,
                 r"(\d+)",  # r"(\d+)\s?(\\u00b0)",
-                ["1_value"],
+                ["value"],
             ),
         ],
     ),
-    FeatureGroup(
-        "Panel",
-        [
-            Feature(
-                MonitorSpecifications.PANEL,
-                apply_synonyms,
-            ),
-        ],
-    ),
+    FeatureGroup("Panel", [Feature(MonitorSpecifications.PANEL, apply_synonyms)]),
     FeatureGroup(
         "Form",
         [
-            Feature(
-                MonitorSpecifications.FORM,
-                apply_synonyms,
-            ),
-            Feature(
-                MonitorSpecifications.CURVATURE,
-                create_pattern_structure,
-                r"(\d+)\s?[R]",
-                ["1_value"],
-                separator="",
-            ),
+            Feature(MonitorSpecifications.FORM, apply_synonyms),
+            Feature(MonitorSpecifications.CURVATURE, create_pattern_structure, r"(\d+)\s?[R]", ["value"]),
         ],
     ),
-    FeatureGroup(
-        "Beschichtung",
-        [
-            Feature(
-                MonitorSpecifications.COATING,
-                apply_synonyms,
-            ),
-        ],
-    ),
+    FeatureGroup("Beschichtung", [Feature(MonitorSpecifications.COATING, apply_synonyms)]),
     FeatureGroup(
         "HDR",
         [
             Feature(
                 MonitorSpecifications.HDR,
                 create_pattern_structure,
-                r"(HDR)\W*(\d+)",  # HDR 400
-                ["1_name", "2_value"],
-            ),
+                r"(HDR)\W*(\d+)",
+                ["name", "value"],
+                string_repr="{name}\u00a0{value}",
+            )
         ],
+        # HDR 400
     ),
     FeatureGroup(
         "Farbtiefe",
@@ -232,7 +198,8 @@ monitor_spec = [
                 MonitorSpecifications.COLOR_DEPTH,
                 create_pattern_structure,
                 r"(\d+)\s*(\D*[bB]it)",
-                ["1_value", "z_unit"],
+                ["value", "unit"],
+                string_repr="{value}\u00a0{unit}",
             )
         ],
     ),
@@ -243,43 +210,43 @@ monitor_spec = [
                 MonitorSpecifications.COLOR_SPACE_SRGB,
                 create_pattern_structure,
                 r"(\d+)\s?(%) \(?(sRGB)\)?",
-                ["1_value", "2_unit", "z_name"],
-                separator=["", " "],
+                ["value", "unit", "name"],
+                string_repr="{value}{unit} {name}",
             ),
             Feature(
                 MonitorSpecifications.COLOR_SPACE_ARGB,
                 create_pattern_structure,
                 r"(\d+)\s?(%) \(?(Adobe RGB)\)?",
-                ["1_value", "2_unit", "z_name"],
-                separator=["", " "],
+                ["value", "unit", "name"],
+                string_repr="{value}{unit} {name}",
             ),
             Feature(
                 MonitorSpecifications.COLOR_SPACE_DCIP3,
                 create_pattern_structure,
                 r"(\d+)\s?(%) \(?(DCI-P3)\)?",
-                ["1_value", "2_unit", "z_name"],
-                separator=["", " "],
+                ["value", "unit", "name"],
+                string_repr="{value}{unit} {name}",
             ),
             Feature(
                 MonitorSpecifications.COLOR_SPACE_REC709,
                 create_pattern_structure,
                 r"(\d+)\s?(%) \(?(R.. 709)\)?",
-                ["1_value", "2_unit", "z_name"],
-                separator=["", " "],
+                ["value", "unit", "name"],
+                string_repr="{value}{unit} {name}",
             ),
             Feature(
                 MonitorSpecifications.COLOR_SPACE_REC2020,
                 create_pattern_structure,
                 r"(\d+)\s?(%) \(?(R.. 2020)\)",
-                ["1_value", "2_unit", "z_name"],
-                separator=["", " "],
+                ["value", "unit", "name"],
+                string_repr="{value}{unit} {name}",
             ),
             Feature(
                 MonitorSpecifications.COLOR_SPACE_NTSC,
                 create_pattern_structure,
                 r"(\d+)\s?(%) \(?(NTSC)\)?",
-                ["1_value", "2_unit", "z_name"],
-                separator=["", " "],
+                ["value", "unit", "name"],
+                string_repr="{value}{unit} {name}",
             ),
         ],
     ),
@@ -290,19 +257,12 @@ monitor_spec = [
                 MonitorSpecifications.REFRESH_RATE,
                 create_pattern_structure,
                 r"(\d+)\s?(Hz)",
-                ["1_value", "z_unit"],
-            ),
+                ["value", "unit"],
+                string_repr="{value}\u00a0{unit}",
+            )
         ],
     ),
-    FeatureGroup(
-        "Variable Synchronisierung",
-        [
-            Feature(
-                MonitorSpecifications.VARIABLE_SYNC,
-                create_listing,
-            ),
-        ],
-    ),
+    FeatureGroup("Variable Synchronisierung", [Feature(MonitorSpecifications.VARIABLE_SYNC, create_listing)]),
     FeatureGroup(
         "Anschlüsse",
         [
@@ -310,57 +270,57 @@ monitor_spec = [
                 MonitorSpecifications.PORTS_HDMI,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(HDMI)",
-                ["1_count", "2_value"],
-                separator="x ",
+                ["count", "value"],
+                string_repr="{count}x {value}",
             ),
             Feature(
                 MonitorSpecifications.PORTS_DP,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(Display[P|p]ort)",
-                ["1_count", "2_value"],
-                separator="x ",
+                ["count", "value"],
+                string_repr="{count}x {value}",
             ),
             Feature(
                 MonitorSpecifications.PORTS_MINI_DP,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(Mini Display[P|p]ort)",
-                ["1_count", "2_value"],
-                separator="x ",
+                ["count", "value"],
+                string_repr="{count}x {value}",
             ),
             Feature(
                 MonitorSpecifications.PORTS_DVI,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(DVI)",
-                ["1_count", "2_value"],
-                separator="x ",
+                ["count", "value"],
+                string_repr="{count}x {value}",
             ),
             Feature(
                 MonitorSpecifications.PORTS_VGA,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(VGA)",
-                ["1_count", "2_value"],
-                separator="x ",
+                ["count", "value"],
+                string_repr="{count}x {value}",
             ),
             Feature(
                 MonitorSpecifications.PORTS_USB_A,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(USB-A)",
-                ["1_count", "2_value"],
-                separator="x ",
+                ["count", "value"],
+                string_repr="{count}x {value}",
             ),
             Feature(
                 MonitorSpecifications.PORTS_USB_C,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(USB-C)",
-                ["1_count", "2_value"],
-                separator="x ",
+                ["count", "value"],
+                string_repr="{count}x {value}",
             ),
             Feature(
                 MonitorSpecifications.PORTS_THUNDERBOLT,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(Thunderbolt)",
-                ["1_count", "2_value"],
-                separator="x ",
+                ["count", "value"],
+                string_repr="{count}x {value}",
             ),
         ],
     ),
@@ -371,9 +331,9 @@ monitor_spec = [
                 MonitorSpecifications.PORTS_DISPLAY_OUT,
                 create_pattern_structure,
                 r"(\d+)\s?x\s?(DisplayPort-?Out).?(\d.\d)",
-                ["1_count", "2_type", "3_version"],
-                separator=["x ", ""],
-            ),
+                ["count", "type", "version"],
+                string_repr="{count}x {type}{version}",
+            )
         ],
     ),
     FeatureGroup(
@@ -383,9 +343,9 @@ monitor_spec = [
                 MonitorSpecifications.PORTS_LAN,
                 create_pattern_structure,
                 r"(\d+)\s?x\s?(\w+\s?LAN)",  # 1x Gb LAN (RJ-45)
-                ["1_count", "2_type"],
-                separator="x ",
-            ),
+                ["count", "type"],
+                string_repr="{count}x {type}",
+            )
         ],
     ),
     FeatureGroup(
@@ -395,9 +355,9 @@ monitor_spec = [
                 MonitorSpecifications.PORTS_AUDIO,
                 create_pattern_structure,
                 r"(\d+)\s?x\s?(Line.Out)",
-                ["1_count", "2_type"],
-                separator="x ",
-            ),
+                ["count", "type"],
+                string_repr="{count}x {type}",
+            )
         ],
     ),
     FeatureGroup(
@@ -407,15 +367,15 @@ monitor_spec = [
                 MonitorSpecifications.USB_HUB_IN_USBC,
                 create_pattern_structure,
                 r"(\d+)\s?x\s?(USB Typ.C|USB.C)",  # e.g. 1x USB Typ C, 2x USB-C
-                ["1_count", "2_type"],
-                separator="x ",
+                ["count", "type"],
+                string_repr="{count}x {type}",
             ),
             Feature(
                 MonitorSpecifications.USB_HUB_IN_USBB,
                 create_pattern_structure,
                 r"(\d+)\s?x\s?(USB-B) (\d.\d)",
-                ["1_count", "2_type", "3_version"],
-                separator=["x ", " "],
+                ["count", "type", "version"],
+                string_repr="{count}x {type} {version}",
             ),
         ],
     ),
@@ -426,9 +386,9 @@ monitor_spec = [
                 MonitorSpecifications.USB_HUB_OUT,
                 create_pattern_structure,
                 r"(\d+)\s?x\s?(USB-?.?).?(\d.\d)",
-                ["1_count", "2_type", "3_version"],
-                separator=["x ", " "],
-            ),
+                ["count", "type", "version"],
+                string_repr="{count}x {type} {version}",
+            )
         ],
     ),
     FeatureGroup(
@@ -438,33 +398,26 @@ monitor_spec = [
                 MonitorSpecifications.ERGONOMICS_HEIGHT_ADJUSTABLE,
                 create_pattern_structure,
                 r"(\d+[[.|,]?\d]*)\s?(mm|cm)",
-                ["1_value", "2_unit"],
+                ["value", "unit"],
+                string_repr="{value}\u00a0{unit}",
             ),
             Feature(
                 MonitorSpecifications.ERGONOMICS_PIVOT_ANGLE,
                 create_pattern_structure,
                 r"([+|-]?\d+)\s?-\s?([+|-]?\d+)",
-                ["1_value", "2_value"],
-                separator="/",
+                ["value1", "value2"],
+                string_repr="{value1}/{value2}",
             ),
             Feature(
                 MonitorSpecifications.ERGONOMICS_TILT_ANGLE,
                 create_pattern_structure,
                 r"([+|-]?\d+)\s?[-|\/]\s?([+|-]?\d+)",
-                ["1_value", "2_value"],
-                separator="/",
+                ["value1", "value2"],
+                string_repr="{value1}/{value2}",
             ),
         ],
     ),
-    FeatureGroup(
-        "Farbe",
-        [
-            Feature(
-                MonitorSpecifications.COLOR,
-                create_listing,
-            ),
-        ],
-    ),
+    FeatureGroup("Farbe", [Feature(MonitorSpecifications.COLOR, create_listing)]),
     FeatureGroup(
         "Gewicht",
         [
@@ -472,8 +425,9 @@ monitor_spec = [
                 MonitorSpecifications.WEIGHT,
                 create_pattern_structure,
                 r"(\d+.?\d*)\s?(kg|g)",
-                ["1_value", "z_unit"],
-            ),
+                ["value", "unit"],
+                string_repr="{value}\u00a0{unit}",
+            )
         ],
     ),
     FeatureGroup(
@@ -483,19 +437,17 @@ monitor_spec = [
                 MonitorSpecifications.VESA,
                 create_pattern_structure,
                 r"(\d+)\s?x\s?(\d+)",
-                ["1_value", "2_value"],
-                separator=" x ",
-            ),
+                ["width", "height"],
+                string_repr="{width}x{height}",
+            )
         ],
     ),
     FeatureGroup(
         "Energieeffizienzklasse",
         [
             Feature(
-                name=MonitorSpecifications.ENERGY_EFFICIENCY,
-                formatter=create_pattern_structure,
-                pattern=r"[A-G][+]*",
-            ),
+                name=MonitorSpecifications.ENERGY_EFFICIENCY, formatter=create_pattern_structure, pattern=r"[A-G][+]*"
+            )
         ],
     ),
     FeatureGroup(
@@ -505,8 +457,9 @@ monitor_spec = [
                 MonitorSpecifications.POWER_CONSUMPTION_SDR,
                 create_pattern_structure,
                 r"(\d+[.|,]?\d*)\s?(mW|W)",
-                ["1_value", "2_unit"],
-            ),
+                ["value", "unit"],
+                string_repr="{value}\u00a0{unit}",
+            )
         ],
     ),
     FeatureGroup(
@@ -516,29 +469,22 @@ monitor_spec = [
                 MonitorSpecifications.POWER_CONSUMPTION_SLEEP,
                 create_pattern_structure,
                 r"(\d+[.|,]?\d*)\s?(mW|W)",
-                ["1_value", "2_unit"],
-            ),
+                ["value", "unit"],
+                string_repr="{value}\u00a0{unit}",
+            )
         ],
     ),
-    FeatureGroup(
-        "Stromversorgung",
-        [
-            Feature(
-                MonitorSpecifications.POWER_SUPPLY,
-                apply_synonyms,
-            ),
-        ],
-    ),
+    FeatureGroup("Stromversorgung", [Feature(MonitorSpecifications.POWER_SUPPLY, apply_synonyms)]),
     FeatureGroup(
         "Abmessungen",
         [
             Feature(
                 MonitorSpecifications.DIMENSIONS,
                 create_pattern_structure,
-                r"(\d+.?[\d]*)\D*x\D*(\d+.?[\d]*)\D*x\D*(\d+.?[\d]*)\D*(mm|cm)",
-                ["1_width", "2_height", "3_depth", "z_unit"],
-                separator=[" x ", " x ", " "],
-            ),
+                r"(\d+\.?[\d]*)\D*x\D*(\d+\.?[\d]*)\D*x\D*(\d+\.?[\d]*)\D*(mm|cm)",
+                ["width", "height", "depth", "unit"],
+                string_repr="{width}x{height}x{depth}\u00a0{unit}",
+            )
         ],
     ),
     FeatureGroup(
@@ -547,32 +493,27 @@ monitor_spec = [
             Feature(
                 MonitorSpecifications.BEZEL_BOTTOM,
                 create_pattern_structure,
-                r"(\d+.?[\d]*)\D*(mm|cm)",
-                ["1_width", "z_unit"],
+                r"(\d+\.?[\d]*)\D*(mm|cm)",
+                ["width", "unit"],
+                string_repr="{width}\u00a0{unit}",
             ),
             Feature(
                 MonitorSpecifications.BEZEL_SIDE,
                 create_pattern_structure,
-                r"(\d+.?[\d]*)\D*(mm|cm)",
-                ["1_width", "z_unit"],
+                r"(\d+\.?[\d]*)\D*(mm|cm)",
+                ["width", "unit"],
+                string_repr="{width}\u00a0{unit}",
             ),
             Feature(
                 MonitorSpecifications.BEZEL_TOP,
                 create_pattern_structure,
-                r"(\d+.?[\d]*)\D*(mm|cm)",
-                ["1_width", "z_unit"],
+                r"(\d+\.?[\d]*)\D*(mm|cm)",
+                ["width", "unit"],
+                string_repr="{width}\u00a0{unit}",
             ),
         ],
     ),
-    FeatureGroup(
-        "Besonderheiten",
-        [
-            Feature(
-                MonitorSpecifications.FEATURES,
-                create_listing,
-            ),
-        ],
-    ),
+    FeatureGroup("Besonderheiten", [Feature(MonitorSpecifications.FEATURES, create_listing)]),
     FeatureGroup(
         "Kabel im Lieferumfang",
         [
@@ -580,36 +521,36 @@ monitor_spec = [
                 MonitorSpecifications.CABLES_HDMI,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(HDMI-Kabel)",
-                ["1_count", "2_name"],
-                separator="x ",
+                ["count", "name"],
+                string_repr="{count}x {name}",
             ),
             Feature(
                 MonitorSpecifications.CABLES_DP,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(DisplayPort-Kabel)",
-                ["1_count", "2_name"],
-                separator="x ",
+                ["count", "name"],
+                string_repr="{count}x {name}",
             ),
             Feature(
                 MonitorSpecifications.CABLES_DVI,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(DVI-Kabel)",
-                ["1_count", "2_name"],
-                separator="x ",
+                ["count", "name"],
+                string_repr="{count}x {name}",
             ),
             Feature(
                 MonitorSpecifications.CABLES_VGA,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(VGA-Kabel)",
-                ["1_count", "2_name"],
-                separator="x ",
+                ["count", "name"],
+                string_repr="{count}x {name}",
             ),
             Feature(
                 MonitorSpecifications.CABLES_AC_POWER,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?([Strom|Netz|AC]+[-]*[K|]abel)",
-                ["1_count", "2_name"],
-                separator="x ",
+                ["count", "name"],
+                string_repr="{count}x {name}",
             ),
         ],
     ),
@@ -620,8 +561,9 @@ monitor_spec = [
                 MonitorSpecifications.WARRANTY,
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(Jahr|Monate)",
-                ["1_value", "2_unit"],
-            ),
+                ["value", "unit"],
+                string_repr="{value}\u00a0{unit}",
+            )
         ],
     ),
 ]

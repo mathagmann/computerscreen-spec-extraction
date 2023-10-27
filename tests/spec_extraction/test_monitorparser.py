@@ -42,10 +42,7 @@ def test_parse_properly(mock_synonyms):
 
 
 def test_nice_output():
-    data = {
-        "Bilddiagonale (Zoll)": {"1_value": "27", "z_unit": '"'},
-        "Bilddiagonale (cm)": {"1_value": "68.6", "z_unit": "cm"},
-    }
+    data = {"Bilddiagonale (Zoll)": {"value": "27", "unit": '"'}, "Bilddiagonale (cm)": {"value": "68.6", "unit": "cm"}}
 
     nice_output = monitor_parser.nice_output(data)
 

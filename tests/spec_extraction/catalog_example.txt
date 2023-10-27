@@ -23,12 +23,12 @@ USB-Hub Out:                   1x USB-C 3.0
 Ergonomie:                     15 cm, 90/-90, 5/22
 Farbe:                         schwarz
 Gewicht:                       10.00 kg
-VESA:                          100 x 100
+VESA:                          100x100
 Energieeffizienzklasse:        E
 Leistungsaufnahme (SDR):       20 W
 Leistungsaufnahme (Sleep):     0.5 W
 Stromversorgung:               AC-In (internes Netzteil)
-Abmessungen:                   53.3 x 20.7 x 39  cm
+Abmessungen:                   53.3x20.7x39 cm
 Besonderheiten:                Power Delivery
 Kabel im Lieferumfang:         1x HDMI-Kabel, 1x DisplayPort-Kabel, 1x DVI-Kabel, 1x VGA-Kabel, 1x Strom-Kabel
 Herstellergarantie:            2 Jahr
