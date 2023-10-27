@@ -5,7 +5,15 @@ from transformers import pipeline
 from token_classifier.ports_ml_pipeline import convert_to_original_length
 from token_classifier.ports_ml_pipeline import process_labels
 
-checkpoint = "ner_model/dslim_trained_10"
+
+def get_best_checkpoint():
+    with open("best_model.txt", "r") as f:
+        best_checkpoint = f.read().strip()
+    logger.debug(f"Best checkpoint: {best_checkpoint}")
+    return best_checkpoint
+
+
+checkpoint = get_best_checkpoint()
 model = AutoModelForTokenClassification.from_pretrained(checkpoint)
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 token_classifier = pipeline(task="ner", model=model, tokenizer=tokenizer)

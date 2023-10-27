@@ -140,6 +140,10 @@ def run_training(epochs: int = 30, name: str = "ner_model"):
 
     print(f"Best model: {trainer.state.best_model_checkpoint}")
 
+    # save name of best model
+    with open("best_model.txt", "w") as f:
+        f.write(trainer.state.best_model_checkpoint)
+
 
 if __name__ == "__main__":
     run_training()
