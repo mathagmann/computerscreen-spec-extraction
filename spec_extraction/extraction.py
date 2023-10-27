@@ -44,12 +44,14 @@ class Feature:
         pattern=None,
         match_to=None,
         separator: [str, List] = "\u00a0",
+        string_repr: [str] = None,
     ):
         self.name = name.value
         self.formatter = formatter  # DataExtractor function
         self.pattern = pattern  # regex pattern
         self.match_to = match_to  # list of keys to map to
         self.separator = separator  # default separator for print output
+        self.string_repr = string_repr  # string format placeholder
 
         if isinstance(self.separator, list):
             assert len(self.separator) + 1 == len(
@@ -89,6 +91,10 @@ class Feature:
             for k in sorted(data.keys()):
                 value = data[k]
                 output.append(f"{value}")
+
+        if self.string_repr:
+            return self.string_repr.format(**data)
+
         if isinstance(self.separator, list):
             return self._join_separator_list(output)
         return self.separator.join(output)
