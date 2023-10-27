@@ -4,7 +4,7 @@ evaluate
 jsoncomparison
 loguru
 marshmallow_dataclass
-minet
+minet == 0.67
 pandas
 playwright
 playwright-stealth
