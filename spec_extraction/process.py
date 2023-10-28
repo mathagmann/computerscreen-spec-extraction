@@ -22,6 +22,8 @@ from spec_extraction.extraction_config import MonitorParser
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
 from spec_extraction.raw_monitor import RawMonitor
+from token_classification import token_classifier
+from token_classification import utilities as ml_utils
 
 CATALOG_EXAMPLE = {
     MonitorSpecifications.EAN.value: "4710886422812",
@@ -198,6 +200,7 @@ def rate_mapping(merchant_value, catalog_value):
 class Processing:
     def __init__(self, parser: MonitorParser, data_dir, raw_specs_output_dir, specs_as_text_output_dir):
         self.parser = parser
+        self.port_classifier = token_classifier.setup()
         self.data_dir = data_dir  # Raw HTML data
         self.raw_specs_output_dir = raw_specs_output_dir  # RAW Specifications as JSON with metadata
         self.specs_as_text_output_dir = specs_as_text_output_dir  # Input for NER labeling in Label Studio
@@ -218,7 +221,7 @@ class Processing:
             os.makedirs(self.specs_as_text_output_dir, exist_ok=True)
             filename_specification = raw_monitor.html_file.rstrip(".html") + "_token_labeling.json"
             with open(self.specs_as_text_output_dir / filename_specification, "w") as raw_monitor_file:
-                product_dict["raw_specifications"] = specs_to_text(product_dict["raw_specifications"])
+                product_dict["raw_specifications"] = ml_utils.specs_to_text(product_dict["raw_specifications"])
                 json.dump(product_dict, raw_monitor_file, indent=4)
         logger.info("--- Extracting raw specifications done. ---")
 
@@ -293,7 +296,9 @@ class Processing:
                 file.write(pretty(catalog_product))
             logger.debug(f"Saved catalog ready product to {catalog_dir / catalog_filename}")
 
-    def parse_monitor_specs(self, raw_specification: dict, shop_name: str) -> dict[str, Any]:
+    def parse_monitor_specs(
+        self, raw_specification: dict, shop_name: str, enable_enhancement: bool = True
+    ) -> dict[str, Any]:
         """Extracts structured properties from raw specifications.
 
         Executes the following steps:
@@ -315,7 +320,25 @@ class Processing:
             merchant_value = raw_specification[merchant_key]
             merchant_value = clean_text(merchant_value)
             monitor_specs[catalog_key] = merchant_value
-        return self.parser.parse(monitor_specs)
+
+        ml_data = None
+        if enable_enhancement:
+            specification_text = ml_utils.specs_to_text(raw_specification)
+            labeled_data = self.port_classifier(specification_text)
+            ml_data = ml_utils.process_labels(labeled_data)
+
+        unified_specifications = self.parser.parse(monitor_specs)
+
+        if ml_data:
+            logger.info(f"Enhancing specifications with ML: {ml_data}")
+            count = ml_data["count-hdmi"] if "count-hdmi" in ml_data else 1
+            name = ml_data["type-hdmi"] if "type-hdmi" in ml_data else "HDMI"
+            hdmi_specs = {MonitorSpecifications.PORTS_HDMI.value: {"count": count, "value": name}}
+
+            logger.debug(f"Added {hdmi_specs} from ML")
+            unified_specifications.update(hdmi_specs)
+
+        return unified_specifications
 
 
 def check_example(catalog_example: dict):
