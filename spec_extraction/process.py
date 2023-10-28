@@ -355,17 +355,6 @@ def next_raw_monitor(raw_html_data_dir) -> Generator[RawMonitor, None, None]:
         yield raw_product
 
 
-def specs_to_text(raw_specifications: dict[str, Any]) -> str:
-    """Converts raw specifications into a plain text string.
-
-    Formats the text in the following format:
-
-    <property name>: <property value>
-    <property name>: <property value>
-    """
-    return "\n".join([f"{key}: {value}" for key, value in raw_specifications.items()])
-
-
 def _group_of_specs(data_dir: str) -> list[RawProduct]:
     grouped_data_for_one_screen = []
     reference_name_for_screen = None
@@ -403,9 +392,3 @@ def _next_raw_specs(data_dir: str) -> Generator[RawProduct, None, None]:
         raw_product = RawProduct.Schema().load(products_dict)
 
         yield raw_product
-
-
-if __name__ == "__main__":
-    p = Processing(MonitorParser(), "interim", "processed")
-    p.find_mappings(CATALOG_EXAMPLE)
-    p.create_monitor_specs()

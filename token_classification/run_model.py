@@ -2,16 +2,9 @@ from transformers import AutoModelForTokenClassification
 from transformers import AutoTokenizer
 from transformers import pipeline
 
-from token_classifier.ports_ml_pipeline import convert_to_original_length
-from token_classifier.ports_ml_pipeline import process_labels
-
-
-def get_best_checkpoint():
-    with open("best_model.txt", "r") as f:
-        best_checkpoint = f.read().strip()
-    logger.debug(f"Best checkpoint: {best_checkpoint}")
-    return best_checkpoint
-
+from token_classification.utilities import get_best_checkpoint
+from token_classification.utilities import process_labels
+from token_classification.utilities import reconstruct_text_from_labels
 
 checkpoint = get_best_checkpoint()
 model = AutoModelForTokenClassification.from_pretrained(checkpoint)
@@ -30,8 +23,8 @@ print(text_input)
 res = token_classifier(text_input)
 print(res)
 
-res2 = convert_to_original_length(res)
+res2 = reconstruct_text_from_labels(res)
 print(res2)
 
-structured_res = process_labels(res, preprocess=convert_to_original_length)
+structured_res = process_labels(res)
 print(structured_res)

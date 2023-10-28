@@ -1,7 +1,7 @@
 import pytest
 
-from token_classifier.ports_ml_pipeline import convert_to_original_length
-from token_classifier.ports_ml_pipeline import process_labels
+from token_classification.utilities import process_labels
+from token_classification.utilities import reconstruct_text_from_labels
 
 
 def test_recover_text():
@@ -45,12 +45,12 @@ def test_recover_text():
     ],
 )
 def test_process_labels(ml_labeled_data, expected):
-    res = process_labels(ml_labeled_data, preprocess=convert_to_original_length)
+    res = process_labels(ml_labeled_data)
 
     assert res == expected
 
 
-def test_convert_to_original_length():
+def test_reconstruct_text_from_labels():
     expected = [
         {"entity": "USBC-COUNT", "word": "1x", "start": 0, "end": 2},
         {"entity": "USBC-TYPE", "word": "USB-C", "start": 3, "end": 8},
@@ -81,6 +81,6 @@ def test_convert_to_original_length():
         {"entity": "I-USBC-DETAILS", "score": 0.5365093, "index": 21, "word": ")", "start": 40, "end": 41},
     ]
 
-    res = convert_to_original_length(labeled_data_output)
+    res = reconstruct_text_from_labels(labeled_data_output)
 
     assert res == expected
