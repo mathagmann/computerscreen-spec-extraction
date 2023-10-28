@@ -248,7 +248,7 @@ class Processing:
                     fm.flush()
         fm.flush()
 
-    def create_monitor_specs(self, catalog_dir: Path):
+    def merge_monitor_specs(self, catalog_dir: Path):
         """Extracts properties from raw specifications and merges them.
 
         The resulting product specifications are saved to a JSON file.

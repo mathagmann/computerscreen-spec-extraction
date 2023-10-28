@@ -22,4 +22,4 @@ def main():  # pragma: no cover
     p.extract_raw_specifications()
 
     p.find_mappings(CATALOG_EXAMPLE)
-    p.create_monitor_specs(product_catalog_dir)
+    p.merge_monitor_specs(product_catalog_dir)
