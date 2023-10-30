@@ -1,7 +1,7 @@
-iterator: ul#product-properties li
+iterator: :is(ul#product-properties li, div#product-tags div.tag-container)
 fields:
   title:
-    sel: span.property-title
+    sel: span[class$=title]
   description:
-    sel: span.property-value
+    sel: span[class$=value]
 filter: description
