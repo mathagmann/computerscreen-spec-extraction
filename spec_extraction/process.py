@@ -256,12 +256,6 @@ def store_product_for_catalog(specifications: dict, product_name: str, product_n
     logger.debug(f"Saved catalog ready product to {catalog_dir / catalog_filename}")
 
 
-def check_example(catalog_example: dict):
-    for feature in MonitorSpecifications.list():
-        if feature not in catalog_example:
-            logger.warning(f"Missing feature in catalog example, no auto mapping: '{feature}'")
-
-
 def html_json_to_raw_product(monitor: ExtendedOffer, raw_data_dir: Path) -> RawProduct:
     with open(raw_data_dir / monitor.html_file) as file:
         html = file.read()
