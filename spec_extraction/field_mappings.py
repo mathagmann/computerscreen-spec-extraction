@@ -8,28 +8,13 @@ from thefuzz import fuzz
 
 from spec_extraction.catalog_model import MonitorSpecifications
 
+MIN_FIELD_MAPPING_SCORE = 75
+
 
 class FieldMappings:
-    def __init__(self):
+    def __init__(self, mappings_file: Path = None):
         self.mappings = {}
-        self.filepath = Path(".") / "src" / "processing" / "auto_field_mappings.json"
-
-    def __enter__(self):
-        self.load()
-        return self
-
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        self.flush()
-
-    def load(self):
-        try:
-            with open(self.filepath) as json_file:
-                data = json.load(json_file)
-                self.mappings = _remove_empty_mappings(data)
-
-        except (FileNotFoundError, JSONDecodeError):
-            os.makedirs(self.filepath.parent, exist_ok=True)
-            self.mappings = {}
+        self.mappings_file = mappings_file
 
     def mapping_exists(self, shop_id, cat_key) -> bool:
         shop_mappings = self.get_mappings_shop(shop_id)
@@ -37,7 +22,20 @@ class FieldMappings:
             return False
         return True
 
-    def add_mapping(self, shop_id, cat_key, merch_key):
+    def get_mappings_per_shop(self, shop_id):
+        return self.mappings.get(shop_id, {})
+
+    def add_possible_mapping(self, shopname: str, merchant_value: str, catalog_value: str):
+        """Adds mapping from merchant key to catalog key.
+
+        If the mapping score is below the threshold, the mapping is not added.
+        """
+        max_score = rate_mapping(merchant_value, catalog_value)
+        if max_score >= MIN_FIELD_MAPPING_SCORE:
+            logger.debug(f"Score '{max_score}': {merchant_value}\t->\t{catalog_value}")
+            self._add_mapping(shopname, catalog_value, merchant_value)
+
+    def _add_mapping(self, shop_id, cat_key, merch_key):
         """Adds mapping from merchant key to catalog key."""
         shop_mappings = self.mappings.get(shop_id, {})
         if cat_key not in shop_mappings:
@@ -45,27 +43,32 @@ class FieldMappings:
             shop_mappings.update({cat_key: merch_key})
             self.mappings[shop_id] = shop_mappings
 
-    def get_mappings(self):
-        return self.mappings
+    def load_from_disk(self):
+        """Loads field mappings from file."""
+        try:
+            with open(self.mappings_file) as json_file:
+                data = json.load(json_file)
+                self.mappings = _strip_empty_mappings(data)
+        except (FileNotFoundError, JSONDecodeError):
+            os.makedirs(self.mappings_file.parent, exist_ok=True)
+            self.mappings = {}
 
-    def get_mappings_shop(self, shop_id):
-        return self.mappings.get(shop_id, {})
-
-    def flush(self):
-        # write mappings to file
-        with open(self.filepath, "w") as outfile:
+    def save_to_disk(self):
+        """Saves field mappings to file."""
+        with open(self.mappings_file, "w") as outfile:
             filled_mappings = _fill_empty_mappings(self.mappings)
             json.dump(filled_mappings, outfile, indent=4, sort_keys=True)
         create_mapping_stats(filled_mappings)
-        logger.debug(f"Flushed mappings to {str(self.filepath).split('/')[-1]}")
+        logger.debug(f"Flushed mappings to {str(self.mappings_file).split('/')[-1]}")
 
-    def rate_mapping(self, merchant_value, catalog_value):
-        max_score = fuzz.ratio(merchant_value, catalog_value)
-        for value in merchant_value.split(","):
-            res = fuzz.ratio(value, catalog_value)
-            if res > max_score:
-                max_score = res
-        return max_score
+
+def rate_mapping(merchant_value, catalog_value):
+    max_score = fuzz.ratio(merchant_value, catalog_value)
+    for value in merchant_value.split(","):
+        res = fuzz.ratio(value, catalog_value)
+        if res > max_score:
+            max_score = res
+    return max_score
 
 
 def create_mapping_stats(mappings: dict[str, dict[str, str]]) -> int:
@@ -93,7 +96,7 @@ def _fill_empty_mappings(mappings: dict[str, dict[str, str]]) -> dict[str, dict[
     return save_mappings
 
 
-def _remove_empty_mappings(data):
+def _strip_empty_mappings(data):
     """Removes empty mappings from working data."""
     mappings = {}
     for shop, specs in data.items():

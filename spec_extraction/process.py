@@ -84,7 +84,6 @@ CATALOG_EXAMPLE = {
     MonitorSpecifications.CABLES_AC_POWER.value: "1x Strom-Kabel",
     MonitorSpecifications.WARRANTY.value: "2 Jahre",
 }
-FIELD_MAPPING_MIN_SCORE = 75
 
 
 def pretty(dictionary: dict):
@@ -92,8 +91,16 @@ def pretty(dictionary: dict):
 
 
 class Processing:
-    def __init__(self, parser: MonitorParser, data_dir, raw_specs_output_dir, specs_as_text_output_dir):
+    def __init__(
+        self,
+        parser: MonitorParser,
+        data_dir,
+        raw_specs_output_dir,
+        specs_as_text_output_dir,
+        field_mappings_file: Path = Path(__file__) / "processing" / "auto_field_mappings.json",
+    ):
         self.parser = parser
+        self.field_mappings = FieldMappings(field_mappings_file).load_from_disk()
         self.port_classifier = token_classifier.setup()
         self.data_dir = data_dir  # Raw HTML data
         self.raw_specs_output_dir = raw_specs_output_dir  # RAW Specifications as JSON with metadata
@@ -110,26 +117,14 @@ class Processing:
             except exceptions.ShopParserNotImplementedError:
                 continue
 
-            # Write raw specs to file in output_dir
-            filename_specification = raw_monitor.html_file.rstrip(".html") + "_specification.json"
-
-            product_dict = RawProduct.Schema().dump(raw_monitor)
-            with open(self.raw_specs_output_dir / filename_specification, "w") as raw_monitor_file:
-                json.dump(product_dict, raw_monitor_file, indent=4)
-
-            # prepare plain text for NER labeling too
-            os.makedirs(self.specs_as_text_output_dir, exist_ok=True)
-            filename_specification = raw_monitor.html_file.rstrip(".html") + "_token_labeling.json"
-            with open(self.specs_as_text_output_dir / filename_specification, "w") as raw_monitor_file:
-                product_dict["raw_specifications"] = ml_utils.specs_to_text(product_dict["raw_specifications"])
-                json.dump(product_dict, raw_monitor_file, indent=4)
-        logger.info("--- Extracting raw specifications done. ---")
+            save_raw_specifications(self.raw_specs_output_dir, raw_monitor)
+            export_for_token_labeling(self.specs_as_text_output_dir, raw_monitor, raw_monitor.html_file)
+        logger.info("--- Extracting raw specifications done ---")
 
     def find_mappings(self, catalog_example: Dict[MonitorSpecifications, str]):
-        logger.info("Find mappings...")
-        check_example(catalog_example)
-
-        with FieldMappings() as fm:
+        """Automatically finds mappings from extracted specification keys to unified catalog keys."""
+        logger.info("--- Find mappings... ---")
+        try:
             for idx, monitor_extended_offer in enumerate(get_products_from_path(self.data_dir)):
                 try:
                     raw_monitor = html_json_to_raw_product(monitor_extended_offer, self.data_dir)
@@ -138,22 +133,15 @@ class Processing:
                 for catalog_key, example_value in catalog_example.items():
                     # Tries to map a merchant key to a catalog key.
                     for merchant_key, merchant_text in raw_monitor.raw_specifications.items():
-                        if not merchant_text or fm.mapping_exists(raw_monitor.shop_name, catalog_key):
-                            continue
-                        merchant_text = clean_text(merchant_text)
-                        if not merchant_text:
+                        if not merchant_text or self.field_mappings.mapping_exists(raw_monitor.shop_name, catalog_key):
                             continue
 
-                        # Check possible new mappings
-                        catalog_text = catalog_example[catalog_key]
-                        max_score = fm.rate_mapping(merchant_text, catalog_text)
-                        if max_score >= FIELD_MAPPING_MIN_SCORE:
-                            logger.debug(f"Score '{max_score}': {merchant_text}\t->\t{catalog_text}")
-                            fm.add_mapping(raw_monitor.shop_name, catalog_key, merchant_key)
-                # logger.debug(f"Mappings for {monitor['title']} done")
+                        self.field_mappings.add_possible_mapping(raw_monitor.shop_name, catalog_key, merchant_key)
                 if idx % 1000 == 0:
-                    fm.flush()
-        fm.flush()
+                    self.field_mappings.save_to_disk()
+        finally:
+            self.field_mappings.save_to_disk()
+        logger.info("--- Find mappings done ---")
 
     def merge_monitor_specs(self, catalog_dir: Path):
         """Extracts properties from raw specifications and merges them.
@@ -169,20 +157,20 @@ class Processing:
         self.parser.init()
 
         os.makedirs(catalog_dir, exist_ok=True)
-        for grouped_specs in _group_of_specs(self.raw_specs_output_dir):
+        for grouped_specs_single_screen in get_all_raw_specs_per_screen(self.raw_specs_output_dir):
             # Handle specifications for one product
 
             # Steps: Schema matching and extraction
             product_data = {}
             product_name = None
             product_id = None
-            for raw_product in grouped_specs:
+            for raw_product in grouped_specs_single_screen:
                 if not product_name:
                     product_name = raw_product.name
                     matched_groups = re.search(r"\d+", raw_product.reference_file)
                     product_id = matched_groups.group(0)  # first number in filename
 
-                structured_specs = self.parse_monitor_specs(raw_product.raw_specifications, raw_product.shop_name)
+                structured_specs = self.extract_properties(raw_product.raw_specifications, raw_product.shop_name)
                 product_data[raw_product.shop_name] = structured_specs
 
             # Step: Value fusion, last shop wins
@@ -190,24 +178,20 @@ class Processing:
 
             store_product_for_catalog(combined_specs, product_name, product_id, catalog_dir)
 
-    def parse_monitor_specs(
+    def extract_properties(
         self, raw_specification: dict, shop_name: str, enable_enhancement: bool = True
     ) -> dict[str, Any]:
         """Extracts structured properties from raw specifications.
 
-        Executes the following steps:
-        - Schema matching
-        - Property extraction
+        Relies on field mappings and ML enhancement.
         """
-        fm = FieldMappings()
-        fm.load()
         monitor_specs = {}
         for catalog_key in MonitorSpecifications:
             catalog_key = catalog_key.value
-            if catalog_key not in fm.get_mappings_shop(shop_name):
+            if catalog_key not in self.field_mappings.get_mappings_shop(shop_name):
                 continue
 
-            merchant_key = fm.get_mappings_shop(shop_name)[catalog_key]
+            merchant_key = self.field_mappings.get_mappings_shop(shop_name)[catalog_key]
             if merchant_key not in raw_specification:
                 continue
 
@@ -274,12 +258,39 @@ def html_json_to_raw_product(monitor: ExtendedOffer, raw_data_dir: Path) -> RawP
     data = monitor.__dict__
     data["raw_specifications"] = raw_specifications
     data["name"] = product_name
-    raw_product = RawProduct.Schema().load(data, unknown=EXCLUDE)
-
-    return raw_product
+    return RawProduct.Schema().load(data, unknown=EXCLUDE)
 
 
-def _group_of_specs(data_dir: str) -> Generator[RawProduct, None, None]:
+def save_raw_specifications(output_dir: Path, raw_monitor: RawProduct):
+    raw_spec_filename = raw_monitor.html_file.rstrip(".html") + "_specification.json"
+    product_dict = RawProduct.Schema().dump(raw_monitor)
+    with open(output_dir / raw_spec_filename, "w") as raw_monitor_file:
+        json.dump(product_dict, raw_monitor_file, indent=4)
+
+
+def export_for_token_labeling(export_dir: Path, raw_monitor: RawProduct, html_filename: str):
+    """Exports the raw specifications as plain text for NER labeling in Label Studio.
+
+    Creates a JSON file with postfix token_labeling and the following structure:
+    {
+        "name": "text",
+        "raw_specifications": "text",
+        "shop_name": "text",
+        "price": "number",
+        "html_file": "text"
+        "offer_link": "text"
+        "reference_file": "text",
+    }
+    """
+    os.makedirs(export_dir, exist_ok=True)
+    filename_specification = html_filename.rstrip(".html") + "_token_labeling.json"
+    with open(export_dir / filename_specification, "w") as raw_monitor_file:
+        product = RawProduct.Schema().dump(raw_monitor)
+        product["raw_specifications"] = ml_utils.specs_to_text(product["raw_specifications"])
+        json.dump(product, raw_monitor_file, indent=4)
+
+
+def get_all_raw_specs_per_screen(data_dir: str) -> Generator[RawProduct, None, None]:
     grouped_data_for_one_screen = []
     reference_name_for_screen = None
     for raw_product in _next_raw_specs(data_dir):
