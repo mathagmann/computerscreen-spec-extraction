@@ -268,36 +268,26 @@ class Processing:
         self.parser.init()
 
         os.makedirs(catalog_dir, exist_ok=True)
-
-        # Value fusion
         for grouped_specs in _group_of_specs(self.raw_specs_output_dir):
-            combined_specs = {}
+            # Handle specifications for one product
+
+            # Steps: Schema matching and extraction
+            product_data = {}
             product_name = None
+            product_id = None
             for raw_product in grouped_specs:
-                product_name = raw_product.name
+                if not product_name:
+                    product_name = raw_product.name
+                    matched_groups = re.search(r"\d+", raw_product.reference_file)
+                    product_id = matched_groups.group(0)  # first number in filename
 
                 structured_specs = self.parse_monitor_specs(raw_product.raw_specifications, raw_product.shop_name)
+                product_data[raw_product.shop_name] = structured_specs
 
-                logger.debug(
-                    f"Parsing monitor '{product_name}' from '{raw_product.shop_name}':\n"
-                    f"{pretty(raw_product.raw_specifications)}"
-                )
-                # Value fusion, last shop wins
-                combined_specs: dict = combined_specs | structured_specs
-                print(f"{product_name} specs from '{raw_product.shop_name}':\n{pretty(structured_specs)}")
+            # Step: Value fusion, last shop wins
+            combined_specs = value_fusion(product_data)
 
-            print(f"{product_name}\n{self.parser.nice_output(combined_specs)}")
-
-            # Store structured product specifications in catalog directory
-            matched_groups = re.search(r"\d+", raw_product.reference_file)
-            product_nr = matched_groups.group(0)
-
-            catalog_filename = f"product_{product_nr}_catalog.json"
-            with open(catalog_dir / catalog_filename, "w") as file:
-                catalog = dict(name=product_name, specifications=combined_specs)
-                catalog_product = CatalogProduct.Schema().dump(catalog)
-                file.write(pretty(catalog_product))
-            logger.debug(f"Saved catalog ready product to {catalog_dir / catalog_filename}")
+            store_product_for_catalog(combined_specs, product_name, product_id, catalog_dir)
 
     def parse_monitor_specs(
         self, raw_specification: dict, shop_name: str, enable_enhancement: bool = True
@@ -342,6 +332,27 @@ class Processing:
             unified_specifications.update(hdmi_specs)
 
         return unified_specifications
+
+
+def value_fusion(specs_per_shop: dict[str, dict]) -> dict:
+    """Merges specifications from multiple shops into one dict.
+
+    Logic: Last shop wins.
+    """
+    combined_specs = {}
+    for shopname, structured_specs in specs_per_shop.items():
+        combined_specs |= structured_specs
+        print(f"{shopname} specs from '{shopname}':\n{pretty(structured_specs)}")
+    return combined_specs
+
+
+def store_product_for_catalog(specifications: dict, product_name: str, product_nr: int, catalog_dir: Path):
+    catalog_filename = f"product_{product_nr}_catalog.json"
+    with open(catalog_dir / catalog_filename, "w") as file:
+        catalog = dict(name=product_name, specifications=specifications)
+        catalog_product = CatalogProduct.Schema().dump(catalog)
+        file.write(pretty(catalog_product))
+    logger.debug(f"Saved catalog ready product to {catalog_dir / catalog_filename}")
 
 
 def check_example(catalog_example: dict):
