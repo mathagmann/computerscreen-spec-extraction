@@ -1,9 +1,7 @@
 from pathlib import Path
 from unittest import mock
 
-import pytest
 from datasets import load_dataset
-from datasets import load_dataset_builder
 from transformers import BertTokenizer
 
 from ner_data.computerscreens2023.prepare_data import create_data_loader
@@ -48,15 +46,6 @@ def test_custom_dataset():
 
     for dataset in local_csv_dataset.values():
         assert dataset.column_names == ["tokens", "ner_tags"]
-
-
-@pytest.mark.skip(reason="This test is not yet implemented.")
-def test_custom_dataset_loader():
-    script_path = str(DATASETS_PATH / "computerscreens2023")
-    local_csv_dataset = load_dataset_builder(script_path)
-
-    for dataset in local_csv_dataset.values():
-        assert dataset.column_names == ["token", "ner_tags"]
 
 
 def test_create_brise_dataset():
