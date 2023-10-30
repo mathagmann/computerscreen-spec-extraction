@@ -185,40 +185,64 @@ class Processing:
     ) -> dict[str, Any]:
         """Extracts structured properties from raw specifications.
 
-        Relies on field mappings and ML enhancement.
+        Relies on field mappings and optional machine learning enhancement.
         """
         monitor_specs = {}
         for catalog_key in MonitorSpecifications:
             catalog_key = catalog_key.value
-            if catalog_key not in self.field_mappings.get_mappings_shop(shop_name):
+            mapping_per_shop = self.field_mappings.get_mappings_per_shop(shop_name)
+            if catalog_key not in mapping_per_shop:
                 continue
 
-            merchant_key = self.field_mappings.get_mappings_shop(shop_name)[catalog_key]
+            merchant_key = mapping_per_shop[catalog_key]
             if merchant_key not in raw_specification:
                 continue
 
             merchant_value = raw_specification[merchant_key]
             merchant_value = clean_text(merchant_value)
             monitor_specs[catalog_key] = merchant_value
-
-        ml_data = None
-        if enable_enhancement:
-            specification_text = ml_utils.specs_to_text(raw_specification)
-            labeled_data = self.port_classifier(specification_text)
-            ml_data = ml_utils.process_labels(labeled_data)
-
         unified_specifications = self.parser.parse(monitor_specs)
 
-        if ml_data:
-            logger.info(f"Enhancing specifications with ML: {ml_data}")
-            count = ml_data["count-hdmi"] if "count-hdmi" in ml_data else 1
-            name = ml_data["type-hdmi"] if "type-hdmi" in ml_data else "HDMI"
-            hdmi_specs = {MonitorSpecifications.PORTS_HDMI.value: {"count": count, "value": name}}
+        machine_learning_specs = {}
+        if enable_enhancement:
+            labeled_data = classify_specifications_with_ml(raw_specification, self.port_classifier)
+            machine_learning_specs = get_ml_specs(labeled_data)
+            logger.debug(f"ML specs from '{shop_name}':\n{pretty(machine_learning_specs)}")
 
-            logger.debug(f"Added {hdmi_specs} from ML")
-            unified_specifications.update(hdmi_specs)
+        return unified_specifications | machine_learning_specs
 
-        return unified_specifications
+
+def get_ml_specs(labeled_data: dict) -> dict:
+    """Merges ML specifications into unified specifications."""
+    port_mappings = {
+        "hdmi": MonitorSpecifications.PORTS_HDMI.value,
+        "displayport": MonitorSpecifications.PORTS_DP.value,
+        "usb-a": MonitorSpecifications.PORTS_USB_A.value,
+        "usb-c": MonitorSpecifications.PORTS_USB_C.value,
+    }
+
+    # maps ML output to product catalog dict for a port
+    value_mappings = {"type-{port}": "value", "count-{port}": "count", "version-{port}": "version"}
+
+    ml_specs = {}
+    for short_port_name, unified_port_name in port_mappings.items():
+        port_values = {}
+        for value_key, catalog_sub_key in value_mappings.items():
+            ml_label_name = value_key.format(port=short_port_name)
+            if ml_label_name in labeled_data:
+                port_values[catalog_sub_key] = labeled_data[ml_label_name]
+
+        if port_values:
+            ml_specs[unified_port_name] = port_values
+
+    return ml_specs
+
+
+def classify_specifications_with_ml(specifications: dict, classify_func) -> dict:
+    """Classifies specifications with ML and returns data"""
+    specification_text = ml_utils.specs_to_text(specifications)
+    labeled_data = classify_func(specification_text)
+    return ml_utils.process_labels(labeled_data)
 
 
 def value_fusion(specs_per_shop: dict[str, dict]) -> dict:

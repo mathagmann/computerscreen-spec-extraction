@@ -1,6 +1,8 @@
 from pathlib import Path
 from typing import Any
 
+from loguru import logger
+
 
 def specs_to_text(raw_specifications: dict[str, Any]) -> str:
     """Converts raw specifications into plain text for token classification.
@@ -84,7 +86,7 @@ def process_labels(labeled_data: list[dict]) -> dict:
         value = label["word"]
         if key in structured_data:
             if structured_data[key] != value:
-                raise ValueError(f"Key {key} has multiple values: {structured_data[key]} and {value}")
+                logger.error(f"Multiple values for key {key}: {structured_data[key]} and {value}")
         else:
             structured_data[key] = value
 
