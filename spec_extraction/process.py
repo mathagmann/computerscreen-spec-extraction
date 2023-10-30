@@ -1,7 +1,6 @@
 import json
 import os
 import re
-from json import JSONDecodeError
 from pathlib import Path
 from typing import Any
 from typing import Dict
@@ -10,15 +9,16 @@ from typing import Generator
 from jsoncomparison import Compare
 from loguru import logger
 from marshmallow import EXCLUDE
-from thefuzz import fuzz
 
 from data_generation.create_data import ExtendedOffer
 from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
 from merchant_html_parser import shop_parser
+from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import clean_text
 from spec_extraction.extraction_config import MonitorParser
+from spec_extraction.field_mappings import FieldMappings
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
 from token_classification import token_classifier
@@ -103,99 +103,6 @@ def compare_specifications(reference_spec: dict, catalog_spec: dict) -> int:
     return len(wrong_entries)
 
 
-class FieldMappings:
-    def __init__(self):
-        self.mappings = {}
-        self.filepath = Path(".") / "src" / "processing" / "auto_field_mappings.json"
-
-    def __enter__(self):
-        self.load()
-        return self
-
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        self.flush()
-
-    def load(self):
-        try:
-            with open(self.filepath) as json_file:
-                data = json.load(json_file)
-                self.mappings = _remove_empty_mappings(data)
-
-        except (FileNotFoundError, JSONDecodeError):
-            os.makedirs(self.filepath.parent, exist_ok=True)
-            self.mappings = {}
-
-    def mapping_exists(self, shop_id, cat_key) -> bool:
-        shop_mappings = self.get_mappings_shop(shop_id)
-        if cat_key not in shop_mappings:
-            return False
-        return True
-
-    def add_mapping(self, shop_id, cat_key, merch_key):
-        """Adds mapping from merchant key to catalog key."""
-        shop_mappings = self.mappings.get(shop_id, {})
-        if cat_key not in shop_mappings:
-            logger.info(f"Add mapping for '{shop_id}': {merch_key} -> {cat_key}")
-            shop_mappings.update({cat_key: merch_key})
-            self.mappings[shop_id] = shop_mappings
-
-    def get_mappings(self):
-        return self.mappings
-
-    def get_mappings_shop(self, shop_id):
-        return self.mappings.get(shop_id, {})
-
-    def flush(self):
-        # write mappings to file
-        with open(self.filepath, "w") as outfile:
-            filled_mappings = _fill_empty_mappings(self.mappings)
-            json.dump(filled_mappings, outfile, indent=4, sort_keys=True)
-        create_mapping_stats(filled_mappings)
-        logger.debug(f"Flushed mappings to {str(self.filepath).split('/')[-1]}")
-
-
-def create_mapping_stats(mappings: dict[str, dict[str, str]]) -> int:
-    """Counts and Returns automatically mapped properties."""
-    non_empty_mappings = 0
-    total_possible_mappings = 0
-    for shop in mappings:
-        for cat_key in mappings[shop]:
-            if mappings[shop][cat_key]:
-                non_empty_mappings += 1
-            total_possible_mappings += 1
-    logger.info(
-        f"{non_empty_mappings}/{total_possible_mappings} properties automatically mapped for {len(mappings)} shops"
-    )
-    return non_empty_mappings
-
-
-def _fill_empty_mappings(mappings: Dict[str, Dict[str, str]]) -> Dict[str, Dict[str, str]]:
-    """Fills empty mappings with None to simplify manual improvements."""
-    save_mappings = {}
-    for shop in mappings:
-        save_mappings[shop] = {}
-        for cat_key in MonitorSpecifications.list():
-            save_mappings[shop][cat_key] = mappings[shop].get(cat_key, None)
-    return save_mappings
-
-
-def _remove_empty_mappings(data):
-    """Removes empty mappings from working data."""
-    mappings = {}
-    for shop, specs in data.items():
-        mappings[shop] = {k: v for k, v in specs.items() if v is not None}
-    return mappings
-
-
-def rate_mapping(merchant_value, catalog_value):
-    max_score = fuzz.ratio(merchant_value, catalog_value)
-    for value in merchant_value.split(","):
-        res = fuzz.ratio(value, catalog_value)
-        if res > max_score:
-            max_score = res
-    return max_score
-
-
 class Processing:
     def __init__(self, parser: MonitorParser, data_dir, raw_specs_output_dir, specs_as_text_output_dir):
         self.parser = parser
@@ -210,7 +117,10 @@ class Processing:
         os.makedirs(self.raw_specs_output_dir, exist_ok=True)
         for idx, monitor_extended_offer in enumerate(get_products_from_path(self.data_dir)):
             logger.debug(f"Extracting {idx} {monitor_extended_offer.html_file}")
-            raw_monitor = html_json_to_raw_product(monitor_extended_offer, self.data_dir)
+            try:
+                raw_monitor = html_json_to_raw_product(monitor_extended_offer, self.data_dir)
+            except exceptions.ShopParserNotImplementedError:
+                continue
 
             # Write raw specs to file in output_dir
             filename_specification = raw_monitor.html_file.rstrip(".html") + "_specification.json"
@@ -233,7 +143,10 @@ class Processing:
 
         with FieldMappings() as fm:
             for idx, monitor_extended_offer in enumerate(get_products_from_path(self.data_dir)):
-                raw_monitor = html_json_to_raw_product(monitor_extended_offer, self.data_dir)
+                try:
+                    raw_monitor = html_json_to_raw_product(monitor_extended_offer, self.data_dir)
+                except exceptions.ShopParserNotImplementedError:
+                    continue
                 for catalog_key, example_value in catalog_example.items():
                     # Tries to map a merchant key to a catalog key.
                     for merchant_key, merchant_text in raw_monitor.raw_specifications.items():
@@ -245,7 +158,7 @@ class Processing:
 
                         # Check possible new mappings
                         catalog_text = catalog_example[catalog_key]
-                        max_score = rate_mapping(merchant_text, catalog_text)
+                        max_score = fm.rate_mapping(merchant_text, catalog_text)
                         if max_score >= FIELD_MAPPING_MIN_SCORE:
                             logger.debug(f"Score '{max_score}': {merchant_text}\t->\t{catalog_text}")
                             fm.add_mapping(raw_monitor.shop_name, catalog_key, merchant_key)
