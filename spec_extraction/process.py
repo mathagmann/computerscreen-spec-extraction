@@ -6,7 +6,6 @@ from typing import Any
 from typing import Dict
 from typing import Generator
 
-from jsoncomparison import Compare
 from loguru import logger
 from marshmallow import EXCLUDE
 
@@ -90,17 +89,6 @@ FIELD_MAPPING_MIN_SCORE = 75
 
 def pretty(dictionary: dict):
     return json.dumps(dictionary, indent=4, sort_keys=True)
-
-
-def compare_specifications(reference_spec: dict, catalog_spec: dict) -> int:
-    """Compares two dicts and outputs non-empty, different values."""
-    diff = Compare().check(reference_spec, catalog_spec)
-    wrong_entries = list(
-        filter(lambda elem: "_message" in elem and "Values not equal" in elem["_message"], diff.values())
-    )
-    if wrong_entries:
-        logger.warning(f"Diff:\n{json.dumps(wrong_entries, indent=4, sort_keys=True)}")
-    return len(wrong_entries)
 
 
 class Processing:
