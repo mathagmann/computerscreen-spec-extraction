@@ -114,20 +114,29 @@ class FeatureGroup:
 class Parser:
     """Parses a semi-structured specifications to structured specifications."""
 
-    def __init__(self, specifications: List[FeatureGroup], separator: str = "\n"):
+    def __init__(
+        self,
+        specifications: List[FeatureGroup],
+        separator: str = "\n",
+        bow_file: Path = Path(__file__) / "preparation" / "bow.json",
+    ):
         self.specifications = specifications
         self.separator = separator
+        self.bow_file = bow_file
         self.parser = {}
         self.last_data = None
         self.bow = None
         self.parse_count = 0
 
     def init(self):
-        """Prepare parser"""
+        """Build parser configuration from feature groups.
+
+        Initializes the bag of words.
+        """
         for feature_group in self.specifications:
             for feature in feature_group.features:
                 self.parser[feature.name] = feature
-        self.bow = BagOfWords()
+        self.bow = BagOfWords(self.bow_file)
 
     def parse(self, raw_specifications: dict) -> dict:
         """Parses features from raw specifications and returns a plain dict."""
@@ -144,7 +153,7 @@ class Parser:
                 self.bow.add_word(feature_name, feature_value)
         self.parse_count += 1
         if self.parse_count % 1000 == 0:  # last entries not written to file
-            self.bow.flush()
+            self.bow.save_to_disk()
         return result
 
     def nice_output(self, parsed_data: dict) -> str:
