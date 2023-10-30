@@ -12,16 +12,15 @@ from loguru import logger
 from marshmallow import EXCLUDE
 from thefuzz import fuzz
 
-from data_generation import utilities
+from data_generation.create_data import ExtendedOffer
+from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
 from merchant_html_parser import shop_parser
-from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import clean_text
 from spec_extraction.extraction_config import MonitorParser
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
-from spec_extraction.raw_monitor import RawMonitor
 from token_classification import token_classifier
 from token_classification import utilities as ml_utils
 
@@ -209,7 +208,10 @@ class Processing:
         logger.info("--- Extracting raw specifications... ---")
 
         os.makedirs(self.raw_specs_output_dir, exist_ok=True)
-        for idx, raw_monitor in enumerate(next_raw_monitor(self.data_dir)):
+        for idx, monitor_extended_offer in enumerate(get_products_from_path(self.data_dir)):
+            logger.debug(f"Extracting {idx} {monitor_extended_offer.html_file}")
+            raw_monitor = html_json_to_raw_product(monitor_extended_offer, self.data_dir)
+
             # Write raw specs to file in output_dir
             filename_specification = raw_monitor.html_file.rstrip(".html") + "_specification.json"
 
@@ -230,7 +232,8 @@ class Processing:
         check_example(catalog_example)
 
         with FieldMappings() as fm:
-            for idx, raw_monitor in enumerate(next_raw_monitor(self.data_dir)):
+            for idx, monitor_extended_offer in enumerate(get_products_from_path(self.data_dir)):
+                raw_monitor = html_json_to_raw_product(monitor_extended_offer, self.data_dir)
                 for catalog_key, example_value in catalog_example.items():
                     # Tries to map a merchant key to a catalog key.
                     for merchant_key, merchant_text in raw_monitor.raw_specifications.items():
@@ -347,38 +350,30 @@ def check_example(catalog_example: dict):
             logger.warning(f"Missing feature in catalog example, no auto mapping: '{feature}'")
 
 
-def next_raw_monitor(raw_html_data_dir) -> Generator[RawMonitor, None, None]:
-    products = utilities.load_products(raw_html_data_dir)
-    for monitor in products:
-        # load raw HTML
-        with open(raw_html_data_dir / monitor.html_file) as file:
-            html = file.read()
+def html_json_to_raw_product(monitor: ExtendedOffer, raw_data_dir: Path) -> RawProduct:
+    with open(raw_data_dir / monitor.html_file) as file:
+        html = file.read()
 
-        try:
-            raw_specifications = shop_parser.extract_tabular_data(html, monitor.shop_name)
-        except exceptions.ShopParserNotImplementedError:
-            continue
+    raw_specifications = shop_parser.extract_tabular_data(html, monitor.shop_name)
+    if not raw_specifications:
+        logger.warning(f"Empty specifications for {monitor.html_file} from {monitor.shop_name}")
 
-        if not raw_specifications:
-            logger.debug(f"Empty specifications for {monitor.html_file} from {monitor.shop_name}")
-            continue
+    # Retrieve name from Geizhals reference JSON
+    with open(raw_data_dir / monitor.reference_file) as geizhals_file:
+        product_dict = json.load(geizhals_file)
+        geizhals_reference = ProductPage.Schema().load(product_dict)
+    product_name = geizhals_reference.product_name
 
-        # Retrieve name from Geizhals reference JSON
-        with open(raw_html_data_dir / monitor.reference_file) as geizhals_file:
-            product_dict = json.load(geizhals_file)
-            geizhals_reference = ProductPage.Schema().load(product_dict)
-        product_name = geizhals_reference.product_name
+    # turn data and raw_specifications into RawProduct
+    data = monitor.__dict__
+    data["raw_specifications"] = raw_specifications
+    data["name"] = product_name
+    raw_product = RawProduct.Schema().load(data, unknown=EXCLUDE)
 
-        # turn data and raw_specifications into RawProduct
-        data = monitor.__dict__
-        data["raw_specifications"] = raw_specifications
-        data["name"] = product_name
-        raw_product = RawProduct.Schema().load(data, unknown=EXCLUDE)
-
-        yield raw_product
+    return raw_product
 
 
-def _group_of_specs(data_dir: str) -> list[RawProduct]:
+def _group_of_specs(data_dir: str) -> Generator[RawProduct, None, None]:
     grouped_data_for_one_screen = []
     reference_name_for_screen = None
     for raw_product in _next_raw_specs(data_dir):
