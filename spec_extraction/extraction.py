@@ -8,7 +8,7 @@ from loguru import logger
 from spec_extraction import exceptions
 from spec_extraction.bag_of_words import BagOfWords
 
-CONFIG_DIR = Path(__file__).parent / "configs"
+CONFIG_DIR = Path(__file__).parent / "preparation"
 
 
 def clean_text(text):
