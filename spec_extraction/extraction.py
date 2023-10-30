@@ -90,12 +90,11 @@ class Feature:
 class FeatureGroup:
     """Groups related features together."""
 
-    def __init__(self, name: str, features: List[Feature] = [], separator: str = ", "):
+    def __init__(self, name: str, features: List[Feature] = []):
         self.name = name
         self.features = features
-        self.separator = separator
 
-    def nice_output(self, full_data: dict) -> str:
+    def nice_output(self, full_data: dict, separator: str = ", ") -> str:
         """Returns a nicely formatted output of the data."""
         output = []
         for feature in self.features:
@@ -109,7 +108,7 @@ class FeatureGroup:
                 raise exceptions.NicePlotError
         if not output:
             raise exceptions.NicePlotError("Empty output")
-        return self.separator.join(output)
+        return separator.join(output)
 
 
 class Parser:
