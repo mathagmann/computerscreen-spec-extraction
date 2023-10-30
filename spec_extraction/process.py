@@ -97,14 +97,16 @@ class Processing:
         data_dir,
         raw_specs_output_dir,
         specs_as_text_output_dir,
-        field_mappings_file: Path = Path(__file__) / "processing" / "auto_field_mappings.json",
+        field_mappings_file: Path = Path(__file__).parent / "processing" / "auto_field_mappings.json",
     ):
         self.parser = parser
-        self.field_mappings = FieldMappings(field_mappings_file).load_from_disk()
+        self.field_mappings = FieldMappings(field_mappings_file)
         self.port_classifier = token_classifier.setup()
         self.data_dir = data_dir  # Raw HTML data
         self.raw_specs_output_dir = raw_specs_output_dir  # RAW Specifications as JSON with metadata
         self.specs_as_text_output_dir = specs_as_text_output_dir  # Input for NER labeling in Label Studio
+
+        self.field_mappings.load_from_disk()
 
     def extract_raw_specifications(self):
         logger.info("--- Extracting raw specifications... ---")
