@@ -236,8 +236,9 @@ def get_ml_specs(labeled_data: dict) -> dict:
                 port_values[catalog_sub_key] = labeled_data[ml_label_name]
 
         if port_values:
-            if "count" not in port_values:
-                port_values["count"] = "1"
+            if "count" in port_values:
+                port_values["count"] = re.search(r"\d+", port_values["count"])
+            port_values["count"] = "1"
 
             ml_specs[unified_port_name] = port_values
 
