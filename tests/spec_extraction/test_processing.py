@@ -54,7 +54,7 @@ def test_classify_specifications():
             },
             {
                 MonitorSpecifications.PORTS_DP.value: {"value": "DisplayPort", "count": "1", "version": "1.2"},
-                MonitorSpecifications.PORTS_HDMI.value: {"value": "HDMI"},
+                MonitorSpecifications.PORTS_HDMI.value: {"count": "1", "value": "HDMI"},
             },
         ),
     ],

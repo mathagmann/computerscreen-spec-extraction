@@ -17,7 +17,7 @@ class FieldMappings:
         self.mappings_file = mappings_file
 
     def mapping_exists(self, shop_id, cat_key) -> bool:
-        shop_mappings = self.get_mappings_shop(shop_id)
+        shop_mappings = self.get_mappings_per_shop(shop_id)
         if cat_key not in shop_mappings:
             return False
         return True

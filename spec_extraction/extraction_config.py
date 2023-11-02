@@ -1,6 +1,7 @@
 import json
 import re
 from functools import lru_cache
+from typing import Any
 from typing import List
 
 from loguru import logger
@@ -9,6 +10,7 @@ from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import Feature
 from spec_extraction.extraction import FeatureGroup
+from spec_extraction.extraction import MLFeature
 from spec_extraction.extraction import Parser
 
 """Data extraction functions for the Parser."""
@@ -146,7 +148,7 @@ monitor_spec = [
             Feature(
                 MonitorSpecifications.REACTION_TIME,
                 create_pattern_structure,
-                r"(\d+.?\d*)\s*\(?\S*\)?\s*(ms)",  # 0,5 (MPRT) ms
+                r"(\d+\.?\d*)\s*\(?\S*\)?\s*(ms)",  # 0,5 (MPRT) ms
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
             )
@@ -266,13 +268,18 @@ monitor_spec = [
     FeatureGroup(
         "Anschlüsse",
         [
-            Feature(
+            MLFeature(
                 MonitorSpecifications.PORTS_HDMI,
-                create_pattern_structure,
-                r"(\d+)\s?x?\s?(HDMI)",
-                ["count", "value"],
                 string_repr="{count}x {value}",
+                repr_optional=[" {version}", " ({details})"],
             ),
+            # Feature(
+            #     MonitorSpecifications.PORTS_HDMI,
+            #     create_pattern_structure,
+            #     r"(\d+)\s?x?\s?(HDMI)",
+            #     ["count", "value"],
+            #     string_repr="{count}x {value}",
+            # ),
             Feature(
                 MonitorSpecifications.PORTS_DP,
                 create_pattern_structure,
@@ -571,7 +578,7 @@ monitor_spec = [
 
 class MonitorParser(Parser):
     def __init__(self):
-        specs: list[FeatureGroup[str, list[Feature]]] = monitor_spec
+        specs: list[FeatureGroup[str, list[Any]]] = monitor_spec
         super().__init__(specs)
 
 

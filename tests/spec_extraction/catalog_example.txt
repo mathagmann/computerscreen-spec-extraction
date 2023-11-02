@@ -4,7 +4,7 @@ Marke:                         Acer
 Auflösung:                     2560x1440, 16:9
 Helligkeit:                    250 cd/m²
 Kontrast:                      1000:1
-Reaktionszeit:                 5  ms
+Reaktionszeit:                 5 ms
 Blickwinkel:                   178, 178
 Panel:                         IPS
 Form:                          gerade, 1500
@@ -14,7 +14,7 @@ Farbtiefe:                     8 bit
 Farbraum:                      100% sRGB, 100% Adobe RGB, 100% DCI-P3, 100% Rec 709, 100% Rec 2020, 72% NTSC
 Bildwiederholfrequenz:         144 Hz
 Variable Synchronisierung:     AMD FreeSync
-Anschlüsse:                    2x HDMI, 1x DisplayPort, 1x Mini DisplayPort, 1x DVI, 1x VGA, 2x USB-A, 1x USB-C, 1x Thunderbolt
+Anschlüsse:                    1x DisplayPort, 1x Mini DisplayPort, 1x DVI, 1x VGA, 2x USB-A, 1x USB-C, 1x Thunderbolt
 Anschlüsse Display Out:        1x DisplayPort-Out1.2
 Weitere Anschlüsse:            1x Gb LAN
 Audio:                         1x Line-Out

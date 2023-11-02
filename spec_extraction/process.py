@@ -17,6 +17,7 @@ from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import clean_text
 from spec_extraction.extraction_config import MonitorParser
+from spec_extraction.extraction_config import monitor_parser
 from spec_extraction.field_mappings import FieldMappings
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
@@ -49,7 +50,7 @@ CATALOG_EXAMPLE = {
     MonitorSpecifications.COLOR_SPACE_NTSC.value: "72% (NTSC)",
     MonitorSpecifications.REFRESH_RATE.value: "144 Hz",
     MonitorSpecifications.VARIABLE_SYNC.value: "AMD FreeSync",
-    MonitorSpecifications.PORTS_HDMI.value: "2 x HDMI",
+    MonitorSpecifications.PORTS_HDMI.value: "2x HDMI",
     MonitorSpecifications.PORTS_DP.value: "1x DisplayPort",
     MonitorSpecifications.PORTS_MINI_DP.value: "1x Mini DisplayPort",
     MonitorSpecifications.PORTS_DVI.value: "1x DVI",
@@ -97,7 +98,7 @@ class Processing:
         data_dir,
         raw_specs_output_dir,
         specs_as_text_output_dir,
-        field_mappings_file: Path = Path(__file__).parent / "processing" / "auto_field_mappings.json",
+        field_mappings_file: Path = Path(__file__).parent / "preparation" / "auto_field_mappings.json",
     ):
         self.parser = parser
         self.field_mappings = FieldMappings(field_mappings_file)
@@ -209,7 +210,9 @@ class Processing:
             machine_learning_specs = get_ml_specs(labeled_data)
             logger.debug(f"ML specs from '{shop_name}':\n{pretty(machine_learning_specs)}")
 
-        return unified_specifications | machine_learning_specs
+        specifications = unified_specifications | machine_learning_specs
+        logger.info(f"Created specs:\n{monitor_parser.nice_output(specifications)}")
+        return specifications
 
 
 def get_ml_specs(labeled_data: dict) -> dict:
@@ -233,6 +236,9 @@ def get_ml_specs(labeled_data: dict) -> dict:
                 port_values[catalog_sub_key] = labeled_data[ml_label_name]
 
         if port_values:
+            if "count" not in port_values:
+                port_values["count"] = "1"
+
             ml_specs[unified_port_name] = port_values
 
     return ml_specs
