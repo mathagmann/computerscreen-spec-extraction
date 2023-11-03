@@ -1,5 +1,6 @@
 import pandas as pd
 import torch
+from loguru import logger
 from torch.utils.data import Dataset
 from transformers import BertTokenizer
 
@@ -38,11 +39,13 @@ def tokenize_and_preserve_labels(sentence: list, text_labels: list, tokenizer):
         tokenized_word = tokenizer.tokenize(word)
         n_subwords = len(tokenized_word)
 
-        # Add the tokenized word to the final tokenized word list
-        tokenized_sentence.extend(tokenized_word)
+        follow_up_label = label.replace("B-", "I-")
+        tokenized_word_labels = [label] + [follow_up_label] * (n_subwords - 1)
 
-        # Add the same label to the new list of labels `n_subwords` times
-        labels.extend([label] * n_subwords)
+        assert len(tokenized_word) == len(tokenized_word_labels)
+
+        tokenized_sentence.extend(tokenized_word)
+        labels.extend(tokenized_word_labels)
 
     assert len(tokenized_sentence) == len(labels)
     return tokenized_sentence, labels

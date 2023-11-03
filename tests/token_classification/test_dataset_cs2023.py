@@ -2,8 +2,10 @@ from pathlib import Path
 from unittest import mock
 
 from datasets import load_dataset
+from transformers import AutoTokenizer
 from transformers import BertTokenizer
 
+from ner_data.computerscreens2023.computerscreens2023 import tokenize_and_preserve_labels
 from ner_data.computerscreens2023.prepare_data import create_data_loader
 from ner_data.computerscreens2023.shuffle_and_split import _split_data
 
@@ -34,6 +36,21 @@ def test_shuffle_and_split():
     # check items from test are not in train or valid
     assert all(item not in res["train"] for item in res["test"])
     assert all(item not in res["valid"] for item in res["test"])
+
+
+def test_tokenize_and_preserve_labels():
+    expected = ["B-PER", "I-PER", "I-PER", "0", "0", "0"]
+
+    model = "dslim/bert-base-NER"  # Use an appropriate token classification model
+    tokenizer = AutoTokenizer.from_pretrained(model)
+
+    text = ["Das", "ist", "ein", "Test"]
+    labels = ["B-PER", "I-PER", "0", "0"]
+
+    result_tokens, result_labels = tokenize_and_preserve_labels(text, labels, tokenizer)
+
+    assert len(result_tokens) == len(result_labels)
+    assert result_labels == expected
 
 
 def test_custom_dataset():
