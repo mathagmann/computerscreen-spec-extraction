@@ -1,7 +1,7 @@
 from typing import Any
 
-import evaluate
 import torch
+from loguru import logger
 from seqeval.metrics import accuracy_score
 from seqeval.metrics import f1_score
 from seqeval.metrics import precision_score
@@ -38,23 +38,16 @@ def create_label2id(labels: list[str]) -> dict[str, int]:
     return label_to_id
 
 
-model_checkpoint = "dslim/bert-base-NER"  # Use an appropriate token classification model
-tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
+model = "dslim/bert-base-NER"  # Use an appropriate token classification model
+tokenizer = AutoTokenizer.from_pretrained(model)
 
-custom_labels = [
-    "type-hdmi",
-    "count-hdmi",
-    "version-hdmi",
-    "details-hdmi",
-]
+custom_labels = ["type-hdmi", "count-hdmi", "version-hdmi", "details-hdmi"]
 label2id = create_label2id(custom_labels)
 id2label = {i: label for label, i in label2id.items()}  # label2id is your label mapping
 
 train_dataset = get_dataset("train")
 test_dataset = get_dataset("test")
 valid_dataset = get_dataset("valid")
-
-metric = evaluate.load("seqeval")
 
 
 def compute_metrics(p) -> dict[str, Any]:
@@ -76,25 +69,17 @@ def compute_metrics(p) -> dict[str, Any]:
     f1 = f1_score([true_labels], [pred_labels])
     precision = precision_score([true_labels], [pred_labels])
     recall = recall_score([true_labels], [pred_labels])
-    # classification_rep = classification_report([true_labels], [pred_labels])
 
-    return {
-        "accuracy": accuracy,
-        "precision": precision,
-        "recall": recall,
-        "f1": f1,
-        # "classification_report": classification_rep,
-    }
+    return {"accuracy": accuracy, "precision": precision, "recall": recall, "f1": f1}
 
 
-def run_training(epochs: int = 30, name: str = "ner_model"):
+def run_training(model_checkpoint, epochs: int = 30, name: str = "ner_model"):
     # Create a new model with a custom number of labels
     config = AutoConfig.from_pretrained(model_checkpoint)
     config.id2label = id2label
     config.label2id = label2id
     config.num_labels = len(label2id)
-    # ['bert.pooler.dense.bias', 'bert.pooler.dense.weight'] is not used with Token Classification models
-    model = AutoModelForTokenClassification.from_pretrained(model_checkpoint, config=config)
+    base_model = AutoModelForTokenClassification.from_pretrained(model_checkpoint, config=config)
 
     args = TrainingArguments(
         name,
@@ -109,21 +94,15 @@ def run_training(epochs: int = 30, name: str = "ner_model"):
     data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
 
     # Create AdamW Optimizer
-    optimizer = torch.optim.AdamW(
-        model.parameters(),
-        lr=2e-5,
-        weight_decay=0.01,
-    )
+    optimizer = torch.optim.AdamW(base_model.parameters(), lr=2e-5, weight_decay=0.01)
 
     # Create a learning rate scheduler
     scheduler = get_linear_schedule_with_warmup(
-        optimizer,
-        num_warmup_steps=0,
-        num_training_steps=len(train_dataset) * epochs,
+        optimizer, num_warmup_steps=0, num_training_steps=len(train_dataset) * epochs
     )
 
     trainer = Trainer(
-        model,
+        base_model,
         args,
         train_dataset=train_dataset,
         eval_dataset=valid_dataset,
@@ -136,7 +115,7 @@ def run_training(epochs: int = 30, name: str = "ner_model"):
 
     # Evaluate on the test dataset
     results = trainer.evaluate(eval_dataset=test_dataset)
-    print("Evaluation results:", results)
+    logger.info(f"Evaluation results:\n{results}")
 
     print(f"Best model: {trainer.state.best_model_checkpoint}")
 
@@ -146,4 +125,4 @@ def run_training(epochs: int = 30, name: str = "ner_model"):
 
 
 if __name__ == "__main__":
-    run_training()
+    run_training(model)
