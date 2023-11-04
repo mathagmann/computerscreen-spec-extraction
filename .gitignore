@@ -109,3 +109,6 @@ dmypy.json
 /data/
 /logs/
 /tmp/
+/token_classification/best_model.txt
+cookies.json
+/token_classification/ner_model/
