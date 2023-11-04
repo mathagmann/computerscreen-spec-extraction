@@ -136,7 +136,7 @@ class Parser:
         self,
         specifications: List[FeatureGroup],
         separator: str = "\n",
-        bow_file: Path = Path(__file__) / "preparation" / "bow.json",
+        bow_file: Path = Path(__file__).parent / "preparation" / "bow.json",
     ):
         self.specifications = specifications
         self.separator = separator
