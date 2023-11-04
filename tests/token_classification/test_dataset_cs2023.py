@@ -15,7 +15,7 @@ DATASETS_PATH = Path(__file__).parent.parent.parent / "ner_data"
 TOKENIZER = BertTokenizer.from_pretrained("bert-base-uncased")
 
 
-def test_shuffle_and_split():
+def test_split_dataset():
     item_count = 10
     data = [([f"sent_{i}word1", f"sent_{i}word2"], [f"label{i}_1", f"label{i}_2"]) for i in range(item_count)]
 

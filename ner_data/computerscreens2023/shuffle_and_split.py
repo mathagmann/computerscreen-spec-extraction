@@ -15,7 +15,7 @@ LABELED_DATASET_DIR = Path(__file__).parent
 CONLL_DIR = LABELED_DATASET_DIR / "conll"
 
 
-def _read_data(file_path):
+def _read_data(file_path) -> list[Tuple]:
     """Reads CoNLL data and returns it as a list of (text, labels) pairs."""
     inputs, labels = [], []
     with open(file_path, "r") as f:
@@ -48,7 +48,6 @@ def _read_data(file_path):
 def _split_data(data: list[Tuple], train_ratio=0.8, test_ratio=0.1) -> dict[str, list]:
     """Splits the data randomly into train, valid, and test sets."""
     assert len(data) >= 3, "Data must have at least 3 samples to split into train, valid, and test sets."
-    random.shuffle(data)
 
     train_size = max(1, int(len(data) * train_ratio))
     test_size = max(1, int(len(data) * test_ratio))
@@ -82,8 +81,10 @@ def _write_data(filename, data):
                 file.write(f"{word}{DELIMITER_TSV}{label}\n")
 
 
-def shuffle_and_split(conll_file, overwrite=False):
-    file_content = _read_data(conll_file)
+def split_dataset(conll_filepath, overwrite=False, random_shuffle=False):
+    file_content = _read_data(conll_filepath)
+    if random_shuffle:
+        random.shuffle(file_content)
     datasets = _split_data(file_content, train_ratio=0.8, test_ratio=0.1)
 
     if not overwrite:
@@ -99,5 +100,5 @@ def shuffle_and_split(conll_file, overwrite=False):
 
 if __name__ == "__main__":
     conll_file = "computerscreens2023_labeled.conll"
-    shuffle_and_split(CONLL_DIR / conll_file, overwrite=True)
+    split_dataset(CONLL_DIR / conll_file, overwrite=True)
     print("Data split and saved three .tsv files in the current directory.")
