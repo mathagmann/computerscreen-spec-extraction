@@ -42,6 +42,17 @@ def test_recover_text():
             ],
             {"count-hdmi": "1x", "type-hdmi": "HDMI"},
         ),
+        (
+            [
+                {"entity": "B-type-hdmi", "score": 0.9895046, "index": 1, "word": "HD", "start": 0, "end": 2},
+                {"entity": "I-type-hdmi", "score": 0.9762982, "index": 2, "word": "##MI", "start": 2, "end": 4},
+                {"entity": "B-count-hdmi", "score": 0.8416057, "index": 8, "word": "3", "start": 16, "end": 17},
+                {"entity": "B-type-hdmi", "score": 0.8939928, "index": 12, "word": "HD", "start": 31, "end": 33},
+                {"entity": "I-type-hdmi", "score": 0.9332065, "index": 13, "word": "##MI", "start": 33, "end": 35},
+                {"entity": "B-count-hdmi", "score": 0.4727516, "index": 19, "word": "2", "start": 47, "end": 48},
+            ],
+            {"type-hdmi": "HDMI", "count-hdmi": "3"},
+        ),
     ],
 )
 def test_process_labels(ml_labeled_data, expected):

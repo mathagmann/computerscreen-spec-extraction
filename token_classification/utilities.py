@@ -23,7 +23,7 @@ def get_best_checkpoint() -> Path:
     return Path(__file__).parent / best_checkpoint
 
 
-def reconstruct_text_from_labels(labeled_data: list[dict]) -> list[dict]:
+def reconstruct_text_from_labels(labeled_data: list[dict], min_score: [float] = 0.5) -> list[dict]:
     """Reconstructs the original text from the labeled data.
 
     Returns a list of dicts with keys "entity", "word", "start", "end".
@@ -32,6 +32,7 @@ def reconstruct_text_from_labels(labeled_data: list[dict]) -> list[dict]:
     active_label = None
     start, end = None, None
     last_char = -1
+    lowest_score = 1
 
     merged_data = []
     for entry in labeled_data:
@@ -39,32 +40,43 @@ def reconstruct_text_from_labels(labeled_data: list[dict]) -> list[dict]:
         entry_word = entry["word"]
         entry_end = entry["end"]
         entry_start = entry["start"]
+        entry_score = entry["score"]
 
         if entity.startswith("I-"):
+            lowest_score = min(lowest_score, entry_score)
             spaces = entry_start - last_char if last_char < entry_start else 0
             word += " " * spaces + entry_word.replace("##", "")
             end = entry_end
             last_char = entry_end
         elif entity.startswith("B-") and entry_start == last_char:
+            lowest_score = min(lowest_score, entry_score)
             spaces = entry_start - last_char if last_char < entry_start else 0
             word += " " * spaces + entry_word.replace("##", "")
             end = entry_end
             last_char = entry_end
+
         elif entity.startswith("B-"):
             if word:
-                merged_data.append({"entity": active_label, "word": word, "start": start, "end": end})
+                if lowest_score >= min_score:
+                    merged_data.append({"entity": active_label, "word": word, "start": start, "end": end})
+                else:
+                    logger.debug(f"Dismiss '{word}', due score {lowest_score:.2f}<{min_score:.2f}")
+            lowest_score = entry_score
             word = entry_word
             active_label = entity.replace("B-", "")
             start = entry_start
             last_char = entry_end
 
-    if start is not None:
-        merged_data.append({"entity": active_label, "word": word, "start": start, "end": end})
+    if word is not None:
+        if lowest_score >= min_score:
+            merged_data.append({"entity": active_label, "word": word, "start": start, "end": end})
+        else:
+            logger.debug(f"Dismiss '{word}', due score {lowest_score}<{min_score}")
 
     return merged_data
 
 
-def process_labels(labeled_data: list[dict]) -> dict:
+def process_labels(labeled_data: list[dict], min_score: [float] = 0.5) -> dict:
     """Processes the labeled data to structured data.
 
     Returns a dict with keys "entity" and values "word".
@@ -80,7 +92,7 @@ def process_labels(labeled_data: list[dict]) -> dict:
     {"type-hdmi": "HDMI", "count-hdmi": "3x"}
     """
     structured_data = {}
-    labels = reconstruct_text_from_labels(labeled_data)
+    labels = reconstruct_text_from_labels(labeled_data, min_score)
     for label in labels:
         key = label["entity"]
         value = label["word"]

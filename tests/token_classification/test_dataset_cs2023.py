@@ -1,6 +1,7 @@
 from pathlib import Path
 from unittest import mock
 
+import pytest
 from datasets import load_dataset
 from transformers import AutoTokenizer
 from transformers import BertTokenizer
@@ -8,6 +9,7 @@ from transformers import BertTokenizer
 from ner_data.computerscreens2023.computerscreens2023 import tokenize_and_preserve_labels
 from ner_data.computerscreens2023.prepare_data import create_data_loader
 from ner_data.computerscreens2023.shuffle_and_split import _split_data
+from token_classification.train_model import create_label2id
 
 DATASETS_PATH = Path(__file__).parent.parent.parent / "ner_data"
 TOKENIZER = BertTokenizer.from_pretrained("bert-base-uncased")
@@ -67,12 +69,22 @@ def test_custom_dataset():
 
 def test_create_brise_dataset():
     dataloader = create_data_loader("train")
-    expected_result = {
-        "text_rebuild": mock.ANY,
-        "input_ids": mock.ANY,
-        "attention_mask": mock.ANY,
-        "labels": mock.ANY,
-    }
+    expected_result = {"text_rebuild": mock.ANY, "input_ids": mock.ANY, "attention_mask": mock.ANY, "labels": mock.ANY}
 
     assert dataloader
     assert dataloader.dataset[0] == expected_result
+
+
+@pytest.mark.parametrize(
+    "labels, expected",
+    [
+        (
+            ["type-hdmi", "count-hdmi"],
+            {"B-type-hdmi": 1, "I-type-hdmi": 2, "B-count-hdmi": 3, "I-count-hdmi": 4, "O": 0},
+        ),
+        (["type-usb", "count-usb"], {"B-type-usb": 1, "I-type-usb": 2, "B-count-usb": 3, "I-count-usb": 4, "O": 0}),
+        (["type-sd", "count-sd"], {"B-type-sd": 1, "I-type-sd": 2, "B-count-sd": 3, "I-count-sd": 4, "O": 0}),
+    ],
+)
+def test_create_label2id(labels: list[str], expected: dict[str, int]):
+    assert create_label2id(labels) == expected
