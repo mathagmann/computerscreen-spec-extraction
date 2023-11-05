@@ -240,6 +240,10 @@ def get_ml_specs(labeled_data: dict) -> dict:
                 port_values["count"] = re.search(r"\d+", port_values["count"])
             port_values["count"] = "1"
 
+            # Dismiss ports with version 0
+            if port_values["count"] == "0":
+                continue
+
             ml_specs[unified_port_name] = port_values
 
     return ml_specs
