@@ -86,6 +86,7 @@ class ComputerScreens2023Dataset(Dataset):
 
         if len(tokenized_sentence) > maxlen:
             # truncate
+            logger.warning(f"Truncate long sentence from {len(tokenized_sentence)} to {maxlen}")
             tokenized_sentence = tokenized_sentence[:maxlen]
             labels = labels[:maxlen]
         else:
