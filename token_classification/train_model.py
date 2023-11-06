@@ -15,27 +15,7 @@ from transformers import TrainingArguments
 from transformers import get_linear_schedule_with_warmup
 
 from ner_data.computerscreens2023.prepare_data import get_dataset
-
-
-def create_label2id(labels: list[str]) -> dict[str, int]:
-    """Create label2id mapping from a list of labels.
-
-    Returns
-    -------
-    dict[str, int]
-        Mapping from label to id.
-
-    Examples
-    --------
-    >>> create_label2id(["type-hdmi", "count-hdmi"])
-    {'B-type-hdmi': 1, 'I-type-hdmi': 2, 'B-count-hdmi': 3, 'I-count-hdmi': 4, 'O': 0}
-    """
-    label_to_id = {}
-    for i, label in enumerate(labels):
-        label_to_id[f"B-{label}"] = i * 2 + 1
-        label_to_id[f"I-{label}"] = i * 2 + 2
-    label_to_id["O"] = 0
-    return label_to_id
+from token_classification.utilities import create_label2id
 
 
 model = "dslim/bert-base-NER"  # Use an appropriate token classification model
