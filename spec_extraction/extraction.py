@@ -186,3 +186,14 @@ class Parser:
                 pass
         output = [item for item in output if item]
         return self.separator.join(output)
+
+    def items(self, parsed_data: dict) -> dict:
+        output = {}
+        for feature_group in self.specifications:
+            try:
+                output[feature_group.name] = feature_group.nice_output(parsed_data)
+            except KeyError:
+                pass
+            except exceptions.NicePlotError:
+                pass
+        return output
