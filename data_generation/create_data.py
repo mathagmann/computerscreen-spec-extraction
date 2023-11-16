@@ -23,6 +23,10 @@ class ExtendedOffer(Offer):
     reference_file: str
 
 
+def _get_reference_filename(id_: str) -> str:
+    return f"offer_reference_{id_}.json"
+
+
 def retrieve_all_products(browser, max_products=None) -> list[Product]:
     """Collects all products from the category 'Monitore' on Geizhals.
 
@@ -63,7 +67,7 @@ def retrieve_product_details(browser, products: list[Product]):
         logger.debug(f"{product_idx} {product.name}")
         start = time.time()
 
-        reference_file = f"offer_reference_{product_idx}.json"
+        reference_file = _get_reference_filename(product_idx)
         # Skip already retrieved Geizhals products
         if (DATA_DIR / reference_file).exists():
             logger.debug(f"Skip {product.name}: Geizhals reference data for already exists")
@@ -109,3 +113,12 @@ def dump_product_listing(products: list[Product], filename: Path = PRODUCT_LISTI
     with open(filename, "w") as f:
         products_dict = [marshmallow_dataclass.class_schema(Product)().dump(p) for p in products]
         json.dump(products_dict, f, indent=4)
+
+
+def get_reference_product(id_: str) -> ProductPage:
+    """Reads Geizhals reference data for given product id.
+
+    The ID is the number of retrieval.
+    """
+    with open(DATA_DIR / _get_reference_filename(id_), "r") as f:
+        return ProductPage.Schema().load(json.load(f))
