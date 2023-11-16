@@ -10,8 +10,9 @@ from geizhals.geizhals_model import Offer
 from geizhals.geizhals_model import Product
 from geizhals.geizhals_model import ProductPage
 
+DATASETNAME = "computerscreens2023"
 ROOT_DIR = Path(__file__).parent.parent
-DATA_DIR = ROOT_DIR / "data"
+DATA_DIR = ROOT_DIR / "data" / DATASETNAME
 PRODUCT_LISTING = DATA_DIR / "product_listing.json"
 
 CATEGORY_URL = "https://geizhals.at/?cat=monlcd19wide&asuch=&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&sort=n"
