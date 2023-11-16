@@ -21,6 +21,7 @@ from spec_extraction.extraction_config import monitor_parser
 from spec_extraction.field_mappings import FieldMappings
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
+from spec_extraction.utilities import get_catalog_filename
 from token_classification import token_classifier
 from token_classification import utilities as ml_utils
 
@@ -269,7 +270,7 @@ def value_fusion(specs_per_shop: dict[str, dict]) -> dict:
 
 
 def store_product_for_catalog(specifications: dict, product_name: str, product_nr: int, catalog_dir: Path):
-    catalog_filename = f"product_{product_nr}_catalog.json"
+    catalog_filename = get_catalog_filename(product_nr)
     with open(catalog_dir / catalog_filename, "w") as file:
         catalog = dict(name=product_name, specifications=specifications)
         catalog_product = CatalogProduct.Schema().dump(catalog)
