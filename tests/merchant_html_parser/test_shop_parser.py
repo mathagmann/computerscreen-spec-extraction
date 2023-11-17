@@ -1,13 +1,13 @@
-from pathlib import Path
-
 import pytest
 from loguru import logger
 
+from config import DATA_DIR
+from config import TEST_DIR
 from data_generation.utilities import get_products_from_path
 from merchant_html_parser import shop_parser
 from merchant_html_parser.shop_parser import extract_tabular_data
 
-TEST_DATA_DIR = Path("tests") / "merchant_html_parser" / "test_data"
+TEST_DATA_DIR = TEST_DIR / "merchant_html_parser" / "test_data"
 
 top30 = [
     ("mylemon.at", "mylemon_product_offer.html"),
@@ -55,19 +55,14 @@ def test_shop_parser(shop_name, test_html):
 @pytest.mark.skip(reason="Requires data and may take a while.")
 def test_retrieve_specs_real_data():
     """Tests if the top 30 shops extract at least one specification."""
-    data_dir = Path(__file__).parent.parent.parent / "data"
-    dataset_name = "computerscreens2023"
-
-    html_json_data_dir = data_dir / dataset_name
-
     checkboxes = {shop_name: False for shop_name, _ in top30}
 
-    for idx, monitor_extended_offer in enumerate(get_products_from_path(html_json_data_dir)):
+    for idx, monitor_extended_offer in enumerate(get_products_from_path(DATA_DIR)):
         # skip if shop_name not in checkboxes or shop_name is true in checkboxes
         if monitor_extended_offer.shop_name not in checkboxes or checkboxes[monitor_extended_offer.shop_name]:
             continue
 
-        with open(html_json_data_dir / monitor_extended_offer.html_file) as file:
+        with open(DATA_DIR / monitor_extended_offer.html_file) as file:
             html = file.read()
         raw_specifications = shop_parser.extract_tabular_data(html, monitor_extended_offer.shop_name)
         if raw_specifications:

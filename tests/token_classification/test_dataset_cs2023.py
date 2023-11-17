@@ -4,7 +4,6 @@ from unittest import mock
 import pytest
 from datasets import load_dataset
 from transformers import AutoTokenizer
-from transformers import BertTokenizer
 
 from ner_data.computerscreens2023.computerscreens2023 import tokenize_and_preserve_labels
 from ner_data.computerscreens2023.prepare_data import create_data_loader
@@ -12,7 +11,6 @@ from ner_data.computerscreens2023.shuffle_and_split import _split_data
 from token_classification.train_model import create_label2id
 
 DATASETS_PATH = Path(__file__).parent.parent.parent / "ner_data"
-TOKENIZER = BertTokenizer.from_pretrained("bert-base-uncased")
 
 
 def test_split_dataset():

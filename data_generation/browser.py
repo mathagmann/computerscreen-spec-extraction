@@ -2,14 +2,13 @@ import json
 import random
 import time
 from json import JSONDecodeError
-from pathlib import Path
 
 from loguru import logger
 from playwright.sync_api import Page
 from playwright.sync_api import sync_playwright
 from playwright_stealth import stealth_sync
 
-ROOT_DIR = Path(__file__).parent.parent
+from config import ROOT_DIR
 
 COOKIE_FILE = ROOT_DIR / "tmp" / "cookies.json"
 

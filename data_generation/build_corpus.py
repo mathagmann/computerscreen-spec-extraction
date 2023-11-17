@@ -1,9 +1,12 @@
+"""Prepares the raw data for unsupervised learning."""
+
 import json
 
 import marshmallow_dataclass
 from loguru import logger
 
-from data_generation.browser import ROOT_DIR
+from config import ROOT_DATA_DIR
+from config import ROOT_DIR
 from data_generation.create_data import ExtendedOffer
 from merchant_html_parser import shop_parser
 
@@ -17,10 +20,9 @@ def build_corpus():
     Transforms the raw data into the corpus 'computer_screen_corpus.txt'
     """
     with open(ROOT_DIR / "corpus" / "computer_screen_corpus.txt", "w") as c:
-        dir = ROOT_DIR / "data"
         offers_added = 0
         all_offers = 0
-        for filename in dir.iterdir():
+        for filename in ROOT_DATA_DIR.iterdir():
             if filename.suffix != ".json":
                 continue
             all_offers += 1

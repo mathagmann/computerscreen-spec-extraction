@@ -1,7 +1,7 @@
 import json
 from collections import Counter
-from pathlib import Path
 
+from config import DATA_DIR
 from data_generation.utilities import get_products_from_path
 
 
@@ -26,8 +26,7 @@ def calc_statistics(products: list, most_common: int = 30):
 
 if __name__ == "__main__":
     print("Calculating statistics...")
-    dataset = "computerscreens2023"
-    path = Path(__file__).parent.parent / "data" / dataset
+    path = DATA_DIR
     products = [prod for prod in get_products_from_path(path)]
     result = calc_statistics(products)
     with open(path / "statistics.json", "w") as f:

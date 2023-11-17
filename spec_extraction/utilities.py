@@ -1,10 +1,7 @@
 import json
-from pathlib import Path
 
+from config import PRODUCT_CATALOG_DIR
 from spec_extraction.model import CatalogProduct
-
-DATASET_NAME = "computerscreens2023"
-PRODUCT_CATALOG_DIR = Path(__file__).parent.parent / "data" / f"{DATASET_NAME}_product_catalog"
 
 
 def get_catalog_filename(id_: str) -> str:

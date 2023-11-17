@@ -1,9 +1,6 @@
-from pathlib import Path
-
 from loguru import logger
 
-ROOT_DIR = Path(__file__).parent.parent
-LOG_DIR = ROOT_DIR / "logs"
+from config import LOG_DIR
 
 default_log = dict(
     sink=LOG_DIR / "root.log",

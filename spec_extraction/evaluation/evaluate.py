@@ -1,16 +1,12 @@
 import difflib
-from pathlib import Path
 
 import click
 
+from config import DATA_DIR
 from data_generation.create_data import get_reference_product
 from data_generation.utilities import get_products_from_path
 from spec_extraction.extraction_config import MonitorParser
 from spec_extraction.utilities import get_catalog_product
-
-dataset_name = "computerscreens2023"
-
-DATA_DIR = Path(__file__).parent.parent.parent / "data" / dataset_name
 
 
 def evaluate_field_mappings():
