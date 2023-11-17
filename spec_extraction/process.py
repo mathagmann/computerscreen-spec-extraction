@@ -153,7 +153,6 @@ class Processing:
         - Value fusion (merge data from multiple shops)
         """
         logger.info("Creating monitor specifications...")
-        self.parser.init()
 
         os.makedirs(catalog_dir, exist_ok=True)
         for grouped_specs_single_screen in get_all_raw_specs_per_screen(RAW_SPECIFICATIONS_DIR):
@@ -184,6 +183,20 @@ class Processing:
 
         Relies on field mappings and optional machine learning enhancement.
         """
+        unified_specifications = self.extract_structured_specifications(raw_specification, shop_name)
+
+        machine_learning_specs = {}
+        if enable_enhancement:
+            labeled_data = classify_specifications_with_ml(raw_specification, self.port_classifier)
+            machine_learning_specs = get_ml_specs(labeled_data)
+            logger.debug(f"ML specs from '{shop_name}':\n{pretty(machine_learning_specs)}")
+
+        specifications = unified_specifications | machine_learning_specs
+        logger.info(f"Created specs:\n{monitor_parser.nice_output(specifications)}")
+        return specifications
+
+    def extract_structured_specifications(self, raw_specification: dict, shop_name: str) -> dict:
+        """Returns structured specifications based on predefined catalog format."""
         monitor_specs = {}
         for catalog_key in MonitorSpecifications:
             catalog_key = catalog_key.value
@@ -199,16 +212,7 @@ class Processing:
             merchant_value = clean_text(merchant_value)
             monitor_specs[catalog_key] = merchant_value
         unified_specifications = self.parser.parse(monitor_specs)
-
-        machine_learning_specs = {}
-        if enable_enhancement:
-            labeled_data = classify_specifications_with_ml(raw_specification, self.port_classifier)
-            machine_learning_specs = get_ml_specs(labeled_data)
-            logger.debug(f"ML specs from '{shop_name}':\n{pretty(machine_learning_specs)}")
-
-        specifications = unified_specifications | machine_learning_specs
-        logger.info(f"Created specs:\n{monitor_parser.nice_output(specifications)}")
-        return specifications
+        return unified_specifications
 
 
 def get_ml_specs(labeled_data: dict) -> dict:
