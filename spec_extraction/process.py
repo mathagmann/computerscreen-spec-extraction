@@ -9,6 +9,7 @@ from typing import Generator
 from loguru import logger
 from marshmallow import EXCLUDE
 
+from config import RAW_SPECIFICATIONS_DIR
 from data_generation.create_data import ExtendedOffer
 from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
@@ -97,23 +98,18 @@ class Processing:
         self,
         parser: MonitorParser,
         data_dir,
-        raw_specs_output_dir,
-        specs_as_text_output_dir,
         field_mappings_file: Path = Path(__file__).parent / "preparation" / "auto_field_mappings.json",
     ):
         self.parser = parser
         self.field_mappings = FieldMappings(field_mappings_file)
         self.port_classifier = token_classifier.setup()
         self.data_dir = data_dir  # Raw HTML data
-        self.raw_specs_output_dir = raw_specs_output_dir  # RAW Specifications as JSON with metadata
-        self.specs_as_text_output_dir = specs_as_text_output_dir  # Input for NER labeling in Label Studio
-
         self.field_mappings.load_from_disk()
 
     def extract_raw_specifications(self):
         logger.info("--- Extracting raw specifications... ---")
 
-        os.makedirs(self.raw_specs_output_dir, exist_ok=True)
+        os.makedirs(RAW_SPECIFICATIONS_DIR, exist_ok=True)
         for idx, monitor_extended_offer in enumerate(get_products_from_path(self.data_dir)):
             logger.debug(f"Extracting {idx} {monitor_extended_offer.html_file}")
             try:
@@ -121,8 +117,7 @@ class Processing:
             except exceptions.ShopParserNotImplementedError:
                 continue
 
-            save_raw_specifications(self.raw_specs_output_dir, raw_monitor)
-            export_for_token_labeling(self.specs_as_text_output_dir, raw_monitor, raw_monitor.html_file)
+            save_raw_specifications(RAW_SPECIFICATIONS_DIR, raw_monitor)
         logger.info("--- Extracting raw specifications done ---")
 
     def find_mappings(self, catalog_example: Dict[MonitorSpecifications, str]):
@@ -161,7 +156,7 @@ class Processing:
         self.parser.init()
 
         os.makedirs(catalog_dir, exist_ok=True)
-        for grouped_specs_single_screen in get_all_raw_specs_per_screen(self.raw_specs_output_dir):
+        for grouped_specs_single_screen in get_all_raw_specs_per_screen(RAW_SPECIFICATIONS_DIR):
             # Handle specifications for one product
 
             # Steps: Schema matching and extraction
@@ -296,6 +291,8 @@ def html_json_to_raw_product(monitor: ExtendedOffer, raw_data_dir: Path) -> RawP
     data = monitor.__dict__
     data["raw_specifications"] = raw_specifications
     data["name"] = product_name
+    data["raw_specifications_text"] = ml_utils.specs_to_text(raw_specifications)
+
     return RawProduct.Schema().load(data, unknown=EXCLUDE)
 
 
@@ -304,28 +301,6 @@ def save_raw_specifications(output_dir: Path, raw_monitor: RawProduct):
     product_dict = RawProduct.Schema().dump(raw_monitor)
     with open(output_dir / raw_spec_filename, "w") as raw_monitor_file:
         json.dump(product_dict, raw_monitor_file, indent=4)
-
-
-def export_for_token_labeling(export_dir: Path, raw_monitor: RawProduct, html_filename: str):
-    """Exports the raw specifications as plain text for NER labeling in Label Studio.
-
-    Creates a JSON file with postfix token_labeling and the following structure:
-    {
-        "name": "text",
-        "raw_specifications": "text",
-        "shop_name": "text",
-        "price": "number",
-        "html_file": "text"
-        "offer_link": "text"
-        "reference_file": "text",
-    }
-    """
-    os.makedirs(export_dir, exist_ok=True)
-    filename_specification = html_filename.rstrip(".html") + "_token_labeling.json"
-    with open(export_dir / filename_specification, "w") as raw_monitor_file:
-        product = RawProduct.Schema().dump(raw_monitor)
-        product["raw_specifications"] = ml_utils.specs_to_text(product["raw_specifications"])
-        json.dump(product, raw_monitor_file, indent=4)
 
 
 def get_all_raw_specs_per_screen(data_dir: str) -> Generator[RawProduct, None, None]:

@@ -5,6 +5,7 @@ from marshmallow_dataclass import dataclass
 class RawProduct:
     name: str
     raw_specifications: dict
+    raw_specifications_text: str
     shop_name: str
     price: float
     html_file: str
