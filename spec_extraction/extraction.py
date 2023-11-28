@@ -108,8 +108,10 @@ class MLFeature:
 class FeatureGroup:
     """Groups related features together."""
 
-    def __init__(self, name: str, features: List[Feature] = []):
+    def __init__(self, name: str, features: List[Feature] = None):
         self.name = name
+        if features is None:
+            features = []
         self.features = features
 
     def nice_output(self, full_data: dict, separator: str = ", ") -> str:

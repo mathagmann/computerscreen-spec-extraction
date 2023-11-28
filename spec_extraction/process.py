@@ -9,6 +9,7 @@ from typing import Generator
 from loguru import logger
 from marshmallow import EXCLUDE
 
+from config import DATA_DIR
 from config import RAW_SPECIFICATIONS_DIR
 from data_generation.create_data import ExtendedOffer
 from data_generation.utilities import get_products_from_path
@@ -17,7 +18,6 @@ from merchant_html_parser import shop_parser
 from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import clean_text
-from spec_extraction.extraction_config import MonitorParser
 from spec_extraction.extraction_config import monitor_parser
 from spec_extraction.field_mappings import FieldMappings
 from spec_extraction.model import CatalogProduct
@@ -96,13 +96,13 @@ def pretty(dictionary: dict):
 class Processing:
     def __init__(
         self,
-        parser: MonitorParser,
-        data_dir,
+        data_dir=None,
         field_mappings_file: Path = Path(__file__).parent / "preparation" / "auto_field_mappings.json",
     ):
-        self.parser = parser
         self.field_mappings = FieldMappings(field_mappings_file)
         self.port_classifier = token_classifier.setup()
+        if data_dir is None:
+            data_dir = DATA_DIR
         self.data_dir = data_dir  # Raw HTML data
         self.field_mappings.load_from_disk()
 
@@ -211,7 +211,7 @@ class Processing:
             merchant_value = raw_specification[merchant_key]
             merchant_value = clean_text(merchant_value)
             monitor_specs[catalog_key] = merchant_value
-        unified_specifications = self.parser.parse(monitor_specs)
+        unified_specifications = monitor_parser.parse(monitor_specs)
         return unified_specifications
 
 
