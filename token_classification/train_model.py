@@ -17,11 +17,19 @@ from transformers import get_linear_schedule_with_warmup
 from ner_data.computerscreens2023.prepare_data import get_dataset
 from token_classification.utilities import create_label2id
 
-
 model = "dslim/bert-base-NER"  # Use an appropriate token classification model
 tokenizer = AutoTokenizer.from_pretrained(model)
 
-custom_labels = ["type-hdmi", "count-hdmi", "version-hdmi", "details-hdmi"]
+custom_labels = [
+    "type-hdmi",
+    "count-hdmi",
+    "version-hdmi",
+    "details-hdmi",
+    "type-displayport",
+    "count-displayport",
+    "version-displayport",
+    "details-displayport",
+]
 label2id = create_label2id(custom_labels)
 id2label = {i: label for label, i in label2id.items()}  # label2id is your label mapping
 
@@ -59,7 +67,9 @@ def run_training(model_checkpoint, epochs: int = 30, name: str = "ner_model"):
     config.id2label = id2label
     config.label2id = label2id
     config.num_labels = len(label2id)
-    base_model = AutoModelForTokenClassification.from_pretrained(model_checkpoint, config=config)
+    base_model = AutoModelForTokenClassification.from_pretrained(
+        model_checkpoint, config=config, ignore_mismatched_sizes=True
+    )
 
     args = TrainingArguments(
         name,

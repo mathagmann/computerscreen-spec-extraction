@@ -14,6 +14,14 @@ label2id = {
     "I-version-hdmi": 6,
     "B-details-hdmi": 7,
     "I-details-hdmi": 8,
+    "B-type-displayport": 9,
+    "I-type-displayport": 10,
+    "B-count-displayport": 11,
+    "I-count-displayport": 12,
+    "B-version-displayport": 13,
+    "I-version-displayport": 14,
+    "B-details-displayport": 15,
+    "I-details-displayport": 16,
 }
 
 
@@ -53,12 +61,7 @@ def tokenize_and_preserve_labels(sentence: list, text_labels: list, tokenizer):
 
 class ComputerScreens2023Dataset(Dataset):
     def __init__(
-        self,
-        data: pd.DataFrame,
-        labels: pd.DataFrame,
-        tokenizer: BertTokenizer,
-        max_length: int,
-        text_column: str,
+        self, data: pd.DataFrame, labels: pd.DataFrame, tokenizer: BertTokenizer, max_length: int, text_column: str
     ):
         self.tokenizer = tokenizer
         self.data = data
