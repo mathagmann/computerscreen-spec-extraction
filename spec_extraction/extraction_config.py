@@ -280,13 +280,18 @@ monitor_spec = [
             #     ["count", "value"],
             #     string_repr="{count}x {value}",
             # ),
-            Feature(
+            MLFeature(
                 MonitorSpecifications.PORTS_DP,
-                create_pattern_structure,
-                r"(\d+)\s?x?\s?(Display[P|p]ort)",
-                ["count", "value"],
                 string_repr="{count}x {value}",
+                repr_optional=[" {version}", " ({details})"],
             ),
+            # Feature(
+            #     MonitorSpecifications.PORTS_DP,
+            #     create_pattern_structure,
+            #     r"(\d+)\s?x?\s?(Display[P|p]ort)",
+            #     ["count", "value"],
+            #     string_repr="{count}x {value}",
+            # ),
             Feature(
                 MonitorSpecifications.PORTS_MINI_DP,
                 create_pattern_structure,
