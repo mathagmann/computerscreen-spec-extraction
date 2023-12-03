@@ -41,7 +41,9 @@ class RawShopProduct:
 
     @property
     def shop_filepath(self):
-        return get_shop_filepath(self.shop_name, self.idx, self.monitor_id)
+        name = f"{self.idx:02d}_{self.shop_name}.html"
+        valid_file_identifier = get_valid_filename(name)
+        return Path("raw") / "shops" / self.monitor_id / valid_file_identifier
 
     @property
     def monitor_filepath(self):
@@ -50,12 +52,6 @@ class RawShopProduct:
 
     def __repr__(self):
         return f"{self.__class__.__name__}({self.shop_name}, {self.link}, {self.idx})"
-
-
-def get_shop_filepath(shop_name, shop_idx, monitor_id):
-    name = f"{shop_idx:02d}_{shop_name}.html"
-    valid_file_identifier = get_valid_filename(name)
-    return Path("raw") / "shops" / monitor_id / valid_file_identifier
 
 
 def parse_shop(gh_shop_name: str, shoppath: Path or str) -> dict:
