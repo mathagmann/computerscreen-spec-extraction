@@ -10,6 +10,8 @@ from spec_extraction import exceptions
 SHOP_PARSER_DIR = Path(__file__).parent / "extraction" / "shop_parser"
 MAPPING_CONFIG = Path(__file__).parent / "extraction" / "shop_mappings.yaml"
 
+GEIZHALS_SHOPNAME = "geizhals"
+
 
 @lru_cache(maxsize=32)
 def load_conf_cached(yml_filename):
@@ -32,7 +34,7 @@ class RawShopProduct:
 
     def get_raw_specifications(self):
         filepath = self.shop_filepath
-        if self.shop_name == "geizhals":
+        if self.shop_name == GEIZHALS_SHOPNAME:
             filepath = self.monitor_filepath
         self.raw_specifications = parse_shop(self.shop_name, filepath)
 

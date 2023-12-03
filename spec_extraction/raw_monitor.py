@@ -3,6 +3,7 @@ from functools import lru_cache
 from typing import List
 
 from spec_extraction import exceptions
+from spec_extraction.shop_product import GEIZHALS_SHOPNAME
 from spec_extraction.shop_product import RawShopProduct
 
 
@@ -16,7 +17,7 @@ class RawMonitor:
         self.shops: List[RawShopProduct] = []
 
     def load_geizhals_specifications(self):
-        self.geizhals = RawShopProduct(shop_name="geizhals", link=self.geizhals_link, idx=-1, monitor_id=self.id)
+        self.geizhals = RawShopProduct(shop_name=GEIZHALS_SHOPNAME, link=self.geizhals_link, idx=-1, monitor_id=self.id)
         self.geizhals.get_raw_specifications()
 
     def load_raw_specifications(self):
