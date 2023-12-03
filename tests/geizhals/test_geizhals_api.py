@@ -1,17 +1,17 @@
-from pathlib import Path
 from urllib.parse import urljoin
 
 import pytest
 
+from config import TEST_DIR
 from geizhals import geizhals_api
 
 
 class MockBrowser:
     def goto(self, url: str, post_load_hooks=None, **kwargs) -> str:
         if "?cat=" in url:
-            dummy_file = Path("tests") / "geizhals" / "test_data" / "category_page.html"
+            dummy_file = TEST_DIR / "geizhals" / "test_data" / "category_page.html"
         else:
-            dummy_file = Path("tests") / "geizhals" / "test_data" / "product_page.html"
+            dummy_file = TEST_DIR / "geizhals" / "test_data" / "product_page.html"
         return dummy_file.read_text()
 
 
