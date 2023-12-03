@@ -36,9 +36,6 @@ class RawShopProduct:
             filepath = self.monitor_filepath
         self.raw_specifications = parse_shop(self.shop_name, filepath)
 
-    def to_csv_row(self):
-        return {"id": self.monitor_id, "shop": self.shop_name, "path": self.shop_filepath}
-
     @property
     def shop_filepath(self):
         name = f"{self.idx:02d}_{self.shop_name}.html"
