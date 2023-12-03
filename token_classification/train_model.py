@@ -1,11 +1,9 @@
+import os
 from typing import Any
 
 import torch
 from loguru import logger
-from seqeval.metrics import accuracy_score
-from seqeval.metrics import f1_score
-from seqeval.metrics import precision_score
-from seqeval.metrics import recall_score
+from seqeval import metrics
 from transformers import AutoConfig
 from transformers import AutoModelForTokenClassification
 from transformers import AutoTokenizer
@@ -16,6 +14,8 @@ from transformers import get_linear_schedule_with_warmup
 
 from ner_data.computerscreens2023.prepare_data import get_dataset
 from token_classification.utilities import create_label2id
+
+os.environ["TRANSFORMERS_NO_ADVISORY_WARNINGS"] = "true"
 
 model = "dslim/bert-base-NER"  # Use an appropriate token classification model
 tokenizer = AutoTokenizer.from_pretrained(model)
@@ -52,11 +52,13 @@ def compute_metrics(p) -> dict[str, Any]:
         pred_labels.extend(pred)
         true_labels.extend(true)
 
+    logger.debug(f"Sentence length {len(pred_labels)}")
+
     # Calculate and return evaluation metrics
-    accuracy = accuracy_score([true_labels], [pred_labels])
-    f1 = f1_score([true_labels], [pred_labels])
-    precision = precision_score([true_labels], [pred_labels])
-    recall = recall_score([true_labels], [pred_labels])
+    accuracy = metrics.accuracy_score([true_labels], [pred_labels])
+    f1 = metrics.f1_score([true_labels], [pred_labels])
+    precision = metrics.precision_score([true_labels], [pred_labels])
+    recall = metrics.recall_score([true_labels], [pred_labels])
 
     return {"accuracy": accuracy, "precision": precision, "recall": recall, "f1": f1}
 
@@ -114,5 +116,4 @@ def run_training(model_checkpoint, epochs: int = 30, name: str = "ner_model"):
         f.write(trainer.state.best_model_checkpoint)
 
 
-if __name__ == "__main__":
-    run_training(model)
+run_training(model)
