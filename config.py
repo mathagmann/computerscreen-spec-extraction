@@ -1,6 +1,7 @@
 from pathlib import Path
 
 DATASET_NAME = "computerscreens2023"  # Switch between datasets here
+# DATASET_NAME = "minimal_testdata"  # Switch between datasets here
 
 ROOT_DIR = Path(__file__).parent
 LOG_DIR = ROOT_DIR / "logs"
