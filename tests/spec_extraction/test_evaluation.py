@@ -1,19 +1,31 @@
-from spec_extraction.evaluation.evaluate import compare_specifications
+import pytest
+
+from spec_extraction.evaluation.evaluate import compare_strings
 from spec_extraction.evaluation.evaluate import evaluate_pipeline
 
 
-def test_compare_specifications():
-    expected_differences = 1
-    specs = {
-        "Auflösung": "1920 x 1080 Pixel",
-        "Bildschirmdiagonale": "27 Zoll",
-        "Bildschirmtechnologie": "IPS",
-        "Bildschirmoberfläche": "matt",
-    }
-    reference = {"Auflösung": "1920 x 1080 Pixel", "Bildschirmdiagonale": "24 Zoll", "Bildschirmtechnologie": "IPS"}
-    res = compare_specifications(reference, specs)
+@pytest.mark.parametrize(
+    "reference, specs, expected_correct, expected_all",
+    [
+        (
+            {"Auflösung": "1920 x 1080 Pixel", "Bildschirmdiagonale": "27 Zoll", "Bildschirmtechnologie": "IPS"},
+            {"Auflösung": "1920 x 1080 Pixel", "Bildschirmdiagonale": "24 Zoll", "Bildschirmtechnologie": "IPS"},
+            2,
+            3,
+        ),
+        (
+            {"Bildschirmdiagonale": "27 Zoll", "DisplayPort Anschlüsse": "1", "Bildschirmtechnologie": "IPS"},
+            {"Bildschirmdiagonale": "27 Zoll", "USB 3.0 Anschlüsse": "2", "Bildschirmtechnologie": "IPS"},
+            2,
+            4,
+        ),
+    ],
+)
+def test_compare_specifications(reference, specs, expected_correct, expected_all):
+    count_correct, count_all = compare_strings(reference, specs)
 
-    assert res == expected_differences
+    assert count_correct == expected_correct
+    assert count_all == expected_all
 
 
 def test_evaluate_pipeline():

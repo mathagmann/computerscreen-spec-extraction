@@ -53,52 +53,58 @@ def color_diff(string1, string2):
     return "\n".join(colored_diff)
 
 
-def compare(dict1, dict2):
-    # Assuming dict1 and dict2 are dictionaries to be compared
+def compare_strings(reference: dict, dict2: dict) -> tuple[int, int]:
+    """Compares two dicts.
 
-    # Find keys that are in dict1 but not in dict2
-    keys_only_in_dict1 = set(dict1.keys()) - set(dict2.keys())
+    Returns
+    -------
+    correct: int
+        The number of identical values.
+    all: int
+        The number of all values.
+    """
 
-    # Find keys that are in dict2 but not in dict1
-    keys_only_in_dict2 = set(dict2.keys()) - set(dict1.keys())
+    # Find keys that are in reference but not in dict2
+    keys_only_in_ref = set(reference.keys()) - set(dict2.keys())
+
+    # Find keys that are in dict2 but not in reference
+    keys_only_in_dict2 = set(dict2.keys()) - set(reference.keys())
 
     # Find keys that are common to both dictionaries
-    common_keys = set(dict1.keys()) & set(dict2.keys())
+    common_keys = set(reference.keys()) & set(dict2.keys())
 
     # Compare values for common keys
     differences = {}
     for key in common_keys:
-        if dict1[key] != dict2[key]:
-            differences[key] = (dict1[key], dict2[key])
+        if reference[key] != dict2[key]:
+            differences[key] = (reference[key], dict2[key])
 
     # Display the differences using click.secho with colors
-    if keys_only_in_dict1:
-        click.secho(f"Keys only in dict1: {keys_only_in_dict1}", fg="red")
+    if keys_only_in_ref:
+        click.secho(f"Keys only in ref: {keys_only_in_ref}", fg="blue")
 
-    if keys_only_in_dict2:
-        click.secho(f"Keys only in dict2: {keys_only_in_dict2}", fg="red")
+    all_keys = set(reference.keys()).union(set(dict2.keys()))
+    for key in all_keys:
+        # if key in differences print diff, with key else print key and value
+        if key in differences:
+            diff = color_diff(differences[key][0], differences[key][1])
+            click.echo(diff)
+        elif key in reference:
+            click.secho(f"{key}: {reference[key]} (gh)")
+        else:
+            click.secho(f"{key}: {dict2[key]} (catalog)", fg="green")
 
     if differences:
         click.secho("Differences in values:", fg="red")
         for key, values in differences.items():
             diff = color_diff(values[0], values[1])
             click.echo(diff)
-            # message = f"  {key}: {values[0]} (dict1) != {values[1]} (dict2)"
-            # click.secho(message, fg="yellow")
 
     # If there are no differences, indicate that the dictionaries are identical
-    if not keys_only_in_dict1 and not keys_only_in_dict2 and not differences:
+    if not keys_only_in_ref and not keys_only_in_dict2 and not differences:
         click.secho("The dictionaries are identical.", fg="green")
 
-    return len(differences)
-
-
-def compare_specifications(reference_spec: dict, catalog_spec: dict) -> int:
-    """Compares two dicts and outputs non-empty, different values."""
-    diff = compare(reference_spec, catalog_spec)
-    # wrong_entries = list(
-    #     filter(lambda elem: "_message" in elem and "Values not equal" in elem["_message"], diff.values())
-    # )
-    # if wrong_entries:
-    #     logger.warning(f"Diff:\n{json.dumps(wrong_entries, indent=4, sort_keys=True)}")
-    return diff
+    count_all = len(all_keys)
+    count_wrong = len(differences) + len(keys_only_in_ref) + len(keys_only_in_dict2)
+    count_correct = count_all - count_wrong
+    return count_correct, count_all
