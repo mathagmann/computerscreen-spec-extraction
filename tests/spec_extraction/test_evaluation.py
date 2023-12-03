@@ -29,4 +29,8 @@ def test_compare_specifications(reference, specs, expected_correct, expected_all
 
 
 def test_evaluate_pipeline():
-    evaluate_pipeline()
+    eval_correct, eval_all = evaluate_pipeline()
+
+    assert 1 <= eval_correct <= eval_all
+    attribute_precision = eval_correct / eval_all * 100
+    assert attribute_precision > 0.02
