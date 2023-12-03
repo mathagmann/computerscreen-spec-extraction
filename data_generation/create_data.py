@@ -21,6 +21,10 @@ class ExtendedOffer(Offer):
     html_file: str
     reference_file: str
 
+    @property
+    def product_id(self) -> str:
+        return self.reference_file.split("_")[2].split(".")[0]
+
 
 def _get_reference_filename(id_: str) -> str:
     return f"offer_reference_{id_}.json"

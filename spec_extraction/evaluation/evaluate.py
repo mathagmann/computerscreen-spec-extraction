@@ -20,9 +20,8 @@ def evaluate_token_classifier():
 def evaluate_pipeline():
     parser = MonitorParser()
     products = get_products_from_path(DATA_DIR)
-    for product in products:
-        product_id = product.reference_file.split("_")[2].split(".")[0]
-        reference_data = get_reference_product(product_id)
+    for idx, product in enumerate(products):
+        reference_data = get_reference_product(product.product_id)
         # convert reference_data.product_details name and value to dict
         reference_as_dict = {}
         for detail in reference_data.product_details:
