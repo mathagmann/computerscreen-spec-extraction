@@ -1,24 +1,9 @@
-import csv
-import json
 import re
 from functools import lru_cache
-from pathlib import Path
 from typing import List
 
 from spec_extraction import exceptions
 from spec_extraction.shop_product import RawShopProduct
-
-
-def monitor_repeater(listing_file: str = "detailed_listing.csv"):
-    """Returns a generator for all monitors."""
-    detailed_listing = Path("raw") / listing_file
-    with open(detailed_listing, "r") as csvfile:
-        reader = csv.DictReader(csvfile)
-        for entry in reader:
-            entry["shops"] = json.loads(entry["shops"])
-            yield RawMonitor(
-                title=entry["title"], geizhals_link=entry["link"], raw_shops=entry["shops"], idx=entry["idx"]
-            )
 
 
 class RawMonitor:
