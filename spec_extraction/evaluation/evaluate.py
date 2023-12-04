@@ -19,9 +19,33 @@ def evaluate_token_classifier():
     pass
 
 
-def evaluate_pipeline():
+def evaluate_product(proc, idx, product):
+    reference_data = get_reference_product(product.product_id)
+    click.echo(f"Processing product {idx:05d}: {reference_data.product_name}")
+
+    reference_as_dict = {}
+    for detail in reference_data.product_details:
+        reference_as_dict[detail.name] = detail.value
+    reference_structured = proc.extract_structured_specifications(reference_as_dict, "geizhals")
+
+    try:
+        catalog_data = get_catalog_product(product.product_id)
+    except FileNotFoundError:
+        print(f"Catalog data for product {product.product_id} not found.")
+        raise
+    catalog_data_structured = catalog_data.specifications
+
+    return compare_strings(reference_structured, catalog_data_structured)  # key: str,
+
+
+def evaluate_pipeline(mappings=None):
     MonitorParser()
-    process = Processing()
+    if mappings:
+        process = Processing(field_mappings=mappings)
+    else:
+        process = Processing()
+
+    eval_product = partial(evaluate_product, process)
 
     products = get_products_from_path(DATA_DIR)
     eval_attributes_correct = 0
@@ -29,22 +53,11 @@ def evaluate_pipeline():
     eval_products_correct = 0
     eval_all_products = 0
     for idx, product in enumerate(products):
-        reference_data = get_reference_product(product.product_id)
-        click.echo(f"Processing product {idx:05d}: {reference_data.product_name}")
-
-        reference_as_dict = {}
-        for detail in reference_data.product_details:
-            reference_as_dict[detail.name] = detail.value
-        reference_structured = process.extract_structured_specifications(reference_as_dict, "geizhals")
-
         try:
-            catalog_data = get_catalog_product(product.product_id)
+            count_correct, count_all = eval_product(idx, product)
         except FileNotFoundError:
-            print(f"Catalog data for product {product.product_id} not found.")
             continue
-        catalog_data_structured = catalog_data.specifications
 
-        count_correct, count_all = compare_strings(reference_structured, catalog_data_structured)  # key: str,
         eval_all_attributes_extracted += count_all
         eval_attributes_correct += count_correct
         eval_all_products += 1
