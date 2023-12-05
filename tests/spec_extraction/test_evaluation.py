@@ -49,8 +49,14 @@ def test_calculate_evaluation_scores():
 
 
 def test_evaluate_pipeline():
-    eval_correct, eval_all = evaluate_pipeline()
+    confusion_matrix = evaluate_pipeline()
 
-    assert 1 <= eval_correct <= eval_all
-    attribute_precision = eval_correct / eval_all * 100
-    assert attribute_precision > 0.02
+    scores = calculate_evaluation_scores(confusion_matrix)
+    assert scores.precision > 0.02
+    assert scores.recall > 0.02
+
+
+def test_evaluate_field_mappings():
+    score_auto_mapping, score_manual_mapping = evaluate_field_mappings()
+
+    assert score_manual_mapping > score_auto_mapping

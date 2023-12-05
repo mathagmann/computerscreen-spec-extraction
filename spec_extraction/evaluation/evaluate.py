@@ -1,10 +1,12 @@
 import difflib
 from dataclasses import dataclass
+from functools import partial
 
 import click
 from loguru import logger
 
 from config import DATA_DIR
+from config import ROOT_DIR
 from data_generation.create_data import get_reference_product
 from data_generation.utilities import get_products_from_path
 from spec_extraction.extraction_config import MonitorParser
@@ -28,28 +30,52 @@ class EvaluationScores:
     f1_score: float = 0
 
 
-def evaluate_product(proc, idx, product) -> ConfusionMatrix:
-    """Collect all specifications from the reference data and the catalog data and compares them."""
-    reference_data = get_reference_product(product.product_id)
-    click.echo(f"Processing product {idx:05d}: {reference_data.product_name}")
-
-    reference_as_dict = {}
-    for detail in reference_data.product_details:
-        reference_as_dict[detail.name] = detail.value
-    reference_structured = proc.extract_structured_specifications(reference_as_dict, "geizhals")
-
-    try:
-        catalog_data = get_catalog_product(product.product_id)
-    except FileNotFoundError:
-        print(f"Catalog data for product {product.product_id} not found.")
-        raise
-    catalog_data_structured = catalog_data.specifications
-
-    return calculate_confusion_matrix(reference_structured, catalog_data_structured)
-
-
 def evaluate_token_classifier():
     pass
+
+
+def evaluate_pipeline(mappings=None) -> ConfusionMatrix:
+    MonitorParser()
+    if mappings:
+        process = Processing(field_mappings=mappings)
+    else:
+        process = Processing()
+
+    eval_product = partial(evaluate_product, process)
+
+    products = get_products_from_path(DATA_DIR)
+
+    count_products = 0
+    count_correct_products = 0
+    confusion_matrix = ConfusionMatrix()
+    for idx, product in enumerate(products):
+        try:
+            scores = eval_product(idx, product)
+        except FileNotFoundError:
+            continue
+
+        confusion_matrix += scores
+        count_products += 1
+        if scores.is_perfect():
+            count_correct_products += 1
+    return confusion_matrix
+
+
+def evaluate_field_mappings():
+    auto = ROOT_DIR / "spec_extraction" / "preparation" / "auto_field_mappings.json"
+    manual = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings.json"
+
+    # # run pipeline and compare results
+    # x = evaluate_pipeline(mappings=auto)
+    # # score_auto_mapping = eval_correct_auto / eval_all_auto * 100
+    # # print(f"Auto mapping precision: {score_auto_mapping:.2f}%")
+    #
+    # x = evaluate_pipeline(mappings=manual)
+    # # score_manual_mapping = eval_correct / eval_all * 100
+    # # print(f"Manual mapping precision: {score_manual_mapping:.2f}%")
+    #
+    # return score_auto_mapping, score_manual_mapping
+    return 0, 0
 
 
 def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
@@ -112,7 +138,9 @@ def calculate_evaluation_scores(counts: ConfusionMatrix) -> EvaluationScores:
 
     return EvaluationScores(accuracy=accuracy, precision=precision, recall=recall, f1_score=f1_score)
 
-def evaluate_product(proc, idx, product):
+
+def evaluate_product(proc, idx, product) -> ConfusionMatrix:
+    """Collect all specifications from the reference data and the catalog data and compares them."""
     reference_data = get_reference_product(product.product_id)
     click.echo(f"Processing product {idx:05d}: {reference_data.product_name}")
 
@@ -128,42 +156,7 @@ def evaluate_product(proc, idx, product):
         raise
     catalog_data_structured = catalog_data.specifications
 
-    return compare_strings(reference_structured, catalog_data_structured)  # key: str,
-
-
-def evaluate_pipeline(mappings=None):
-    MonitorParser()
-    if mappings:
-        process = Processing(field_mappings=mappings)
-    else:
-        process = Processing()
-
-    eval_product = partial(evaluate_product, process)
-
-    products = get_products_from_path(DATA_DIR)
-    eval_attributes_correct = 0
-    eval_all_attributes_extracted = 0
-    eval_products_correct = 0
-    eval_all_products = 0
-    for idx, product in enumerate(products):
-        try:
-            count_correct, count_all = eval_product(idx, product)
-        except FileNotFoundError:
-            continue
-
-        eval_all_attributes_extracted += count_all
-        eval_attributes_correct += count_correct
-        eval_all_products += 1
-        if count_all == count_correct:
-            eval_products_correct += 1
-
-    attribute_precision = eval_attributes_correct / eval_all_attributes_extracted * 100
-    logger.info(f"Attribute precision: {attribute_precision:.2f}%")
-
-    product_precision = eval_products_correct / eval_all_products * 100
-    logger.info(f"Product precision: {product_precision:.2f}%")
-
-    return eval_attributes_correct, eval_all_attributes_extracted
+    return calculate_confusion_matrix(reference_structured, catalog_data_structured)
 
 
 def color_diff(string1, string2):
