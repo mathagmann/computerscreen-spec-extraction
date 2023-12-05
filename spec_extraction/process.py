@@ -163,10 +163,9 @@ class Processing:
             product_name = None
             product_id = None
             for raw_product in grouped_specs_single_screen:
-                if not product_name:
+                if not product_name or not product_id:
                     product_name = raw_product.name
-                    matched_groups = re.search(r"\d+", raw_product.reference_file)
-                    product_id = matched_groups.group(0)  # first number in filename
+                    product_id = raw_product.id
 
                 structured_specs = self.extract_properties(raw_product.raw_specifications, raw_product.shop_name)
                 product_data[raw_product.shop_name] = structured_specs

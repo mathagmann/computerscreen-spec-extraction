@@ -1,3 +1,5 @@
+import re
+
 from marshmallow_dataclass import dataclass
 
 
@@ -11,6 +13,10 @@ class RawProduct:
     html_file: str
     offer_link: str
     reference_file: str
+
+    def id(self):
+        matched_groups = re.search(r"\d+", self.reference_file)
+        return matched_groups.group(0)  # first number in filename
 
 
 @dataclass
