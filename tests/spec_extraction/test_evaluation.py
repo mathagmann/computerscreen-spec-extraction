@@ -1,8 +1,8 @@
 import pytest
 
 from spec_extraction.evaluation.evaluate import ConfusionMatrix
-from spec_extraction.evaluation.evaluate import calculate_evaluation_scores
 from spec_extraction.evaluation.evaluate import calculate_confusion_matrix
+from spec_extraction.evaluation.evaluate import calculate_evaluation_scores
 from spec_extraction.evaluation.evaluate import evaluate_field_mappings
 from spec_extraction.evaluation.evaluate import evaluate_pipeline
 
@@ -57,6 +57,7 @@ def test_evaluate_pipeline():
 
 
 def test_evaluate_field_mappings():
-    score_auto_mapping, score_manual_mapping = evaluate_field_mappings()
+    scores_manual_mapping, scores_auto_mapping = evaluate_field_mappings()
 
-    assert score_manual_mapping > score_auto_mapping
+    assert scores_manual_mapping.precision > 0.5
+    assert scores_auto_mapping.precision > 0.5

@@ -21,6 +21,17 @@ class ConfusionMatrix:
     false_negatives: int = 0
     true_negatives: int = 0
 
+    def is_perfect(self):
+        return self.false_negatives == 0 and self.false_positives == 0
+
+    def __add__(self, other):
+        return ConfusionMatrix(
+            true_positives=self.true_positives + other.true_positives,
+            false_positives=self.false_positives + other.false_positives,
+            false_negatives=self.false_negatives + other.false_negatives,
+            true_negatives=self.true_negatives + other.true_negatives,
+        )
+
 
 @dataclass
 class EvaluationScores:
@@ -61,21 +72,28 @@ def evaluate_pipeline(mappings=None) -> ConfusionMatrix:
     return confusion_matrix
 
 
-def evaluate_field_mappings():
+def evaluate_field_mappings() -> tuple[EvaluationScores, EvaluationScores]:
+    """Evaluate the field mappings.
+
+    Returns
+    -------
+    tuple[EvaluationScores, EvaluationScores]
+        A tuple containing the evaluation scores for the auto mapping and the manual mapping.
+
+    """
     auto = ROOT_DIR / "spec_extraction" / "preparation" / "auto_field_mappings.json"
     manual = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings.json"
 
-    # # run pipeline and compare results
-    # x = evaluate_pipeline(mappings=auto)
-    # # score_auto_mapping = eval_correct_auto / eval_all_auto * 100
-    # # print(f"Auto mapping precision: {score_auto_mapping:.2f}%")
-    #
-    # x = evaluate_pipeline(mappings=manual)
-    # # score_manual_mapping = eval_correct / eval_all * 100
-    # # print(f"Manual mapping precision: {score_manual_mapping:.2f}%")
-    #
-    # return score_auto_mapping, score_manual_mapping
-    return 0, 0
+    # run pipeline twice and compare results
+    confusion_matrix = evaluate_pipeline(mappings=auto)
+    logger.info(f"Auto mapping: {confusion_matrix}")
+    scores_auto = calculate_evaluation_scores(confusion_matrix)
+
+    confusion_matrix = evaluate_pipeline(mappings=manual)
+    logger.info(f"Manual mapping: {confusion_matrix}")
+    scores_manual = calculate_evaluation_scores(confusion_matrix)
+
+    return scores_manual, scores_auto
 
 
 def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
@@ -142,7 +160,7 @@ def calculate_evaluation_scores(counts: ConfusionMatrix) -> EvaluationScores:
 def evaluate_product(proc, idx, product) -> ConfusionMatrix:
     """Collect all specifications from the reference data and the catalog data and compares them."""
     reference_data = get_reference_product(product.product_id)
-    click.echo(f"Processing product {idx:05d}: {reference_data.product_name}")
+    logger.debug(f"Processing product {idx:05d}: {reference_data.product_name}")
 
     reference_as_dict = {}
     for detail in reference_data.product_details:
