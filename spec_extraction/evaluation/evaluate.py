@@ -1,4 +1,5 @@
 import difflib
+from dataclasses import dataclass
 
 import click
 from loguru import logger
@@ -11,13 +12,105 @@ from spec_extraction.process import Processing
 from spec_extraction.utilities import get_catalog_product
 
 
-def evaluate_field_mappings():
-    pass
+@dataclass
+class ConfusionMatrix:
+    true_positives: int = 0
+    false_positives: int = 0
+    false_negatives: int = 0
+    true_negatives: int = 0
+
+
+@dataclass
+class EvaluationScores:
+    accuracy: float = 0
+    precision: float = 0
+    recall: float = 0
+    f1_score: float = 0
+
+
+def evaluate_product(proc, idx, product) -> ConfusionMatrix:
+    """Collect all specifications from the reference data and the catalog data and compares them."""
+    reference_data = get_reference_product(product.product_id)
+    click.echo(f"Processing product {idx:05d}: {reference_data.product_name}")
+
+    reference_as_dict = {}
+    for detail in reference_data.product_details:
+        reference_as_dict[detail.name] = detail.value
+    reference_structured = proc.extract_structured_specifications(reference_as_dict, "geizhals")
+
+    try:
+        catalog_data = get_catalog_product(product.product_id)
+    except FileNotFoundError:
+        print(f"Catalog data for product {product.product_id} not found.")
+        raise
+    catalog_data_structured = catalog_data.specifications
+
+    return calculate_confusion_matrix(reference_structured, catalog_data_structured)
 
 
 def evaluate_token_classifier():
     pass
 
+
+def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
+    """Determines the numbers of the confusion matrix.
+
+    The values are based on a reference dictionary and a second dictionary that
+    is to be compared to the reference.
+
+    True positives: The number of properties that exist in both (reference and catalog) and values match.
+    False positives: The number of properties that exist in both, but values do not match.
+    False negatives: The number of properties that only exists in reference.
+    True negatives: The number of properties that only exist in catalog.
+
+    Returns
+    -------
+    ConfusionMatrix
+        A dataclass containing the number of true positives, false positives, etc.
+    """
+    confusion_matrix = ConfusionMatrix()
+
+    for key in reference_data:
+        if key in catalog_data:
+            if reference_data[key] == catalog_data[key]:
+                # True Positive (Matching entry), key exists in both
+                confusion_matrix.true_positives += 1
+            else:
+                # False Positive (Non-matching entry), key exists in both
+                confusion_matrix.false_positives += 1
+        else:
+            # False Negative (Missing entry in catalog_data, but exists in reference_data)
+            confusion_matrix.false_negatives += 1
+
+    # Calculate True Negatives (Entries in catalog_data not present in reference_data)
+    confusion_matrix.true_negatives = (
+        len(catalog_data) - confusion_matrix.true_positives - confusion_matrix.false_positives
+    )
+    return confusion_matrix
+
+
+def calculate_evaluation_scores(counts: ConfusionMatrix) -> EvaluationScores:
+    """Calculate evaluation scores based on the counts of true positives, false positives, etc."""
+    total_predictions = counts.true_negatives + counts.false_negatives + counts.false_positives + counts.true_positives
+
+    accuracy = (counts.true_positives + counts.true_negatives) / total_predictions if total_predictions > 0 else 0
+    precision = (
+        counts.true_positives / (counts.true_positives + counts.false_positives)
+        if (counts.true_positives + counts.false_positives) > 0
+        else 0
+    )
+    recall = (
+        counts.true_positives / (counts.true_positives + counts.false_negatives)
+        if (counts.true_positives + counts.false_negatives) > 0
+        else 0
+    )
+    f1_score = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0
+
+    logger.info(f"Precision: {precision * 100:.2f}%")
+    logger.info(f"Recall: {recall * 100:.2f}%")
+    logger.info(f"F1 score: {f1_score * 100:.2f}%")
+
+    return EvaluationScores(accuracy=accuracy, precision=precision, recall=recall, f1_score=f1_score)
 
 def evaluate_product(proc, idx, product):
     reference_data = get_reference_product(product.product_id)
@@ -90,64 +183,6 @@ def color_diff(string1, string2):
             colored_diff.append(click.style(line, fg="green"))
 
     return "\n".join(colored_diff)
-
-
-def compare_strings(reference: dict, dict2: dict) -> tuple[int, int]:
-    """Compares two dicts.
-
-    Returns
-    -------
-    correct: int
-        The number of identical values.
-    all: int
-        The number of all values.
-    """
-
-    # Find keys that are in reference but not in dict2
-    keys_only_in_ref = set(reference.keys()) - set(dict2.keys())
-
-    # Find keys that are in dict2 but not in reference
-    keys_only_in_dict2 = set(dict2.keys()) - set(reference.keys())
-
-    # Find keys that are common to both dictionaries
-    common_keys = set(reference.keys()) & set(dict2.keys())
-
-    # Compare values for common keys
-    differences = {}
-    for key in common_keys:
-        if reference[key] != dict2[key]:
-            differences[key] = (reference[key], dict2[key])
-            logger.debug(f"Found difference for key '{key}': {reference[key]} != {dict2[key]}")
-
-    # Display the differences using click.secho with colors
-    if keys_only_in_ref:
-        logger.debug(f"Keys only in ref: {keys_only_in_ref}")
-
-    all_keys = set(reference.keys()).union(set(dict2.keys()))
-    # for key in all_keys:
-    #     # if key in differences print diff, with key else print key and value
-    #     if key in differences:
-    #         diff = color_diff(differences[key][0], differences[key][1])
-    #         click.echo(diff)
-    #     elif key in reference:
-    #         click.secho(f"{key}: {reference[key]} (gh)")
-    #     else:
-    #         click.secho(f"{key}: {dict2[key]} (catalog)", fg="green")
-    #
-    # if differences:
-    #     click.secho("Differences in values:", fg="red")
-    #     for key, values in differences.items():
-    #         diff = color_diff(values[0], values[1])
-    #         click.echo(diff)
-
-    # If there are no differences, indicate that the dictionaries are identical
-    # if not keys_only_in_ref and not keys_only_in_dict2 and not differences:
-    #     click.secho("The dictionaries are identical.", fg="green")
-
-    count_all = len(all_keys)
-    count_wrong = len(differences) + len(keys_only_in_ref) + len(keys_only_in_dict2)
-    count_correct = count_all - count_wrong
-    return count_correct, count_all
 
 
 if __name__ == "__main__":
