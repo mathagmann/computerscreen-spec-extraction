@@ -1,7 +1,6 @@
 import json
 import re
 from functools import lru_cache
-from typing import Any
 from typing import List
 
 from loguru import logger
@@ -11,7 +10,6 @@ from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import Feature
 from spec_extraction.extraction import FeatureGroup
 from spec_extraction.extraction import MLFeature
-from spec_extraction.extraction import Parser
 
 """Data extraction functions for the Parser."""
 

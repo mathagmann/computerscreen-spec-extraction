@@ -1,7 +1,7 @@
 import pytest
 
+from spec_extraction.catalog_model import CATALOG_EXAMPLE
 from spec_extraction.catalog_model import MonitorSpecifications
-from spec_extraction.process import CATALOG_EXAMPLE
 from spec_extraction.process import classify_specifications_with_ml
 from spec_extraction.process import get_ml_specs
 from token_classification import token_classifier

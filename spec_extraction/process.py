@@ -10,83 +10,19 @@ from typing import Protocol
 from loguru import logger
 from marshmallow import EXCLUDE
 
-from config import DATA_DIR
-from config import RAW_SPECIFICATIONS_DIR
-from data_generation import model
+import config
+from data_generation.model import ExtendedOffer
 from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
 from merchant_html_parser import shop_parser
 from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
-from spec_extraction.extraction import clean_text
 from spec_extraction.field_mappings import FieldMappings
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
 from spec_extraction.utilities import get_catalog_filename
 from token_classification import token_classifier
 from token_classification import utilities as ml_utils
-
-CATALOG_EXAMPLE = {
-    MonitorSpecifications.EAN.value: "4710886422812",
-    MonitorSpecifications.DIAGONAL_INCH.value: '27 "',
-    MonitorSpecifications.DIAGONAL_CM.value: "68.6 cm",
-    MonitorSpecifications.BRAND.value: "Acer",
-    MonitorSpecifications.RESOLUTION.value: "2560x1440",
-    MonitorSpecifications.BRIGHTNESS.value: "250 cd/m²",
-    MonitorSpecifications.CONTRAST.value: "1000:1",
-    MonitorSpecifications.REACTION_TIME.value: "5 ms",
-    MonitorSpecifications.VIEWING_ANGLE_HOR.value: "178",
-    MonitorSpecifications.VIEWING_ANGLE_VER.value: "178",
-    MonitorSpecifications.PANEL.value: "IPS",
-    MonitorSpecifications.FORM.value: "gerade",
-    MonitorSpecifications.CURVATURE.value: "1500R",
-    MonitorSpecifications.COATING.value: "matt",
-    MonitorSpecifications.HDR.value: "HDR10",
-    MonitorSpecifications.ASPECT_RATIO.value: "16:9",
-    MonitorSpecifications.COLOR_DEPTH.value: "8 bit",
-    MonitorSpecifications.COLOR_SPACE_SRGB.value: "100% (sRGB)",
-    MonitorSpecifications.COLOR_SPACE_ARGB.value: "100% (Adobe RGB)",
-    MonitorSpecifications.COLOR_SPACE_DCIP3.value: "100% (DCI-P3)",
-    MonitorSpecifications.COLOR_SPACE_REC709.value: "100% (Rec 709)",
-    MonitorSpecifications.COLOR_SPACE_REC2020.value: "100% (Rec 2020)",
-    MonitorSpecifications.COLOR_SPACE_NTSC.value: "72% (NTSC)",
-    MonitorSpecifications.REFRESH_RATE.value: "144 Hz",
-    MonitorSpecifications.VARIABLE_SYNC.value: "AMD FreeSync",
-    MonitorSpecifications.PORTS_HDMI.value: "2x HDMI",
-    MonitorSpecifications.PORTS_DP.value: "1x DisplayPort",
-    MonitorSpecifications.PORTS_MINI_DP.value: "1x Mini DisplayPort",
-    MonitorSpecifications.PORTS_DVI.value: "1x DVI",
-    MonitorSpecifications.PORTS_VGA.value: "1x VGA",
-    MonitorSpecifications.PORTS_USB_C.value: "1x USB-C",
-    MonitorSpecifications.PORTS_THUNDERBOLT.value: "1x Thunderbolt",
-    MonitorSpecifications.PORTS_USB_A.value: "2x USB-A",
-    MonitorSpecifications.PORTS_DISPLAY_OUT.value: " 1x DisplayPort-Out 1.2 (Daisy Chain)",
-    MonitorSpecifications.PORTS_LAN.value: "1x Gb LAN (RJ-45)",
-    MonitorSpecifications.PORTS_AUDIO.value: "1x Line-Out",
-    MonitorSpecifications.USB_HUB_IN_USBC.value: "1x USB Typ C",
-    MonitorSpecifications.USB_HUB_IN_USBB.value: "1x USB-B 3.0",
-    MonitorSpecifications.USB_HUB_OUT.value: (
-        "1x USB-C 3.0,  2x USB-A 3.0,  1x USB-A 3.0 (Schnellladefunktion USB BC " "1.2)"
-    ),
-    MonitorSpecifications.ERGONOMICS_HEIGHT_ADJUSTABLE.value: "15 cm",
-    MonitorSpecifications.ERGONOMICS_TILT_ANGLE.value: "5 - 22\u00b0",
-    MonitorSpecifications.ERGONOMICS_PIVOT_ANGLE.value: "90 - -90\u00b0",
-    MonitorSpecifications.COLOR.value: "schwarz",
-    MonitorSpecifications.VESA.value: "100 x 100 mm",
-    MonitorSpecifications.WEIGHT.value: "10.00 kg",
-    MonitorSpecifications.FEATURES.value: "Power Delivery",
-    MonitorSpecifications.POWER_CONSUMPTION_SDR.value: "20 Watt",
-    MonitorSpecifications.POWER_CONSUMPTION_SLEEP.value: "0.5 Watt",
-    MonitorSpecifications.POWER_SUPPLY.value: "AC-In (internes Netzteil)",
-    MonitorSpecifications.ENERGY_EFFICIENCY.value: "E",
-    MonitorSpecifications.DIMENSIONS.value: "53.3 cm x 20.7 cm x 39 cm",
-    MonitorSpecifications.CABLES_HDMI.value: "1x HDMI-Kabel",
-    MonitorSpecifications.CABLES_DP.value: "1x DisplayPort-Kabel",
-    MonitorSpecifications.CABLES_DVI.value: "1x DVI-Kabel",
-    MonitorSpecifications.CABLES_VGA.value: "1x VGA-Kabel",
-    MonitorSpecifications.CABLES_AC_POWER.value: "1x Strom-Kabel",
-    MonitorSpecifications.WARRANTY.value: "2 Jahre",
-}
 
 
 def pretty(dictionary: dict):
@@ -102,24 +38,19 @@ class ParserProtocol(Protocol):
 
 
 class Processing:
-    def __init__(
-        self,
-        parser: ParserProtocol,
-        data_dir=None,
-        field_mappings: Path = Path(__file__).parent / "preparation" / "field_mappings.json",
-    ):
+    def __init__(self, parser: ParserProtocol, field_mappings: Path, data_dir=None):
         self.parser = parser
         self.field_mappings = FieldMappings(field_mappings)
         self.port_classifier = token_classifier.setup()
         if data_dir is None:
-            data_dir = DATA_DIR
+            data_dir = config.DATA_DIR
         self.data_dir = data_dir  # Raw HTML data
         self.field_mappings.load_from_disk()
 
     def extract_raw_specifications(self):
         logger.info("--- Extracting raw specifications... ---")
 
-        os.makedirs(RAW_SPECIFICATIONS_DIR, exist_ok=True)
+        os.makedirs(config.RAW_SPECIFICATIONS_DIR, exist_ok=True)
         for idx, monitor_extended_offer in enumerate(get_products_from_path(self.data_dir)):
             logger.debug(f"Extracting {idx} {monitor_extended_offer.html_file}")
             try:
@@ -127,7 +58,7 @@ class Processing:
             except exceptions.ShopParserNotImplementedError:
                 continue
 
-            save_raw_specifications(RAW_SPECIFICATIONS_DIR, raw_monitor)
+            save_raw_specifications(config.RAW_SPECIFICATIONS_DIR, raw_monitor)
         logger.info("--- Extracting raw specifications done ---")
 
     def find_mappings(self, catalog_example: Dict[MonitorSpecifications, str]):
@@ -165,7 +96,7 @@ class Processing:
         logger.info("Creating monitor specifications...")
 
         os.makedirs(catalog_dir, exist_ok=True)
-        for grouped_specs_single_screen in get_all_raw_specs_per_screen(RAW_SPECIFICATIONS_DIR):
+        for grouped_specs_single_screen in get_all_raw_specs_per_screen(config.RAW_SPECIFICATIONS_DIR):
             # Handle specifications for one product
 
             # Steps: Schema matching and extraction
@@ -231,6 +162,12 @@ class Processing:
         return unified_specifications
 
 
+def clean_text(text):
+    """Removes invisible characters."""
+    text = text.replace("cd/m2", "cd/m\u00b2")
+    return text.replace("\u200b", "").strip()  # remove zero-width space
+
+
 def get_ml_specs(labeled_data: dict) -> dict:
     """Merges ML specifications into unified specifications."""
     port_mappings = {
@@ -293,7 +230,7 @@ def store_product_for_catalog(specifications: dict, product_name: str, product_n
     logger.debug(f"Saved catalog ready product to {catalog_dir / catalog_filename}")
 
 
-def html_json_to_raw_product(monitor: model.ExtendedOffer, raw_data_dir: Path) -> RawProduct:
+def html_json_to_raw_product(monitor: ExtendedOffer, raw_data_dir: Path) -> RawProduct:
     with open(raw_data_dir / monitor.html_file) as file:
         html = file.read()
 
