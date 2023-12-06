@@ -12,7 +12,7 @@ from marshmallow import EXCLUDE
 
 from config import DATA_DIR
 from config import RAW_SPECIFICATIONS_DIR
-from data_generation.create_data import ExtendedOffer
+from data_generation import model
 from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
 from merchant_html_parser import shop_parser
@@ -293,7 +293,7 @@ def store_product_for_catalog(specifications: dict, product_name: str, product_n
     logger.debug(f"Saved catalog ready product to {catalog_dir / catalog_filename}")
 
 
-def html_json_to_raw_product(monitor: ExtendedOffer, raw_data_dir: Path) -> RawProduct:
+def html_json_to_raw_product(monitor: model.ExtendedOffer, raw_data_dir: Path) -> RawProduct:
     with open(raw_data_dir / monitor.html_file) as file:
         html = file.read()
 

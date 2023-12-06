@@ -6,6 +6,7 @@ import marshmallow_dataclass
 from loguru import logger
 
 from config import DATA_DIR
+from data_generation import model
 from geizhals import geizhals_api
 from geizhals.geizhals_model import Offer
 from geizhals.geizhals_model import Product
@@ -14,16 +15,6 @@ from geizhals.geizhals_model import ProductPage
 PRODUCT_LISTING = DATA_DIR / "product_listing.json"
 
 CATEGORY_URL = "https://geizhals.at/?cat=monlcd19wide&asuch=&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&sort=n"
-
-
-@marshmallow_dataclass.dataclass
-class ExtendedOffer(Offer):
-    html_file: str
-    reference_file: str
-
-    @property
-    def product_id(self) -> str:
-        return self.reference_file.split("_")[2].split(".")[0]
 
 
 def _get_reference_filename(id_: str) -> str:
@@ -103,7 +94,7 @@ def download_merchant_offers(browser, merchant_offers: list[Offer], reference_fi
                 f.write(html)
 
             with open(DATA_DIR / f"offer_{product_idx}_{idx}.json", "w") as f:
-                offer_schema = marshmallow_dataclass.class_schema(ExtendedOffer)()
+                offer_schema = marshmallow_dataclass.class_schema(model.ExtendedOffer)()
                 offer_dict = offer_schema.dump(merchant_offer)
                 offer_dict.update({"html_file": html_name, "reference_file": reference_file})
                 json.dump(offer_dict, f, indent=4)

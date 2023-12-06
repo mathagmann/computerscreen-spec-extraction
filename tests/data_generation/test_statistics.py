@@ -1,10 +1,10 @@
 from data_generation import statistics
-from data_generation.create_data import ExtendedOffer
+from data_generation import model
 
 
 def test_statistics():
     products = [
-        ExtendedOffer(
+        model.ExtendedOffer(
             shop_name="shop1",
             price=100,
             offer_link="https://www.example.com",
@@ -12,7 +12,7 @@ def test_statistics():
             html_file=None,
             reference_file=None,
         ),
-        ExtendedOffer(
+        model.ExtendedOffer(
             shop_name="shop2",
             price=200,
             offer_link="https://www.example.com",
@@ -20,7 +20,7 @@ def test_statistics():
             html_file=None,
             reference_file=None,
         ),
-        ExtendedOffer(
+        model.ExtendedOffer(
             shop_name="shop2",
             price=300,
             offer_link="https://www.example.com",

@@ -7,7 +7,7 @@ from loguru import logger
 
 from config import ROOT_DATA_DIR
 from config import ROOT_DIR
-from data_generation.create_data import ExtendedOffer
+from data_generation import model
 from merchant_html_parser import shop_parser
 
 
@@ -26,7 +26,7 @@ def build_corpus():
             if filename.suffix != ".json":
                 continue
             all_offers += 1
-            offer_schema = marshmallow_dataclass.class_schema(ExtendedOffer)()
+            offer_schema = marshmallow_dataclass.class_schema(model.ExtendedOffer)()
             try:
                 with open(filename, "r") as f:
                     offer_dict = json.load(f)
