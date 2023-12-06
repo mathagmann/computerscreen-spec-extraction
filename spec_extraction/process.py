@@ -186,13 +186,20 @@ class Processing:
 
         machine_learning_specs = {}
         if enable_enhancement:
-            labeled_data = classify_specifications_with_ml(raw_specification, self.port_classifier)
-            machine_learning_specs = get_ml_specs(labeled_data)
+            machine_learning_specs = self.extract_with_bert(raw_specification)
             logger.debug(f"ML specs from '{shop_name}':\n{pretty(machine_learning_specs)}")
 
         specifications = unified_specifications | machine_learning_specs
         logger.info(f"Created specs:\n{monitor_parser.nice_output(specifications)}")
         return specifications
+
+    def extract_with_bert(self, raw_specification: dict) -> dict:
+        """Extracts specifications with machine learning.
+
+        Returns a dict with structured specifications.
+        """
+        labeled_data = classify_specifications_with_ml(raw_specification, self.port_classifier)
+        return get_ml_specs(labeled_data)
 
     def extract_structured_specifications(self, raw_specification: dict, shop_name: str) -> dict:
         """Returns structured specifications based on predefined catalog format."""
