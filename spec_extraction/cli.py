@@ -2,12 +2,15 @@
 """
 
 from config import PRODUCT_CATALOG_DIR
+from spec_extraction import extraction_config
+from spec_extraction.extraction import Parser
 from spec_extraction.process import CATALOG_EXAMPLE
 from spec_extraction.process import Processing
 
 
 def main():  # pragma: no cover
-    p = Processing()
+    parser = Parser(specifications=extraction_config.monitor_spec)
+    p = Processing(parser)
     p.extract_raw_specifications()
 
     p.find_mappings(CATALOG_EXAMPLE)

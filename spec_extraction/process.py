@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Any
 from typing import Dict
 from typing import Generator
+from typing import Protocol
 
 from loguru import logger
 from marshmallow import EXCLUDE
@@ -18,7 +19,6 @@ from merchant_html_parser import shop_parser
 from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import clean_text
-from spec_extraction.extraction_config import monitor_parser
 from spec_extraction.field_mappings import FieldMappings
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
@@ -93,13 +93,23 @@ def pretty(dictionary: dict):
     return json.dumps(dictionary, indent=4, sort_keys=True)
 
 
+class ParserProtocol(Protocol):
+    def nice_output(self, parsed_data: dict) -> str:
+        ...
+
+    def parse(self, parsed_data: dict) -> dict:
+        ...
+
+
 class Processing:
     def __init__(
         self,
+        parser: ParserProtocol,
         data_dir=None,
-        field_mappings_file: Path = Path(__file__).parent / "preparation" / "auto_field_mappings.json",
+        field_mappings: Path = Path(__file__).parent / "preparation" / "field_mappings.json",
     ):
-        self.field_mappings = FieldMappings(field_mappings_file)
+        self.parser = parser
+        self.field_mappings = FieldMappings(field_mappings)
         self.port_classifier = token_classifier.setup()
         if data_dir is None:
             data_dir = DATA_DIR
@@ -178,7 +188,7 @@ class Processing:
     def extract_properties(
         self, raw_specification: dict, shop_name: str, enable_enhancement: bool = True
     ) -> dict[str, Any]:
-        """Extracts structured properties from raw specifications.
+        """Extracts structured properties from a single product.
 
         Relies on field mappings and optional machine learning enhancement.
         """
@@ -190,7 +200,7 @@ class Processing:
             logger.debug(f"ML specs from '{shop_name}':\n{pretty(machine_learning_specs)}")
 
         specifications = unified_specifications | machine_learning_specs
-        logger.info(f"Created specs:\n{monitor_parser.nice_output(specifications)}")
+        logger.info(f"Created specs:\n{self.parser.nice_output(specifications)}")
         return specifications
 
     def extract_with_bert(self, raw_specification: dict) -> dict:
@@ -217,7 +227,7 @@ class Processing:
             merchant_value = raw_specification[merchant_key]
             merchant_value = clean_text(merchant_value)
             monitor_specs[catalog_key] = merchant_value
-        unified_specifications = monitor_parser.parse(monitor_specs)
+        unified_specifications = self.parser.parse(monitor_specs)
         return unified_specifications
 
 

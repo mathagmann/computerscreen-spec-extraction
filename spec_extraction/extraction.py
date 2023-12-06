@@ -108,7 +108,7 @@ class MLFeature:
 class FeatureGroup:
     """Groups related features together."""
 
-    def __init__(self, name: str, features: List[Feature] = None):
+    def __init__(self, name: str, features: List[Feature | MLFeature] = None):
         self.name = name
         if features is None:
             features = []
@@ -148,7 +148,9 @@ class Parser:
         self.bow = None
         self.parse_count = 0
 
-    def init(self):
+        self._setup()
+
+    def _setup(self):
         """Build parser configuration from feature groups.
 
         Initializes the bag of words.
@@ -163,7 +165,7 @@ class Parser:
         result = {}
         for feature_name, feature_value in raw_specifications.items():
             clean_value = clean_text(feature_value)
-            if isinstance(self.parser[feature_name], Feature):
+            if feature_name in self.parser and isinstance(self.parser[feature_name], Feature):
                 try:
                     result[feature_name] = self.parser[feature_name].parse(clean_value)
                 except KeyError as e:

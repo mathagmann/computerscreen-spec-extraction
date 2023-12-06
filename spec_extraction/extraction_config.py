@@ -581,11 +581,20 @@ monitor_spec = [
 ]
 
 
-class MonitorParser(Parser):
-    def __init__(self):
-        specs: list[FeatureGroup[str, list[Any]]] = monitor_spec
-        super().__init__(specs)
-
-
-monitor_parser = MonitorParser()
-monitor_parser.init()
+ml_monitor_specs = [
+    FeatureGroup(
+        "Anschlüsse",
+        [
+            MLFeature(
+                MonitorSpecifications.PORTS_HDMI,
+                string_repr="{count}x {value}",
+                repr_optional=[" {version}", " ({details})"],
+            ),
+            MLFeature(
+                MonitorSpecifications.PORTS_DP,
+                string_repr="{count}x {value}",
+                repr_optional=[" {version}", " ({details})"],
+            ),
+        ],
+    )
+]
