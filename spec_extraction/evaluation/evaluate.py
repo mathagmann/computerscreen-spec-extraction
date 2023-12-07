@@ -41,7 +41,9 @@ class EvaluationScores:
 
 
 def evaluate_token_classifier():
-    pass
+    # evaluate pipeline with ML based keys only
+    conf_matrix, product_precision = evaluate_pipeline(ml_only=True)
+    return conf_matrix, product_precision
 
 
 def evaluate_pipeline(mappings=None, ml_only=False) -> tuple[ConfusionMatrix, float]:

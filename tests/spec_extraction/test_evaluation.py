@@ -48,8 +48,14 @@ def test_calculate_evaluation_scores():
     assert scores.f1_score == 0.9
 
 
+def test_evaluate_token_classifier():
+    confusion_matrix, product_precision = evaluate_pipeline(ml_only=True)
+
+    assert confusion_matrix
+
+
 def test_evaluate_pipeline():
-    confusion_matrix = evaluate_pipeline()
+    confusion_matrix, product_precision = evaluate_pipeline()
 
     scores = calculate_evaluation_scores(confusion_matrix)
     assert scores.precision > 0.02
