@@ -45,11 +45,22 @@ class FieldMappingsProtocol(Protocol):
     def add_possible_mapping(self, shopname: str, merchant_value: str, catalog_value: str):
         ...
 
-    def load_from_disk(self):
-        ...
-
     def save_to_disk(self):
         ...
+
+
+def extract_raw_specifications(data_dir: Path):
+    logger.info("--- Extracting raw specifications... ---")
+
+    os.makedirs(config.RAW_SPECIFICATIONS_DIR, exist_ok=True)
+    for idx, monitor_extended_offer in enumerate(get_products_from_path(data_dir)):
+        logger.debug(f"Extracting {idx} {monitor_extended_offer.html_file}")
+        try:
+            raw_monitor = html_json_to_raw_product(monitor_extended_offer, data_dir)
+        except exceptions.ShopParserNotImplementedError:
+            continue
+        raw_monitor.save_to_json(config.RAW_SPECIFICATIONS_DIR / raw_monitor.filename)
+    logger.info("--- Extracting raw specifications done ---")
 
 
 class Processing:
@@ -66,21 +77,6 @@ class Processing:
         if data_dir is None:
             data_dir = config.DATA_DIR
         self.data_dir = data_dir  # Raw HTML data
-        self.field_mappings.load_from_disk()
-
-    def extract_raw_specifications(self):
-        logger.info("--- Extracting raw specifications... ---")
-
-        os.makedirs(config.RAW_SPECIFICATIONS_DIR, exist_ok=True)
-        for idx, monitor_extended_offer in enumerate(get_products_from_path(self.data_dir)):
-            logger.debug(f"Extracting {idx} {monitor_extended_offer.html_file}")
-            try:
-                raw_monitor = html_json_to_raw_product(monitor_extended_offer, self.data_dir)
-            except exceptions.ShopParserNotImplementedError:
-                continue
-
-            save_raw_specifications(config.RAW_SPECIFICATIONS_DIR, raw_monitor)
-        logger.info("--- Extracting raw specifications done ---")
 
     def find_mappings(self, catalog_example: Dict[MonitorSpecifications, str]):
         """Automatically finds mappings from extracted specification keys to unified catalog keys."""
@@ -246,33 +242,21 @@ def value_fusion(specs_per_shop: dict[str, dict]) -> dict:
 
 
 def html_json_to_raw_product(monitor: ExtendedOffer, raw_data_dir: Path) -> RawProduct:
-    with open(raw_data_dir / monitor.html_file) as file:
-        html = file.read()
-
-    raw_specifications = shop_parser.extract_tabular_data(html, monitor.shop_name)
+    """Converts HTML and JSON data into a RawProduct object."""
+    html_code = (raw_data_dir / monitor.html_file).read_text()
+    raw_specifications = shop_parser.extract_tabular_data(html_code, monitor.shop_name)
     if not raw_specifications:
         logger.warning(f"Empty specifications for {monitor.html_file} from {monitor.shop_name}")
 
     # Retrieve name from Geizhals reference JSON
-    with open(raw_data_dir / monitor.reference_file) as geizhals_file:
-        product_dict = json.load(geizhals_file)
-        geizhals_reference = ProductPage.Schema().load(product_dict)
-    product_name = geizhals_reference.product_name
+    geizhals_reference = ProductPage.load_from_json(raw_data_dir / monitor.reference_file)
 
     # turn data and raw_specifications into RawProduct
     data = monitor.__dict__
     data["raw_specifications"] = raw_specifications
-    data["name"] = product_name
+    data["name"] = geizhals_reference.product_name
     data["raw_specifications_text"] = ml_utils.specs_to_text(raw_specifications)
-
     return RawProduct.Schema().load(data, unknown=EXCLUDE)
-
-
-def save_raw_specifications(output_dir: Path, raw_monitor: RawProduct):
-    raw_spec_filename = raw_monitor.html_file.rstrip(".html") + "_specification.json"
-    product_dict = RawProduct.Schema().dump(raw_monitor)
-    with open(output_dir / raw_spec_filename, "w") as raw_monitor_file:
-        json.dump(product_dict, raw_monitor_file, indent=4)
 
 
 def get_all_raw_specs_per_screen(data_dir: str) -> Generator[RawProduct, None, None]:
@@ -307,8 +291,4 @@ def _next_raw_specs(data_dir: str) -> Generator[RawProduct, None, None]:
             continue
 
         logger.debug(f"Loading {file.name}...")
-        with open(data_dir / file.name, "r") as f:
-            products_dict = json.load(f)
-        raw_product = RawProduct.Schema().load(products_dict)
-
-        yield raw_product
+        yield RawProduct.load_from_json(data_dir / file.name)

@@ -21,6 +21,25 @@ class RawProduct:
         matched_groups = re.search(r"\d+", self.reference_file)
         return matched_groups.group(0)  # first number in filename
 
+    def save_to_json(self, file: Path):
+        raw_product = __class__.Schema().dump(self.__dict__)
+        pretty_data = json.dumps(raw_product, indent=4, sort_keys=True)
+        file.write_text(pretty_data)
+
+    @staticmethod
+    def load_from_json(file: Path):
+        """Reads catalog product data for given product id.
+
+        The ID is the number of retrieval.
+        """
+        with open(file, "r") as f:
+            data = json.load(f)
+        return __class__.Schema().load(data)
+
+    @property
+    def filename(self):
+        return f"{self.html_file.rstrip('.html')}_specification.json"
+
 
 @dataclass
 class CatalogProduct:
