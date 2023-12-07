@@ -18,10 +18,6 @@ PRODUCT_LISTING = DATA_DIR / "product_listing.json"
 CATEGORY_URL = "https://geizhals.at/?cat=monlcd19wide&asuch=&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&sort=n"
 
 
-def _get_reference_filename(id_: str) -> str:
-    return f"offer_reference_{id_}.json"
-
-
 def retrieve_all_products(browser, max_products=None) -> list[Product]:
     """Collects all products from the category 'Monitore' on Geizhals.
 
@@ -62,17 +58,14 @@ def retrieve_product_details(browser, products: list[Product]):
         logger.debug(f"{product_idx} {product.name}")
         start = time.time()
 
-        reference_file = _get_reference_filename(product_idx)
+        reference_file = ProductPage.reference_filename_from_id(product_idx)
         # Skip already retrieved Geizhals products
         if (DATA_DIR / reference_file).exists():
             logger.debug(f"Skip {product.name}: Geizhals reference data for already exists")
             continue
 
         product_page = geizhals_api.get_product_page(product.link, browser)
-        with open(DATA_DIR / reference_file, "w") as f:
-            product_page_schema = marshmallow_dataclass.class_schema(ProductPage)()
-            product_dict = product_page_schema.dump(product_page)
-            json.dump(product_dict, f, indent=4)
+        product_page.save_to_json(DATA_DIR / reference_file)
         logger.debug(f"Reference for {product_page.product_name} stored")
 
         download_merchant_offers(browser, product_page.offers, reference_file, product_idx)
@@ -108,12 +101,3 @@ def dump_product_listing(products: list[Product], filename: Path = PRODUCT_LISTI
     with open(filename, "w") as f:
         products_dict = [marshmallow_dataclass.class_schema(Product)().dump(p) for p in products]
         json.dump(products_dict, f, indent=4)
-
-
-def get_reference_product(id_: str) -> ProductPage:
-    """Reads Geizhals reference data for given product id.
-
-    The ID is the number of retrieval.
-    """
-    with open(DATA_DIR / _get_reference_filename(id_), "r") as f:
-        return ProductPage.Schema().load(json.load(f))

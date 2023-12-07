@@ -8,8 +8,8 @@ from loguru import logger
 from config import DATA_DIR
 from config import PRODUCT_CATALOG_DIR
 from config import ROOT_DIR
-from data_generation.create_data import get_reference_product
 from data_generation.utilities import get_products_from_path
+from geizhals.geizhals_model import ProductPage
 from spec_extraction.bootstrap import bootstrap
 from spec_extraction.model import CatalogProduct
 
@@ -164,7 +164,9 @@ def calculate_evaluation_scores(counts: ConfusionMatrix) -> EvaluationScores:
 
 def evaluate_product(proc, idx, product) -> ConfusionMatrix:
     """Collect all specifications from the reference data and the catalog data and compares them."""
-    reference_data = get_reference_product(product.product_id)
+    filename = ProductPage.reference_filename_from_id(product.product_id)
+    reference_data = ProductPage.load_from_json(DATA_DIR / filename)
+
     logger.debug(f"Processing product {idx:05d}: {reference_data.product_name}")
 
     reference_as_dict = {}

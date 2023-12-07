@@ -1,6 +1,25 @@
 from data_generation.model import ExtendedOffer
+from geizhals.geizhals_model import ProductPage
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
+
+
+def test_product_page(tmp_path):
+    product_page = ProductPage(url="url", product_name="test", product_details=[], offers=[])
+    tmp_file = tmp_path / ProductPage.reference_filename_from_id("1")
+
+    assert not tmp_file.exists()
+
+    product_page.save_to_json(tmp_file)
+
+    assert tmp_file.exists()
+
+    loaded = ProductPage.load_from_json(tmp_file)
+
+    assert loaded.url == product_page.url
+    assert loaded.product_name == product_page.product_name
+    assert loaded.product_details == product_page.product_details
+    assert loaded.offers == product_page.offers
 
 
 def test_extended_offer(tmp_path):
