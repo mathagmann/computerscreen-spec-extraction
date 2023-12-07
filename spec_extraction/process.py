@@ -16,7 +16,6 @@ from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
 from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
-from spec_extraction.field_mappings import FieldMappings
 from spec_extraction.html_parser import shop_parser
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
@@ -37,10 +36,27 @@ class ParserProtocol(Protocol):
         ...
 
 
+class FieldMappingsProtocol(Protocol):
+    def mapping_exists(self, shop_id, cat_key) -> bool:
+        ...
+
+    def get_mappings_per_shop(self, shop_id):
+        ...
+
+    def add_possible_mapping(self, shopname: str, merchant_value: str, catalog_value: str):
+        ...
+
+    def load_from_disk(self):
+        ...
+
+    def save_to_disk(self):
+        ...
+
+
 class Processing:
-    def __init__(self, parser: ParserProtocol, field_mappings: Path, data_dir=None):
+    def __init__(self, parser: ParserProtocol, field_mappings: FieldMappingsProtocol, data_dir=None):
         self.parser = parser
-        self.field_mappings = FieldMappings(field_mappings)
+        self.field_mappings = field_mappings
         self.port_classifier = token_classifier.setup()
         if data_dir is None:
             data_dir = config.DATA_DIR
