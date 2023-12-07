@@ -9,9 +9,7 @@ from config import DATA_DIR
 from config import ROOT_DIR
 from data_generation.create_data import get_reference_product
 from data_generation.utilities import get_products_from_path
-from spec_extraction.extraction import Parser
-from spec_extraction import extraction_config
-from spec_extraction.process import Processing
+from spec_extraction.bootstrap import bootstrap
 from spec_extraction.utilities import get_catalog_product
 
 
@@ -47,16 +45,7 @@ def evaluate_token_classifier():
 
 
 def evaluate_pipeline(mappings=None, ml_only=False) -> tuple[ConfusionMatrix, float]:
-    if ml_only:
-        parser = Parser(specifications=extraction_config.ml_monitor_specs)
-    else:
-        parser = Parser(specifications=extraction_config.monitor_spec)
-
-    if mappings:
-        process = Processing(parser, field_mappings=mappings)
-    else:
-        process = Processing(parser)
-
+    process = bootstrap()
     eval_product = partial(evaluate_product, process)
 
     products = get_products_from_path(DATA_DIR)
