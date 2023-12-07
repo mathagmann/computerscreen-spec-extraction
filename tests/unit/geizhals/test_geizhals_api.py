@@ -5,13 +5,15 @@ import pytest
 from config import TEST_DIR
 from geizhals import geizhals_api
 
+GEIZHALS_TEST_DATA_DIR = TEST_DIR / "unit" / "geizhals" / "test_data"
+
 
 class MockBrowser:
     def goto(self, url: str, post_load_hooks=None, **kwargs) -> str:
         if "?cat=" in url:
-            dummy_file = TEST_DIR / "geizhals" / "test_data" / "category_page.html"
+            dummy_file = GEIZHALS_TEST_DATA_DIR / "category_page.html"
         else:
-            dummy_file = TEST_DIR / "geizhals" / "test_data" / "product_page.html"
+            dummy_file = GEIZHALS_TEST_DATA_DIR / "product_page.html"
         return dummy_file.read_text()
 
 

@@ -1,5 +1,5 @@
-from data_generation import statistics
 from data_generation import model
+from data_generation import statistics
 
 
 def test_statistics():
