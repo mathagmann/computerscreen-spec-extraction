@@ -52,20 +52,26 @@ def evaluate_pipeline(mappings=None, ml_only=False) -> tuple[ConfusionMatrix, fl
 
     products = get_products_from_path(DATA_DIR)
 
-    count_products = 0
-    count_correct_products = 0
+    products_true_positives = 0
+    products_false_positives = 0
     confusion_matrix = ConfusionMatrix()
     for idx, product in enumerate(products):
         try:
             scores = eval_product(idx, product)
         except FileNotFoundError:
+            logger.debug(f"Product {product.product_id} not found in catalog.")
             continue
 
         confusion_matrix += scores
-        count_products += 1
         if scores.is_perfect():
-            count_correct_products += 1
-    return confusion_matrix
+            products_true_positives += 1
+        else:
+            products_false_positives += 1
+
+    total_products = products_true_positives + products_false_positives
+    product_precision = products_true_positives / total_products if total_products > 0 else 0.0
+
+    return confusion_matrix, product_precision
 
 
 def evaluate_field_mappings() -> tuple[EvaluationScores, EvaluationScores]:
@@ -81,13 +87,15 @@ def evaluate_field_mappings() -> tuple[EvaluationScores, EvaluationScores]:
     manual = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings.json"
 
     # run pipeline twice and compare results
-    confusion_matrix = evaluate_pipeline(mappings=auto)
+    confusion_matrix, product_precision = evaluate_pipeline(mappings=auto)
     logger.info(f"Auto mapping: {confusion_matrix}")
     scores_auto = calculate_evaluation_scores(confusion_matrix)
+    logger.info(f"Product precision: {product_precision * 100:.2f}%")
 
-    confusion_matrix = evaluate_pipeline(mappings=manual)
+    confusion_matrix, product_precision = evaluate_pipeline(mappings=manual)
     logger.info(f"Manual mapping: {confusion_matrix}")
     scores_manual = calculate_evaluation_scores(confusion_matrix)
+    logger.info(f"Product precision: {product_precision * 100:.2f}%")
 
     return scores_manual, scores_auto
 
@@ -168,9 +176,7 @@ def evaluate_product(proc, idx, product) -> ConfusionMatrix:
     except FileNotFoundError:
         print(f"Catalog data for product {product.product_id} not found.")
         raise
-    catalog_data_structured = catalog_data.specifications
-
-    return calculate_confusion_matrix(reference_structured, catalog_data_structured)
+    return calculate_confusion_matrix(reference_structured, catalog_data.specifications)
 
 
 def color_diff(string1, string2):
@@ -193,4 +199,6 @@ def color_diff(string1, string2):
 
 
 if __name__ == "__main__":
-    evaluate_pipeline()
+    attribute_confusion_matrix, product_precision = evaluate_pipeline()
+    print(f"Attribute confusion matrix: {attribute_confusion_matrix}")
+    print(f"Product precision: {product_precision * 100:.2f}%")
