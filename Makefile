@@ -39,9 +39,7 @@ lint:             ## Run black, ruff linters.
 
 .PHONY: test
 test:	          ## Run tests and generate coverage report.
-	$(ENV_PREFIX)pytest --cov
-	$(ENV_PREFIX)coverage xml
-	$(ENV_PREFIX)coverage html
+	$(ENV_PREFIX)pytest --cov /tests
 
 .PHONY: clean
 clean:            ## Clean unused files.
