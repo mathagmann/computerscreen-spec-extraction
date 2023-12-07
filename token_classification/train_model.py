@@ -116,4 +116,5 @@ def run_training(model_checkpoint, epochs: int = 30, name: str = "ner_model"):
         f.write(trainer.state.best_model_checkpoint)
 
 
-run_training(model)
+if __name__ == "__main__":
+    run_training(model)
