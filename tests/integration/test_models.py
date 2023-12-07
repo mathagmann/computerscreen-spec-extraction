@@ -1,5 +1,33 @@
+from data_generation.model import ExtendedOffer
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
+
+
+def test_extended_offer(tmp_path):
+    extended_offer = ExtendedOffer(
+        shop_name="test",
+        price=100,
+        offer_link="link",
+        promotion_description="promotion",
+        html_file="html",
+        reference_file="reference",
+    )
+    tmp_file = tmp_path / extended_offer.reference_file
+
+    assert not tmp_file.exists()
+
+    extended_offer.save_to_json(tmp_file)
+
+    assert tmp_file.exists()
+
+    loaded = ExtendedOffer.load_from_json(tmp_file)
+
+    assert loaded.shop_name == extended_offer.shop_name
+    assert loaded.price == extended_offer.price
+    assert loaded.offer_link == extended_offer.offer_link
+    assert loaded.promotion_description == extended_offer.promotion_description
+    assert loaded.html_file == extended_offer.html_file
+    assert loaded.reference_file == extended_offer.reference_file
 
 
 def test_raw_product(tmp_path):

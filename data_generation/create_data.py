@@ -7,6 +7,7 @@ from loguru import logger
 
 from config import DATA_DIR
 from data_generation import model
+from data_generation.model import ExtendedOffer
 from geizhals import geizhals_api
 from geizhals.geizhals_model import Offer
 from geizhals.geizhals_model import Product
@@ -87,17 +88,17 @@ def download_merchant_offers(browser, merchant_offers: list[Offer], reference_fi
     for idx, merchant_offer in enumerate(merchant_offers):
         logger.debug(f"Downloading offer {merchant_offer.offer_link}")
         try:
+            filename_no_postfix = "offer_{product_idx}_{idx}"
             html = browser.goto(merchant_offer.offer_link, no_wait=True)
-            html_name = f"offer_{product_idx}_{idx}.html"
-            html_file = DATA_DIR / html_name
-            with open(html_file, "w") as f:
+            html_filename = filename_no_postfix + ".html"
+            with open(DATA_DIR / html_filename, "w") as f:
                 f.write(html)
 
-            with open(DATA_DIR / f"offer_{product_idx}_{idx}.json", "w") as f:
-                offer_schema = marshmallow_dataclass.class_schema(model.ExtendedOffer)()
-                offer_dict = offer_schema.dump(merchant_offer)
-                offer_dict.update({"html_file": html_name, "reference_file": reference_file})
-                json.dump(offer_dict, f, indent=4)
+            offer_schema = marshmallow_dataclass.class_schema(model.ExtendedOffer)()
+            offer_dict = offer_schema.dump(merchant_offer)
+            offer_dict.update({"html_file": html_filename, "reference_file": reference_file})
+
+            ExtendedOffer(offer_dict).save_to_json(DATA_DIR / f"{filename_no_postfix}.json")
         except Exception:
             logger.error(f"Failed to download offer {merchant_offer.offer_link}")
 
