@@ -14,10 +14,10 @@ import config
 from data_generation.model import ExtendedOffer
 from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
-from merchant_html_parser import shop_parser
 from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.field_mappings import FieldMappings
+from spec_extraction.html_parser import shop_parser
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
 from spec_extraction.utilities import get_catalog_filename

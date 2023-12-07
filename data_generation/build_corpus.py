@@ -8,7 +8,7 @@ from loguru import logger
 from config import ROOT_DATA_DIR
 from config import ROOT_DIR
 from data_generation import model
-from merchant_html_parser import shop_parser
+from spec_extraction.html_parser import shop_parser
 
 
 def build_corpus():

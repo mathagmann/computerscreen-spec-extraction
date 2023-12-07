@@ -1,13 +1,12 @@
+from pathlib import Path
 import pytest
 from loguru import logger
 
 from config import DATA_DIR
-from config import TEST_DIR
 from data_generation.utilities import get_products_from_path
-from merchant_html_parser import shop_parser
-from merchant_html_parser.shop_parser import extract_tabular_data
+from spec_extraction.html_parser import shop_parser
 
-TEST_DATA_DIR = TEST_DIR / "merchant_html_parser" / "test_data"
+TEST_DATA_DIR = Path(__file__).parent / "test_data"
 
 top30 = [
     ("mylemon.at", "mylemon_product_offer.html"),
@@ -47,7 +46,7 @@ top30 = [
 def test_shop_parser(shop_name, test_html):
     html_dir = TEST_DATA_DIR / test_html
     raw_html = html_dir.read_text()
-    data = extract_tabular_data(raw_html, shop_name)
+    data = shop_parser.extract_tabular_data(raw_html, shop_name)
 
     assert data != {}
 
