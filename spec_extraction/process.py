@@ -162,7 +162,7 @@ class Processing:
         Returns a dict with structured specifications.
         """
         labeled_data = classify_specifications_with_ml(raw_specification, self.machine_learning)
-        return get_ml_specs(labeled_data)
+        return convert_machine_learning_labels_to_structured_data(labeled_data)
 
     def extract_structured_specifications(self, raw_specification: dict, shop_name: str) -> dict:
         """Returns structured specifications based on predefined catalog format."""
@@ -190,8 +190,8 @@ def clean_text(text):
     return text.replace("\u200b", "").strip()  # remove zero-width space
 
 
-def get_ml_specs(labeled_data: dict) -> dict:
-    """Merges ML specifications into unified specifications."""
+def convert_machine_learning_labels_to_structured_data(labeled_data: dict) -> dict:
+    """Convert transformer model output into unified, structured specifications."""
     port_mappings = {
         "hdmi": MonitorSpecifications.PORTS_HDMI.value,
         "displayport": MonitorSpecifications.PORTS_DP.value,

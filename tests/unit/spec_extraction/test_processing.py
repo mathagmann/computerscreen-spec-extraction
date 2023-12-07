@@ -3,7 +3,7 @@ import pytest
 from spec_extraction.catalog_model import CATALOG_EXAMPLE
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.process import classify_specifications_with_ml
-from spec_extraction.process import get_ml_specs
+from spec_extraction.process import convert_machine_learning_labels_to_structured_data
 from token_classification import bootstrap as ml_bootstrap
 
 
@@ -59,5 +59,5 @@ def test_classify_specifications():
         ),
     ],
 )
-def test_merge_ml_specs(labeled_data, expected):
-    assert get_ml_specs(labeled_data) == expected
+def test_convert_machine_learning_labels_to_structured_data(labeled_data, expected):
+    assert convert_machine_learning_labels_to_structured_data(labeled_data) == expected
