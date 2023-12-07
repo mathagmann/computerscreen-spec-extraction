@@ -21,4 +21,5 @@ def bootstrap(
         machine_learning_model = ml_bootstrap.bootstrap()
     parser = Parser(specifications=specification_parser)
     field_mappings = FieldMappings(field_mappings)
+    field_mappings.load_from_disk()
     return Processing(parser=parser, machine_learning=machine_learning_model, field_mappings=field_mappings)
