@@ -4,7 +4,7 @@ from spec_extraction.catalog_model import CATALOG_EXAMPLE
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.process import classify_specifications_with_ml
 from spec_extraction.process import get_ml_specs
-from token_classification import token_classifier
+from token_classification import bootstrap as ml_bootstrap
 
 
 def test_catalog_values_exist():
@@ -28,7 +28,7 @@ def test_classify_specifications():
         "Anwendung": "stationär",
     }
 
-    token_labeling = token_classifier.setup()
+    token_labeling = ml_bootstrap.bootstrap()
     result = classify_specifications_with_ml(test_data, token_labeling)
 
     assert result == expected

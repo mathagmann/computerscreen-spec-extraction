@@ -7,6 +7,7 @@ from typing import Dict
 from typing import Generator
 from typing import Protocol
 
+import transformers
 from loguru import logger
 from marshmallow import EXCLUDE
 
@@ -20,7 +21,6 @@ from spec_extraction.html_parser import shop_parser
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
 from spec_extraction.utilities import get_catalog_filename
-from token_classification import token_classifier
 from token_classification import utilities as ml_utils
 
 
@@ -54,10 +54,16 @@ class FieldMappingsProtocol(Protocol):
 
 
 class Processing:
-    def __init__(self, parser: ParserProtocol, field_mappings: FieldMappingsProtocol, data_dir=None):
+    def __init__(
+        self,
+        parser: ParserProtocol,
+        machine_learning: transformers.Pipeline,
+        field_mappings: FieldMappingsProtocol,
+        data_dir=None,
+    ):
         self.parser = parser
         self.field_mappings = field_mappings
-        self.port_classifier = token_classifier.setup()
+        self.machine_learning = machine_learning
         if data_dir is None:
             data_dir = config.DATA_DIR
         self.data_dir = data_dir  # Raw HTML data
@@ -155,7 +161,7 @@ class Processing:
 
         Returns a dict with structured specifications.
         """
-        labeled_data = classify_specifications_with_ml(raw_specification, self.port_classifier)
+        labeled_data = classify_specifications_with_ml(raw_specification, self.machine_learning)
         return get_ml_specs(labeled_data)
 
     def extract_structured_specifications(self, raw_specification: dict, shop_name: str) -> dict:
