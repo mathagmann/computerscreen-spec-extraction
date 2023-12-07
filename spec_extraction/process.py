@@ -20,7 +20,6 @@ from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.html_parser import shop_parser
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
-from spec_extraction.utilities import get_catalog_filename
 from token_classification import utilities as ml_utils
 
 
@@ -136,7 +135,10 @@ class Processing:
             # Step: Value fusion, last shop wins
             combined_specs = value_fusion(product_data)
 
-            store_product_for_catalog(combined_specs, product_name, product_id, catalog_dir)
+            catalog_filename = CatalogProduct.filename_from_id(product_id)
+            CatalogProduct(name=product_name, specifications=combined_specs, id=product_id).save_to_json(
+                catalog_dir / catalog_filename
+            )
 
     def extract_properties(
         self, raw_specification: dict, shop_name: str, enable_enhancement: bool = True
@@ -241,15 +243,6 @@ def value_fusion(specs_per_shop: dict[str, dict]) -> dict:
         combined_specs |= structured_specs
         print(f"{shopname} specs from '{shopname}':\n{pretty(structured_specs)}")
     return combined_specs
-
-
-def store_product_for_catalog(specifications: dict, product_name: str, product_nr: int, catalog_dir: Path):
-    catalog_filename = get_catalog_filename(product_nr)
-    with open(catalog_dir / catalog_filename, "w") as file:
-        catalog = dict(name=product_name, specifications=specifications)
-        catalog_product = CatalogProduct.Schema().dump(catalog)
-        file.write(pretty(catalog_product))
-    logger.debug(f"Saved catalog ready product to {catalog_dir / catalog_filename}")
 
 
 def html_json_to_raw_product(monitor: ExtendedOffer, raw_data_dir: Path) -> RawProduct:

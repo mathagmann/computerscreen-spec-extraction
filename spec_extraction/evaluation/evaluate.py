@@ -6,11 +6,12 @@ import click
 from loguru import logger
 
 from config import DATA_DIR
+from config import PRODUCT_CATALOG_DIR
 from config import ROOT_DIR
 from data_generation.create_data import get_reference_product
 from data_generation.utilities import get_products_from_path
 from spec_extraction.bootstrap import bootstrap
-from spec_extraction.utilities import get_catalog_product
+from spec_extraction.model import CatalogProduct
 
 
 @dataclass
@@ -171,11 +172,8 @@ def evaluate_product(proc, idx, product) -> ConfusionMatrix:
         reference_as_dict[detail.name] = detail.value
     reference_structured = proc.extract_structured_specifications(reference_as_dict, "geizhals")
 
-    try:
-        catalog_data = get_catalog_product(product.product_id)
-    except FileNotFoundError:
-        print(f"Catalog data for product {product.product_id} not found.")
-        raise
+    catalog_filename = CatalogProduct.filename_from_id(product.product_id)
+    catalog_data = CatalogProduct.load_from_json(PRODUCT_CATALOG_DIR / catalog_filename)
     return calculate_confusion_matrix(reference_structured, catalog_data.specifications)
 
 
