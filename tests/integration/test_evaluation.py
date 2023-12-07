@@ -1,10 +1,21 @@
+from unittest import mock
+
+import pytest
+
 from spec_extraction.evaluation.evaluate import calculate_evaluation_scores
 from spec_extraction.evaluation.evaluate import evaluate_field_mappings
 from spec_extraction.evaluation.evaluate import evaluate_pipeline
 
 
+@pytest.fixture(scope="session", autouse=True)
+def mock_machine_learning_model():
+    """Mock machine learning model for testing."""
+    with mock.patch("token_classification.bootstrap.bootstrap", return_value=mock.MagicMock()):
+        yield
+
+
 def test_evaluate_token_classifier():
-    confusion_matrix, product_precision = evaluate_pipeline(ml_only=True)
+    confusion_matrix, product_precision = evaluate_pipeline()
 
     assert confusion_matrix
 
