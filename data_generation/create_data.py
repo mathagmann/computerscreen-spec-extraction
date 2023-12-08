@@ -6,7 +6,6 @@ import marshmallow_dataclass
 from loguru import logger
 
 from config import DATA_DIR
-from data_generation import model
 from data_generation.model import ExtendedOffer
 from geizhals import geizhals_api
 from geizhals.geizhals_model import Offer
@@ -87,8 +86,7 @@ def download_merchant_offers(browser, merchant_offers: list[Offer], reference_fi
             with open(DATA_DIR / html_filename, "w") as f:
                 f.write(html)
 
-            offer_schema = marshmallow_dataclass.class_schema(model.ExtendedOffer)()
-            offer_dict = offer_schema.dump(merchant_offer)
+            offer_dict = ExtendedOffer.Schema().dump(merchant_offer)
             offer_dict.update({"html_file": html_filename, "reference_file": reference_file})
 
             ExtendedOffer(offer_dict).save_to_json(DATA_DIR / f"{filename_no_postfix}.json")
