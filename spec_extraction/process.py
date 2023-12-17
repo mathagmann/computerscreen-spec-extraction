@@ -136,34 +136,31 @@ class Processing:
                 catalog_dir / catalog_filename
             )
 
-    def extract_properties(
-        self, raw_specification: dict, shop_name: str, enable_enhancement: bool = True
-    ) -> dict[str, Any]:
+    def extract_properties(self, raw_specification: dict, shop_name: str) -> dict[str, Any]:
         """Extracts structured properties from a single product.
 
-        Relies on field mappings and optional machine learning enhancement.
+        Combines both extraction methods:
+        - Schema matching and regular expressions
+        - Machine learning
         """
-        unified_specifications = self.extract_structured_specifications(raw_specification, shop_name)
-
-        machine_learning_specs = {}
-        if enable_enhancement:
-            machine_learning_specs = self.extract_with_bert(raw_specification)
-            logger.debug(f"ML specs from '{shop_name}':\n{pretty(machine_learning_specs)}")
-
+        unified_specifications = self.extract_with_regex(raw_specification, shop_name)
+        machine_learning_specs = self.extract_with_bert(raw_specification)
         specifications = unified_specifications | machine_learning_specs
-        logger.info(f"Created specs:\n{self.parser.nice_output(specifications)}")
+
+        logger.debug(f"Created specs:\n{self.parser.nice_output(specifications)}")
+
         return specifications
 
-    def extract_with_bert(self, raw_specification: dict) -> dict:
-        """Extracts specifications with machine learning.
+    def extract_with_regex(self, raw_specification: dict, shop_name: str) -> dict:
+        """Extracts properties based on key matching and regular expressions.
 
-        Returns a dict with structured specifications.
+        Relies on predefined mappings between merchant keys and catalog keys.
+
+        Returns
+        -------
+        dict
+            Returns structured specifications solely using keys from predefined catalog format.
         """
-        labeled_data = classify_specifications_with_ml(raw_specification, self.machine_learning)
-        return convert_machine_learning_labels_to_structured_data(labeled_data)
-
-    def extract_structured_specifications(self, raw_specification: dict, shop_name: str) -> dict:
-        """Returns structured specifications based on predefined catalog format."""
         monitor_specs = {}
         for catalog_key in MonitorSpecifications:
             catalog_key = catalog_key.value
@@ -180,6 +177,19 @@ class Processing:
             monitor_specs[catalog_key] = merchant_value
         unified_specifications = self.parser.parse(monitor_specs)
         return unified_specifications
+
+    def extract_with_bert(self, raw_specification: dict) -> dict:
+        """Extracts specifications with machine learning.
+
+        Returns a dict with structured specifications.
+        """
+        labeled_data = classify_specifications_with_ml(raw_specification, self.machine_learning)
+
+        machine_learning_specs = convert_machine_learning_labels_to_structured_data(labeled_data)
+
+        if machine_learning_specs:
+            logger.debug(f"ML specs extracted:\n{pretty(machine_learning_specs)}")
+        return machine_learning_specs
 
 
 def clean_text(text):

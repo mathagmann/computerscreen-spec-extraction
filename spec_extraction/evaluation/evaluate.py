@@ -172,7 +172,7 @@ def evaluate_product(proc, idx, product) -> ConfusionMatrix:
     reference_as_dict = {}
     for detail in reference_data.product_details:
         reference_as_dict[detail.name] = detail.value
-    reference_structured = proc.extract_structured_specifications(reference_as_dict, "geizhals")
+    reference_structured = proc.extract_with_regex(reference_as_dict, "geizhals")
 
     catalog_filename = CatalogProduct.filename_from_id(product.product_id)
     catalog_data = CatalogProduct.load_from_json(PRODUCT_CATALOG_DIR / catalog_filename)
