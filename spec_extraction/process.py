@@ -272,7 +272,7 @@ def html_json_to_raw_product(monitor: ExtendedOffer, raw_data_dir: Path) -> RawP
 def get_all_raw_specs_per_screen(data_dir: str) -> Generator[RawProduct, None, None]:
     grouped_data_for_one_screen = []
     reference_name_for_screen = None
-    for raw_product in _next_raw_specs(data_dir):
+    for raw_product in iter_raw_product_files(data_dir):
         if reference_name_for_screen and reference_name_for_screen != raw_product.reference_file:
             # Reference file changed, so we have all data for one screen -> merge data
             yield grouped_data_for_one_screen
@@ -282,7 +282,7 @@ def get_all_raw_specs_per_screen(data_dir: str) -> Generator[RawProduct, None, N
         grouped_data_for_one_screen.append(raw_product)
 
 
-def _next_raw_specs(data_dir: str) -> Generator[RawProduct, None, None]:
+def iter_raw_product_files(data_dir: str) -> Generator[RawProduct, None, None]:
     """Yields raw specification with metadata from JSON files.
 
     The order of the files is not guaranteed, but specifications from the same
