@@ -20,6 +20,7 @@ def test_evaluate_token_classifier():
     assert confusion_matrix
 
 
+@pytest.mark.skip(reason="Requires test data")
 def test_evaluate_pipeline():
     confusion_matrix, product_precision = evaluate_pipeline()
 
@@ -28,6 +29,7 @@ def test_evaluate_pipeline():
     assert scores.recall > 0.02
 
 
+@pytest.mark.skip(reason="Requires test data")
 def test_evaluate_field_mappings():
     scores_manual_mapping, scores_auto_mapping = evaluate_field_mappings()
 
