@@ -87,28 +87,10 @@ class Feature:
         return "\u00a0".join(output)
 
 
-class MLFeature:
-    def __init__(self, name, string_repr: [str] = None, repr_optional: [str] = None):
-        self.name = name.value
-        self.string_repr = string_repr  # string format placeholder
-        self.repr_optional = repr_optional
-
-    def nice_output(self, data) -> str:
-        """Returns a nice output of the data."""
-        formatted_string = self.string_repr.format(**data)
-        for optional_part in self.repr_optional:
-            try:
-                formatted_string += optional_part.format(**data)
-            except KeyError:
-                continue
-
-        return formatted_string
-
-
 class FeatureGroup:
     """Groups related features together."""
 
-    def __init__(self, name: str, features: List[Feature | MLFeature] = None):
+    def __init__(self, name: str, features: List[Feature] = None):
         self.name = name
         if features is None:
             features = []

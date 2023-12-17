@@ -9,7 +9,6 @@ from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import Feature
 from spec_extraction.extraction import FeatureGroup
-from spec_extraction.extraction import MLFeature
 
 """Data extraction functions for the Parser."""
 
@@ -266,11 +265,6 @@ monitor_spec = [
     FeatureGroup(
         "Anschlüsse",
         [
-            # MLFeature(
-            #     MonitorSpecifications.PORTS_HDMI,
-            #     string_repr="{count}x {value}",
-            #     repr_optional=[" {version}", " ({details})"],
-            # ),
             Feature(
                 MonitorSpecifications.PORTS_HDMI,
                 create_pattern_structure,
@@ -278,11 +272,6 @@ monitor_spec = [
                 ["count", "value"],
                 string_repr="{count}x {value}",
             ),
-            # MLFeature(
-            #     MonitorSpecifications.PORTS_DP,
-            #     string_repr="{count}x {value}",
-            #     repr_optional=[" {version}", " ({details})"],
-            # ),
             Feature(
                 MonitorSpecifications.PORTS_DP,
                 create_pattern_structure,
@@ -576,23 +565,4 @@ monitor_spec = [
             )
         ],
     ),
-]
-
-
-ml_monitor_specs = [
-    FeatureGroup(
-        "Anschlüsse",
-        [
-            MLFeature(
-                MonitorSpecifications.PORTS_HDMI,
-                string_repr="{count}x {value}",
-                repr_optional=[" {version}", " ({details})"],
-            ),
-            MLFeature(
-                MonitorSpecifications.PORTS_DP,
-                string_repr="{count}x {value}",
-                repr_optional=[" {version}", " ({details})"],
-            ),
-        ],
-    )
 ]

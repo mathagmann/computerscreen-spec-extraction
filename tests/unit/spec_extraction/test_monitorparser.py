@@ -7,7 +7,6 @@ import pytest
 from spec_extraction import extraction_config
 from spec_extraction.catalog_model import CATALOG_EXAMPLE
 from spec_extraction.catalog_model import MonitorSpecifications
-from spec_extraction.extraction import MLFeature
 from spec_extraction.extraction import Parser
 
 REGEX_EXAMPLES = copy.deepcopy(CATALOG_EXAMPLE)
@@ -63,25 +62,6 @@ def test_nice_output(monitor_parser):
     nice_output = monitor_parser.nice_output(specs_dict)
 
     assert nice_output.startswith("Diagonale: ")
-
-
-@pytest.mark.parametrize(
-    "specs_dict, expected_output",
-    [
-        ({"count": "1", "value": "HDMI"}, "1x HDMI"),
-        ({"count": "1", "value": "HDMI", "version": "2.1"}, "1x HDMI 2.1"),
-        (
-            {"count": "1", "value": "HDMI", "version": "2.1", "details": "DisplayPort, PowerDelivery"},
-            "1x HDMI 2.1 (DisplayPort, PowerDelivery)",
-        ),
-    ],
-)
-def test_ml_nice_output(specs_dict, expected_output):
-    hdmi_parser = MLFeature(
-        MonitorSpecifications.PORTS_HDMI, string_repr="{count}x {value}", repr_optional=[" {version}", " ({details})"]
-    )
-
-    assert hdmi_parser.nice_output(specs_dict) == expected_output
 
 
 def test_parser_for_each_feature(monitor_parser):
