@@ -11,6 +11,7 @@ from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
 from spec_extraction.bootstrap import bootstrap
 from spec_extraction.model import CatalogProduct
+from spec_extraction.normalization import normalize_product_specifications
 
 
 @dataclass
@@ -162,8 +163,20 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
     return confusion_matrix
 
 
-def evaluate_product(proc, idx, product) -> ConfusionMatrix:
-    """Collect all specifications from the reference data and the catalog data and compares them."""
+def evaluate_product(proc, idx, product, normalization=True) -> ConfusionMatrix:
+    """Collect all specifications from the reference data and the catalog data and compares them.
+
+    Parameters
+    ----------
+    proc
+        The processing object.
+    idx
+        The index of the product.
+    product
+        The product to evaluate.
+    normalization
+        Enable or disable additional value normalization stage. Enabled by default.
+    """
     filename = ProductPage.reference_filename_from_id(product.product_id)
     reference_data = ProductPage.load_from_json(DATA_DIR / filename)
 
@@ -172,11 +185,17 @@ def evaluate_product(proc, idx, product) -> ConfusionMatrix:
     reference_as_dict = {}
     for detail in reference_data.product_details:
         reference_as_dict[detail.name] = detail.value
-    reference_structured = proc.extract_with_regex(reference_as_dict, "geizhals")
+    ref_specs = proc.extract_with_regex(reference_as_dict, "geizhals")
 
     catalog_filename = CatalogProduct.filename_from_id(product.product_id)
     catalog_data = CatalogProduct.load_from_json(PRODUCT_CATALOG_DIR / catalog_filename)
-    return calculate_confusion_matrix(reference_structured, catalog_data.specifications)
+    cat_specs = catalog_data.specifications
+
+    if normalization:
+        ref_specs = normalize_product_specifications(ref_specs)
+        cat_specs = normalize_product_specifications(cat_specs)
+
+    return calculate_confusion_matrix(ref_specs, cat_specs)
 
 
 def color_diff(string1, string2):
