@@ -2,7 +2,6 @@ from unittest import mock
 
 import pytest
 
-from spec_extraction.evaluation.evaluate import calculate_evaluation_scores
 from spec_extraction.evaluation.evaluate import evaluate_field_mappings
 from spec_extraction.evaluation.evaluate import evaluate_pipeline
 
@@ -24,7 +23,7 @@ def test_evaluate_token_classifier():
 def test_evaluate_pipeline():
     confusion_matrix, product_precision = evaluate_pipeline()
 
-    scores = calculate_evaluation_scores(confusion_matrix)
+    scores = confusion_matrix.eval_score
     assert scores.precision > 0.02
     assert scores.recall > 0.02
 

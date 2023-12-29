@@ -2,7 +2,6 @@ import pytest
 
 from spec_extraction.evaluation.evaluate import ConfusionMatrix
 from spec_extraction.evaluation.evaluate import calculate_confusion_matrix
-from spec_extraction.evaluation.evaluate import calculate_evaluation_scores
 
 
 @pytest.mark.parametrize(
@@ -38,7 +37,7 @@ def test_compare_specifications(reference, extracted, expected_tp, expected_fp, 
 def test_calculate_evaluation_scores():
     evaluation = ConfusionMatrix(true_negatives=50, false_negatives=10, false_positives=0, true_positives=45)
 
-    scores = calculate_evaluation_scores(evaluation)
+    scores = evaluation.eval_score
 
     assert scores.accuracy == 95 / 105
     assert scores.precision == 1

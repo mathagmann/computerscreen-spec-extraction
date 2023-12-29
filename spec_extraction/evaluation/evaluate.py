@@ -15,6 +15,14 @@ from spec_extraction.model import CatalogProduct
 
 
 @dataclass
+class EvaluationScores:
+    accuracy: float = 0
+    precision: float = 0
+    recall: float = 0
+    f1_score: float = 0
+
+
+@dataclass
 class ConfusionMatrix:
     true_positives: int = 0
     false_positives: int = 0
@@ -32,13 +40,29 @@ class ConfusionMatrix:
             true_negatives=self.true_negatives + other.true_negatives,
         )
 
+    @property
+    def eval_score(self) -> EvaluationScores:
+        """Calculate evaluation scores based on the counts of true positives, false positives, etc."""
+        total_predictions = self.true_negatives + self.false_negatives + self.false_positives + self.true_positives
 
-@dataclass
-class EvaluationScores:
-    accuracy: float = 0
-    precision: float = 0
-    recall: float = 0
-    f1_score: float = 0
+        accuracy = (self.true_positives + self.true_negatives) / total_predictions if total_predictions > 0 else 0
+        precision = (
+            self.true_positives / (self.true_positives + self.false_positives)
+            if (self.true_positives + self.false_positives) > 0
+            else 0
+        )
+        recall = (
+            self.true_positives / (self.true_positives + self.false_negatives)
+            if (self.true_positives + self.false_negatives) > 0
+            else 0
+        )
+        f1_score = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0
+
+        logger.info(f"Precision: {precision * 100:.2f}%")
+        logger.info(f"Recall: {recall * 100:.2f}%")
+        logger.info(f"F1 score: {f1_score * 100:.2f}%")
+
+        return EvaluationScores(accuracy=accuracy, precision=precision, recall=recall, f1_score=f1_score)
 
 
 def evaluate_token_classifier():
@@ -90,12 +114,12 @@ def evaluate_field_mappings() -> tuple[EvaluationScores, EvaluationScores]:
     # run pipeline twice and compare results
     confusion_matrix, product_precision = evaluate_pipeline(mappings=auto)
     logger.info(f"Auto mapping: {confusion_matrix}")
-    scores_auto = calculate_evaluation_scores(confusion_matrix)
+    scores_auto = confusion_matrix.eval_score
     logger.info(f"Product precision: {product_precision * 100:.2f}%")
 
     confusion_matrix, product_precision = evaluate_pipeline(mappings=manual)
     logger.info(f"Manual mapping: {confusion_matrix}")
-    scores_manual = calculate_evaluation_scores(confusion_matrix)
+    scores_manual = confusion_matrix.eval_score
     logger.info(f"Product precision: {product_precision * 100:.2f}%")
 
     return scores_manual, scores_auto
@@ -136,30 +160,6 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
         len(catalog_data) - confusion_matrix.true_positives - confusion_matrix.false_positives
     )
     return confusion_matrix
-
-
-def calculate_evaluation_scores(counts: ConfusionMatrix) -> EvaluationScores:
-    """Calculate evaluation scores based on the counts of true positives, false positives, etc."""
-    total_predictions = counts.true_negatives + counts.false_negatives + counts.false_positives + counts.true_positives
-
-    accuracy = (counts.true_positives + counts.true_negatives) / total_predictions if total_predictions > 0 else 0
-    precision = (
-        counts.true_positives / (counts.true_positives + counts.false_positives)
-        if (counts.true_positives + counts.false_positives) > 0
-        else 0
-    )
-    recall = (
-        counts.true_positives / (counts.true_positives + counts.false_negatives)
-        if (counts.true_positives + counts.false_negatives) > 0
-        else 0
-    )
-    f1_score = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0
-
-    logger.info(f"Precision: {precision * 100:.2f}%")
-    logger.info(f"Recall: {recall * 100:.2f}%")
-    logger.info(f"F1 score: {f1_score * 100:.2f}%")
-
-    return EvaluationScores(accuracy=accuracy, precision=precision, recall=recall, f1_score=f1_score)
 
 
 def evaluate_product(proc, idx, product) -> ConfusionMatrix:
