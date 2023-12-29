@@ -1,16 +1,21 @@
 import pytest
 from astropy import units as u
 
+from spec_extraction import custom_quantities as cq
 from spec_extraction.bootstrap import bootstrap as bootstrap_pipeline
 from spec_extraction.normalization import convert_to_quantity
-from spec_extraction.normalization import inch
 from spec_extraction.normalization import normalize_product_specifications
 from spec_extraction.normalization import rescale_to_unit
 
 
 @pytest.mark.parametrize(
     "value, unit, expected",
-    [("100", "Hz", 100 * u.Hz), ("1.45", "Hz", 1.45 * u.Hz), ("1.563", "km", 1.563 * u.km), ("24", "inch", 24 * inch)],
+    [
+        ("100", "Hz", 100 * u.Hz),
+        ("1.45", "Hz", 1.45 * u.Hz),
+        ("1.563", "km", 1.563 * u.km),
+        ("24", "inch", 24 * cq.inch),
+    ],
 )
 def test_convert_to_unit(value, unit, expected):
     converted = convert_to_quantity(value, unit)
@@ -24,6 +29,22 @@ def test_rescale_to_unit():
 
     assert rescaled.value == 0.1
     assert rescaled.unit == u.kHz
+
+
+@pytest.mark.parametrize(
+    "value, unit, expected_equality",
+    [
+        ("10000", "Hz", 10 * u.kHz),
+        ("2", "Jahre", 24 * cq.month),
+        ("1", "Jahr", 12 * cq.month),
+        ("1,563", "km", 1563 * u.m),
+        ("24", "Zoll", 24 * cq.inch),
+    ],
+)
+def test_normalize_value(value, unit, expected_equality):
+    normalized_value = convert_to_quantity(value, unit)
+
+    assert normalized_value == expected_equality
 
 
 def test_normalize_product():

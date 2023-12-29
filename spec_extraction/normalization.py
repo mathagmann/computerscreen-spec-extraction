@@ -2,8 +2,7 @@ from astropy.units import Quantity
 from astropy.units import Unit
 
 
-
-def convert_to_quantity(value: str, unit: str) -> Quantity:
+def _convert_to_quantity(value: str, unit: str) -> Quantity:
     """Converts a value and unit str to an astropy Quantity."""
     astropy_unit = Unit(unit)
     if float(value).is_integer():
@@ -22,13 +21,36 @@ def rescale_to_unit(value: Quantity, rescaled_unit: Unit | str) -> Quantity:
     return value.to(astropy_unit)
 
 
-def normalize_product_specifications(catalog_specs: dict) -> dict:
-    for key, entry in catalog_specs.items():
-        if "unit" in entry and entry["unit"] == '"':
-            entry["unit"] = "inch"
+def normalize_units(unit: str) -> str:
+    if unit == '"' or unit == "Zoll":
+        unit = "inch"
+    elif unit == "Jahr" or unit == "Jahre":
+        unit = "year"
+    elif unit == "Bit":
+        unit = "bit"
+    return unit
 
-        if "unit" in entry and "value" in entry:
-            quantity = convert_to_quantity(entry["value"], entry["unit"])
-            normalized_value = rescale_to_unit(quantity, entry["unit"])
-            catalog_specs[key] = normalized_value
-    return catalog_specs
+
+def normalize_value(value: str) -> str:
+    if "," in value:
+        value = value.replace(",", ".")
+    return value
+
+
+def convert_to_quantity(value: str, unit: str) -> Quantity:
+    """Converts a value and unit str to an astropy Quantity.
+
+    In addition to default units it supports some custom units and
+    unit strings, such as "Zoll" or "Jahr" or "Jahre".
+    """
+    unit = normalize_units(unit)
+    value = normalize_value(value)
+    return _convert_to_quantity(value, unit)
+
+
+def normalize_product_specifications(specifications: dict) -> dict:
+    """Normalizes unit-value pairs in product specifications to astropy Quantities."""
+    for key, entry in specifications.items():
+        if isinstance(entry, dict) and set(entry.keys()) == {"unit", "value"}:
+            specifications[key] = convert_to_quantity(entry["value"], entry["unit"])
+    return specifications
