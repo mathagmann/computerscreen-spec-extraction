@@ -1,6 +1,5 @@
 import difflib
 from dataclasses import dataclass
-from functools import partial
 
 import click
 from loguru import logger
@@ -70,8 +69,6 @@ def evaluate_token_classifier():
 
 def evaluate_pipeline(mappings=None, ml_only=False) -> tuple[ConfusionMatrix, float]:
     process = bootstrap()
-    eval_product = partial(evaluate_product, process)
-
     products = get_products_from_path(DATA_DIR)
 
     products_perfect_precision = 0
@@ -79,7 +76,9 @@ def evaluate_pipeline(mappings=None, ml_only=False) -> tuple[ConfusionMatrix, fl
     confusion_matrix = ConfusionMatrix()
     for idx, product in enumerate(products):
         try:
-            scores = eval_product(idx, product)
+            scores = evaluate_product(process, idx, product)
+            res = scores.eval_score
+            logger.info(f"Product {product.product_id} scores: {res}")
         except FileNotFoundError:
             logger.debug(f"Product {product.product_id} not found in catalog.")
             continue
@@ -109,17 +108,15 @@ def evaluate_field_mappings() -> tuple[EvaluationScores, EvaluationScores]:
     manual = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings.json"
 
     # run pipeline twice and compare results
-    confusion_matrix, product_precision = evaluate_pipeline(mappings=auto)
-    logger.info(f"Auto mapping: {confusion_matrix}")
-    scores_auto = confusion_matrix.eval_score
+    auto_confusion_matrix, product_precision = evaluate_pipeline(mappings=auto)
+    logger.info(f"Auto mapping: {auto_confusion_matrix}")
     logger.info(f"Product precision: {product_precision * 100:.2f}%")
 
-    confusion_matrix, product_precision = evaluate_pipeline(mappings=manual)
-    logger.info(f"Manual mapping: {confusion_matrix}")
-    scores_manual = confusion_matrix.eval_score
+    manual_confusion_matrix, product_precision = evaluate_pipeline(mappings=manual)
+    logger.info(f"Manual mapping: {manual_confusion_matrix}")
     logger.info(f"Product precision: {product_precision * 100:.2f}%")
 
-    return scores_manual, scores_auto
+    return manual_confusion_matrix.eval_score, auto_confusion_matrix.eval_score
 
 
 def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
@@ -142,12 +139,17 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
 
     for key in reference_data:
         if key in catalog_data:
-            if reference_data[key] == catalog_data[key]:
+            ref_value = reference_data[key]
+            catalog_value = catalog_data[key]
+
+            if ref_value == catalog_value:
                 # True Positive (Matching entry), key exists in both
                 confusion_matrix.true_positives += 1
+                logger.debug(f"Matching: {key}: {ref_value} == {catalog_value}")
             else:
                 # False Positive (Non-matching entry), key exists in both
                 confusion_matrix.false_positives += 1
+                logger.debug(f"Non matching: {key}: {ref_value} != {catalog_value}")
         else:
             # False Negative (Missing entry in catalog_data, but exists in reference_data)
             confusion_matrix.false_negatives += 1
@@ -156,6 +158,7 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
     confusion_matrix.true_negatives = (
         len(catalog_data) - confusion_matrix.true_positives - confusion_matrix.false_positives
     )
+    logger.debug(confusion_matrix)
     return confusion_matrix
 
 
@@ -198,4 +201,5 @@ def color_diff(string1, string2):
 if __name__ == "__main__":
     attribute_confusion_matrix, product_precision = evaluate_pipeline()
     print(f"Attribute confusion matrix: {attribute_confusion_matrix}")
+    print(f"Attribute evaluation scores: {attribute_confusion_matrix.eval_score}")
     print(f"Product precision: {product_precision * 100:.2f}%")
