@@ -25,3 +25,15 @@ def rescale_to_unit(value: Quantity, rescaled_unit: Unit | str) -> Quantity:
             rescaled_unit = "inch"
     astropy_unit = Unit(rescaled_unit)
     return value.to(astropy_unit)
+
+
+def normalize_product_specifications(catalog_specs: dict) -> dict:
+    for key, entry in catalog_specs.items():
+        if "unit" in entry and entry["unit"] == '"':
+            entry["unit"] = "inch"
+
+        if "unit" in entry and "value" in entry:
+            quantity = convert_to_quantity(entry["value"], entry["unit"])
+            normalized_value = rescale_to_unit(quantity, entry["unit"])
+            catalog_specs[key] = normalized_value
+    return catalog_specs

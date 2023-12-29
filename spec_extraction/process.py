@@ -16,7 +16,6 @@ from data_generation.model import ExtendedOffer
 from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
 from spec_extraction import exceptions
-from spec_extraction import normalization
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.html_parser import shop_parser
 from spec_extraction.model import CatalogProduct
@@ -191,16 +190,6 @@ class Processing:
         if machine_learning_specs:
             logger.debug(f"ML specs extracted:\n{pretty(machine_learning_specs)}")
         return machine_learning_specs
-
-    def normalize_product_specifications(self, catalog_specs: dict) -> dict:
-        for key, entry in catalog_specs.items():
-            if "unit" in entry and "value" in entry:
-                if '"' in entry["unit"]:
-                    entry["unit"] = "inch"
-                quantity = normalization.convert_to_quantity(entry["value"], entry["unit"])
-                normalized_value = normalization.rescale_to_unit(quantity, entry["unit"])
-                catalog_specs[key]["value"] = normalized_value
-        return catalog_specs
 
 
 def clean_text(text):
