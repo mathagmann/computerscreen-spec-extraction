@@ -3,12 +3,16 @@ import re
 from functools import lru_cache
 from typing import List
 
+from astropy import units as u
 from loguru import logger
 
 from spec_extraction import exceptions
+from spec_extraction import normalization
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import Feature
 from spec_extraction.extraction import FeatureGroup
+
+u.imperial.enable()
 
 """Data extraction functions for the Parser."""
 
@@ -85,6 +89,7 @@ monitor_spec = [
                 r"(\d+[.,]*\d*)\s*(\"|Zoll)",  # 27 "
                 ["value", "unit"],
                 string_repr="{value}{unit}",
+                unit=normalization.inch,
             ),
             Feature(
                 MonitorSpecifications.DIAGONAL_CM,
@@ -92,6 +97,7 @@ monitor_spec = [
                 r"(\d+[.,]*\d*)\s*(mm|cm|m)",  # 68.6 cm
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
+                unit=u.cm,
             ),
         ],
     ),
@@ -124,6 +130,7 @@ monitor_spec = [
                 r"(\d+)\D*(cd\/m\u00b2)",
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
+                unit=u.cd / u.m**2,
             )
         ],
     ),
@@ -148,6 +155,7 @@ monitor_spec = [
                 r"(\d+\.?\d*)\s*\(?\S*\)?\s*(ms)",  # 0,5 (MPRT) ms
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
+                unit=u.ms,
             )
         ],
     ),
@@ -159,12 +167,14 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+)",  # r"(\d+)\s?(\\u00b0)",
                 ["value"],
+                unit=u.deg,
             ),
             Feature(
                 MonitorSpecifications.VIEWING_ANGLE_VER,
                 create_pattern_structure,
                 r"(\d+)",  # r"(\d+)\s?(\\u00b0)",
                 ["value"],
+                unit=u.deg,
             ),
         ],
     ),
@@ -199,6 +209,7 @@ monitor_spec = [
                 r"(\d+)\s*(\D*[bB]it)",
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
+                unit=u.bit,
             )
         ],
     ),
@@ -211,6 +222,7 @@ monitor_spec = [
                 r"(\d+)\s?(%) \(?(sRGB)\)?",
                 ["value", "unit", "name"],
                 string_repr="{value}{unit} {name}",
+                unit=u.percent,
             ),
             Feature(
                 MonitorSpecifications.COLOR_SPACE_ARGB,
@@ -218,6 +230,7 @@ monitor_spec = [
                 r"(\d+)\s?(%) \(?(Adobe RGB)\)?",
                 ["value", "unit", "name"],
                 string_repr="{value}{unit} {name}",
+                unit=u.percent,
             ),
             Feature(
                 MonitorSpecifications.COLOR_SPACE_DCIP3,
@@ -225,6 +238,7 @@ monitor_spec = [
                 r"(\d+)\s?(%) \(?(DCI-P3)\)?",
                 ["value", "unit", "name"],
                 string_repr="{value}{unit} {name}",
+                unit=u.percent,
             ),
             Feature(
                 MonitorSpecifications.COLOR_SPACE_REC709,
@@ -232,6 +246,7 @@ monitor_spec = [
                 r"(\d+)\s?(%) \(?(R.. 709)\)?",
                 ["value", "unit", "name"],
                 string_repr="{value}{unit} {name}",
+                unit=u.percent,
             ),
             Feature(
                 MonitorSpecifications.COLOR_SPACE_REC2020,
@@ -239,6 +254,7 @@ monitor_spec = [
                 r"(\d+)\s?(%) \(?(R.. 2020)\)",
                 ["value", "unit", "name"],
                 string_repr="{value}{unit} {name}",
+                unit=u.percent,
             ),
             Feature(
                 MonitorSpecifications.COLOR_SPACE_NTSC,
@@ -246,6 +262,7 @@ monitor_spec = [
                 r"(\d+)\s?(%) \(?(NTSC)\)?",
                 ["value", "unit", "name"],
                 string_repr="{value}{unit} {name}",
+                unit=u.percent,
             ),
         ],
     ),
@@ -258,6 +275,7 @@ monitor_spec = [
                 r"(\d+)\s?(Hz)",
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
+                unit=u.Hz,
             )
         ],
     ),
@@ -399,6 +417,7 @@ monitor_spec = [
                 r"(\d+[[.|,]?\d]*)\s?(mm|cm)",
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
+                unit=u.mm,
             ),
             Feature(
                 MonitorSpecifications.ERGONOMICS_PIVOT_ANGLE,
@@ -406,6 +425,7 @@ monitor_spec = [
                 r"([+|-]?\d+)\s?-\s?([+|-]?\d+)",
                 ["value1", "value2"],
                 string_repr="{value1}/{value2}",
+                unit=u.deg,
             ),
             Feature(
                 MonitorSpecifications.ERGONOMICS_TILT_ANGLE,
@@ -413,6 +433,7 @@ monitor_spec = [
                 r"([+|-]?\d+)\s?[-|\/]\s?([+|-]?\d+)",
                 ["value1", "value2"],
                 string_repr="{value1}/{value2}",
+                unit=u.deg,
             ),
         ],
     ),
@@ -426,6 +447,7 @@ monitor_spec = [
                 r"(\d+.?\d*)\s?(kg|g)",
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
+                unit=u.kg,
             )
         ],
     ),
@@ -458,6 +480,7 @@ monitor_spec = [
                 r"(\d+[.|,]?\d*)\s?(mW|W)",
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
+                unit=u.W,
             )
         ],
     ),
@@ -470,6 +493,7 @@ monitor_spec = [
                 r"(\d+[.|,]?\d*)\s?(mW|W)",
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
+                unit=u.W,
             )
         ],
     ),
@@ -495,6 +519,7 @@ monitor_spec = [
                 r"(\d+\.?[\d]*)\D*(mm|cm)",
                 ["width", "unit"],
                 string_repr="{width}\u00a0{unit}",
+                unit=u.mm,
             ),
             Feature(
                 MonitorSpecifications.BEZEL_SIDE,
@@ -502,6 +527,7 @@ monitor_spec = [
                 r"(\d+\.?[\d]*)\D*(mm|cm)",
                 ["width", "unit"],
                 string_repr="{width}\u00a0{unit}",
+                unit=u.mm,
             ),
             Feature(
                 MonitorSpecifications.BEZEL_TOP,
@@ -509,6 +535,7 @@ monitor_spec = [
                 r"(\d+\.?[\d]*)\D*(mm|cm)",
                 ["width", "unit"],
                 string_repr="{width}\u00a0{unit}",
+                unit=u.mm,
             ),
         ],
     ),
@@ -562,6 +589,7 @@ monitor_spec = [
                 r"(\d+)\s?x?\s?(Jahr|Monate)",
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
+                unit=normalization.month,
             )
         ],
     ),

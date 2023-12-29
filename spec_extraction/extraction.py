@@ -43,6 +43,7 @@ class Feature:
         pattern=None,
         match_to=None,
         string_repr: [str] = None,
+        unit=None,
     ):
         self.name = name.value
         self.formatter = formatter  # DataExtractor function
