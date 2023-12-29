@@ -29,9 +29,6 @@ class ConfusionMatrix:
     false_negatives: int = 0
     true_negatives: int = 0
 
-    def is_perfect(self):
-        return self.false_negatives == 0 and self.false_positives == 0
-
     def __add__(self, other):
         return ConfusionMatrix(
             true_positives=self.true_positives + other.true_positives,
@@ -77,7 +74,7 @@ def evaluate_pipeline(mappings=None, ml_only=False) -> tuple[ConfusionMatrix, fl
 
     products = get_products_from_path(DATA_DIR)
 
-    products_true_positives = 0
+    products_perfect_precision = 0
     products_false_positives = 0
     confusion_matrix = ConfusionMatrix()
     for idx, product in enumerate(products):
@@ -88,13 +85,13 @@ def evaluate_pipeline(mappings=None, ml_only=False) -> tuple[ConfusionMatrix, fl
             continue
 
         confusion_matrix += scores
-        if scores.is_perfect():
-            products_true_positives += 1
+        if scores.eval_score.precision == 1:
+            products_perfect_precision += 1
         else:
             products_false_positives += 1
 
-    total_products = products_true_positives + products_false_positives
-    product_precision = products_true_positives / total_products if total_products > 0 else 0.0
+    total_products = products_perfect_precision + products_false_positives
+    product_precision = products_perfect_precision / total_products if total_products > 0 else 0.0
 
     return confusion_matrix, product_precision
 
