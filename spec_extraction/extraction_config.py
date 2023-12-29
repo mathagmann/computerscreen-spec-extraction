@@ -6,8 +6,8 @@ from typing import List
 from astropy import units as u
 from loguru import logger
 
+from spec_extraction import custom_quantities
 from spec_extraction import exceptions
-from spec_extraction import normalization
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import Feature
 from spec_extraction.extraction import FeatureGroup
@@ -89,7 +89,7 @@ monitor_spec = [
                 r"(\d+[.,]*\d*)\s*(\"|Zoll)",  # 27 "
                 ["value", "unit"],
                 string_repr="{value}{unit}",
-                unit=normalization.inch,
+                unit=custom_quantities.inch,
             ),
             Feature(
                 MonitorSpecifications.DIAGONAL_CM,
@@ -589,7 +589,7 @@ monitor_spec = [
                 r"(\d+)\s?x?\s?(Jahr|Monate)",
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
-                unit=normalization.month,
+                unit=custom_quantities.month,
             )
         ],
     ),

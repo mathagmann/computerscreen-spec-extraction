@@ -1,11 +1,6 @@
-from astropy import units as u
 from astropy.units import Quantity
 from astropy.units import Unit
 
-month = u.def_unit("month", 1 / 12.0 * u.year)
-inch = u.def_unit("inch", 0.0254 * u.meter)
-
-u.add_enabled_units([month, inch])
 
 
 def convert_to_quantity(value: str, unit: str) -> Quantity:
