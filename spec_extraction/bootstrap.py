@@ -14,6 +14,7 @@ def bootstrap(
     specification_parser: list = extraction_config.monitor_spec,
     machine_learning_model: transformers.Pipeline = None,
     field_mappings: Path = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings.json",
+    machine_learning_enabled: bool = True,
 ) -> Processing:
     """Sets up default processing."""
     if machine_learning_model is None:
@@ -22,4 +23,9 @@ def bootstrap(
     parser = Parser(specifications=specification_parser)
     field_mappings = FieldMappings(field_mappings)
     field_mappings.load_from_disk()
-    return Processing(parser=parser, machine_learning=machine_learning_model, field_mappings=field_mappings)
+    return Processing(
+        parser=parser,
+        machine_learning=machine_learning_model,
+        field_mappings=field_mappings,
+        machine_learning_enabled=machine_learning_enabled,
+    )

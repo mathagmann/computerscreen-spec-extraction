@@ -62,13 +62,20 @@ class ConfusionMatrix:
         return EvaluationScores(accuracy=accuracy, precision=precision, recall=recall, f1_score=f1_score)
 
 
-def evaluate_token_classifier():
-    # evaluate pipeline with ML based keys only
-    conf_matrix, product_precision = evaluate_pipeline(ml_only=True)
-    return conf_matrix, product_precision
+def evaluate_machine_learning():
+    """Evaluate the machine learning model.
+
+    Requires the machine learning model to be trained and saved to disk.
+    """
+    processing = bootstrap(machine_learning_enabled=True)
+    processing.merge_monitor_specs(PRODUCT_CATALOG_DIR)
+
+    attribute_confusion_matrix, product_precision = evaluate_pipeline()
+
+    return attribute_confusion_matrix, product_precision
 
 
-def evaluate_pipeline(mappings=None, ml_only=False) -> tuple[ConfusionMatrix, float]:
+def evaluate_pipeline(mappings=None) -> tuple[ConfusionMatrix, float]:
     process = bootstrap()
     products = get_products_from_path(DATA_DIR)
 
@@ -87,11 +94,16 @@ def evaluate_pipeline(mappings=None, ml_only=False) -> tuple[ConfusionMatrix, fl
         confusion_matrix += scores
         if scores.eval_score.precision == 1:
             products_perfect_precision += 1
+            logger.debug(f"Product {product.product_id} has perfect precision.")
         else:
             products_false_positives += 1
 
     total_products = products_perfect_precision + products_false_positives
     product_precision = products_perfect_precision / total_products if total_products > 0 else 0.0
+
+    print(f"Attribute confusion matrix: {confusion_matrix}")
+    print(f"Attribute evaluation scores: {confusion_matrix.eval_score}")
+    print(f"Product precision: {product_precision * 100:.2f}%")
 
     return confusion_matrix, product_precision
 
@@ -218,7 +230,5 @@ def color_diff(string1, string2):
 
 
 if __name__ == "__main__":
-    attribute_confusion_matrix, product_precision = evaluate_pipeline()
-    print(f"Attribute confusion matrix: {attribute_confusion_matrix}")
-    print(f"Attribute evaluation scores: {attribute_confusion_matrix.eval_score}")
-    print(f"Product precision: {product_precision * 100:.2f}%")
+    # evaluate_pipeline()
+    evaluate_machine_learning()
