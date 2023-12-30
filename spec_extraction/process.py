@@ -70,6 +70,8 @@ class Processing:
         machine_learning: transformers.Pipeline,
         field_mappings: FieldMappingsProtocol,
         data_dir=None,
+        machine_learning_enabled=True,
+        regular_expressions_enabled=True,
     ):
         self.parser = parser
         self.field_mappings = field_mappings
@@ -77,6 +79,13 @@ class Processing:
         if data_dir is None:
             data_dir = config.DATA_DIR
         self.data_dir = data_dir  # Raw HTML data
+        self.machine_learning_enabled = machine_learning_enabled
+        self.regular_expressions_enabled = regular_expressions_enabled
+
+        logger.info(
+            f"Processing with the settings: Machine learning={self.machine_learning_enabled},"
+            f"Regular expressions={self.regular_expressions_enabled}"
+        )
 
     def find_mappings(self, catalog_example: Dict[MonitorSpecifications, str]):
         """Automatically finds mappings from extracted specification keys to unified catalog keys."""
@@ -143,8 +152,12 @@ class Processing:
         - Schema matching and regular expressions
         - Machine learning
         """
-        unified_specifications = self.extract_with_regex(raw_specification, shop_name)
-        machine_learning_specs = self.extract_with_bert(raw_specification)
+        unified_specifications = {}
+        machine_learning_specs = {}
+        if self.regular_expressions_enabled:
+            unified_specifications = self.extract_with_regex(raw_specification, shop_name)
+        if self.machine_learning_enabled:
+            machine_learning_specs = self.extract_with_bert(raw_specification)
         specifications = unified_specifications | machine_learning_specs
 
         logger.debug(f"Created specs:\n{self.parser.nice_output(specifications)}")
