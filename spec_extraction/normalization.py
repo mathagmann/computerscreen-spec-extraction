@@ -26,6 +26,8 @@ def normalize_units(unit: str) -> str:
         unit = "inch"
     elif unit == "Jahr" or unit == "Jahre":
         unit = "year"
+    elif unit == "Monat" or unit == "Monate":
+        unit = "month"
     elif unit == "Bit":
         unit = "bit"
     return unit
