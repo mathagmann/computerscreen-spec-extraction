@@ -178,6 +178,10 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
 def evaluate_product(proc, idx, product, normalization=True) -> ConfusionMatrix:
     """Collect all specifications from the reference data and the catalog data and compares them.
 
+    Assumes that the reference data is stored in a JSON file in the
+    data directory and the catalog data is stored in a JSON file in the
+    product catalog directory.
+
     Parameters
     ----------
     proc
