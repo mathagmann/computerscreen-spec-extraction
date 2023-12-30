@@ -586,7 +586,7 @@ monitor_spec = [
             Feature(
                 MonitorSpecifications.WARRANTY,
                 create_pattern_structure,
-                r"(\d+)\s?x?\s?(Jahr|Monate)",
+                r"(\d+)\s?x?\s?(Jahr|Jahre|Monat|Monate)",
                 ["value", "unit"],
                 string_repr="{value}\u00a0{unit}",
                 unit=custom_quantities.month,
