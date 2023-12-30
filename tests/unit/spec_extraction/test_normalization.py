@@ -37,6 +37,7 @@ def test_rescale_to_unit():
         ("10000", "Hz", 10 * u.kHz),
         ("2", "Jahre", 24 * cq.month),
         ("1", "Jahr", 12 * cq.month),
+        ("24", "Monate", 2 * u.year),
         ("1,563", "km", 1563 * u.m),
         ("24", "Zoll", 24 * cq.inch),
     ],
