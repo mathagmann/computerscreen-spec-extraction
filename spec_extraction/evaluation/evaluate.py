@@ -67,8 +67,8 @@ def evaluate_machine_learning():
 
     Requires the machine learning model to be trained and saved to disk.
     """
-    # processing = bootstrap(machine_learning_enabled=True)
-    # processing.merge_monitor_specs(PRODUCT_CATALOG_DIR)
+    processing = bootstrap(machine_learning_enabled=True)
+    processing.merge_monitor_specs(PRODUCT_CATALOG_DIR)
 
     attribute_confusion_matrix, product_precision = evaluate_pipeline()
 
