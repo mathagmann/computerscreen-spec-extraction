@@ -98,7 +98,7 @@ class Processing:
                 for catalog_key, example_value in catalog_example.items():
                     # Tries to map a merchant key to a catalog key.
                     for merchant_key, merchant_text in raw_monitor.raw_specifications.items():
-                        if not merchant_text or self.field_mappings.mapping_exists(raw_monitor.shop_name, catalog_key):
+                        if not merchant_text:
                             continue
 
                         max_score_keys = rate_mapping(merchant_key, catalog_key)
