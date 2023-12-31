@@ -119,7 +119,11 @@ def process_labels(labeled_data: list[dict], min_score: [float] = 0.5) -> dict:
         value = label["word"]
         if key in structured_data:
             if structured_data[key] != value:
-                logger.error(f"Multiple values for key {key}: {structured_data[key]} and {value}")
+                if len(value) > len(structured_data[key]):
+                    logger.debug(f"Overwrite value for {key}: {structured_data[key]} replaced by {value}")
+                    structured_data[key] = value
+                else:
+                    logger.error(f"Multiple values for {key}: {structured_data[key]} and {value}")
         else:
             structured_data[key] = value
 
