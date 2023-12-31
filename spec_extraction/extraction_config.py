@@ -121,7 +121,7 @@ monitor_spec = [
             Feature(
                 MonitorSpecifications.CONTRAST,
                 create_pattern_structure,
-                r"(\d+)\s?:\s?(\d+)",
+                r"(\d+\.?\d+)\s?:\s?(\d+)",
                 ["dividend", "divisor"],
                 string_repr="{dividend}:{divisor}",
             )
