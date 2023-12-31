@@ -103,7 +103,7 @@ class FieldMappings:
             shop_mappings.update({cat_key: (merch_key, score)})
             self.mappings[shop_id] = shop_mappings
         elif score > current_score:
-            logger.info(f"Updated mapping for '{shop_id}': {merch_key} -> {cat_key} ({score=})")
+            logger.info(f"Updated mapping for '{shop_id}': {merch_key} -> {cat_key} ({current_score=} -> {score=})")
             shop_mappings.update({cat_key: (merch_key, score)})
             self.mappings[shop_id] = shop_mappings
 

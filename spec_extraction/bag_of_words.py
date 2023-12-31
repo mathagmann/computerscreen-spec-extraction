@@ -13,7 +13,6 @@ class BagOfWords:
     def add_word(self, cat_key: str, text: str):
         """Adds mapping from merchant key to catalog key."""
         word_list = self.bagofwords.get(cat_key, set())
-        logger.info(f"Add bow to '{cat_key}': '{text}'")
         word_list.add(text)
         self.bagofwords[cat_key] = word_list
 

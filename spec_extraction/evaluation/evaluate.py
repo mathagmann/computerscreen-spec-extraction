@@ -67,15 +67,15 @@ def evaluate_machine_learning():
 
     Requires the machine learning model to be trained and saved to disk.
     """
-    processing = bootstrap(machine_learning_enabled=True)
-    processing.merge_monitor_specs(PRODUCT_CATALOG_DIR)
+    # processing = bootstrap(machine_learning_enabled=True)
+    # processing.merge_monitor_specs(PRODUCT_CATALOG_DIR)
 
     attribute_confusion_matrix, product_precision = evaluate_pipeline()
 
     return attribute_confusion_matrix, product_precision
 
 
-def evaluate_pipeline(mappings=None) -> tuple[ConfusionMatrix, float]:
+def evaluate_pipeline() -> tuple[ConfusionMatrix, float]:
     process = bootstrap()
     products = get_products_from_path(DATA_DIR)
 
@@ -158,11 +158,11 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
             if ref_value == catalog_value:
                 # True Positive (Matching entry), key exists in both
                 confusion_matrix.true_positives += 1
-                logger.debug(f"Matching: {key}: {ref_value} == {catalog_value}")
+                logger.debug(f"Match: {key}: {ref_value} == {catalog_value}")
             else:
                 # False Positive (Non-matching entry), key exists in both
                 confusion_matrix.false_positives += 1
-                logger.debug(f"Non matching: {key}: {ref_value} != {catalog_value}")
+                logger.debug(f"No match: {key}: {ref_value} != {catalog_value} (gathered)")
         else:
             # False Negative (Missing entry in catalog_data, but exists in reference_data)
             confusion_matrix.false_negatives += 1
