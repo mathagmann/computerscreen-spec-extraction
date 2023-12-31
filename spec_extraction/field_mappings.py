@@ -23,14 +23,28 @@ class FieldMappings:
         return True
 
     def get_mappings_per_shop(self, shop_id) -> dict[str, str]:
-        return self.mappings.get(shop_id, {})
+        res = self.mappings.get(shop_id)
+        if res:
+            cat_key = list(res.keys())[0]
+            merch_key = list(res.values())[0][0]
+            return {cat_key: merch_key}
+        return {}
 
-    def add_mapping(self, shop_id: str, cat_key: str, merch_key: str):
+    def add_mapping(self, shop_id: str, cat_key: str, merch_key: str, score: int = -1):
         """Adds mapping from merchant key to catalog key."""
         shop_mappings = self.mappings.get(shop_id, {})
+        try:
+            current_score = shop_mappings[cat_key][1]
+        except KeyError:
+            current_score = 0
+
         if cat_key not in shop_mappings:
-            logger.info(f"Add mapping for '{shop_id}': {merch_key} -> {cat_key}")
-            shop_mappings.update({cat_key: merch_key})
+            logger.info(f"Add mapping for '{shop_id}': {merch_key} -> {cat_key} ({score=})")
+            shop_mappings.update({cat_key: (merch_key, score)})
+            self.mappings[shop_id] = shop_mappings
+        elif score > current_score:
+            logger.info(f"Updated mapping for '{shop_id}': {merch_key} -> {cat_key} ({score=})")
+            shop_mappings.update({cat_key: (merch_key, score)})
             self.mappings[shop_id] = shop_mappings
 
     def load_from_disk(self):

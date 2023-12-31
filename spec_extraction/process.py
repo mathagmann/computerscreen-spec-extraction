@@ -44,7 +44,7 @@ class FieldMappingsProtocol(Protocol):
     def get_mappings_per_shop(self, shop_id):
         ...
 
-    def add_mapping(self, shop_id: str, cat_key: str, merch_key: str):
+    def add_mapping(self, shop_id: str, cat_key: str, merch_key: str, score: int = -1):
         ...
 
     def save_to_disk(self):
@@ -85,7 +85,7 @@ class Processing:
         self.regular_expressions_enabled = regular_expressions_enabled
 
         logger.info(
-            f"Processing with the settings: Machine learning={self.machine_learning_enabled},"
+            f"Processing with the settings: Machine learning={self.machine_learning_enabled}, "
             f"Regular expressions={self.regular_expressions_enabled}"
         )
 
@@ -107,7 +107,9 @@ class Processing:
                         max_score_keys = rate_mapping(merchant_key, catalog_key)
                         if max_score_keys >= MIN_FIELD_MAPPING_SCORE:
                             logger.debug(f"Score keys '{max_score_keys}': {merchant_key}\t->\t{catalog_key}")
-                            self.field_mappings.add_mapping(raw_monitor.shop_name, catalog_key, merchant_key)
+                            self.field_mappings.add_mapping(
+                                raw_monitor.shop_name, catalog_key, merchant_key, max_score_keys
+                            )
                             continue
                         max_score_values = rate_mapping(merchant_text, example_value)
                         if max_score_values >= MIN_FIELD_MAPPING_SCORE:
@@ -115,9 +117,12 @@ class Processing:
                                 f"Score values '{max_score_values}': {merchant_key} ({merchant_text})\t"
                                 f"->\t{catalog_key} ({example_value})"
                             )
-                            self.field_mappings.add_mapping(raw_monitor.shop_name, catalog_key, merchant_key)
+                            self.field_mappings.add_mapping(
+                                raw_monitor.shop_name, catalog_key, merchant_key, max_score_values
+                            )
 
                 if idx % 1000 == 0:
+                    logger.debug(f"Processed {idx} products.")
                     self.field_mappings.save_to_disk()
         finally:
             self.field_mappings.save_to_disk()
