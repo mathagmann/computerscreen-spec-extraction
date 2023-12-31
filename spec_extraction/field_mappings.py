@@ -11,6 +11,71 @@ from spec_extraction.catalog_model import MonitorSpecifications
 
 MIN_FIELD_MAPPING_SCORE = 75
 
+GEIZHALS_REFERENCE_MAPPING = {
+    "geizhals": {
+        "Abmessungen": ["Abmessungen (BxHxT)", 100],
+        "Anschl\u00fcsse DVI": ["Anschl\u00fcsse", 100],
+        "Anschl\u00fcsse DisplayPort": ["Anschl\u00fcsse", 100],
+        "Anschl\u00fcsse HDMI": ["Anschl\u00fcsse", 100],
+        "Anschl\u00fcsse Klinke": ["Audio", 100],
+        "Anschl\u00fcsse LAN": ["Weitere Anschl\u00fcsse", 100],
+        "Anschl\u00fcsse Mini DisplayPort": ["Anschl\u00fcsse", 100],
+        "Anschl\u00fcsse USB-A": ["USB-Hub Out", 100],
+        "Anschl\u00fcsse USB-C": ["USB-Hub Out", 100],
+        "Anschl\u00fcsse VGA": ["Anschl\u00fcsse", 100],
+        "Aufl\u00f6sung": ["Aufl\u00f6sung", 100],
+        "Ausg\u00e4nge Display": ["Anschl\u00fcsse", 100],
+        "Beschichtung": ["Beschichtung", 100],
+        "Besonderheiten": ["Besonderheiten", 100],
+        "Bilddiagonale (Zoll)": ["Diagonale", 100],
+        "Bilddiagonale (cm)": ["Diagonale", 100],
+        "Bildwiederholfrequenz": ["Bildwiederholfrequenz", 100],
+        "Blickwinkel horizontal": ["Blickwinkel", 100],
+        "Blickwinkel vertikal": ["Blickwinkel", 100],
+        "EAN": [None, 100],
+        "Energieeffizienzklasse": ["Energieeffizienzklasse SDR (A bis G)", 100],
+        "Farbe": ["Farbe", 100],
+        "Farbraum Adobe RGB": ["Farbraum", 100],
+        "Farbraum DCI-P3": ["Farbraum", 100],
+        "Farbraum NTSC": ["Farbraum", 100],
+        "Farbraum REC 2020": ["Farbraum", 100],
+        "Farbraum REC 709": ["Farbraum", 100],
+        "Farbraum sRGB": ["Farbraum", 100],
+        "Farbtiefe": ["Farbtiefe", 100],
+        "Form": ["Form", 100],
+        "Gewicht": ["Gewicht", 100],
+        "HDR": ["HDR", 100],
+        "Helligkeit": ["Helligkeit", 100],
+        "Herstellergarantie": ["Herstellergarantie", 100],
+        "H\u00f6henverstellbar": ["Ergonomie", 100],
+        "Kabel DVI": [None, 100],
+        "Kabel DisplayPort": [None, 100],
+        "Kabel HDMI": [None, 100],
+        "Kabel Strom": [None, 100],
+        "Kabel VGA": [None, 100],
+        "Kontrast": ["Kontrast", 100],
+        "Kr\u00fcmmung": ["Form", 100],
+        "Leistungsaufnahme (SDR)": ["Leistungsaufnahme", 100],
+        "Leistungsaufnahme (Sleep)": ["Leistungsaufnahme", 100],
+        "Marke": [None, 100],
+        "Neigungswinkelbereich": ["Ergonomie", 100],
+        "Panel": ["Panel", 100],
+        "Rahmenst\u00e4rke oben": [None, 100],
+        "Rahmenst\u00e4rke seitlich": [None, 100],
+        "Rahmenst\u00e4rke unten": [None, 100],
+        "Reaktionszeit": ["Reaktionszeit", 100],
+        "Schwenkwinkelbereich": ["Ergonomie", 100],
+        "Seitenverh\u00e4ltnis": ["Aufl\u00f6sung", 100],
+        "Stromversorgung": ["Stromversorgung", 100],
+        "Thunderbolt": ["Anschl\u00fcsse", 100],
+        "USB-Hub Ausgang": ["USB-Hub Out", 100],
+        "USB-Hub Eing\u00e4nge USB-B": ["USB-Hub In", 100],
+        "USB-Hub Eing\u00e4nge USB-C": ["USB-Hub In", 100],
+        "VESA": ["VESA", 100],
+        "Variable Synchronisierung": ["Variable Synchronisierung", 100],
+    }
+}
+
 
 class FieldMappings:
     def __init__(self, mappings_file: Path = None):
@@ -42,14 +107,18 @@ class FieldMappings:
             shop_mappings.update({cat_key: (merch_key, score)})
             self.mappings[shop_id] = shop_mappings
 
-    def load_from_disk(self):
+    def load_from_disk(self, mapping_path: Path = None):
         """Loads field mappings from file."""
+        if mapping_path is None:
+            mapping_path = self.mappings_file
+
         try:
-            with open(self.mappings_file) as json_file:
-                data = json.load(json_file)
-                self.mappings = _strip_empty_mappings(data)
+            with open(mapping_path) as json_file:
+                dynamic_mappings = json.load(json_file)
+                extended_mappings = dynamic_mappings | GEIZHALS_REFERENCE_MAPPING
+                self.mappings = _strip_empty_mappings(extended_mappings)
         except (FileNotFoundError, JSONDecodeError):
-            os.makedirs(self.mappings_file.parent, exist_ok=True)
+            os.makedirs(mapping_path.parent, exist_ok=True)
             self.mappings = {}
 
     def save_to_disk(self):

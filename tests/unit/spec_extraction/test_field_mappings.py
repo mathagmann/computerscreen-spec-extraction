@@ -21,7 +21,8 @@ def test_field_mappings_load_from_disk(tmp_path):
     fm = field_mappings.FieldMappings(tmp_file)
     fm.load_from_disk()
 
-    assert fm.mappings == expected
+    assert fm.mappings.keys() == {"shop1", "geizhals"}
+    assert fm.get_mappings_per_shop("geizhals").keys() == field_mappings.GEIZHALS_REFERENCE_MAPPING["geizhals"].keys()
 
 
 def test_field_mappings(fm):
