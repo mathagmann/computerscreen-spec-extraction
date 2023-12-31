@@ -272,10 +272,14 @@ def classify_specifications_with_ml(specifications: dict, classify_func) -> dict
 def value_fusion(specs_per_shop: dict[str, dict]) -> dict:
     """Merges specifications from multiple shops into one dict.
 
-    Logic: Last shop wins.
+    Logic: Shop with most properties wins.
     """
     combined_specs = {}
-    for shopname, structured_specs in specs_per_shop.items():
+
+    # sort by number of items per shop
+    specs_per_shop_asc = dict(sorted(specs_per_shop.items(), key=lambda item: len(item[1])))
+
+    for shopname, structured_specs in specs_per_shop_asc.items():
         combined_specs |= structured_specs
         print(f"{shopname} specs from '{shopname}':\n{pretty(structured_specs)}")
     return combined_specs
