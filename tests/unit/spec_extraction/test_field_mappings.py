@@ -5,6 +5,11 @@ import pytest
 from spec_extraction import field_mappings
 
 
+@pytest.fixture
+def fm():
+    return field_mappings.FieldMappings()
+
+
 def test_field_mappings_load_from_disk(tmp_path):
     expected = {"shop1": {"key1": "key2"}}
 
@@ -19,31 +24,26 @@ def test_field_mappings_load_from_disk(tmp_path):
     assert fm.mappings == expected
 
 
-def test_field_mappings():
-    expected = {"shop1": {"cat_key": ("merch_key", -1)}}
-
-    fm = field_mappings.FieldMappings()
+def test_field_mappings(fm):
     fm.add_mapping("shop1", "cat_key", "merch_key")
+    fm.add_mapping("shop1", "cat_key2", "merch_key2")
 
-    assert fm.mappings == expected
+    assert fm.mappings == {"shop1": {"cat_key": ("merch_key", -1), "cat_key2": ("merch_key2", -1)}}
 
-    assert fm.mapping_exists("shop1", "cat_key")
-    assert not fm.mapping_exists("shop1", "cat_key2")
-    assert not fm.mapping_exists("shop2", "cat_key")
+    res = fm.get_mappings_per_shop("shop1")
 
-    assert fm.get_mappings_per_shop("shop1") == {"cat_key": "merch_key"}
+    assert res == {"cat_key": "merch_key", "cat_key2": "merch_key2"}
 
 
-def test_add_mappings_with_score():
-    fm = field_mappings.FieldMappings()
+def test_add_mappings_with_score(fm):
     fm.add_mapping("shop1", "cat_key", "merch_key", 50)
 
     assert fm.get_mappings_per_shop("shop1") == {"cat_key": "merch_key"}
 
-    fm.add_mapping("shop1", "cat_key", "new_merch_key", 80)
+    fm.add_mapping("shop1", "cat_key", "best_merchant_key", 80)
     fm.add_mapping("shop1", "cat_key", "invalid_merch_key", 70)
 
-    assert fm.get_mappings_per_shop("shop1") == {"cat_key": "new_merch_key"}
+    assert fm.get_mappings_per_shop("shop1") == {"cat_key": "best_merchant_key"}
 
 
 @pytest.mark.parametrize(

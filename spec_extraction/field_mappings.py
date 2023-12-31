@@ -1,3 +1,4 @@
+import copy
 import json
 import os
 from json import JSONDecodeError
@@ -17,12 +18,12 @@ class FieldMappings:
         self.mappings_file = mappings_file
 
     def get_mappings_per_shop(self, shop_id) -> dict[str, str]:
-        res = self.mappings.get(shop_id)
-        if res:
-            cat_key = list(res.keys())[0]
-            merch_key = list(res.values())[0][0]
-            return {cat_key: merch_key}
-        return {}
+        """Remove scores and return mappings for a shop."""
+        res = copy.deepcopy(self.mappings.get(shop_id, {}))
+        for cat_key, value in res.items():
+            merch_key, _ = value
+            res[cat_key] = merch_key
+        return res
 
     def add_mapping(self, shop_id: str, cat_key: str, merch_key: str, score: int = -1):
         """Adds mapping from merchant key to catalog key."""
