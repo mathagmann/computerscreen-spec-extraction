@@ -276,12 +276,61 @@ def value_fusion(specs_per_shop: dict[str, dict]) -> dict:
     """
     combined_specs = {}
 
-    # sort by number of items per shop
-    specs_per_shop_asc = dict(sorted(specs_per_shop.items(), key=lambda item: len(item[1])))
-
-    for shopname, structured_specs in specs_per_shop_asc.items():
+    # Value fusion based on most properties per shop wins
+    shops_sorted_by_property_count = sorted(specs_per_shop.items(), key=lambda item: len(item[1]))
+    for shopname, structured_specs in shops_sorted_by_property_count:
         combined_specs |= structured_specs
         print(f"{shopname} specs from '{shopname}':\n{pretty(structured_specs)}")
+
+    # Enhance results using majority vote
+    # Clear majority votes overwrite all other values
+    # count properties per shop
+    properties_per_shop = {}
+    for shopname, structured_specs in shops_sorted_by_property_count:
+        for key, value in structured_specs.items():
+            if key not in properties_per_shop:
+                properties_per_shop[key] = {}
+            properties_per_shop[key][shopname] = value
+
+    for key, values_per_shop in properties_per_shop.items():
+        total_values = len(values_per_shop)
+        if total_values == 1:
+            continue
+
+        value_counts = {}
+        for shopname, value in values_per_shop.items():
+            # make sure value is hashable
+            if isinstance(value, dict):
+                value = tuple(value.items())
+            if isinstance(value, list):
+                value = tuple(value)
+            if value not in value_counts:
+                value_counts[value] = 0
+            value_counts[value] += 1
+
+        sorted_votes = sorted(value_counts.items(), key=lambda item: item[1], reverse=True)
+
+        limit_votes_for_majority = total_values // 2 + 1
+        votes_for_majority = sorted_votes[0][1]
+
+        # Skip update, if majority vote counts is less than 50% of all votes
+        if limit_votes_for_majority > votes_for_majority:
+            continue
+
+        most_common_value = sorted_votes[0][0]
+
+        # convert back to original type
+        if isinstance(most_common_value, tuple):
+            try:
+                most_common_value = dict(most_common_value)
+            except ValueError:
+                most_common_value = list(most_common_value)
+
+        # update by majority vote value
+        if combined_specs[key] != most_common_value:
+            logger.debug(f"Majority vote for {key}: {most_common_value} replaces {combined_specs[key]}")
+            combined_specs[key] = most_common_value
+
     return combined_specs
 
 
