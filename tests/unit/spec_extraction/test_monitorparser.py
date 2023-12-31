@@ -46,7 +46,7 @@ def test_colorspace_extraction(mock_synonyms, monitor_parser):
 def test_parse_properly(mock_synonyms, monitor_parser):
     input_dict = REGEX_EXAMPLES
 
-    with mock.patch("spec_extraction.extraction_config.load_synonyms", return_value={}):
+    with mock.patch("spec_extraction.extraction.load_synonyms", return_value={}):
         result = monitor_parser.parse(input_dict)
 
     for feature in input_dict.keys():

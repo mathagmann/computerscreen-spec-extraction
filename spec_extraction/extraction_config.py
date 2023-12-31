@@ -1,6 +1,4 @@
-import json
 import re
-from functools import lru_cache
 from typing import List
 
 from astropy import units as u
@@ -11,6 +9,7 @@ from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import Feature
 from spec_extraction.extraction import FeatureGroup
+from spec_extraction.extraction import apply_synonyms
 
 u.imperial.enable()
 
@@ -58,24 +57,6 @@ def create_pattern_structure(text: str, pattern, map_to: List[str] = None) -> st
 def create_listing(text: str) -> List:
     """Creates a listing from a text and strips white space."""
     return [apply_synonyms(item.strip()).strip() for item in text.split(", ")]
-
-
-def apply_synonyms(text: str) -> str:
-    """Replaces synonyms in a text."""
-    # synonyms = load_synonyms()
-    # for key, value in synonyms.items():
-    #     if key.lower() == text.lower():
-    #         logger.debug(f"Synonym found '{text}' replaced with '{value}'")
-    #         return value
-    return text
-
-
-@lru_cache(maxsize=1)
-def load_synonyms():
-    """Loads synonyms from a file."""
-    with open("synonyms.json") as json_file:
-        data = json.load(json_file)
-    return data
 
 
 monitor_spec = [
