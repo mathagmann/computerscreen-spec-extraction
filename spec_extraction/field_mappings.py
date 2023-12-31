@@ -33,9 +33,11 @@ class FieldMappings:
         max_score = rate_mapping(merchant_value, catalog_value)
         if max_score >= MIN_FIELD_MAPPING_SCORE:
             logger.debug(f"Score '{max_score}': {merchant_value}\t->\t{catalog_value}")
-            self._add_mapping(shopname, catalog_value, merchant_value)
+            self.add_mapping(shopname, catalog_value, merchant_value)
+        elif max_score >= 50:
+            logger.debug(f"Check mapping '{max_score}': {merchant_value}\t->\t{catalog_value}")
 
-    def _add_mapping(self, shop_id, cat_key, merch_key):
+    def add_mapping(self, shop_id: str, cat_key: str, merch_key: str):
         """Adds mapping from merchant key to catalog key."""
         shop_mappings = self.mappings.get(shop_id, {})
         if cat_key not in shop_mappings:

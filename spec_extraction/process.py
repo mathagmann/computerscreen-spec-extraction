@@ -17,6 +17,8 @@ from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
 from spec_extraction import exceptions
 from spec_extraction.catalog_model import MonitorSpecifications
+from spec_extraction.field_mappings import MIN_FIELD_MAPPING_SCORE
+from spec_extraction.field_mappings import rate_mapping
 from spec_extraction.html_parser import shop_parser
 from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
@@ -42,7 +44,7 @@ class FieldMappingsProtocol(Protocol):
     def get_mappings_per_shop(self, shop_id):
         ...
 
-    def add_possible_mapping(self, shopname: str, merchant_value: str, catalog_value: str):
+    def add_mapping(self, shop_id: str, cat_key: str, merch_key: str):
         ...
 
     def save_to_disk(self):
@@ -102,7 +104,19 @@ class Processing:
                         if not merchant_text or self.field_mappings.mapping_exists(raw_monitor.shop_name, catalog_key):
                             continue
 
-                        self.field_mappings.add_possible_mapping(raw_monitor.shop_name, catalog_key, merchant_key)
+                        max_score_keys = rate_mapping(merchant_key, catalog_key)
+                        if max_score_keys >= MIN_FIELD_MAPPING_SCORE:
+                            logger.debug(f"Score keys '{max_score_keys}': {merchant_key}\t->\t{catalog_key}")
+                            self.field_mappings.add_mapping(raw_monitor.shop_name, catalog_key, merchant_key)
+                            continue
+                        max_score_values = rate_mapping(merchant_text, example_value)
+                        if max_score_values >= MIN_FIELD_MAPPING_SCORE:
+                            logger.debug(
+                                f"Score values '{max_score_values}': {merchant_key} ({merchant_text})\t"
+                                f"->\t{catalog_key} ({example_value})"
+                            )
+                            self.field_mappings.add_mapping(raw_monitor.shop_name, catalog_key, merchant_key)
+
                 if idx % 1000 == 0:
                     self.field_mappings.save_to_disk()
         finally:
