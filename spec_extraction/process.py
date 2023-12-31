@@ -38,9 +38,6 @@ class ParserProtocol(Protocol):
 
 
 class FieldMappingsProtocol(Protocol):
-    def mapping_exists(self, shop_id, cat_key) -> bool:
-        ...
-
     def get_mappings_per_shop(self, shop_id):
         ...
 
