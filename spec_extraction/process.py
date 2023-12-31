@@ -86,7 +86,7 @@ class Processing:
             f"Regular expressions={self.regular_expressions_enabled}"
         )
 
-    def find_mappings(self, catalog_example: Dict[MonitorSpecifications, str]):
+    def find_mappings(self, catalog_example: Dict[MonitorSpecifications, str], value_score: bool = True):
         """Automatically finds mappings from extracted specification keys to unified catalog keys."""
         logger.info("--- Find mappings... ---")
         try:
@@ -108,15 +108,16 @@ class Processing:
                                 raw_monitor.shop_name, catalog_key, merchant_key, max_score_keys
                             )
                             continue
-                        max_score_values = rate_mapping(merchant_text, example_value)
-                        if max_score_values >= MIN_FIELD_MAPPING_SCORE:
-                            logger.debug(
-                                f"Score values '{max_score_values}': {merchant_key} ({merchant_text})\t"
-                                f"->\t{catalog_key} ({example_value})"
-                            )
-                            self.field_mappings.add_mapping(
-                                raw_monitor.shop_name, catalog_key, merchant_key, max_score_values
-                            )
+                        if value_score:
+                            max_score_values = rate_mapping(merchant_text, example_value)
+                            if max_score_values >= MIN_FIELD_MAPPING_SCORE:
+                                logger.debug(
+                                    f"Score values '{max_score_values}': {merchant_key} ({merchant_text})\t"
+                                    f"->\t{catalog_key} ({example_value})"
+                                )
+                                self.field_mappings.add_mapping(
+                                    raw_monitor.shop_name, catalog_key, merchant_key, max_score_values - 5
+                                )
 
                 if idx % 1000 == 0:
                     logger.debug(f"Processed {idx} products.")
