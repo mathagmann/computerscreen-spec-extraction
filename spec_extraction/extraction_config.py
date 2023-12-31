@@ -77,7 +77,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+[.,]*\d*)\s*(mm|cm|m)",  # 68.6 cm
                 ["value", "unit"],
-                string_repr="{value}\u00a0{unit}",
+                string_repr="{value} {unit}",
                 unit=u.cm,
             ),
         ],
@@ -110,7 +110,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+)\D*(cd\/m\u00b2)",
                 ["value", "unit"],
-                string_repr="{value}\u00a0{unit}",
+                string_repr="{value} {unit}",
                 unit=u.cd / u.m**2,
             )
         ],
@@ -135,7 +135,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+\.?\d*)\s*\(?\S*\)?\s*(ms)",  # 0,5 (MPRT) ms
                 ["value", "unit"],
-                string_repr="{value}\u00a0{unit}",
+                string_repr="{value} {unit}",
                 unit=u.ms,
             )
         ],
@@ -176,7 +176,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(HDR)\W*(\d+)",
                 ["name", "value"],
-                string_repr="{name}\u00a0{value}",
+                string_repr="{name} {value}",
             )
         ],
         # HDR 400
@@ -189,7 +189,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+)\s*(\D*[bB]it)",
                 ["value", "unit"],
-                string_repr="{value}\u00a0{unit}",
+                string_repr="{value} {unit}",
                 unit=u.bit,
             )
         ],
@@ -255,7 +255,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+)\s?(Hz)",
                 ["value", "unit"],
-                string_repr="{value}\u00a0{unit}",
+                string_repr="{value} {unit}",
                 unit=u.Hz,
             )
         ],
@@ -397,7 +397,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+[[.|,]?\d]*)\s?(mm|cm)",
                 ["value", "unit"],
-                string_repr="{value}\u00a0{unit}",
+                string_repr="{value} {unit}",
                 unit=u.mm,
             ),
             Feature(
@@ -427,7 +427,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+.?\d*)\s?(kg|g)",
                 ["value", "unit"],
-                string_repr="{value}\u00a0{unit}",
+                string_repr="{value} {unit}",
                 unit=u.kg,
             )
         ],
@@ -460,7 +460,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+[.|,]?\d*)\s?(mW|W)",
                 ["value", "unit"],
-                string_repr="{value}\u00a0{unit}",
+                string_repr="{value} {unit}",
                 unit=u.W,
             )
         ],
@@ -473,7 +473,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+[.|,]?\d*)\s?(mW|W)",
                 ["value", "unit"],
-                string_repr="{value}\u00a0{unit}",
+                string_repr="{value} {unit}",
                 unit=u.W,
             )
         ],
@@ -487,7 +487,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+\.?[\d]*)\D*x\D*(\d+\.?[\d]*)\D*x\D*(\d+\.?[\d]*)\D*(mm|cm)",
                 ["width", "height", "depth", "unit"],
-                string_repr="{width}x{height}x{depth}\u00a0{unit}",
+                string_repr="{width}x{height}x{depth} {unit}",
             )
         ],
     ),
@@ -499,7 +499,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+\.?[\d]*)\D*(mm|cm)",
                 ["width", "unit"],
-                string_repr="{width}\u00a0{unit}",
+                string_repr="{width} {unit}",
                 unit=u.mm,
             ),
             Feature(
@@ -507,7 +507,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+\.?[\d]*)\D*(mm|cm)",
                 ["width", "unit"],
-                string_repr="{width}\u00a0{unit}",
+                string_repr="{width} {unit}",
                 unit=u.mm,
             ),
             Feature(
@@ -515,7 +515,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+\.?[\d]*)\D*(mm|cm)",
                 ["width", "unit"],
-                string_repr="{width}\u00a0{unit}",
+                string_repr="{width} {unit}",
                 unit=u.mm,
             ),
         ],
@@ -569,8 +569,8 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+)\s?x?\s?(Jahr|Jahre|Monat|Monate)",
                 ["value", "unit"],
-                string_repr="{value}\u00a0{unit}",
-                unit=custom_quantities.month,
+                string_repr="{value} {unit}",
+                unit=u.year,
             )
         ],
     ),

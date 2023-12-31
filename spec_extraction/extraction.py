@@ -85,7 +85,7 @@ class Feature:
 
         if self.string_repr:
             return self.string_repr.format(**data)
-        return "\u00a0".join(output)
+        return " ".join(output)
 
 
 class FeatureGroup:
