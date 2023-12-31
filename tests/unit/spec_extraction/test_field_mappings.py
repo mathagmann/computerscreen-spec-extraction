@@ -20,13 +20,18 @@ def test_field_mappings_load_from_disk(tmp_path):
 
 
 def test_field_mappings():
-    expected = {"shop1": {"key1": "key2"}}
+    expected = {"shop1": {"cat_key": "merch_key"}}
 
     fm = field_mappings.FieldMappings()
-    fm.add_possible_mapping("shop1", "key2", "key1")
-    fm.add_possible_mapping("shop2", "value", "completely different value")
+    fm.add_mapping("shop1", "cat_key", "merch_key")
 
     assert fm.mappings == expected
+
+    assert fm.mapping_exists("shop1", "cat_key")
+    assert not fm.mapping_exists("shop1", "cat_key2")
+    assert not fm.mapping_exists("shop2", "cat_key")
+
+    assert fm.get_mappings_per_shop("shop1") == expected["shop1"]
 
 
 @pytest.mark.parametrize(

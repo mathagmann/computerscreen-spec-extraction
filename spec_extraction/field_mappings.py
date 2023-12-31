@@ -22,20 +22,8 @@ class FieldMappings:
             return False
         return True
 
-    def get_mappings_per_shop(self, shop_id):
+    def get_mappings_per_shop(self, shop_id) -> dict[str, str]:
         return self.mappings.get(shop_id, {})
-
-    def add_possible_mapping(self, shopname: str, merchant_value: str, catalog_value: str):
-        """Adds mapping from merchant key to catalog key.
-
-        If the mapping score is below the threshold, the mapping is not added.
-        """
-        max_score = rate_mapping(merchant_value, catalog_value)
-        if max_score >= MIN_FIELD_MAPPING_SCORE:
-            logger.debug(f"Score '{max_score}': {merchant_value}\t->\t{catalog_value}")
-            self.add_mapping(shopname, catalog_value, merchant_value)
-        elif max_score >= 50:
-            logger.debug(f"Check mapping '{max_score}': {merchant_value}\t->\t{catalog_value}")
 
     def add_mapping(self, shop_id: str, cat_key: str, merch_key: str):
         """Adds mapping from merchant key to catalog key."""
