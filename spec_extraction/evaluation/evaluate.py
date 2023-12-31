@@ -1,5 +1,6 @@
 import difflib
 from dataclasses import dataclass
+from pathlib import Path
 
 import click
 from loguru import logger
@@ -75,8 +76,12 @@ def evaluate_machine_learning():
     return attribute_confusion_matrix, product_precision
 
 
-def evaluate_pipeline() -> tuple[ConfusionMatrix, float]:
-    process = bootstrap()
+def evaluate_pipeline(mappings: Path | None = None) -> tuple[ConfusionMatrix, float]:
+    if mappings:
+        logger.info(f"Using mappings from {mappings}")
+        process = bootstrap(field_mappings=mappings)
+    else:
+        process = bootstrap()
     products = get_products_from_path(DATA_DIR)
 
     products_perfect_precision = 0
