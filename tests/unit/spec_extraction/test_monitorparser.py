@@ -8,6 +8,7 @@ from spec_extraction import extraction_config
 from spec_extraction.catalog_model import CATALOG_EXAMPLE
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.extraction import Parser
+from spec_extraction.normalization import normalize_product_specifications
 
 REGEX_EXAMPLES = copy.deepcopy(CATALOG_EXAMPLE)
 REGEX_EXAMPLES.pop(MonitorSpecifications.PORTS_HDMI.value)
@@ -21,12 +22,18 @@ def monitor_parser():
 def test_parse_catalog_example(monitor_parser):
     catalog_example = Path(__file__).parent / "catalog_example.txt"
     expected = catalog_example.read_text()
+    expected = expected.strip()
 
     result = monitor_parser.parse(REGEX_EXAMPLES)
     text = monitor_parser.nice_output(result)
 
     assert isinstance(result, dict)
-    assert text == expected.strip()
+    assert text == expected
+
+    res = normalize_product_specifications(result)
+    text_with_quant = monitor_parser.nice_output(res)
+
+    assert len(text_with_quant.split("\n")) == len(text.split("\n"))  # compare lines
 
 
 def test_colorspace_extraction(mock_synonyms, monitor_parser):

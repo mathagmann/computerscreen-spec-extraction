@@ -3,10 +3,12 @@ from functools import lru_cache
 from pathlib import Path
 from typing import List
 
+from astropy.units import Quantity
 from loguru import logger
 
 from spec_extraction import exceptions
 from spec_extraction.bag_of_words import BagOfWords
+from spec_extraction.normalization import rescale_to_unit
 
 CONFIG_DIR = Path(__file__).parent / "preparation"
 
@@ -45,11 +47,29 @@ class Feature:
         string_repr: [str] = None,
         unit=None,
     ):
+        """A feature is a property of a product.
+
+        It has a name, a formatter, a pattern, a match_to list, a string_repr and a unit.
+
+        name
+            The human-friendly name of the feature.
+        formatter
+            The formatter is a function that is applied to the text before parsing.
+        pattern
+            The pattern is a regex pattern that is used to extract the value from the text.
+        match_to
+            The match_to list is a list of keys that are used to map the extracted values to.
+        string_repr
+            The string_repr is a string format placeholder that is used to format the output.
+        unit
+            The unit is an astropy unit that is used to rescale the value.
+        """
         self.name = name.value
         self.formatter = formatter  # DataExtractor function
         self.pattern = pattern  # regex pattern
         self.match_to = match_to  # list of keys to map to
         self.string_repr = string_repr  # string format placeholder
+        self.unit = unit  # astropy unit
 
     def parse(self, text: str) -> object:
         """Parses a text to a structured value.
@@ -74,7 +94,11 @@ class Feature:
     def nice_output(self, data) -> str:
         """Returns a nice output of the data."""
         output = []
-        if isinstance(data, str):
+        if isinstance(data, Quantity):
+            if self.unit:
+                data = rescale_to_unit(data, self.unit)
+            return f"{data.value:g} {data.unit}"
+        elif isinstance(data, str):
             return data
         elif isinstance(data, list):
             return ", ".join(data)
