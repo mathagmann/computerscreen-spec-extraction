@@ -1,0 +1,4612 @@
+{
+    "1ashop.at": {
+        "Abmessungen": [
+            "Abmessungen (Breite x Tiefe x H\u00f6he)",
+            82
+        ],
+        "Anschl\u00fcsse DVI": null,
+        "Anschl\u00fcsse DisplayPort": [
+            "Schnittstellen",
+            80
+        ],
+        "Anschl\u00fcsse HDMI": null,
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": null,
+        "Anschl\u00fcsse USB-A": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse VGA": null,
+        "Aufl\u00f6sung": [
+            "Native Aufl\u00f6sung",
+            89
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Besonderheiten",
+            88
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Leistungsaufnahme im Ein-Zustand",
+            74
+        ],
+        "Bilddiagonale (cm)": [
+            "Transportbreite",
+            99
+        ],
+        "Bildwiederholfrequenz": null,
+        "Blickwinkel horizontal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energie Effizienzklasse",
+            93
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "Farbraum",
+            92
+        ],
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR-Format",
+            99
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "Transporttiefe",
+            99
+        ],
+        "Kabel DVI": [
+            "Enthaltene Kabel",
+            84
+        ],
+        "Kabel DisplayPort": [
+            "Enthaltene Kabel",
+            97
+        ],
+        "Kabel HDMI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel Strom": null,
+        "Kabel VGA": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Ppi",
+            74
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Stromverbrauch (typisch)",
+            99
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Stromverbrauch im Standby-Modus",
+            99
+        ],
+        "Marke": [
+            "Hersteller",
+            99
+        ],
+        "Neigungswinkelbereich": [
+            "Neigungswinkel",
+            80
+        ],
+        "Panel": [
+            "Bildschirmtyp",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkel",
+            79
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": [
+            "Enthaltene Kabel",
+            75
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": [
+            "VESA-Halterung",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "Adaptive-Sync Technologie",
+            99
+        ]
+    },
+    "Alternate.at": {
+        "Abmessungen": [
+            "Abmessungen",
+            100
+        ],
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Anschl\u00fcsse",
+            80
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Anschl\u00fcsse",
+            76
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Features",
+            85
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Aufl\u00f6sung": null,
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": null,
+        "Besonderheiten": [
+            "Features",
+            84
+        ],
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": [
+            "Abmessungen",
+            82
+        ],
+        "Bildwiederholfrequenz": null,
+        "Blickwinkel horizontal": [
+            "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)",
+            79
+        ],
+        "Blickwinkel vertikal": [
+            "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)",
+            79
+        ],
+        "EAN": [
+            "EAN",
+            100
+        ],
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse (SDR)",
+            88
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": [
+            "Weitere Informationen",
+            74
+        ],
+        "Farbraum NTSC": [
+            "Weitere Informationen",
+            88
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": [
+            "Features",
+            81
+        ],
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "Features",
+            99
+        ],
+        "Helligkeit": null,
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "Abmessungen",
+            99
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "Anschl\u00fcsse",
+            75
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": null,
+        "Kr\u00fcmmung": [
+            "Bildschirmdiagonale",
+            74
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)",
+            99
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Leistungsaufnahme im Bereitschafts- und Aus-Zustand",
+            87
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": null,
+        "Panel": null,
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Abmessungen",
+            74
+        ],
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": null,
+        "Stromversorgung": [
+            "Stromversorgung",
+            100
+        ],
+        "Thunderbolt": [
+            "Anschl\u00fcsse",
+            99
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": [
+            "Anschl\u00fcsse",
+            79
+        ],
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": [
+            "Weitere Informationen",
+            87
+        ],
+        "Variable Synchronisierung": [
+            "",
+            99
+        ]
+    },
+    "Amazon.at": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "Modell/Serie",
+            79
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Modell/Serie",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Modell/Serie",
+            82
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Modell/Serie",
+            76
+        ],
+        "Anschl\u00fcsse USB-A": null,
+        "Anschl\u00fcsse USB-C": [
+            "Modell/Serie",
+            76
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Modell/Serie",
+            79
+        ],
+        "Aufl\u00f6sung": [
+            "L\u00f6sung",
+            85
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": null,
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": null,
+        "Bildwiederholfrequenz": [
+            "Modell/Serie",
+            91
+        ],
+        "Blickwinkel horizontal": null,
+        "Blickwinkel vertikal": null,
+        "EAN": null,
+        "Energieeffizienzklasse": null,
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": null,
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": null,
+        "Helligkeit": [
+            "Modell/Serie",
+            94
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "Produktabmessungen",
+            76
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "Modell/Serie",
+            74
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": null,
+        "Kr\u00fcmmung": null,
+        "Leistungsaufnahme (SDR)": [
+            "Watt",
+            92
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Watt",
+            79
+        ],
+        "Marke": [
+            "Marke",
+            100
+        ],
+        "Neigungswinkelbereich": [
+            "Produktabmessungen",
+            76
+        ],
+        "Panel": [
+            "Modell/Serie",
+            85
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Modell/Serie",
+            85
+        ],
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": [
+            "Modell/Serie",
+            79
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": null,
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": [
+            "Bildschirmaufl\u00f6sung",
+            74
+        ],
+        "Variable Synchronisierung": [
+            "Modell/Serie",
+            95
+        ]
+    },
+    "BA-Computer": {
+        "Abmessungen": [
+            "Abmessungen (Breite x Tiefe x H\u00f6he)",
+            80
+        ],
+        "Anschl\u00fcsse DVI": null,
+        "Anschl\u00fcsse DisplayPort": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Mitgelieferte Kabel",
+            82
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Mitgelieferte Kabel",
+            76
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse VGA": null,
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Besonderheiten",
+            88
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Bilddiagonale (Zoll)",
+            100
+        ],
+        "Bilddiagonale (cm)": [
+            "Bilddiagonale (cm)",
+            100
+        ],
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz (Hz)",
+            89
+        ],
+        "Blickwinkel horizontal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "Farbraum",
+            92
+        ],
+        "Farbraum DCI-P3": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": [
+            "Farbraum",
+            78
+        ],
+        "Farbraum REC 709": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR-Format",
+            99
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": [
+            "Gew\u00e4hrleistungsfrist",
+            87
+        ],
+        "H\u00f6henverstellbar": [
+            "Transporth\u00f6he",
+            99
+        ],
+        "Kabel DVI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel DisplayPort": [
+            "Enthaltene Kabel",
+            97
+        ],
+        "Kabel HDMI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel Strom": null,
+        "Kabel VGA": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Ppi",
+            74
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Stromverbrauch (typisch)",
+            99
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Stromverbrauch im Standby-Modus",
+            99
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Bildschirmtyp",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": [
+            "PC-Schnittstellen",
+            80
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "PC-Schnittstellen",
+            85
+        ],
+        "VESA": [
+            "VESA-Halterung",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "Adaptive-Sync Technologie",
+            99
+        ]
+    },
+    "CSV-Direct.de": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Mitgelieferte Kabel",
+            82
+        ],
+        "Anschl\u00fcsse Klinke": [
+            "Audio",
+            90
+        ],
+        "Anschl\u00fcsse LAN": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Mitgelieferte Kabel",
+            93
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Beschichtung",
+            100
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Stromverbrauch aus",
+            74
+        ],
+        "Bilddiagonale (cm)": [
+            "Sichtbare Gr\u00f6\u00dfe diagonal",
+            85
+        ],
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz",
+            100
+        ],
+        "Blickwinkel horizontal": [
+            "Tiefe ohne Standfu\u00df",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Tiefe ohne Standfu\u00df",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse SDR",
+            92
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": [
+            "Form",
+            100
+        ],
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR",
+            100
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": [
+            "Gew\u00e4hrleistungsfrist",
+            99
+        ],
+        "H\u00f6henverstellbar": [
+            "H\u00f6heneinstellung",
+            99
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "Mitgelieferte Kabel",
+            74
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Bewertung der Bildschirmkr\u00fcmmung",
+            99
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Leistungsaufnahme",
+            85
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Leistungsaufnahme",
+            81
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Panel",
+            100
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgung",
+            100
+        ],
+        "Thunderbolt": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": [
+            "USB-Hub In",
+            99
+        ],
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "USB-Upstream-Porttyp",
+            81
+        ],
+        "VESA": [
+            "VESA",
+            100
+        ],
+        "Variable Synchronisierung": [
+            "Variable Synchronisierung",
+            100
+        ]
+    },
+    "Cyberport Stores \u00d6sterreich": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "DVI",
+            99
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Displayport",
+            87
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "HDMI",
+            99
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": [
+            "Weitere Anschl\u00fcsse",
+            99
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Displayport",
+            75
+        ],
+        "Anschl\u00fcsse USB-A": null,
+        "Anschl\u00fcsse USB-C": [
+            "USB",
+            93
+        ],
+        "Anschl\u00fcsse VGA": null,
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Oberfl\u00e4che",
+            99
+        ],
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": [
+            "Displaygr\u00f6\u00dfe in cm",
+            85
+        ],
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz",
+            100
+        ],
+        "Blickwinkel horizontal": [
+            "Gewicht in kg",
+            79
+        ],
+        "Blickwinkel vertikal": [
+            "Gewicht in kg",
+            79
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": null,
+        "Farbe": null,
+        "Farbraum Adobe RGB": [
+            "Farbraumabdeckung",
+            89
+        ],
+        "Farbraum DCI-P3": [
+            "Farbraumabdeckung",
+            91
+        ],
+        "Farbraum NTSC": [
+            "Farbraumabdeckung",
+            88
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": [
+            "Farbraumabdeckung",
+            90
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": null,
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "H\u00f6henverstellbar",
+            100
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "DisplayPort",
+            79
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrast typisch",
+            91
+        ],
+        "Kr\u00fcmmung": [
+            "Displaygr\u00f6\u00dfe in cm",
+            74
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Leistungsaufnahme",
+            85
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Leistungsaufnahme",
+            81
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Technologie",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Bildformat",
+            99
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": null,
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": [
+            "USB-Hub In",
+            99
+        ],
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "USB-Upstream-Porttyp",
+            75
+        ],
+        "VESA": [
+            "Panel-Montage-Schnittstelle",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "AMD FreeSync-Typ",
+            79
+        ]
+    },
+    "Cyberport.at": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "DVI",
+            99
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Displayport",
+            87
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "HDMI",
+            99
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": [
+            "Weitere Anschl\u00fcsse",
+            99
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Displayport",
+            75
+        ],
+        "Anschl\u00fcsse USB-A": null,
+        "Anschl\u00fcsse USB-C": [
+            "USB",
+            93
+        ],
+        "Anschl\u00fcsse VGA": null,
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Oberfl\u00e4che",
+            99
+        ],
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": [
+            "Displaygr\u00f6\u00dfe in cm",
+            85
+        ],
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz",
+            100
+        ],
+        "Blickwinkel horizontal": [
+            "Displaygr\u00f6\u00dfe in Zoll",
+            79
+        ],
+        "Blickwinkel vertikal": [
+            "Displaygr\u00f6\u00dfe in Zoll",
+            79
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": null,
+        "Farbe": null,
+        "Farbraum Adobe RGB": [
+            "Farbraumabdeckung",
+            89
+        ],
+        "Farbraum DCI-P3": [
+            "Farbraumabdeckung",
+            91
+        ],
+        "Farbraum NTSC": [
+            "Farbraumabdeckung",
+            88
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": [
+            "Farbraumabdeckung",
+            90
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": null,
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "H\u00f6henverstellbar",
+            100
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "DisplayPort",
+            79
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrast typisch",
+            91
+        ],
+        "Kr\u00fcmmung": [
+            "Displaygr\u00f6\u00dfe in cm",
+            74
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Leistungsaufnahme",
+            85
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Leistungsaufnahme",
+            81
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Technologie",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Bildformat",
+            99
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": null,
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": [
+            "USB-Hub In",
+            99
+        ],
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "USB-Upstream-Porttyp",
+            75
+        ],
+        "VESA": [
+            "Panel-Montage-Schnittstelle",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "AMD FreeSync-Typ",
+            79
+        ]
+    },
+    "DiTech.at": {
+        "Abmessungen": [
+            "Abmessungen - H\u00f6he",
+            76
+        ],
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse - DVI",
+            93
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Anschl\u00fcsse - DisplayPort",
+            96
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Anschl\u00fcsse - HDMI",
+            94
+        ],
+        "Anschl\u00fcsse Klinke": [
+            "Audio",
+            99
+        ],
+        "Anschl\u00fcsse LAN": [
+            "Weitere Anschl\u00fcsse",
+            99
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Anschl\u00fcsse - Mini DisplayPort",
+            96
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Anschl\u00fcsse - VGA",
+            81
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "USB-Hub In",
+            99
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse - VGA",
+            93
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Beschichtung",
+            100
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": null,
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz",
+            100
+        ],
+        "Blickwinkel horizontal": null,
+        "Blickwinkel vertikal": null,
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse HDR (A bis G)",
+            76
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "Farbraum - Adobe RGB",
+            95
+        ],
+        "Farbraum DCI-P3": [
+            "Farbraum - DCI-P3",
+            94
+        ],
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": [
+            "Farbraum - REC 709",
+            80
+        ],
+        "Farbraum REC 709": [
+            "Farbraum - REC 709",
+            94
+        ],
+        "Farbraum sRGB": [
+            "Farbraum - sRGB",
+            93
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": [
+            "Form",
+            100
+        ],
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR",
+            100
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": [
+            "Herstellergarantie",
+            100
+        ],
+        "H\u00f6henverstellbar": null,
+        "Kabel DVI": null,
+        "Kabel DisplayPort": null,
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrast - statisch",
+            91
+        ],
+        "Kr\u00fcmmung": null,
+        "Leistungsaufnahme (SDR)": [
+            "Leistungsaufnahme",
+            85
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Leistungsaufnahme",
+            81
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": null,
+        "Panel": [
+            "Panel",
+            100
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit - GtG",
+            81
+        ],
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgung",
+            100
+        ],
+        "Thunderbolt": [
+            "USB-Hub In",
+            92
+        ],
+        "USB-Hub Ausgang": [
+            "USB-Hub Out",
+            80
+        ],
+        "USB-Hub Eing\u00e4nge USB-B": [
+            "USB-Hub In",
+            99
+        ],
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": [
+            "VESA",
+            100
+        ],
+        "Variable Synchronisierung": [
+            "VRR (Variable Refresh Rate)",
+            91
+        ]
+    },
+    "ElectronicShop24": {
+        "Abmessungen": [
+            "Abmessungen",
+            100
+        ],
+        "Anschl\u00fcsse DVI": null,
+        "Anschl\u00fcsse DisplayPort": [
+            "Video-Schnittstellen",
+            87
+        ],
+        "Anschl\u00fcsse HDMI": null,
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Video-Schnittstellen",
+            77
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse VGA": null,
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Bildschirmbeschichtung",
+            88
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Bilddiagonale (Zoll)",
+            100
+        ],
+        "Bilddiagonale (cm)": [
+            "Bilddiagonale (cm)",
+            100
+        ],
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz (Hz)",
+            89
+        ],
+        "Blickwinkel horizontal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "Farbraum",
+            92
+        ],
+        "Farbraum DCI-P3": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": [
+            "Farbraum",
+            78
+        ],
+        "Farbraum REC 709": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR-Format",
+            99
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "Transporttiefe",
+            99
+        ],
+        "Kabel DVI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel DisplayPort": [
+            "Enthaltene Kabel",
+            97
+        ],
+        "Kabel HDMI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel Strom": null,
+        "Kabel VGA": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Schwenkwinkel",
+            74
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Stromverbrauch (typisch)",
+            99
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Stromverbrauch im Standby-Modus",
+            99
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkel",
+            80
+        ],
+        "Panel": [
+            "Bildschirmtyp",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkel",
+            79
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": [
+            "PC-Schnittstellen",
+            80
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "PC-Schnittstellen",
+            85
+        ],
+        "VESA": [
+            "VESA-Halterung",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "Adaptive-Sync Technologie",
+            99
+        ]
+    },
+    "Future-X.at": {
+        "Abmessungen": [
+            "Abmessungen",
+            100
+        ],
+        "Anschl\u00fcsse DVI": [
+            "Mitgelieferte Kabel",
+            79
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Schnittstellen",
+            92
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Mitgelieferte Kabel",
+            93
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Mitgelieferte Kabel",
+            79
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Besonderheiten",
+            88
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Bilddiagonale (Zoll)",
+            100
+        ],
+        "Bilddiagonale (cm)": [
+            "Bilddiagonale (cm)",
+            100
+        ],
+        "Bildwiederholfrequenz": [
+            "Maximale Bildwiederholrate",
+            99
+        ],
+        "Blickwinkel horizontal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "Farbraum",
+            92
+        ],
+        "Farbraum DCI-P3": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": [
+            "Farbintensit\u00e4t",
+            79
+        ],
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR-Format",
+            99
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "H\u00f6heneinstellung",
+            99
+        ],
+        "Kabel DVI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel DisplayPort": [
+            "Enthaltene Kabel",
+            97
+        ],
+        "Kabel HDMI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel Strom": null,
+        "Kabel VGA": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Bewertung der Bildschirmkr\u00fcmmung",
+            99
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Stromverbrauch (typisch)",
+            99
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Stromverbrauch im Standby-Modus",
+            99
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Bildschirmtyp",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgungs-LED",
+            86
+        ],
+        "Thunderbolt": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "PC-Schnittstellen",
+            85
+        ],
+        "VESA": [
+            "VESA-Halterung",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "Adaptive-Sync Technologie",
+            99
+        ]
+    },
+    "HEINZSOFT (AT)": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": null,
+        "Anschl\u00fcsse DisplayPort": [
+            "Physikalische Aufl\u00f6sung",
+            88
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Kabel",
+            82
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Physikalische Aufl\u00f6sung",
+            74
+        ],
+        "Anschl\u00fcsse USB-A": null,
+        "Anschl\u00fcsse USB-C": [
+            "Schnittstellen",
+            76
+        ],
+        "Anschl\u00fcsse VGA": null,
+        "Aufl\u00f6sung": null,
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": null,
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": [
+            "Bilddiagonale",
+            79
+        ],
+        "Bilddiagonale (cm)": [
+            "Bildschirmdiagonale (cm)",
+            86
+        ],
+        "Bildwiederholfrequenz": null,
+        "Blickwinkel horizontal": [
+            "Bildwinkel, horizontal",
+            86
+        ],
+        "Blickwinkel vertikal": [
+            "Bildwinkel, horizontal",
+            85
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse (Regulation (EU) 2017/1369)",
+            99
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": null,
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR10",
+            75
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "H\u00f6henverstellbar",
+            100
+        ],
+        "Kabel DVI": [
+            "Zubeh\u00f6r im Lieferumfang",
+            77
+        ],
+        "Kabel DisplayPort": [
+            "Zubeh\u00f6r im Lieferumfang",
+            87
+        ],
+        "Kabel HDMI": [
+            "Zubeh\u00f6r im Lieferumfang",
+            91
+        ],
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Exklusive SplendidPlus-Technologie von ASUSDer VP247HAE unterst\u00fctzt die SplendidPlus-Video-Intelligence-Technologie. Diese optimiert die Bildqualit\u00e4t und Videowiedergabe, indem die einzelnen Bildpunkte eines Vollbildes analysiert und Parameter wie Helligkeit, Kontrast, Bildsch\u00e4rfe und Farbwiedergabe optimal angepasst werden. SplendidPlus verf\u00fcgt \u00fcber zwei Modi",
+            94
+        ],
+        "Kr\u00fcmmung": null,
+        "Leistungsaufnahme (SDR)": [
+            "Leistungsaufnahme",
+            85
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Leistungsaufnahme",
+            81
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkel",
+            80
+        ],
+        "Panel": [
+            "Paneltechnologie",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgung",
+            100
+        ],
+        "Thunderbolt": null,
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": [
+            "Integrierter USB-Hub",
+            77
+        ],
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": [
+            "VESA-Halterung",
+            99
+        ],
+        "Variable Synchronisierung": null
+    },
+    "HiQ24": {
+        "Abmessungen": [
+            "Abmessungen (Breite x Tiefe x H\u00f6he) - mit Fu\u00df",
+            99
+        ],
+        "Anschl\u00fcsse DVI": [
+            "Eingangsanschl\u00fcsse",
+            79
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Eingangsanschl\u00fcsse",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Eingangsanschl\u00fcsse",
+            91
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Eingangsanschl\u00fcsse",
+            93
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Eingangsanschl\u00fcsse",
+            85
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Eingangsanschl\u00fcsse",
+            79
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Besonderheiten",
+            88
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": [
+            "Transportbreite",
+            99
+        ],
+        "Bildwiederholfrequenz": null,
+        "Blickwinkel horizontal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energie Effizienzklasse",
+            93
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "Farbraum",
+            92
+        ],
+        "Farbraum DCI-P3": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": [
+            "Farbraum",
+            78
+        ],
+        "Farbraum REC 709": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR-Format",
+            99
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "Transporth\u00f6he",
+            99
+        ],
+        "Kabel DVI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel DisplayPort": [
+            "Enthaltene Kabel",
+            97
+        ],
+        "Kabel HDMI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel Strom": null,
+        "Kabel VGA": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Schwenkwinkel",
+            74
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Stromverbrauch (typisch)",
+            99
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Stromverbrauch im Standby-Modus",
+            99
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkel",
+            80
+        ],
+        "Panel": [
+            "Bildschirmtyp",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkel",
+            79
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgung",
+            100
+        ],
+        "Thunderbolt": [
+            "Eingangsanschl\u00fcsse",
+            85
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": [
+            "VESA-Halterung",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "Adaptive-Sync Technologie",
+            99
+        ]
+    },
+    "I-CS": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": null,
+        "Anschl\u00fcsse DisplayPort": null,
+        "Anschl\u00fcsse HDMI": null,
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": null,
+        "Anschl\u00fcsse USB-A": null,
+        "Anschl\u00fcsse USB-C": null,
+        "Anschl\u00fcsse VGA": null,
+        "Aufl\u00f6sung": null,
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": null,
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": null,
+        "Bildwiederholfrequenz": null,
+        "Blickwinkel horizontal": null,
+        "Blickwinkel vertikal": null,
+        "EAN": null,
+        "Energieeffizienzklasse": null,
+        "Farbe": null,
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": null,
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": [
+            "Versandgewicht",
+            92
+        ],
+        "HDR": null,
+        "Helligkeit": null,
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": null,
+        "Kabel DVI": null,
+        "Kabel DisplayPort": null,
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": null,
+        "Kr\u00fcmmung": null,
+        "Leistungsaufnahme (SDR)": null,
+        "Leistungsaufnahme (Sleep)": null,
+        "Marke": null,
+        "Neigungswinkelbereich": null,
+        "Panel": null,
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": null,
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": null,
+        "Stromversorgung": null,
+        "Thunderbolt": null,
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": null,
+        "Variable Synchronisierung": null
+    },
+    "Jacob Elektronik direkt (AT)": {
+        "Abmessungen": [
+            "Abmessungen (Breite x Tiefe x H\u00f6he) - mit Fu\u00df",
+            99
+        ],
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Schnittstellen",
+            92
+        ],
+        "Anschl\u00fcsse Klinke": [
+            "Audio",
+            95
+        ],
+        "Anschl\u00fcsse LAN": [
+            "Weitere Anschl\u00fcsse",
+            99
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Eingangsanschl\u00fcsse",
+            93
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "USB-Hub Out",
+            79
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Eingangsanschl\u00fcsse",
+            85
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Beschichtung",
+            100
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Stromverbrauch (max.)",
+            74
+        ],
+        "Bilddiagonale (cm)": [
+            "Transportbreite",
+            99
+        ],
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz",
+            100
+        ],
+        "Blickwinkel horizontal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "Farbraum",
+            92
+        ],
+        "Farbraum DCI-P3": [
+            "Besonderheiten",
+            74
+        ],
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": [
+            "Farbraum",
+            88
+        ],
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": [
+            "Form",
+            100
+        ],
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR",
+            100
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": [
+            "Gew\u00e4hrleistungsfrist",
+            87
+        ],
+        "H\u00f6henverstellbar": [
+            "H\u00f6heneinstellung",
+            99
+        ],
+        "Kabel DVI": [
+            "Enthaltene Kabel",
+            84
+        ],
+        "Kabel DisplayPort": [
+            "Enthaltene Kabel",
+            97
+        ],
+        "Kabel HDMI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel Strom": null,
+        "Kabel VGA": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Bewertung der Bildschirmkr\u00fcmmung",
+            99
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Leistungsaufnahme im Betrieb",
+            99
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Stromverbrauch im Standby-Modus",
+            99
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Panel",
+            100
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgung",
+            100
+        ],
+        "Thunderbolt": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": [
+            "USB-Hub In",
+            99
+        ],
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "Mitgelieferte Kabel",
+            81
+        ],
+        "VESA": [
+            "Panel-Montage-Schnittstelle",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "Variable Synchronisierung",
+            100
+        ]
+    },
+    "Proshop.at": {
+        "Abmessungen": [
+            "Abmessungen (Breite x Tiefe x H\u00f6he) - mit Fu\u00df",
+            99
+        ],
+        "Anschl\u00fcsse DVI": [
+            "Eingangsanschl\u00fcsse",
+            79
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Eingangsanschl\u00fcsse",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Eingangsanschl\u00fcsse",
+            92
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Eingangsanschl\u00fcsse",
+            93
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Eingangsanschl\u00fcsse",
+            85
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Eingangsanschl\u00fcsse",
+            79
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Beschichtung",
+            100
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Stromverbrauch (Standardbetrieb)",
+            74
+        ],
+        "Bilddiagonale (cm)": [
+            "Transportbreite",
+            99
+        ],
+        "Bildwiederholfrequenz": [
+            "Vertikale Bildwiederholrate",
+            99
+        ],
+        "Blickwinkel horizontal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "EAN": [
+            "EAN",
+            100
+        ],
+        "Energieeffizienzklasse": [
+            "Energie Effizienzklasse",
+            93
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "Farbraum",
+            92
+        ],
+        "Farbraum DCI-P3": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": [
+            "Farbraum",
+            78
+        ],
+        "Farbraum REC 709": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR-Format",
+            99
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "Transporttiefe",
+            99
+        ],
+        "Kabel DVI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel DisplayPort": [
+            "Enthaltene Kabel",
+            97
+        ],
+        "Kabel HDMI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel Strom": null,
+        "Kabel VGA": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Bewertung der Bildschirmkr\u00fcmmung",
+            99
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Stromverbrauch (typisch)",
+            99
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Stromverbrauch im Standby-Modus",
+            99
+        ],
+        "Marke": [
+            "Hersteller",
+            99
+        ],
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Bildschirmtyp",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgungsger\u00e4t",
+            83
+        ],
+        "Thunderbolt": [
+            "Eingangsanschl\u00fcsse",
+            85
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": [
+            "VESA-Halterung",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "Adaptive-Sync Technologie",
+            99
+        ]
+    },
+    "Syswork": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Mitgelieferte Kabel",
+            82
+        ],
+        "Anschl\u00fcsse Klinke": [
+            "Audio",
+            95
+        ],
+        "Anschl\u00fcsse LAN": [
+            "Weitere Anschl\u00fcsse",
+            99
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Mitgelieferte Kabel",
+            93
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "USB-Hub Out",
+            79
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Monitor-Anschl\u00fcsse",
+            85
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": [
+            "Anschl\u00fcsse",
+            99
+        ],
+        "Beschichtung": [
+            "Beschichtung",
+            100
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Stromverbrauch (max.)",
+            74
+        ],
+        "Bilddiagonale (cm)": [
+            "Bildschirmdiagonale (cm)",
+            86
+        ],
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz",
+            100
+        ],
+        "Blickwinkel horizontal": [
+            "Ger\u00e4tetiefe (inkl. Fu\u00df)",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Ger\u00e4tetiefe (inkl. Fu\u00df)",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse SDR",
+            92
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": [
+            "Form",
+            100
+        ],
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR",
+            100
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": [
+            "Herstellergarantie",
+            100
+        ],
+        "H\u00f6henverstellbar": [
+            "H\u00f6heneinstellung",
+            99
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "Mitgelieferte Kabel",
+            74
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Bewertung der Bildschirmkr\u00fcmmung",
+            99
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Leistungsaufnahme",
+            85
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Leistungsaufnahme",
+            81
+        ],
+        "Marke": [
+            "Herstellerlink",
+            99
+        ],
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Panel",
+            100
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgung",
+            100
+        ],
+        "Thunderbolt": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": [
+            "USB-Hub Out",
+            91
+        ],
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "Mitgelieferte Kabel",
+            81
+        ],
+        "VESA": [
+            "VESA",
+            100
+        ],
+        "Variable Synchronisierung": [
+            "Variable Synchronisierung",
+            100
+        ]
+    },
+    "TaufNaus": {
+        "Abmessungen": [
+            "Abmessungen (Breite x Tiefe x H\u00f6he)",
+            87
+        ],
+        "Anschl\u00fcsse DVI": null,
+        "Anschl\u00fcsse DisplayPort": [
+            "Kennzeichnung",
+            79
+        ],
+        "Anschl\u00fcsse HDMI": null,
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": null,
+        "Anschl\u00fcsse USB-A": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Schnittstellen",
+            81
+        ],
+        "Anschl\u00fcsse VGA": null,
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Besonderheiten",
+            88
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Bilddiagonale (Zoll)",
+            100
+        ],
+        "Bilddiagonale (cm)": [
+            "Bilddiagonale (cm)",
+            100
+        ],
+        "Bildwiederholfrequenz": [
+            "Vertikale Bildwiederholrate",
+            99
+        ],
+        "Blickwinkel horizontal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "Farbraum",
+            92
+        ],
+        "Farbraum DCI-P3": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": [
+            "Farbraum",
+            78
+        ],
+        "Farbraum REC 709": [
+            "Farbraum",
+            91
+        ],
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR-Format",
+            99
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "Transporttiefe",
+            99
+        ],
+        "Kabel DVI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel DisplayPort": [
+            "Enthaltene Kabel",
+            97
+        ],
+        "Kabel HDMI": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kabel Strom": [
+            "Enthaltene Kabel",
+            85
+        ],
+        "Kabel VGA": [
+            "Enthaltene Kabel",
+            95
+        ],
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Schwenkwinkel",
+            74
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Stromverbrauch (typisch)",
+            99
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Energierverbrauch Sleep",
+            99
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkel",
+            80
+        ],
+        "Panel": [
+            "Bildschirmtyp",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkel",
+            79
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": [
+            "Enthaltene Kabel",
+            75
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "PC-Schnittstellen",
+            85
+        ],
+        "VESA": [
+            "VESA-Halterung",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "Adaptive-Sync Technologie",
+            99
+        ]
+    },
+    "TechnikLaden": {
+        "Abmessungen": [
+            "Abmessungen",
+            100
+        ],
+        "Anschl\u00fcsse DVI": [
+            "Mitgelieferte Kabel",
+            79
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Mitgelieferte Kabel",
+            82
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Mitgelieferte Kabel",
+            93
+        ],
+        "Anschl\u00fcsse USB-A": null,
+        "Anschl\u00fcsse USB-C": null,
+        "Anschl\u00fcsse VGA": [
+            "Mitgelieferte Kabel",
+            79
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Display-Oberfl\u00e4che",
+            74
+        ],
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": [
+            "Bilddiagonale (Zoll)",
+            100
+        ],
+        "Bilddiagonale (cm)": [
+            "Bilddiagonale (cm)",
+            100
+        ],
+        "Bildwiederholfrequenz": [
+            "Maximale Bildwiederholrate",
+            99
+        ],
+        "Blickwinkel horizontal": [
+            "Ger\u00e4teh\u00f6he (inkl. Fu\u00df)",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Ger\u00e4teh\u00f6he (inkl. Fu\u00df)",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "Zertifizierung",
+            99
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "H\u00f6heneinstellung",
+            99
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "Mitgelieferte Kabel",
+            74
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrastverh\u00e4ltnis",
+            99
+        ],
+        "Kr\u00fcmmung": [
+            "Bewertung der Bildschirmkr\u00fcmmung",
+            99
+        ],
+        "Leistungsaufnahme (SDR)": null,
+        "Leistungsaufnahme (Sleep)": null,
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Panel-Typ",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "PC-Schnittstellen",
+            85
+        ],
+        "VESA": [
+            "Panel-Montage-Schnittstelle",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "AMD FreeSync-Typ",
+            79
+        ]
+    },
+    "bauguru": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Kabel eingeschlossen",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Anschl\u00fcsse",
+            80
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Kabel eingeschlossen",
+            76
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Display-Oberfl\u00e4che",
+            74
+        ],
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": [
+            "Bildschirm",
+            85
+        ],
+        "Bilddiagonale (cm)": [
+            "Diagonale des Bildschirms (cm)",
+            85
+        ],
+        "Bildwiederholfrequenz": [
+            "Geschwindigkeit",
+            99
+        ],
+        "Blickwinkel horizontal": [
+            "Blickwinkel, horizontal",
+            98
+        ],
+        "Blickwinkel vertikal": [
+            "Blickwinkel, vertikal",
+            98
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieklassifizierung",
+            99
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": [
+            "Reichweite",
+            89
+        ],
+        "Farbtiefe": null,
+        "Form": [
+            "Form",
+            100
+        ],
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "Merkmale",
+            74
+        ],
+        "Helligkeit": [
+            "Helligkeit (typisch)",
+            99
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "Ma\u00dfe ca.",
+            99
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "Kabel eingeschlossen",
+            74
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": [
+            "Enthalten",
+            74
+        ],
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrastverh\u00e4ltnis",
+            99
+        ],
+        "Kr\u00fcmmung": [
+            "Diagonale des Bildschirms (cm)",
+            74
+        ],
+        "Leistungsaufnahme (SDR)": null,
+        "Leistungsaufnahme (Sleep)": null,
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkel",
+            80
+        ],
+        "Panel": [
+            "Technologie",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Neigungswinkel",
+            77
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": null,
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": [
+            "VESA",
+            100
+        ],
+        "Variable Synchronisierung": [
+            "Nicht erhalten",
+            99
+        ]
+    },
+    "computeruniverse.at": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "DVI Eingang",
+            99
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "DisplayPort Eingang",
+            99
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "HDMI Eingang",
+            99
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "DisplayPort Eingang",
+            84
+        ],
+        "Anschl\u00fcsse USB-A": null,
+        "Anschl\u00fcsse USB-C": null,
+        "Anschl\u00fcsse VGA": [
+            "VGA Eingang",
+            99
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Displayoberfl\u00e4che",
+            99
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Bilddiagonale",
+            79
+        ],
+        "Bilddiagonale (cm)": [
+            "Bilddiagonale",
+            84
+        ],
+        "Bildwiederholfrequenz": null,
+        "Blickwinkel horizontal": null,
+        "Blickwinkel vertikal": null,
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": null,
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": null,
+        "HDR": [
+            "HDR",
+            100
+        ],
+        "Helligkeit": [
+            "Helligkeit (cd/m\u00b2)",
+            99
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "h\u00f6henverstellbar",
+            94
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "DisplayPort Eingang",
+            81
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrastverh\u00e4ltnis",
+            99
+        ],
+        "Kr\u00fcmmung": null,
+        "Leistungsaufnahme (SDR)": null,
+        "Leistungsaufnahme (Sleep)": null,
+        "Marke": null,
+        "Neigungswinkelbereich": null,
+        "Panel": [
+            "Paneltyp",
+            77
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": null,
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "USB Typ C Eingang",
+            99
+        ],
+        "VESA": [
+            "Wandmontage m\u00f6glich",
+            78
+        ],
+        "Variable Synchronisierung": null
+    },
+    "cw-mobile.de": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Konnektivit\u00e4tSchnittstellen ",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Konnektivit\u00e4tSchnittstellen ",
+            92
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Konnektivit\u00e4tSchnittstellen ",
+            76
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Anschl\u00fcsse:Anzahl HDMI Eing\u00e4nge",
+            85
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Aufl\u00f6sung": [
+            "<p>PC Aufl\u00f6sung (max)",
+            81
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "AllgemeinDisplay-Typ",
+            88
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "BildBildschirmdiagonale (cm/Zoll)",
+            75
+        ],
+        "Bilddiagonale (cm)": [
+            "AnzeigeBilddiagonale (cm)",
+            84
+        ],
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz",
+            100
+        ],
+        "Blickwinkel horizontal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Horizontaler Betrachtungswinkel",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "AllgemeinDisplay-Typ",
+            79
+        ],
+        "Farbraum DCI-P3": [
+            "AllgemeinDisplay-Typ ",
+            74
+        ],
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": [
+            "AllgemeinDisplay-Typ",
+            85
+        ],
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR Format",
+            99
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": [
+            "Herstellerfarbe",
+            79
+        ],
+        "H\u00f6henverstellbar": [
+            "Abmessungen/Allgemeine Daten:Hersteller-Nr.:\u00a0 GW2475HMarke",
+            88
+        ],
+        "Kabel DVI": [
+            "VerschiedenesEnthaltene Kabel",
+            84
+        ],
+        "Kabel DisplayPort": [
+            "VerschiedenesEnthaltene Kabel",
+            97
+        ],
+        "Kabel HDMI": [
+            "VerschiedenesEnthaltene Kabel",
+            95
+        ],
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "<p>Kr\u00fcmmung",
+            84
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Stromversorgung Eingangsspannung",
+            91
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Stromverbrauch im Standby-Modus",
+            99
+        ],
+        "Marke": [
+            "Marke",
+            100
+        ],
+        "Neigungswinkelbereich": [
+            "Neigungswinkel",
+            80
+        ],
+        "Panel": [
+            "Bildschirmtyp",
+            99
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkel",
+            79
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgung",
+            100
+        ],
+        "Thunderbolt": null,
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": [
+            "MechanischVESA-Halterung ",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "Adaptive-Sync Technologie",
+            74
+        ]
+    },
+    "e-tec.at": {
+        "Abmessungen": [
+            "Abmessungen - H\u00f6he",
+            76
+        ],
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse - DVI",
+            93
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Anschl\u00fcsse - DisplayPort",
+            96
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Anschl\u00fcsse - HDMI",
+            94
+        ],
+        "Anschl\u00fcsse Klinke": [
+            "Audio",
+            99
+        ],
+        "Anschl\u00fcsse LAN": [
+            "Weitere Anschl\u00fcsse",
+            99
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Anschl\u00fcsse - Mini DisplayPort",
+            96
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Anschl\u00fcsse - VGA",
+            81
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "USB-Hub In",
+            99
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse - VGA",
+            93
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Beschichtung",
+            100
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": null,
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz",
+            100
+        ],
+        "Blickwinkel horizontal": null,
+        "Blickwinkel vertikal": null,
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse HDR (A bis G)",
+            76
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": [
+            "Farbraum - Adobe RGB",
+            95
+        ],
+        "Farbraum DCI-P3": [
+            "Farbraum - DCI-P3",
+            94
+        ],
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": [
+            "Farbraum - REC 709",
+            80
+        ],
+        "Farbraum REC 709": [
+            "Farbraum - REC 709",
+            94
+        ],
+        "Farbraum sRGB": [
+            "Farbraum - sRGB",
+            93
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": [
+            "Form",
+            100
+        ],
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR",
+            100
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": [
+            "Herstellergarantie",
+            100
+        ],
+        "H\u00f6henverstellbar": null,
+        "Kabel DVI": null,
+        "Kabel DisplayPort": null,
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrast - statisch",
+            91
+        ],
+        "Kr\u00fcmmung": null,
+        "Leistungsaufnahme (SDR)": [
+            "Leistungsaufnahme",
+            85
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Leistungsaufnahme",
+            81
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": null,
+        "Panel": [
+            "Panel",
+            100
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit - GtG",
+            81
+        ],
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgung",
+            100
+        ],
+        "Thunderbolt": [
+            "USB-Hub In",
+            92
+        ],
+        "USB-Hub Ausgang": [
+            "USB-Hub Out",
+            80
+        ],
+        "USB-Hub Eing\u00e4nge USB-B": [
+            "USB-Hub In",
+            99
+        ],
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": [
+            "VESA",
+            100
+        ],
+        "Variable Synchronisierung": [
+            "VRR (Variable Refresh Rate)",
+            91
+        ]
+    },
+    "galaxus.at": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": null,
+        "Anschl\u00fcsse DisplayPort": [
+            "Video-Anschl\u00fcsse",
+            76
+        ],
+        "Anschl\u00fcsse HDMI": null,
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Video-Anschl\u00fcsse",
+            82
+        ],
+        "Anschl\u00fcsse USB-A": null,
+        "Anschl\u00fcsse USB-C": null,
+        "Anschl\u00fcsse VGA": null,
+        "Aufl\u00f6sung": null,
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": null,
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": null,
+        "Bildwiederholfrequenz": [
+            "Bildwiederholfrequenz",
+            100
+        ],
+        "Blickwinkel horizontal": null,
+        "Blickwinkel vertikal": null,
+        "EAN": null,
+        "Energieeffizienzklasse": null,
+        "Farbe": null,
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": null,
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": null,
+        "HDR": null,
+        "Helligkeit": null,
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": null,
+        "Kabel DVI": null,
+        "Kabel DisplayPort": null,
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": null,
+        "Kr\u00fcmmung": null,
+        "Leistungsaufnahme (SDR)": null,
+        "Leistungsaufnahme (Sleep)": null,
+        "Marke": null,
+        "Neigungswinkelbereich": null,
+        "Panel": null,
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": null,
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": null,
+        "Stromversorgung": null,
+        "Thunderbolt": [
+            "Video-Anschl\u00fcsse",
+            76
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "Daten-Anschl\u00fcsse",
+            81
+        ],
+        "VESA": null,
+        "Variable Synchronisierung": null
+    },
+    "haym.infotec": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": null,
+        "Anschl\u00fcsse DisplayPort": null,
+        "Anschl\u00fcsse HDMI": null,
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": null,
+        "Anschl\u00fcsse Mini DisplayPort": null,
+        "Anschl\u00fcsse USB-A": null,
+        "Anschl\u00fcsse USB-C": null,
+        "Anschl\u00fcsse VGA": null,
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": null,
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": [
+            "Bildschirmdiagonale/Zoll",
+            77
+        ],
+        "Bilddiagonale (cm)": [
+            "Bildschirmdiagonale/cm",
+            75
+        ],
+        "Bildwiederholfrequenz": null,
+        "Blickwinkel horizontal": null,
+        "Blickwinkel vertikal": null,
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": null,
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": null,
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": null,
+        "HDR": null,
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": [
+            "Herstellergarantie",
+            100
+        ],
+        "H\u00f6henverstellbar": [
+            "H\u00f6henverstellbarkeit",
+            89
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "DisplayPort",
+            79
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Artikelnummer",
+            76
+        ],
+        "Kr\u00fcmmung": null,
+        "Leistungsaufnahme (SDR)": null,
+        "Leistungsaufnahme (Sleep)": null,
+        "Marke": null,
+        "Neigungswinkelbereich": null,
+        "Panel": [
+            "Paneltyp",
+            77
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": null,
+        "Stromversorgung": null,
+        "Thunderbolt": null,
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": null,
+        "Variable Synchronisierung": null
+    },
+    "ms-it-beratung": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Mitgelieferte Kabel",
+            82
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Mitgelieferte Kabel",
+            93
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Display-Oberfl\u00e4che",
+            74
+        ],
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": [
+            "Bilddiagonale",
+            79
+        ],
+        "Bilddiagonale (cm)": [
+            "Bildschirmdiagonale (cm)",
+            86
+        ],
+        "Bildwiederholfrequenz": [
+            "Maximale Bildwiederholrate",
+            99
+        ],
+        "Blickwinkel horizontal": [
+            "Ger\u00e4tetiefe (inkl. Fu\u00df)",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Ger\u00e4tetiefe (inkl. Fu\u00df)",
+            99
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "HDR",
+            100
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": [
+            "Herstellergarantie",
+            100
+        ],
+        "H\u00f6henverstellbar": [
+            "H\u00f6heneinstellung",
+            99
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "DisplayPort",
+            79
+        ],
+        "Kabel HDMI": [
+            "Enthalten",
+            82
+        ],
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Kr\u00fcmmung",
+            100
+        ],
+        "Leistungsaufnahme (SDR)": [
+            "Leistungsaufnahme (max)",
+            87
+        ],
+        "Leistungsaufnahme (Sleep)": [
+            "Leistungsaufnahme (max)",
+            83
+        ],
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Panel",
+            100
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": [
+            "Stromversorgung",
+            100
+        ],
+        "Thunderbolt": [
+            "Mitgelieferte Kabel",
+            91
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "Mitgelieferte Kabel",
+            81
+        ],
+        "VESA": [
+            "VESA",
+            100
+        ],
+        "Variable Synchronisierung": [
+            "AMD FreeSync-Typ",
+            79
+        ]
+    },
+    "mylemon.at": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "Video Anschl\u00fcsse",
+            99
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Video Anschl\u00fcsse",
+            99
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Video Anschl\u00fcsse",
+            99
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Video Anschl\u00fcsse",
+            94
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Video Anschl\u00fcsse",
+            85
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Video Anschl\u00fcsse",
+            85
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Video Anschl\u00fcsse",
+            99
+        ],
+        "Aufl\u00f6sung": [
+            "Aufl\u00f6sung",
+            100
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Name der Farbe",
+            99
+        ],
+        "Besonderheiten": [
+            "Besonderheiten",
+            100
+        ],
+        "Bilddiagonale (Zoll)": [
+            "Stromverbrauch (max.)",
+            74
+        ],
+        "Bilddiagonale (cm)": [
+            "Bildschirmdiagonale (cm)",
+            86
+        ],
+        "Bildwiederholfrequenz": [
+            "Besonderheiten",
+            99
+        ],
+        "Blickwinkel horizontal": [
+            "Ger\u00e4tetiefe (inkl. Fu\u00df)",
+            99
+        ],
+        "Blickwinkel vertikal": [
+            "Ger\u00e4tetiefe (inkl. Fu\u00df)",
+            99
+        ],
+        "EAN": [
+            "EAN",
+            100
+        ],
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse (SDR)",
+            88
+        ],
+        "Farbe": [
+            "Farbe",
+            100
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": [
+            "Farbraum",
+            76
+        ],
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": [
+            "Farbraum",
+            76
+        ],
+        "Farbtiefe": [
+            "Farbtiefe",
+            100
+        ],
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": [
+            "Zertifizierung",
+            99
+        ],
+        "Helligkeit": [
+            "Helligkeit",
+            100
+        ],
+        "Herstellergarantie": [
+            "Gew\u00e4hrleistungsfrist",
+            87
+        ],
+        "H\u00f6henverstellbar": [
+            "H\u00f6heneinstellung",
+            99
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "Video Anschl\u00fcsse",
+            81
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Kontrast",
+            100
+        ],
+        "Kr\u00fcmmung": [
+            "Bewertung der Bildschirmkr\u00fcmmung",
+            99
+        ],
+        "Leistungsaufnahme (SDR)": null,
+        "Leistungsaufnahme (Sleep)": null,
+        "Marke": null,
+        "Neigungswinkelbereich": [
+            "Neigungswinkelbereich",
+            100
+        ],
+        "Panel": [
+            "Panel",
+            100
+        ],
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": [
+            "Schwenkwinkelbereich",
+            100
+        ],
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": [
+            "Video Anschl\u00fcsse",
+            99
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": [
+            "Mitgelieferte Kabel",
+            81
+        ],
+        "VESA": [
+            "Panel-Montage-Schnittstelle",
+            99
+        ],
+        "Variable Synchronisierung": [
+            "Besonderheiten",
+            99
+        ]
+    },
+    "office-partner (AT)": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Anschl\u00fcsse",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Anschl\u00fcsse",
+            80
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Anschl\u00fcsse",
+            93
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Aufl\u00f6sung": [
+            "max. Aufl\u00f6sung",
+            78
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Displayoberfl\u00e4che",
+            99
+        ],
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": [
+            "Verpackung - Breite in cm",
+            79
+        ],
+        "Bildwiederholfrequenz": [
+            "Bildwiederholungsrate",
+            99
+        ],
+        "Blickwinkel horizontal": [
+            "L\u00e4nge",
+            85
+        ],
+        "Blickwinkel vertikal": [
+            "L\u00e4nge",
+            85
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Geh\u00e4usefarbe des Ger\u00e4tes",
+            85
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": null,
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": null,
+        "Helligkeit": [
+            "Helligkeit Bereich",
+            75
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "Verpackung - L\u00e4nge in cm",
+            79
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "Anschl\u00fcsse",
+            74
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Reaktionszeit",
+            79
+        ],
+        "Kr\u00fcmmung": [
+            "Verpackung - L\u00e4nge in cm",
+            79
+        ],
+        "Leistungsaufnahme (SDR)": null,
+        "Leistungsaufnahme (Sleep)": null,
+        "Marke": [
+            "Hersteller",
+            99
+        ],
+        "Neigungswinkelbereich": null,
+        "Panel": null,
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": [
+            "Anschl\u00fcsse",
+            91
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": null,
+        "Variable Synchronisierung": [
+            "Display Sync",
+            99
+        ]
+    },
+    "playox (AT)": {
+        "Abmessungen": null,
+        "Anschl\u00fcsse DVI": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse DisplayPort": [
+            "Anschl\u00fcsse",
+            91
+        ],
+        "Anschl\u00fcsse HDMI": [
+            "Anschl\u00fcsse",
+            80
+        ],
+        "Anschl\u00fcsse Klinke": null,
+        "Anschl\u00fcsse LAN": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Anschl\u00fcsse Mini DisplayPort": [
+            "Anschl\u00fcsse",
+            93
+        ],
+        "Anschl\u00fcsse USB-A": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse USB-C": [
+            "Anschl\u00fcsse",
+            77
+        ],
+        "Anschl\u00fcsse VGA": [
+            "Anschl\u00fcsse",
+            83
+        ],
+        "Aufl\u00f6sung": [
+            "max. Aufl\u00f6sung",
+            78
+        ],
+        "Ausg\u00e4nge Display": null,
+        "Beschichtung": [
+            "Displayoberfl\u00e4che",
+            99
+        ],
+        "Besonderheiten": null,
+        "Bilddiagonale (Zoll)": null,
+        "Bilddiagonale (cm)": [
+            "Verpackung - Breite in cm",
+            79
+        ],
+        "Bildwiederholfrequenz": [
+            "Bildwiederholungsrate",
+            99
+        ],
+        "Blickwinkel horizontal": [
+            "L\u00e4nge",
+            85
+        ],
+        "Blickwinkel vertikal": [
+            "L\u00e4nge",
+            85
+        ],
+        "EAN": null,
+        "Energieeffizienzklasse": [
+            "Energieeffizienzklasse",
+            100
+        ],
+        "Farbe": [
+            "Geh\u00e4usefarbe des Ger\u00e4tes",
+            85
+        ],
+        "Farbraum Adobe RGB": null,
+        "Farbraum DCI-P3": null,
+        "Farbraum NTSC": null,
+        "Farbraum REC 2020": null,
+        "Farbraum REC 709": null,
+        "Farbraum sRGB": null,
+        "Farbtiefe": null,
+        "Form": null,
+        "Gewicht": [
+            "Gewicht",
+            100
+        ],
+        "HDR": null,
+        "Helligkeit": [
+            "Helligkeit Bereich",
+            75
+        ],
+        "Herstellergarantie": null,
+        "H\u00f6henverstellbar": [
+            "Verpackung - Breite in cm",
+            79
+        ],
+        "Kabel DVI": null,
+        "Kabel DisplayPort": [
+            "Anschl\u00fcsse",
+            74
+        ],
+        "Kabel HDMI": null,
+        "Kabel Strom": null,
+        "Kabel VGA": null,
+        "Kontrast": [
+            "Reaktionszeit",
+            79
+        ],
+        "Kr\u00fcmmung": [
+            "Verpackung - L\u00e4nge in cm",
+            79
+        ],
+        "Leistungsaufnahme (SDR)": null,
+        "Leistungsaufnahme (Sleep)": null,
+        "Marke": [
+            "Hersteller",
+            99
+        ],
+        "Neigungswinkelbereich": null,
+        "Panel": null,
+        "Rahmenst\u00e4rke oben": null,
+        "Rahmenst\u00e4rke seitlich": null,
+        "Rahmenst\u00e4rke unten": null,
+        "Reaktionszeit": [
+            "Reaktionszeit",
+            100
+        ],
+        "Schwenkwinkelbereich": null,
+        "Seitenverh\u00e4ltnis": [
+            "Seitenverh\u00e4ltnis",
+            100
+        ],
+        "Stromversorgung": null,
+        "Thunderbolt": [
+            "Anschl\u00fcsse",
+            91
+        ],
+        "USB-Hub Ausgang": null,
+        "USB-Hub Eing\u00e4nge USB-B": null,
+        "USB-Hub Eing\u00e4nge USB-C": null,
+        "VESA": null,
+        "Variable Synchronisierung": [
+            "Display Sync",
+            99
+        ]
+    }
+}
