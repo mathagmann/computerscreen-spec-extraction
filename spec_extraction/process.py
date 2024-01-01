@@ -16,6 +16,7 @@ from data_generation.model import ExtendedOffer
 from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
 from spec_extraction import exceptions
+from spec_extraction.catalog_model import ActivatedProperties
 from spec_extraction.catalog_model import MonitorSpecifications
 from spec_extraction.field_mappings import MIN_FIELD_MAPPING_SCORE
 from spec_extraction.field_mappings import rate_mapping
@@ -192,7 +193,7 @@ class Processing:
             Returns structured specifications solely using keys from predefined catalog format.
         """
         monitor_specs = {}
-        for catalog_key in MonitorSpecifications:
+        for catalog_key in ActivatedProperties:
             catalog_key = catalog_key.value
             mapping_per_shop = self.field_mappings.get_mappings_per_shop(shop_name)
             if catalog_key not in mapping_per_shop:
