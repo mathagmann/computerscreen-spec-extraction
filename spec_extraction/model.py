@@ -1,6 +1,7 @@
 import json
 import re
 from pathlib import Path
+from typing import Any
 
 from marshmallow_dataclass import dataclass
 
@@ -43,8 +44,19 @@ class RawProduct:
 
 @dataclass
 class CatalogProduct:
+    """
+    Parameters
+    ----------
+    name
+        Human-friendly name of the product.
+    specifications:
+        Where the allowed key are one of the property names from MonitorSpecifications enum.
+    id
+        The ID of the product.
+    """
+
     name: str
-    specifications: dict
+    specifications: dict[str, Any]
     id: str
 
     def save_to_json(self, file: Path):

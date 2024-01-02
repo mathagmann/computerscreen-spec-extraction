@@ -68,6 +68,32 @@ class MonitorSpecifications(Enum):
         return list(map(lambda c: c.value, cls))
 
 
+def create_enabled_enum(base_enum, disabled_members):
+    enabled_members = [member for member in base_enum if member.name not in disabled_members]
+    return Enum(base_enum.__name__, {member.name: member.value for member in enabled_members})
+
+
+# Specify disabled members
+disabled_members = [
+    "EAN",
+    "COLOR",
+    "FEATURES",
+    "VARIABLE_SYNC",
+    "BEZEL_TOP",
+    "BEZEL_SIDE",
+    "BEZEL_BOTTOM",
+    "CABLES_HDMI",
+    "CABLES_DP",
+    "CABLES_DVI",
+    "CABLES_VGA",
+    "CABLES_AC_POWER",
+]
+
+
+# Create a new enum for enabled properties
+ActivatedProperties = create_enabled_enum(MonitorSpecifications, disabled_members)
+
+
 CATALOG_EXAMPLE = {
     MonitorSpecifications.EAN.value: "4710886422812",
     MonitorSpecifications.DIAGONAL_INCH.value: '27 "',
@@ -129,16 +155,3 @@ CATALOG_EXAMPLE = {
     MonitorSpecifications.CABLES_AC_POWER.value: "1x Strom-Kabel",
     MonitorSpecifications.WARRANTY.value: "2 Jahre",
 }
-
-
-def create_enabled_enum(base_enum, disabled_members):
-    enabled_members = [member for member in base_enum if member.name not in disabled_members]
-    return Enum(base_enum.__name__, {member.name: member.value for member in enabled_members})
-
-
-# Specify disabled members
-disabled_members = ["COLOR", "FEATURES", "VARIABLE_SYNC"]
-
-
-# Create a new enum with only enabled members
-ActivatedProperties = create_enabled_enum(MonitorSpecifications, disabled_members)
