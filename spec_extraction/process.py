@@ -53,13 +53,19 @@ def extract_raw_specifications(data_dir: Path):
     logger.info("--- Extracting raw specifications... ---")
 
     os.makedirs(config.RAW_SPECIFICATIONS_DIR, exist_ok=True)
+    unparsed_shop = False
+    offers = 0
     for idx, monitor_extended_offer in enumerate(get_products_from_path(data_dir)):
         logger.debug(f"Extracting {idx} {monitor_extended_offer.html_file}")
+        offers += 1
         try:
             raw_monitor = html_json_to_raw_product(monitor_extended_offer, data_dir)
         except exceptions.ShopParserNotImplementedError:
+            unparsed_shop = True
             continue
         raw_monitor.save_to_json(config.RAW_SPECIFICATIONS_DIR / raw_monitor.filename)
+    if not unparsed_shop:
+        logger.info(f"All {offers} offers for {monitor_extended_offer.reference_file} parsed successfully.")
     logger.info("--- Extracting raw specifications done ---")
 
 
