@@ -335,7 +335,9 @@ def value_fusion(specs_per_shop: dict[str, dict]) -> dict:
 
         # update by majority vote value
         if combined_specs[key] != most_common_value:
-            logger.debug(f"Majority vote for {key}: {most_common_value} replaces {combined_specs[key]}")
+            if isinstance(most_common_value, dict) and not len(combined_specs[key]) <= len(most_common_value):
+                continue
+            logger.debug(f"Majority vote for {key}: '{most_common_value}' replaces '{combined_specs[key]}'")
             combined_specs[key] = most_common_value
 
     return combined_specs
