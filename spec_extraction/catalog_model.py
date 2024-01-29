@@ -68,25 +68,23 @@ class MonitorSpecifications(Enum):
         return list(map(lambda c: c.value, cls))
 
 
-def create_enabled_enum(base_enum, disabled_members):
-    enabled_members = [member for member in base_enum if member.name not in disabled_members]
+def create_enabled_enum(base_enum: MonitorSpecifications, disabled_members: list):
+    enabled_members = [member for member in base_enum if member not in disabled_members]
     return Enum(base_enum.__name__, {member.name: member.value for member in enabled_members})
 
 
-# Specify disabled members
+# Disable missing fields in reference data (Geizhals) for evaluation of pipeline
 disabled_members = [
-    "EAN",
-    "COLOR",
-    "FEATURES",
-    "VARIABLE_SYNC",
-    "BEZEL_TOP",
-    "BEZEL_SIDE",
-    "BEZEL_BOTTOM",
-    "CABLES_HDMI",
-    "CABLES_DP",
-    "CABLES_DVI",
-    "CABLES_VGA",
-    "CABLES_AC_POWER",
+    MonitorSpecifications.BRAND,
+    MonitorSpecifications.EAN,
+    MonitorSpecifications.BEZEL_TOP,
+    MonitorSpecifications.BEZEL_SIDE,
+    MonitorSpecifications.BEZEL_BOTTOM,
+    MonitorSpecifications.CABLES_HDMI,
+    MonitorSpecifications.CABLES_DP,
+    MonitorSpecifications.CABLES_DVI,
+    MonitorSpecifications.CABLES_VGA,
+    MonitorSpecifications.CABLES_AC_POWER,
 ]
 
 
