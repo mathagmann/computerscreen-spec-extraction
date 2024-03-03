@@ -203,14 +203,26 @@ def evaluate_product(proc, idx, product, normalization=True) -> ConfusionMatrix:
 
     logger.debug(f"Processing product {idx:05d}: {reference_data.product_name}")
 
+    catalog_filename = CatalogProduct.filename_from_id(product.product_id)
+    catalog_data = CatalogProduct.load_from_json(PRODUCT_CATALOG_DIR / catalog_filename)
+    cat_specs = catalog_data.specifications
+
+    # extract Geizhals data
     reference_as_dict = {}
     for detail in reference_data.product_details:
         reference_as_dict[detail.name] = detail.value
     ref_specs = proc.extract_with_regex(reference_as_dict, "geizhals")
 
-    catalog_filename = CatalogProduct.filename_from_id(product.product_id)
-    catalog_data = CatalogProduct.load_from_json(PRODUCT_CATALOG_DIR / catalog_filename)
-    cat_specs = catalog_data.specifications
+    os.makedirs(REFERENCE_DIR, exist_ok=True)
+    try:
+        # export structured reference data
+        ref_export_file = f"ref_specs_{product.product_id}_catalog.json"
+        CatalogProduct(name=catalog_data.name, specifications=ref_specs, id=catalog_data.id).save_to_json(
+            REFERENCE_DIR / ref_export_file
+        )
+        logger.debug(f"Reference data saved to {ref_export_file}")
+    except Exception as e:
+        logger.error(f"Could not save reference data: {e}")
 
     if normalization:
         ref_specs = normalize_product_specifications(ref_specs)
