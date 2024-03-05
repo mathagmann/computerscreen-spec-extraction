@@ -23,6 +23,9 @@ def bootstrap(
     parser = Parser(specifications=specification_parser)
     field_mappings = FieldMappings(field_mappings)
     field_mappings.load_from_disk()
+
+    assert field_mappings.mappings, "Field mappings are empty"
+
     return Processing(
         parser=parser,
         machine_learning=machine_learning_model,
