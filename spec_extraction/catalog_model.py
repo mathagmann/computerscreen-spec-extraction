@@ -1,4 +1,7 @@
+import logging
 from enum import Enum
+
+logger = logging.getLogger(__name__)
 
 
 class MonitorSpecifications(Enum):
@@ -91,6 +94,7 @@ disabled_members = [
 # Create a new enum for enabled properties
 ActivatedProperties = create_enabled_enum(MonitorSpecifications, disabled_members)
 
+logger.info(f"Activated properties: {list(ActivatedProperties)}")
 
 CATALOG_EXAMPLE = {
     MonitorSpecifications.EAN.value: "4710886422812",
