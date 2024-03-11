@@ -1,4 +1,5 @@
 import difflib
+import os
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -7,6 +8,7 @@ from loguru import logger
 
 from config import DATA_DIR
 from config import PRODUCT_CATALOG_DIR
+from config import REFERENCE_DIR
 from config import ROOT_DIR
 from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
@@ -208,21 +210,29 @@ def evaluate_product(proc, idx, product, normalization=True) -> ConfusionMatrix:
     cat_specs = catalog_data.specifications
 
     # extract Geizhals data
-    reference_as_dict = {}
-    for detail in reference_data.product_details:
-        reference_as_dict[detail.name] = detail.value
-    ref_specs = proc.extract_with_regex(reference_as_dict, "geizhals")
+    ref_export_file = f"ref_specs_{product.product_id}_catalog.json"
+    try:
+        ref_product = CatalogProduct.load_from_json(REFERENCE_DIR / ref_export_file)
+        ref_specs = ref_product.specifications
+    except FileNotFoundError:
+        ref_specs = None
 
     os.makedirs(REFERENCE_DIR, exist_ok=True)
-    try:
-        # export structured reference data
-        ref_export_file = f"ref_specs_{product.product_id}_catalog.json"
-        CatalogProduct(name=catalog_data.name, specifications=ref_specs, id=catalog_data.id).save_to_json(
-            REFERENCE_DIR / ref_export_file
-        )
-        logger.debug(f"Reference data saved to {ref_export_file}")
-    except Exception as e:
-        logger.error(f"Could not save reference data: {e}")
+    if ref_specs is None:
+        reference_as_dict = {}
+        for detail in reference_data.product_details:
+            reference_as_dict[detail.name] = detail.value
+        ref_specs = proc.extract_properties(reference_as_dict, "geizhals")
+
+        try:
+            # export structured reference data
+            ref_export_file = f"ref_specs_{product.product_id}_catalog.json"
+            CatalogProduct(name=catalog_data.name, specifications=ref_specs, id=catalog_data.id).save_to_json(
+                REFERENCE_DIR / ref_export_file
+            )
+            logger.debug(f"Reference data saved to {ref_export_file}")
+        except Exception as e:
+            logger.error(f"Could not save reference data: {e}")
 
     if normalization:
         ref_specs = normalize_product_specifications(ref_specs)
