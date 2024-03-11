@@ -1,5 +1,6 @@
 import difflib
 import os
+import shutil
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -108,9 +109,9 @@ def evaluate_pipeline(mappings: Path | None = None) -> tuple[ConfusionMatrix, fl
     total_products = products_perfect_precision + products_false_positives
     product_precision = products_perfect_precision / total_products if total_products > 0 else 0.0
 
-    print(f"Attribute confusion matrix: {confusion_matrix}")
-    print(f"Attribute evaluation scores: {confusion_matrix.eval_score}")
-    print(f"Product precision: {product_precision * 100:.2f}%")
+    logger.info(f"Attribute confusion matrix: {confusion_matrix}")
+    logger.info(f"Attribute evaluation scores: {confusion_matrix.eval_score}")
+    logger.info(f"Product precision: {product_precision * 100:.2f}%")
 
     return confusion_matrix, product_precision
 
@@ -124,8 +125,8 @@ def evaluate_field_mappings() -> tuple[EvaluationScores, EvaluationScores]:
         A tuple containing the evaluation scores for the auto mapping and the manual mapping.
 
     """
-    auto = ROOT_DIR / "spec_extraction" / "preparation" / "auto_field_mappings.json"
-    manual = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings.json"
+    auto = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings.json"
+    manual = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings_enhanced_mylemon.json"
 
     # run pipeline twice and compare results
     auto_confusion_matrix, product_precision = evaluate_pipeline(mappings=auto)
@@ -136,7 +137,7 @@ def evaluate_field_mappings() -> tuple[EvaluationScores, EvaluationScores]:
     logger.info(f"Manual mapping: {manual_confusion_matrix}")
     logger.info(f"Product precision: {product_precision * 100:.2f}%")
 
-    return manual_confusion_matrix.eval_score, auto_confusion_matrix.eval_score
+    return auto_confusion_matrix.eval_score, auto_confusion_matrix.eval_score
 
 
 def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
@@ -217,6 +218,7 @@ def evaluate_product(proc, idx, product, normalization=True) -> ConfusionMatrix:
     except FileNotFoundError:
         ref_specs = None
 
+    shutil.rmtree(REFERENCE_DIR, ignore_errors=True)
     os.makedirs(REFERENCE_DIR, exist_ok=True)
     if ref_specs is None:
         reference_as_dict = {}
