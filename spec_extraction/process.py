@@ -115,7 +115,7 @@ class Processing:
             for idx, monitor_extended_offer in enumerate(get_products_from_path(self.data_dir)):
                 try:
                     raw_monitor = html_json_to_raw_product(monitor_extended_offer, self.data_dir)
-                except exceptions.ShopParserNotImplementedError:
+                except (ValueError, exceptions.ShopParserNotImplementedError):
                     continue
                 for catalog_key, example_value in catalog_example.items():
                     # Tries to map a merchant key to a catalog key.
@@ -363,7 +363,7 @@ def html_json_to_raw_product(monitor: ExtendedOffer, raw_data_dir: Path) -> RawP
     html_code = (raw_data_dir / monitor.html_file).read_text()
     raw_specifications = shop_parser.extract_tabular_data(html_code, monitor.shop_name)
     if not raw_specifications:
-        logger.warning(f"Empty specifications for {monitor.html_file} from {monitor.shop_name}")
+        raise ValueError(f"Empty specifications for {monitor.html_file} from {monitor.shop_name}")
 
     # Retrieve name from Geizhals reference JSON
     geizhals_reference = ProductPage.load_from_json(raw_data_dir / monitor.reference_file)
