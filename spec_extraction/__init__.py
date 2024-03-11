@@ -4,7 +4,7 @@ from config import LOG_DIR
 
 default_log = dict(
     sink=LOG_DIR / "root.log",
-    rotation="1 week",
+    rotation="1 day",
     retention="1 month",
     format="{time:YYYY-MM-DD at HH:mm:ss} | {level} | {message}",
 )
