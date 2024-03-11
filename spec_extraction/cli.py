@@ -14,3 +14,7 @@ def main():  # pragma: no cover
     processing = bootstrap()
     processing.find_mappings(CATALOG_EXAMPLE)
     processing.merge_monitor_specs(PRODUCT_CATALOG_DIR)
+
+
+if __name__ == "__main__":
+    main()
