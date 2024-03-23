@@ -123,10 +123,14 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
     The values are based on a reference dictionary and a second dictionary that
     is to be compared to the reference.
 
-    True positives: The number of properties that exist in both (reference and catalog) and values match.
-    False positives: The number of properties that exist in both, but values do not match.
-    False negatives: The number of properties that only exists in reference.
-    True negatives: The number of properties that only exist in catalog.
+    True positives:
+        The number of properties that exist in both (reference and catalog data) and the values match.
+    False positives:
+        The number of properties, where the attribute only exists in the catalog data or the values do not match.
+    False negatives:
+        The number of properties, where the attribute only exists in the reference data or the values do
+        not match.
+    True negatives: The number of properties that only exist in catalog data?
 
     Returns
     -------
@@ -135,22 +139,26 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
     """
     confusion_matrix = ConfusionMatrix()
 
-    for key in reference_data:
-        if key in catalog_data:
-            ref_value = reference_data[key]
-            catalog_value = catalog_data[key]
+    for attribute in reference_data:
+        if attribute in catalog_data:
+            reference_value = reference_data[attribute]
+            catalog_value = catalog_data[attribute]
 
-            if ref_value == catalog_value:
-                # True Positive (Matching entry), key exists in both
+            if reference_value == catalog_value:
+                # Attributes exists in both and values match -> TP
                 confusion_matrix.true_positives += 1
                 # logger.debug(f"Match: {key}: {ref_value} == {catalog_value}")
             else:
-                # False Positive (Non-matching entry), key exists in both
+                # attribute exists in both, but values do not match -> FP and FN
                 confusion_matrix.false_positives += 1
+                confusion_matrix.false_negatives += 1
                 # logger.debug(f"No match: {key}: {ref_value} != {catalog_value} (gathered)")
         else:
-            # False Negative (Missing entry in catalog_data, but exists in reference_data)
+            # Attribute only exists in reference data -> FN
             confusion_matrix.false_negatives += 1
+
+    # attributes only exist in catalog data -> FP
+    confusion_matrix.false_positives += len(set(catalog_data.keys()) - set(reference_data.keys()))
 
     # Calculate True Negatives (Entries in catalog_data not present in reference_data)
     confusion_matrix.true_negatives = (
