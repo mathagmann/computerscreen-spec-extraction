@@ -1,3 +1,5 @@
+from unittest import mock
+
 import pytest
 from astropy import units as u
 
@@ -48,7 +50,14 @@ def test_normalize_value(value, unit, expected_equality):
     assert normalized_value == expected_equality
 
 
-def test_normalize_product():
+@pytest.fixture
+def mock_machine_learning_model():
+    """Mock machine learning model for testing."""
+    with mock.patch("token_classification.bootstrap.bootstrap", return_value=mock.MagicMock()):
+        yield
+
+
+def test_normalize_product(mock_machine_learning_model):
     product_specifications = {
         "Bilddiagonale (Zoll)": {"value": "24", "unit": '"'},
         "Bilddiagonale (cm)": {"value": "61", "unit": "cm"},
