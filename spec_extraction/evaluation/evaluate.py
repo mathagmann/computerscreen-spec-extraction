@@ -1,8 +1,8 @@
 import difflib
 import os
 import shutil
+import time
 from dataclasses import dataclass
-from pathlib import Path
 
 import click
 from loguru import logger
@@ -10,12 +10,11 @@ from loguru import logger
 from config import DATA_DIR
 from config import PRODUCT_CATALOG_DIR
 from config import REFERENCE_DIR
-from config import ROOT_DIR
 from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
-from spec_extraction.bootstrap import bootstrap
 from spec_extraction.model import CatalogProduct
 from spec_extraction.normalization import normalize_product_specifications
+from spec_extraction.process import Processing
 
 
 @dataclass
@@ -25,6 +24,14 @@ class EvaluationScores:
     recall: float = 0
     f1_score: float = 0
 
+    def __repr__(self):
+        return (
+            f"Accuracy: {self.accuracy* 100:.2f} %\n"
+            f"Precision: {self.precision* 100:.2f} %\n"
+            f"Recall: {self.recall* 100:.2f} %\n"
+            f"F1: {self.f1_score* 100:.2f} %"
+        )
+
 
 @dataclass
 class ConfusionMatrix:
@@ -32,6 +39,13 @@ class ConfusionMatrix:
     false_positives: int = 0
     false_negatives: int = 0
     true_negatives: int = 0
+
+    def __repr__(self):
+        return (
+            "Confusion matrix("
+            f"true positives: {self.true_positives}, false positives: {self.false_positives}, "
+            f"false negatives: {self.false_negatives}, true negatives: {self.true_negatives})"
+        )
 
     def __add__(self, other):
         return ConfusionMatrix(
@@ -59,32 +73,21 @@ class ConfusionMatrix:
         )
         f1_score = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0
 
-        logger.info(f"Precision: {precision * 100:.2f}%")
-        logger.info(f"Recall: {recall * 100:.2f}%")
-        logger.info(f"F1 score: {f1_score * 100:.2f}%")
-
         return EvaluationScores(accuracy=accuracy, precision=precision, recall=recall, f1_score=f1_score)
 
 
-def evaluate_machine_learning():
-    """Evaluate the machine learning model.
+def measure_time(func):
+    def wrapper(*args, **kwargs):
+        start_time = time.time()
+        result = func(*args, **kwargs)
+        end_time = time.time()
+        logger.debug(f"Function '{func.__name__}' took {end_time - start_time:.2f} seconds to execute")
+        return result
 
-    Requires the machine learning model to be trained and saved to disk.
-    """
-    processing = bootstrap(machine_learning_enabled=True)
-    processing.merge_monitor_specs(PRODUCT_CATALOG_DIR)
-
-    attribute_confusion_matrix, product_precision = evaluate_pipeline()
-
-    return attribute_confusion_matrix, product_precision
+    return wrapper
 
 
-def evaluate_pipeline(mappings: Path | None = None) -> tuple[ConfusionMatrix, float]:
-    if mappings:
-        logger.info(f"Using mappings from {mappings}")
-        process = bootstrap(field_mappings=mappings)
-    else:
-        process = bootstrap()
+def evaluate_pipeline(process: Processing) -> tuple[ConfusionMatrix, float]:
     products = get_products_from_path(DATA_DIR)
 
     products_perfect_precision = 0
@@ -108,36 +111,7 @@ def evaluate_pipeline(mappings: Path | None = None) -> tuple[ConfusionMatrix, fl
 
     total_products = products_perfect_precision + products_false_positives
     product_precision = products_perfect_precision / total_products if total_products > 0 else 0.0
-
-    logger.info(f"Attribute confusion matrix: {confusion_matrix}")
-    logger.info(f"Attribute evaluation scores: {confusion_matrix.eval_score}")
-    logger.info(f"Product precision: {product_precision * 100:.2f}%")
-
     return confusion_matrix, product_precision
-
-
-def evaluate_field_mappings() -> tuple[EvaluationScores, EvaluationScores]:
-    """Evaluate the field mappings.
-
-    Returns
-    -------
-    tuple[EvaluationScores, EvaluationScores]
-        A tuple containing the evaluation scores for the auto mapping and the manual mapping.
-
-    """
-    auto = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings.json"
-    manual = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings_enhanced_mylemon.json"
-
-    # run pipeline twice and compare results
-    auto_confusion_matrix, product_precision = evaluate_pipeline(mappings=auto)
-    logger.info(f"Auto mapping: {auto_confusion_matrix}")
-    logger.info(f"Product precision: {product_precision * 100:.2f}%")
-
-    manual_confusion_matrix, product_precision = evaluate_pipeline(mappings=manual)
-    logger.info(f"Manual mapping: {manual_confusion_matrix}")
-    logger.info(f"Product precision: {product_precision * 100:.2f}%")
-
-    return auto_confusion_matrix.eval_score, auto_confusion_matrix.eval_score
 
 
 def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
@@ -260,8 +234,3 @@ def color_diff(string1, string2):
             colored_diff.append(click.style(line, fg="green"))
 
     return "\n".join(colored_diff)
-
-
-if __name__ == "__main__":
-    # evaluate_pipeline()
-    evaluate_machine_learning()
