@@ -7,7 +7,6 @@ from astropy.units import Quantity
 from loguru import logger
 
 from spec_extraction import exceptions
-from spec_extraction.bag_of_words import BagOfWords
 from spec_extraction.normalization import rescale_to_unit
 
 CONFIG_DIR = Path(__file__).parent / "preparation"
@@ -145,14 +144,11 @@ class Parser:
         self,
         specifications: List[FeatureGroup],
         separator: str = "\n",
-        bow_file: Path = Path(__file__).parent / "preparation" / "bow.json",
     ):
         self.specifications = specifications
         self.separator = separator
-        self.bow_file = bow_file
         self.parser = {}
         self.last_data = None
-        self.bow = None
         self.parse_count = 0
 
         self._setup()
@@ -165,7 +161,6 @@ class Parser:
         for feature_group in self.specifications:
             for feature in feature_group.features:
                 self.parser[feature.name] = feature
-        self.bow = BagOfWords(self.bow_file)
 
     def parse(self, raw_specifications: dict) -> dict:
         """Parses features from raw specifications and returns a plain dict."""
@@ -177,13 +172,10 @@ class Parser:
                     result[feature_name] = self.parser[feature_name].parse(clean_value)
                 except KeyError as e:
                     logger.warning(f"No parser for feature '{feature_name}': {e}")
-                    self.bow.add_word(feature_name, feature_value)
                 except exceptions.ParserError:
+                    pass
                     # logger.warning(f"Parsing of feature '{feature_name}' failed: {e}")
-                    self.bow.add_word(feature_name, feature_value)
         self.parse_count += 1
-        if self.parse_count % 1000 == 0:  # last entries not written to file
-            self.bow.save_to_disk()
         return result
 
     def nice_output(self, parsed_data: dict) -> str:
