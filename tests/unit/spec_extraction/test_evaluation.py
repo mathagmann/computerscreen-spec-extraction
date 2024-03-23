@@ -11,38 +11,38 @@ from spec_extraction.evaluation.evaluate import calculate_confusion_matrix
         (
             {},
             {"attr1": "val_a"},
-            ConfusionMatrix(true_positives=0, false_positives=1, false_negatives=0, true_negatives=0),
-            EvaluationScores(accuracy=0, precision=0, recall=0, f1_score=0),
+            ConfusionMatrix(true_positives=0, false_positives=1, false_negatives=0),
+            EvaluationScores(precision=0, recall=0, f1_score=0),
         ),
         (
             {"attr1": "val_a"},
             {},
-            ConfusionMatrix(true_positives=0, false_positives=0, false_negatives=1, true_negatives=0),
-            EvaluationScores(accuracy=0, precision=0, recall=0, f1_score=0),
+            ConfusionMatrix(true_positives=0, false_positives=0, false_negatives=1),
+            EvaluationScores(precision=0, recall=0, f1_score=0),
         ),
         (
             {"attr1": "val_a"},
             {"attr1": "val_a"},
-            ConfusionMatrix(true_positives=1, false_positives=0, false_negatives=0, true_negatives=0),
-            EvaluationScores(accuracy=1, precision=1, recall=1, f1_score=1),
+            ConfusionMatrix(true_positives=1, false_positives=0, false_negatives=0),
+            EvaluationScores(precision=1, recall=1, f1_score=1),
         ),
         (
             {"attr1": "val_a", "attr2": "val_b", "attr3": "val_d"},
             {"attr1": "val_a", "attr2": "val_c", "attr3": "val_d"},
-            ConfusionMatrix(true_positives=2, false_positives=1, false_negatives=1, true_negatives=0),
-            EvaluationScores(accuracy=0.5, precision=2 / 3, recall=2 / 3, f1_score=2 / 3),
+            ConfusionMatrix(true_positives=2, false_positives=1, false_negatives=1),
+            EvaluationScores(precision=2 / 3, recall=2 / 3, f1_score=2 / 3),
         ),
         (
             {"attr1": "val_a", "attr2": "val_b"},
             {"attr1": "val_a", "attr4": "val_c"},
-            ConfusionMatrix(true_positives=1, false_positives=1, false_negatives=1, true_negatives=0),
-            EvaluationScores(accuracy=1 / 3, precision=0.5, recall=0.5, f1_score=0.5),
+            ConfusionMatrix(true_positives=1, false_positives=1, false_negatives=1),
+            EvaluationScores(precision=0.5, recall=0.5, f1_score=0.5),
         ),
         (
             {"attr1": "val_a", "attr2": "val_b", "attr3": "val_c"},
             {"attr1": "val_a", "attr3": "val_d"},
-            ConfusionMatrix(true_positives=1, false_positives=1, false_negatives=2, true_negatives=0),
-            EvaluationScores(accuracy=1 / 4, precision=0.5, recall=1 / 3, f1_score=0.4),
+            ConfusionMatrix(true_positives=1, false_positives=1, false_negatives=2),
+            EvaluationScores(precision=0.5, recall=1 / 3, f1_score=0.4),
         ),
     ],
 )
@@ -54,22 +54,20 @@ def test_compare_specifications_confusion_matrix(reference, extracted, expected_
 
 
 def test_calculate_evaluation_scores():
-    evaluation = ConfusionMatrix(true_negatives=0, false_negatives=2, false_positives=1, true_positives=1)
+    evaluation = ConfusionMatrix(false_negatives=2, false_positives=1, true_positives=1)
 
     scores = evaluation.eval_score
 
-    assert scores.accuracy == 0.25
     assert scores.precision == 0.5
     assert scores.recall == 1 / 3
     assert scores.f1_score == 0.4
 
 
 def test_calculate_evaluation_scores_adv():
-    evaluation = ConfusionMatrix(true_negatives=50, false_negatives=10, false_positives=0, true_positives=45)
+    evaluation = ConfusionMatrix(false_negatives=10, false_positives=0, true_positives=45)
 
     scores = evaluation.eval_score
 
-    assert scores.accuracy == 95 / 105
     assert scores.precision == 1
     assert scores.recall == 45 / 55
     assert scores.f1_score == 0.9

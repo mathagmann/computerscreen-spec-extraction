@@ -19,14 +19,12 @@ from spec_extraction.process import Processing
 
 @dataclass
 class EvaluationScores:
-    accuracy: float = 0
     precision: float = 0
     recall: float = 0
     f1_score: float = 0
 
     def __repr__(self):
         return (
-            f"Accuracy: {self.accuracy* 100:.2f} %\n"
             f"Precision: {self.precision* 100:.2f} %\n"
             f"Recall: {self.recall* 100:.2f} %\n"
             f"F1: {self.f1_score* 100:.2f} %"
@@ -38,13 +36,12 @@ class ConfusionMatrix:
     true_positives: int = 0
     false_positives: int = 0
     false_negatives: int = 0
-    true_negatives: int = 0
 
     def __repr__(self):
         return (
             "Confusion matrix("
             f"true positives: {self.true_positives}, false positives: {self.false_positives}, "
-            f"false negatives: {self.false_negatives}, true negatives: {self.true_negatives})"
+            f"false negatives: {self.false_negatives}"
         )
 
     def __add__(self, other):
@@ -52,15 +49,11 @@ class ConfusionMatrix:
             true_positives=self.true_positives + other.true_positives,
             false_positives=self.false_positives + other.false_positives,
             false_negatives=self.false_negatives + other.false_negatives,
-            true_negatives=self.true_negatives + other.true_negatives,
         )
 
     @property
     def eval_score(self) -> EvaluationScores:
         """Calculate evaluation scores based on the counts of true positives, false positives, etc."""
-        total_predictions = self.true_negatives + self.false_negatives + self.false_positives + self.true_positives
-
-        accuracy = (self.true_positives + self.true_negatives) / total_predictions if total_predictions > 0 else 0
         precision = (
             self.true_positives / (self.true_positives + self.false_positives)
             if (self.true_positives + self.false_positives) > 0
@@ -73,7 +66,7 @@ class ConfusionMatrix:
         )
         f1_score = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0
 
-        return EvaluationScores(accuracy=accuracy, precision=precision, recall=recall, f1_score=f1_score)
+        return EvaluationScores(precision=precision, recall=recall, f1_score=f1_score)
 
 
 def measure_time(func):
@@ -130,7 +123,6 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
     False negatives:
         The number of properties, where the attribute only exists in the reference data or the values do
         not match.
-    True negatives: The number of properties that only exist in catalog data?
 
     Returns
     -------
@@ -160,10 +152,6 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
     # attributes only exist in catalog data -> FP
     confusion_matrix.false_positives += len(set(catalog_data.keys()) - set(reference_data.keys()))
 
-    # Calculate True Negatives (Entries in catalog_data not present in reference_data)
-    confusion_matrix.true_negatives = (
-        len(catalog_data) - confusion_matrix.true_positives - confusion_matrix.false_positives
-    )
     logger.debug(confusion_matrix)
     return confusion_matrix
 
