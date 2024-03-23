@@ -1,30 +1,53 @@
-# specification_extraction
+# Computer screen specification extraction pipeline
 
-[![CI](https://github.com/MattHag/specification-extraction/actions/workflows/build.yml/badge.svg)](https://github.com/MattHag/specification-extraction/actions/workflows/main.yml)
+[![CI](https://github.com/MattHag/specification-extraction/actions/workflows/build.yml/badge.svg)](https://github.com/MattHag/specification-extraction/actions/workflows/build.yml)
 
-Awesome specification_extraction created by MattHag
+- Extract tables and lists from HTMLs landing pages of 30 German-speaking online shops
+- Create unified, structured product specifications from the extracted data
+- Evaluate the performance of three different pipeline variants
+- Fine-tune a BERT model for the extraction of HDMI and DisplayPort specifications
+- Print formatted product specifications to the console
+- Normalize extracted data and use it for product comparison projects with filter, sort and comparison functionality
 
-## Install it from PyPI
+## Install dependencies
+ 
+Then install all Python dependencies with pip.
+You might want to create and enable a virtual environment first (e.g. `make virtualenv`).
 
 ```bash
-pip install specification_extraction
+$ pip install -e ."[dev]"
+```
+
+## Setup
+
+### Initialize and fine-tune machine learning model
+
+Download and fine-tuning of the BERT model is required to run the pipeline with the machine learning model. 
+The model is fine-tuned on the gold labels from 200 computer screen on the HDMI and DisplayPort specifications.
+
+Run the following command to download the pre-trained BERT model and fine-tune it on your local machine. 
+
+```bash
+$ python -m token_classification/train_model
 ```
 
 ## Usage
 
-```py
-from specification_extraction import BaseClass
-from specification_extraction import base_function
-
-BaseClass().base_method()
-base_function()
-```
+Run the initial setup of the pipeline with the following command.
+It is also necessary, when the pipeline is run for the first time and when the data is updated.
 
 ```bash
-$ python -m specification_extraction
-#or
-$ specification_extraction
+$ python -m spec_extraction.cli
 ```
+
+### Run evaluation of all three pipeline variants
+
+The evaluation scores for all three pipeline variants can be gathered with:
+
+```bash
+$ python -m main
+```
+
 
 ## Development
 
