@@ -1,6 +1,7 @@
 import json
 import os
 import re
+from copy import copy
 from pathlib import Path
 from typing import Any
 from typing import Dict
@@ -177,6 +178,7 @@ class Processing:
 
             # Step: Value fusion, last shop wins
             combined_specs = value_fusion(product_data)
+            logger.debug(f"Merged specs for {product_name}:\n{self.parser.nice_output(copy.deepcopy(combined_specs))}")
 
             catalog_filename = CatalogProduct.filename_from_id(product_id)
             CatalogProduct(name=product_name, specifications=combined_specs, id=product_id).save_to_json(
@@ -196,9 +198,7 @@ class Processing:
         if self.machine_learning_enabled:
             machine_learning_specs = self.extract_with_bert(raw_specification)
         specifications = unified_specifications | machine_learning_specs
-
-        logger.debug(f"Created specs:\n{self.parser.nice_output(specifications)}")
-
+        # logger.debug(f"Created specs:\n{self.parser.nice_output(specifications)}")
         return specifications
 
     def extract_with_regex(self, raw_specification: dict, shop_name: str) -> dict:

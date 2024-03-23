@@ -178,8 +178,8 @@ class Parser:
                 except KeyError as e:
                     logger.warning(f"No parser for feature '{feature_name}': {e}")
                     self.bow.add_word(feature_name, feature_value)
-                except exceptions.ParserError as e:
-                    logger.warning(f"Parsing of feature '{feature_name}' failed: {e}")
+                except exceptions.ParserError:
+                    # logger.warning(f"Parsing of feature '{feature_name}' failed: {e}")
                     self.bow.add_word(feature_name, feature_value)
         self.parse_count += 1
         if self.parse_count % 1000 == 0:  # last entries not written to file

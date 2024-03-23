@@ -143,11 +143,11 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
             if ref_value == catalog_value:
                 # True Positive (Matching entry), key exists in both
                 confusion_matrix.true_positives += 1
-                logger.debug(f"Match: {key}: {ref_value} == {catalog_value}")
+                # logger.debug(f"Match: {key}: {ref_value} == {catalog_value}")
             else:
                 # False Positive (Non-matching entry), key exists in both
                 confusion_matrix.false_positives += 1
-                logger.debug(f"No match: {key}: {ref_value} != {catalog_value} (gathered)")
+                # logger.debug(f"No match: {key}: {ref_value} != {catalog_value} (gathered)")
         else:
             # False Negative (Missing entry in catalog_data, but exists in reference_data)
             confusion_matrix.false_negatives += 1
@@ -213,7 +213,7 @@ def evaluate_product(proc, idx, product, normalization=True) -> ConfusionMatrix:
     if normalization:
         ref_specs = normalize_product_specifications(ref_specs)
         cat_specs = normalize_product_specifications(cat_specs)
-
+    logger.debug(f"Latest reference specs: {reference_data.url}")
     return calculate_confusion_matrix(ref_specs, cat_specs)
 
 
