@@ -1,7 +1,8 @@
+import copy
 import json
 import os
 import re
-from copy import copy
+import shutil
 from pathlib import Path
 from typing import Any
 from typing import Dict
@@ -104,7 +105,7 @@ class Processing:
 
         logger.info(
             "Instantiate processing pipeline with settings:\n"
-            f"Field mappings: {self.field_mappings}\n"
+            f"Field mappings: {self.field_mappings.mappings_file}\n"
             f"Machine learning: {self.machine_learning_enabled}"
         )
 
@@ -160,6 +161,7 @@ class Processing:
         """
         logger.info("Creating monitor specifications...")
 
+        shutil.rmtree(catalog_dir, ignore_errors=True)
         os.makedirs(catalog_dir, exist_ok=True)
         for grouped_specs_single_screen in get_all_raw_specs_per_screen(config.RAW_SPECIFICATIONS_DIR):
             # Handle specifications for one product
