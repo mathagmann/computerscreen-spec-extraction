@@ -1,3 +1,5 @@
+from unittest import mock
+
 import pytest
 
 from spec_extraction.evaluation.evaluate import ConfusionMatrix
@@ -44,6 +46,12 @@ from spec_extraction.evaluation.evaluate import calculate_confusion_matrix
             {"attr1": "val_a", "attr3": "val_d"},
             ConfusionMatrix(true_positives=1, false_positives=1, false_negatives=2),
             EvaluationScores(precision=0.5, recall=1 / 3, f1_score=0.4),
+        ),
+        (
+            {"attr1": "val_a", "attr2": "val_b", "attr3": "val_c"},
+            {"attr1": "val_a", "attr4": "val_d", "attr5": "val_e", "attr6": "val_f"},
+            ConfusionMatrix(true_positives=1, false_positives=3, false_negatives=2),
+            EvaluationScores(precision=1 / 4, recall=1 / 3, f1_score=mock.ANY),
         ),
     ],
 )
