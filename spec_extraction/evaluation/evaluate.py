@@ -3,6 +3,7 @@ import os
 import shutil
 import time
 from dataclasses import dataclass
+from typing import Any
 
 import click
 from loguru import logger
@@ -156,7 +157,29 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
     return confusion_matrix
 
 
-def evaluate_product(proc, idx, product, normalization=True) -> ConfusionMatrix:
+def _calc_single_attribute_confusion_matrix(
+    reference_attr_value: tuple[Any, Any], catalog_attr_value: tuple[Any, Any]
+) -> ConfusionMatrix:
+    confusion_matrix = ConfusionMatrix()
+    ref_attribute, reference_value = reference_attr_value
+    cat_attribute, catalog_value = catalog_attr_value
+
+    if ref_attribute is not None and cat_attribute is None:
+        # Attribute only exists in reference data -> FN
+        confusion_matrix.false_negatives += 1
+    elif cat_attribute is not None and ref_attribute is None:
+        # Attribute only exists in catalog data -> FP
+        confusion_matrix.false_positives += 1
+    elif ref_attribute == cat_attribute:
+        if reference_value == catalog_value:
+            confusion_matrix.true_positives += 1
+        else:
+            confusion_matrix.false_positives += 1
+            confusion_matrix.false_negatives += 1
+    return confusion_matrix
+
+
+def evaluate_product(proc, idx, product, normalization=True) -> dict[str, ConfusionMatrix]:
     """Collect all specifications from the reference data and the catalog data and compares them.
 
     Assumes that the reference data is stored in a JSON file in the

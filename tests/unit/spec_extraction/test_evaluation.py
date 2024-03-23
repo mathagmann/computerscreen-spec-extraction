@@ -2,6 +2,7 @@ import pytest
 
 from spec_extraction.evaluation.evaluate import ConfusionMatrix
 from spec_extraction.evaluation.evaluate import EvaluationScores
+from spec_extraction.evaluation.evaluate import _calc_single_attribute_confusion_matrix
 from spec_extraction.evaluation.evaluate import calculate_confusion_matrix
 
 
@@ -48,6 +49,36 @@ from spec_extraction.evaluation.evaluate import calculate_confusion_matrix
 )
 def test_compare_specifications_confusion_matrix(reference, extracted, expected_confusion_matrix, expected_eval_scores):
     count = calculate_confusion_matrix(reference, extracted)
+
+    assert count == expected_confusion_matrix
+    assert count.eval_score == expected_eval_scores
+
+
+@pytest.mark.parametrize(
+    "reference, extracted, expected_confusion_matrix, expected_eval_scores",
+    [
+        (
+            (None, None),
+            ("attr1", "val_a"),
+            ConfusionMatrix(true_positives=0, false_positives=1, false_negatives=0),
+            EvaluationScores(precision=0, recall=0, f1_score=0),
+        ),
+        (
+            ("attr1", "val_a"),
+            (None, None),
+            ConfusionMatrix(true_positives=0, false_positives=0, false_negatives=1),
+            EvaluationScores(precision=0, recall=0, f1_score=0),
+        ),
+        (
+            ("attr1", "val_a"),
+            ("attr1", "val_a"),
+            ConfusionMatrix(true_positives=1, false_positives=0, false_negatives=0),
+            EvaluationScores(precision=1, recall=1, f1_score=1),
+        ),
+    ],
+)
+def test_calc_single_attribute_confusion_matrix(reference, extracted, expected_confusion_matrix, expected_eval_scores):
+    count = _calc_single_attribute_confusion_matrix(reference, extracted)
 
     assert count == expected_confusion_matrix
     assert count.eval_score == expected_eval_scores
