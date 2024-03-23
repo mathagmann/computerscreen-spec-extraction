@@ -180,9 +180,9 @@ def evaluate_product(proc, idx, product, normalization=True) -> ConfusionMatrix:
     """
     filename = ProductPage.reference_filename_from_id(product.product_id)
     reference_data = ProductPage.load_from_json(DATA_DIR / filename)
-
     logger.debug(f"Processing product {idx:05d}: {reference_data.product_name}")
 
+    # extracted and merged product data
     catalog_filename = CatalogProduct.filename_from_id(product.product_id)
     catalog_data = CatalogProduct.load_from_json(PRODUCT_CATALOG_DIR / catalog_filename)
     cat_specs = catalog_data.specifications
@@ -203,9 +203,8 @@ def evaluate_product(proc, idx, product, normalization=True) -> ConfusionMatrix:
         try:
             # export structured reference data
             ref_export_file = f"ref_specs_{product.product_id}_catalog.json"
-            CatalogProduct(name=catalog_data.name, specifications=ref_specs, id=catalog_data.id).save_to_json(
-                REFERENCE_DIR / ref_export_file
-            )
+            product = CatalogProduct(name=catalog_data.name, specifications=ref_specs, id=catalog_data.id)
+            product.save_to_json(REFERENCE_DIR / ref_export_file)
             logger.debug(f"Reference data saved to {ref_export_file}")
         except Exception as e:
             logger.error(f"Could not save reference data: {e}")

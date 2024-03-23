@@ -6,8 +6,8 @@ import marshmallow_dataclass
 from loguru import logger
 from marshmallow_dataclass import class_schema
 
-from data_generation.create_data import PRODUCT_LISTING
 from data_generation import model
+from data_generation.create_data import PRODUCT_LISTING
 from geizhals.geizhals_model import Product
 
 

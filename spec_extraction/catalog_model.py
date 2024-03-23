@@ -96,6 +96,8 @@ ActivatedProperties = create_enabled_enum(MonitorSpecifications, disabled_member
 
 logger.info(f"Activated properties: {list(ActivatedProperties)}")
 
+property_names = [prop.name for prop in ActivatedProperties]
+
 CATALOG_EXAMPLE = {
     MonitorSpecifications.EAN.value: "4710886422812",
     MonitorSpecifications.DIAGONAL_INCH.value: '27 "',

@@ -192,7 +192,6 @@ class Processing:
         - Schema matching and regular expressions
         - Machine learning
         """
-        unified_specifications = {}
         machine_learning_specs = {}
         unified_specifications = self.extract_with_regex(raw_specification, shop_name)
         if self.machine_learning_enabled:
