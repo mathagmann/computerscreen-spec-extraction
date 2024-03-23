@@ -88,6 +88,9 @@ def measure_time(func):
 
 
 def evaluate_pipeline(process: Processing) -> tuple[ConfusionMatrix, float]:
+    shutil.rmtree(REFERENCE_DIR, ignore_errors=True)
+    os.makedirs(REFERENCE_DIR, exist_ok=True)
+    logger.debug(f"Removed reference directory: {REFERENCE_DIR}")
     products = get_products_from_path(DATA_DIR)
 
     products_perfect_precision = 0
@@ -191,9 +194,6 @@ def evaluate_product(proc, idx, product, normalization=True) -> ConfusionMatrix:
         ref_specs = ref_product.specifications
     except FileNotFoundError:
         ref_specs = None
-
-    shutil.rmtree(REFERENCE_DIR, ignore_errors=True)
-    os.makedirs(REFERENCE_DIR, exist_ok=True)
     if ref_specs is None:
         reference_as_dict = {}
         for detail in reference_data.product_details:
