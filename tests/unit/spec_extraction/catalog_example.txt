@@ -31,4 +31,4 @@ Stromversorgung:               AC-In (internes Netzteil)
 Abmessungen:                   53.3x20.7x39 cm
 Besonderheiten:                Power Delivery
 Kabel im Lieferumfang:         1x HDMI-Kabel, 1x DisplayPort-Kabel, 1x DVI-Kabel, 1x VGA-Kabel, 1x Strom-Kabel
-Herstellergarantie:            2 Jahr
+Herstellergarantie:            2 Jahre
