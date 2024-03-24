@@ -26,9 +26,8 @@ class EvaluationScores:
 
     def __repr__(self):
         return (
-            f"Precision: {self.precision* 100:.2f} %\n"
-            f"Recall: {self.recall* 100:.2f} %\n"
-            f"F1: {self.f1_score* 100:.2f} %"
+            f"EvalScores(precision: {self.precision * 100:.2f} %, recall: {self.recall * 100:.2f} %, "
+            f"f1_score: {self.f1_score * 100:.2f} %)"
         )
 
 
@@ -81,7 +80,7 @@ def measure_time(func):
     return wrapper
 
 
-def evaluate_pipeline(process: Processing) -> tuple[ConfusionMatrix, float]:
+def evaluate_pipeline(process: Processing) -> tuple[ConfusionMatrix, dict[str, ConfusionMatrix], float]:
     shutil.rmtree(REFERENCE_DIR, ignore_errors=True)
     os.makedirs(REFERENCE_DIR, exist_ok=True)
     logger.debug(f"Removed reference directory: {REFERENCE_DIR}")
@@ -89,18 +88,23 @@ def evaluate_pipeline(process: Processing) -> tuple[ConfusionMatrix, float]:
 
     products_perfect_precision = 0
     products_false_positives = 0
-    confusion_matrix = ConfusionMatrix()
+
+    cm_per_attr = {}
+    res_confusion_matrix = ConfusionMatrix()
     for idx, product in enumerate(products):
         try:
-            scores = evaluate_product(process, idx, product)
-            res = scores.eval_score
-            logger.info(f"Product {product.product_id} scores: {res}")
+            confusion_matrix_per_attr = evaluate_product(process, idx, product)
+            conf_matrix = sum_confusion_matrices(confusion_matrix_per_attr)
+            logger.info(f"Product {product.product_id} scores: {conf_matrix.eval_score}")
         except FileNotFoundError:
             logger.debug(f"Product {product.product_id} not found in catalog.")
             continue
 
-        confusion_matrix += scores
-        if scores.eval_score.precision == 1:
+        res_confusion_matrix += conf_matrix
+
+        # sum up confusion matrices
+        cm_per_attr = combine_confusion_matrices(cm_per_attr, confusion_matrix_per_attr)
+        if conf_matrix.eval_score.precision == 1:
             products_perfect_precision += 1
             logger.debug(f"Product {product.product_id} has perfect precision.")
         else:
@@ -108,10 +112,28 @@ def evaluate_pipeline(process: Processing) -> tuple[ConfusionMatrix, float]:
 
     total_products = products_perfect_precision + products_false_positives
     product_precision = products_perfect_precision / total_products if total_products > 0 else 0.0
-    return confusion_matrix, product_precision
+    return res_confusion_matrix, cm_per_attr, product_precision
 
 
-def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
+def combine_confusion_matrices(
+    confusion_matrices: dict[str, ConfusionMatrix], other: dict[str, ConfusionMatrix]
+) -> dict[str, ConfusionMatrix]:
+    """Combine two confusion matrices."""
+    for key, value in other.items():
+        if key in confusion_matrices:
+            confusion_matrices[key] += value
+        else:
+            confusion_matrices[key] = value
+    return confusion_matrices
+
+
+def print_confusion_matrix_per_attr(confusion_matrix: dict[str, ConfusionMatrix]):
+    """Print confusion matrix per attribute."""
+    for attr, cmatrix in sorted(confusion_matrix.items()):
+        logger.info(f"Attribute: {attr}\n{cmatrix}\n{cmatrix.eval_score}")
+
+
+def calculate_confusion_matrix_per_attr(reference_data, catalog_data) -> dict[str, ConfusionMatrix]:
     """Determines the numbers of the confusion matrix.
 
     The values are based on a reference dictionary and a second dictionary that
@@ -127,20 +149,22 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
 
     Returns
     -------
-    ConfusionMatrix
-        A dataclass containing the number of true positives, false positives, etc.
+    dict[str, ConfusionMatrix]
+        Containing the number of true positives, false positives with attribute level granularity.
     """
-    confusion_matrix = ConfusionMatrix()
-
+    result = {}
     all_keys = set(reference_data.keys()) | set(catalog_data.keys())
     for attribute in all_keys:
         ref_attr_value = (None, None) if attribute not in reference_data else (attribute, reference_data[attribute])
         cat_attr_value = (None, None) if attribute not in catalog_data else (attribute, catalog_data[attribute])
 
-        confusion_matrix += _calc_single_attribute_confusion_matrix(ref_attr_value, cat_attr_value)
+        result[attribute] = _calc_single_attribute_confusion_matrix(ref_attr_value, cat_attr_value)
+    return result
 
-    logger.debug(confusion_matrix)
-    return confusion_matrix
+
+def sum_confusion_matrices(confusion_matrices: dict[str, ConfusionMatrix]) -> ConfusionMatrix:
+    """Sum up all confusion matrices."""
+    return sum(confusion_matrices.values(), ConfusionMatrix())
 
 
 def _calc_single_attribute_confusion_matrix(
@@ -187,6 +211,11 @@ def evaluate_product(proc, idx, product, normalization=True) -> dict[str, Confus
         The product to evaluate.
     normalization
         Enable or disable additional value normalization stage. Enabled by default.
+
+    Returns
+    -------
+    dict[str, ConfusionMatrix]
+        The attribute name and confusion matrix for each attribute.
     """
     filename = ProductPage.reference_filename_from_id(product.product_id)
     reference_data = ProductPage.load_from_json(DATA_DIR / filename)
@@ -223,7 +252,8 @@ def evaluate_product(proc, idx, product, normalization=True) -> dict[str, Confus
         ref_specs = normalize_product_specifications(ref_specs)
         cat_specs = normalize_product_specifications(cat_specs)
     logger.debug(f"Latest reference specs: {reference_data.url}")
-    return calculate_confusion_matrix(ref_specs, cat_specs)
+
+    return calculate_confusion_matrix_per_attr(ref_specs, cat_specs)
 
 
 def color_diff(string1, string2):
