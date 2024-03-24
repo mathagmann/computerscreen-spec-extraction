@@ -35,7 +35,7 @@ class MonitorSpecifications(Enum):
     PORTS_MINI_DP = "Anschlüsse Mini DisplayPort"
     PORTS_DVI = "Anschlüsse DVI"
     PORTS_VGA = "Anschlüsse VGA"
-    PORTS_DISPLAY_OUT = "Ausgänge Display"  # DisplayPort
+    PORTS_DISPLAY_OUT = "Ausgänge Display"  # e.g. DisplayPort Out for DaisyChain
     PORTS_USB_C = "Anschlüsse USB-C"
     PORTS_USB_A = "Anschlüsse USB-A"
     PORTS_THUNDERBOLT = "Thunderbolt"
