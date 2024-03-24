@@ -132,26 +132,12 @@ def calculate_confusion_matrix(reference_data, catalog_data) -> ConfusionMatrix:
     """
     confusion_matrix = ConfusionMatrix()
 
-    for attribute in reference_data:
-        if attribute in catalog_data:
-            reference_value = reference_data[attribute]
-            catalog_value = catalog_data[attribute]
+    all_keys = set(reference_data.keys()) | set(catalog_data.keys())
+    for attribute in all_keys:
+        ref_attr_value = (None, None) if attribute not in reference_data else (attribute, reference_data[attribute])
+        cat_attr_value = (None, None) if attribute not in catalog_data else (attribute, catalog_data[attribute])
 
-            if reference_value == catalog_value:
-                # Attributes exists in both and values match -> TP
-                confusion_matrix.true_positives += 1
-                # logger.debug(f"Match: {key}: {ref_value} == {catalog_value}")
-            else:
-                # attribute exists in both, but values do not match -> FP and FN
-                confusion_matrix.false_positives += 1
-                confusion_matrix.false_negatives += 1
-                # logger.debug(f"No match: {key}: {ref_value} != {catalog_value} (gathered)")
-        else:
-            # Attribute only exists in reference data -> FN
-            confusion_matrix.false_negatives += 1
-
-    # attributes only exist in catalog data -> FP
-    confusion_matrix.false_positives += len(set(catalog_data.keys()) - set(reference_data.keys()))
+        confusion_matrix += _calc_single_attribute_confusion_matrix(ref_attr_value, cat_attr_value)
 
     logger.debug(confusion_matrix)
     return confusion_matrix
@@ -164,6 +150,9 @@ def _calc_single_attribute_confusion_matrix(
     ref_attribute, reference_value = reference_attr_value
     cat_attribute, catalog_value = catalog_attr_value
 
+    if ref_attribute is None and cat_attribute is None:
+        raise ValueError("Both attributes are None.")
+
     if ref_attribute is not None and cat_attribute is None:
         # Attribute only exists in reference data -> FN
         confusion_matrix.false_negatives += 1
@@ -172,8 +161,10 @@ def _calc_single_attribute_confusion_matrix(
         confusion_matrix.false_positives += 1
     elif ref_attribute == cat_attribute:
         if reference_value == catalog_value:
+            # Attributes exists in both and values match -> TP
             confusion_matrix.true_positives += 1
         else:
+            # attribute exists in both, but values do not match -> FP and FN
             confusion_matrix.false_positives += 1
             confusion_matrix.false_negatives += 1
     return confusion_matrix
