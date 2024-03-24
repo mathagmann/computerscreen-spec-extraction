@@ -267,16 +267,16 @@ monitor_spec = [
             Feature(
                 MonitorSpecifications.PORTS_HDMI,
                 create_pattern_structure,
-                r"(\d+)\s?x?\s?(HDMI)",
-                ["count", "value"],
-                string_repr="{count}x {value}",
+                r"(\d+)\s?x?\s?(HDMI)\W?\w*\W?(\d+\.\d[a-zA-Z]*)",
+                ["count", "value", "version"],
+                string_repr="{count}x {value} {version}",
             ),
             Feature(
                 MonitorSpecifications.PORTS_DP,
                 create_pattern_structure,
-                r"(\d+)\s?x?\s?(Display[P|p]ort)",
-                ["count", "value"],
-                string_repr="{count}x {value}",
+                r"(\d+)\s?x?\s?(Display[P|p]ort)\W?\w*\W?(\d+\.\d[a-zA-Z]*)",
+                ["count", "value", "version"],
+                string_repr="{count}x {value} {version}",
             ),
             Feature(
                 MonitorSpecifications.PORTS_MINI_DP,
@@ -328,7 +328,7 @@ monitor_spec = [
             Feature(
                 MonitorSpecifications.PORTS_DISPLAY_OUT,
                 create_pattern_structure,
-                r"(\d+)\s?x\s?(DisplayPort-?Out).?(\d.\d)",
+                r"(\d+)\s?x\s?(DisplayPort-?Out).?(\d+\.\d[a-zA-Z]*)",
                 ["count", "type", "version"],
                 string_repr="{count}x {type} {version}",
             )
