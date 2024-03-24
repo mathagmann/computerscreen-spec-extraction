@@ -330,7 +330,7 @@ monitor_spec = [
                 create_pattern_structure,
                 r"(\d+)\s?x\s?(DisplayPort-?Out).?(\d.\d)",
                 ["count", "type", "version"],
-                string_repr="{count}x {type}{version}",
+                string_repr="{count}x {type} {version}",
             )
         ],
     ),
