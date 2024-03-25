@@ -14,8 +14,8 @@ Farbtiefe:                     8 bit
 Farbraum:                      100% sRGB, 100% Adobe RGB, 100% DCI-P3, 100% Rec 709, 100% Rec 2020, 72% NTSC
 Bildwiederholfrequenz:         144 Hz
 Variable Synchronisierung:     AMD FreeSync
-Anschlüsse:                    1x DisplayPort, 1x Mini DisplayPort, 1x DVI, 1x VGA, 2x USB-A, 1x USB-C, 1x Thunderbolt
-Anschlüsse Display Out:        1x DisplayPort-Out1.2
+Anschlüsse:                    1x DisplayPort 1.2, 1x Mini DisplayPort, 1x DVI, 1x VGA, 2x USB-A, 1x USB-C, 1x Thunderbolt
+Anschlüsse Display Out:        1x DisplayPort-Out 1.2
 Weitere Anschlüsse:            1x Gb LAN
 Audio:                         1x Line-Out
 USB-Hub In:                    1x USB Typ C, 1x USB-B 3.0

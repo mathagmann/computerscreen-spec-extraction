@@ -256,7 +256,7 @@ def test_value_fusion():
             "Helligkeit": {"value": "250", "unit": "cd/m²"},
             "Panel": "IPS",
             "Energieeffizienzklasse": "F",
-            "Herstellergarantie": {"value": "36", "unit": "Monat"},
+            "Herstellergarantie": {"value": "36", "unit": "Monate"},
             "Anschlüsse HDMI": {"value": "HDMI", "count": "1"},
         },
         "Jacob Elektronik direkt (AT)": {
@@ -386,7 +386,7 @@ def test_value_fusion():
         "Anschlüsse DisplayPort": {"count": "1", "value": "DisplayPort"},
         "Anschlüsse VGA": {"count": "1", "value": "VGA"},
         "Bilddiagonale (Zoll)": {"value": "23.8", "unit": "Zoll"},
-        "Herstellergarantie": {"value": "36", "unit": "Monat"},
+        "Herstellergarantie": {"value": "36", "unit": "Monate"},
     }
 
     assert result == combined_specs

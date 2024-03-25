@@ -39,7 +39,9 @@ def test_rescale_to_unit():
         ("10000", "Hz", 10 * u.kHz),
         ("2", "Jahre", 24 * cq.month),
         ("1", "Jahr", 12 * cq.month),
+        ("1", "Jahre", 12 * cq.month),
         ("24", "Monate", 2 * u.year),
+        ("12", "Monat", 1 * u.year),
         ("1,563", "km", 1563 * u.m),
         ("24", "Zoll", 24 * cq.inch),
     ],
@@ -91,6 +93,7 @@ def test_normalize_product(mock_machine_learning_model):
         "Leistungsaufnahme (SDR)": {"value": "22", "unit": "W"},
         "Abmessungen": {"width": "54.1", "height": "6.6", "depth": "32.3", "unit": "cm"},
         "Kabel HDMI": {"count": "1", "name": "HDMI-Kabel"},
+        "Herstellergarantie": {"unit": "Jahr", "value": "3"},
     }
 
     processing = bootstrap_pipeline()
@@ -98,5 +101,7 @@ def test_normalize_product(mock_machine_learning_model):
 
     assert normalized_product["Helligkeit"] == 250 * u.candela / u.meter**2
     assert normalized_product["Bilddiagonale (cm)"] == 61 * u.cm
+    assert normalized_product["Herstellergarantie"] == 3 * u.year
+    assert normalized_product["Herstellergarantie"] == 36 * cq.month
 
     print(processing.parser.nice_output(normalized_product))
