@@ -53,7 +53,7 @@ class FieldMappingsProtocol(Protocol):
         ...
 
 
-def extract_raw_specifications(data_dir: Path):
+def extract_specifications_from_html(data_dir: Path):
     logger.info("--- Extracting raw specifications... ---")
 
     os.makedirs(config.RAW_SPECIFICATIONS_DIR, exist_ok=True)
