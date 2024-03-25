@@ -11,20 +11,15 @@ from data_generation.create_data import PRODUCT_LISTING
 from geizhals.geizhals_model import Product
 
 
-def _get_offer_metadata(filename: Path) -> model.ExtendedOffer:
-    """Loads the offer JSON file and returns the offer metadata."""
-    with open(filename, "r") as f:
-        products_dict = json.load(f)
-    return class_schema(model.ExtendedOffer)().load(products_dict)
-
-
 def get_products_from_path(data_directory: Path) -> Generator[model.ExtendedOffer, None, None]:
     """Yields the next product offer with metadata from the given directory."""
     for metadata_file in data_directory.glob("*.json"):
         if not metadata_file.name.startswith("offer") or "reference" in metadata_file.name:
             continue
 
-        yield _get_offer_metadata(metadata_file)
+        with open(metadata_file, "r") as f:
+            products_dict = json.load(f)
+        yield class_schema(model.ExtendedOffer)().load(products_dict)
 
 
 def get_product_listing(filename: Path = PRODUCT_LISTING) -> list[Product]:
