@@ -27,6 +27,7 @@ from spec_extraction.model import CatalogProduct
 from spec_extraction.model import RawProduct
 from token_classification import utilities as ml_utils
 
+REFERENCE_SHOP = "geizhals"
 
 def pretty(dictionary: dict):
     return json.dumps(dictionary, indent=4, sort_keys=True)
@@ -196,7 +197,7 @@ class Processing:
         """
         machine_learning_specs = {}
         unified_specifications = self.extract_with_regex(raw_specification, shop_name)
-        if self.machine_learning_enabled:
+        if self.machine_learning_enabled and shop_name != REFERENCE_SHOP:
             machine_learning_specs = self.extract_with_bert(raw_specification)
         specifications = unified_specifications | machine_learning_specs
         # logger.debug(f"Created specs:\n{self.parser.nice_output(specifications)}")
