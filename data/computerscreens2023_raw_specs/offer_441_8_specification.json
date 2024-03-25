@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_441_8.html",
+    "name": "MSI PRO MP273PDE, 27\"",
+    "offer_link": "https://technikladen.at/P-9S6-3PB49H-028-MSI-686cm-27-IPS-FHD-PRO-MP273PDE-HDMI-DP-4ms-Flachbildschirm-TFT-LCD-686-cm-9S6-3PB49H-028-Displays-Projektoren?tl=gzhls",
+    "price": 215.05,
+    "raw_specifications": {
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nReaktionszeit: 4 ms\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_441.json",
+    "shop_name": "TechnikLaden"
+}

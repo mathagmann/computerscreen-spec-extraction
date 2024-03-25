@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1634_1.html",
+    "name": "Lenovo C24-20, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133556-monitor-lenovo-thinkvision-c24-20-75-hz-23-8-0195042743548.html",
+    "price": 133.7,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "23,8\"",
+        "Diagonale des Bildschirms (cm)": "60,5 cm",
+        "Energieklassifizierung": "E",
+        "Farbe": "Schwarz",
+        "Frequenz": "75 Hz",
+        "Merkmale": "Flachbildschirm",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Technologie": "LED"
+    },
+    "raw_specifications_text": "Energieklassifizierung: E\nTechnologie: LED\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nAufl\u00f6sung (px): 1920 x 1080 px\nMerkmale: Flachbildschirm\nFrequenz: 75 Hz\nBildschirm: 23,8\"\nArt: Monitor\nDiagonale des Bildschirms (cm): 60,5 cm\nFarbe: Schwarz",
+    "reference_file": "offer_reference_1634.json",
+    "shop_name": "bauguru"
+}

@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1620_6.html",
+    "name": "Philips E-line 288E2UAE, 28\"",
+    "offer_link": "https://haym.info/produktdetails?id=1C04406",
+    "price": 279.88,
+    "raw_specifications": {
+        "Artikelnummer": "1C04406",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "28 Zoll",
+        "Bildschirmdiagonale/cm": "71.1 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "1x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 28 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 71.1 cm\nTouch-Funktion: nein\nArtikelnummer: 1C04406\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_1620.json",
+    "shop_name": "haym.infotec"
+}

@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1805_28.html",
+    "name": "ASUS VA27DQSB, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126595-monitor-asus-90lm06h9-b01370-27-led-ips-lcd-flicker-free-75-hz-4718017756426.html",
+    "price": 256.4,
+    "raw_specifications": {
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Dreh": "-180\u00ba / 180\u00ba",
+        "Energieklassifizierung": "F",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Farbe": "Schwarz",
+        "Finish": "Mattierend",
+        "Glanz": "250 ANSI",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Kopfh\u00f6rer": "3,5 mm",
+        "Maximale Anpassung": "150 mm",
+        "Montage": "VESA",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Stromquelle": "Netzkabel",
+        "Touchscreen": "Kein",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 27\"\nSteckertyp: EU-Stecker\nSteckbares Produkt: Ja\nDiagonale des Bildschirms (cm): 68,6 cm\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: F\nStromquelle: Netzkabel\nKontrastverh\u00e4ltnis: 1000:1\nFinish: Mattierend\nKopfh\u00f6rer: 3,5 mm\nVerbindung: DisplayPort 1.2\nGlanz: 250 ANSI\nTouchscreen: Kein\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nMontage: VESA\nMaximale Anpassung: 150 mm\nDreh: -180\u00ba / 180\u00ba",
+    "reference_file": "offer_reference_1805.json",
+    "shop_name": "bauguru"
+}

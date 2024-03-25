@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1788_19.html",
+    "name": "AOC C32G2AE/BK, 31.5\"",
+    "offer_link": "https://www.future-x.at/aoc-81-3-cm-315-c32g2ae-16-09-curved-black-flachbildschirm-tft-lcd-81-3-cm-ips-p-8638759/?pv=2",
+    "price": 314.69,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "31,5 \"",
+        "Bilddiagonale (cm)": "80 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Farbe": "Schwarz",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 80 cm\nBilddiagonale (Zoll): 31,5 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nPaneltyp: IPS\nBildwiederholfrequenz (Hz): 165 Hz\nVideo-Schnittstellen: DisplayPort; HDMI\nFarbe: Schwarz",
+    "reference_file": "offer_reference_1788.json",
+    "shop_name": "Future-X.at"
+}

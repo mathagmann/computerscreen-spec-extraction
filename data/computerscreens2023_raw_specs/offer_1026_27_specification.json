@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1026_27.html",
+    "name": "Dell E2223HV, 21.5\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/132550-monitor-dell-dell-e2223hv-led-21-5-5397184656839.html",
+    "price": 134.0,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Bildschirm": "21,5\"",
+        "Diagonale des Bildschirms (cm)": "54,6 cm",
+        "Energieklassifizierung": "D",
+        "Frequenz": "120 Hz",
+        "Spannung": "240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Technologie": "LED"
+    },
+    "raw_specifications_text": "Bildschirm: 21,5\"\nArt: Monitor\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nEnergieklassifizierung: D\nDiagonale des Bildschirms (cm): 54,6 cm\nSpannung: 240 V\nTechnologie: LED\nFrequenz: 120 Hz",
+    "reference_file": "offer_reference_1026.json",
+    "shop_name": "bauguru"
+}

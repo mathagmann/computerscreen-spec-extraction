@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_1421_9.html",
+    "name": "ViewSonic VA3456-MHDJ, 34.1\"",
+    "offer_link": "https://www.future-x.at/viewsonic-monitor-86-4-cm-34zoll-uwqhd-ips-panel-hdr10-hdmi-dp-h%F6henverstellbar-lautsprecher-schwarz-p-8747959/?pv=2",
+    "price": 370.19,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3440 * 1440",
+        "Bilddiagonale (Zoll)": "34 \"",
+        "Bilddiagonale (cm)": "86,4 cm",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 86,4 cm\nBilddiagonale (Zoll): 34 \"\nAufl\u00f6sung: 3440 * 1440\nReaktionszeit: 4 ms\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort",
+    "reference_file": "offer_reference_1421.json",
+    "shop_name": "Future-X.at"
+}

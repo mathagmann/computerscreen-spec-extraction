@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_750_8.html",
+    "name": "Dell E2423HN, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/dell/210_bejo/60-5cm-23-8-e2423hn.html",
+    "price": 106.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYRL9L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "5397184656914",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "210-BEJO",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 210-BEJO\nEAN: 5397184656914\nArtikelnummer: M1EYRL9L",
+    "reference_file": "offer_reference_750.json",
+    "shop_name": "mylemon.at"
+}

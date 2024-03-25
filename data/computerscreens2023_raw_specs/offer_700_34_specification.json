@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_700_34.html",
+    "name": "HP P24 G5, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/130450-monitor-hp-p24-g5-23-8-ips-lcd-75-hz-240-hz-0196548137329.html",
+    "price": 188.4,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "23,8\"",
+        "Diagonale des Bildschirms (cm)": "60,5 cm",
+        "Energieklassifizierung": "E",
+        "Energieverbrauch": "30 kWh",
+        "Farbe": "Schwarz",
+        "Glanz": "250 ANSI",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Montage": "VESA",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Zertifikat": "ENERGY STAR-Zertifizierung"
+    },
+    "raw_specifications_text": "Farbe: Schwarz\nDiagonale des Bildschirms (cm): 60,5 cm\nEnergieverbrauch: 30 kWh\nKompatibel: VESA 100 x 100 mm\nZertifikat: ENERGY STAR-Zertifizierung\nGlanz: 250 ANSI\nSpannung: 100 - 240 V\nMontage: VESA\nBildschirm: 23,8\"\nEnergieklassifizierung: E\nAufl\u00f6sung: Full HD\nSeitenverh\u00e4ltnis: 16:9\nAufl\u00f6sung (px): 1920 x 1080 px",
+    "reference_file": "offer_reference_700.json",
+    "shop_name": "bauguru"
+}

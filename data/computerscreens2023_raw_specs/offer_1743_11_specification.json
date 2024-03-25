@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_1743_11.html",
+    "name": "ASUS VA229QSB, 21.5\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/15152007?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 167.95,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, VGA/D-Sub",
+        "Bildwiederholungsrate": "60,00 Hz",
+        "Display Features": "FlickerFree",
+        "Display Sync": "AMD FreeSync, Adaptive Sync",
+        "Displaygr\u00f6\u00dfe": "55,88 cm (22 Zoll)",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "F",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "6,30 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "5,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: F\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, VGA/D-Sub\nFiltergruppennummer: Monitore\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nDisplay Features: FlickerFree\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nDisplaygr\u00f6\u00dfe: 55,88 cm (22 Zoll)\nGewicht: 6,30 kg\nDisplay Sync: AMD FreeSync, Adaptive Sync\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 5,00 ms\nBildwiederholungsrate: 60,00 Hz\nEinsatzort: Innen",
+    "reference_file": "offer_reference_1743.json",
+    "shop_name": "office-partner (AT)"
+}

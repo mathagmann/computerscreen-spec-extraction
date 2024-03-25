@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_548_26.html",
+    "name": "GIGABYTE M28U-AE Arm Edition, 28\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/m28u_ae_ek/dis-28-gbt-m28u-ae.html",
+    "price": 740.31,
+    "raw_specifications": {
+        "Artikelnummer": "M1HYHDCL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "144 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "28 Zoll",
+        "EAN": "4719331836481",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "M28U AE EK",
+        "Panel": "IPS",
+        "Reaktionszeit": "2 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 28 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 2 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 144 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: M28U AE EK\nEAN: 4719331836481\nArtikelnummer: M1HYHDCL",
+    "reference_file": "offer_reference_548.json",
+    "shop_name": "mylemon.at"
+}

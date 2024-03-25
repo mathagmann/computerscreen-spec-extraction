@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_51_1.html",
+    "name": "MSI PRO MP243X, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/pro_mp243x/monitor-pro-mp243x.html",
+    "price": 145.8,
+    "raw_specifications": {
+        "Artikelnummer": "M1MY1KVL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "100 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4711377035279",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "PRO MP243X",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "75x75 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 75x75 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 100 Hz, Lautsprecher\nHersteller Artikelnummer: PRO MP243X\nEAN: 4711377035279\nArtikelnummer: M1MY1KVL",
+    "reference_file": "offer_reference_51.json",
+    "shop_name": "mylemon.at"
+}

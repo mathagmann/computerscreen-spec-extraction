@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1433_2.html",
+    "name": "LG 24MP60G-B, 23.8\"",
+    "offer_link": "https://haym.info/produktdetails?id=1C29484",
+    "price": 112.28,
+    "raw_specifications": {
+        "Artikelnummer": "1C29484",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.8 Zoll",
+        "Bildschirmdiagonale/cm": "60.5 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "75x75",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.8 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 75x75\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 60.5 cm\nTouch-Funktion: nein\nArtikelnummer: 1C29484\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_1433.json",
+    "shop_name": "haym.infotec"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2483_4.html",
+    "name": "Philips V-line 223V5LHSB2, 21.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/223v5lhsb2_00/223v5lhsb2-00-54-6cm-21.html",
+    "price": 113.89,
+    "raw_specifications": {
+        "Artikelnummer": "MHAY14L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "60 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "21,5 Zoll",
+        "EAN": "8712581735838",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "200 cd/m\u00b2",
+        "Hersteller Artikelnummer": "223V5LHSB2/00",
+        "Panel": "TN",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 21,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: TN\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 200 cd/m\u00b2\nBesonderheiten: 60 Hz, USB HUB\nHersteller Artikelnummer: 223V5LHSB2/00\nEAN: 8712581735838\nArtikelnummer: MHAY14L",
+    "reference_file": "offer_reference_2483.json",
+    "shop_name": "mylemon.at"
+}

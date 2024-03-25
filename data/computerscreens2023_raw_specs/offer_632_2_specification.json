@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_632_2.html",
+    "name": "AG neovo DR-22G, 21.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/ag_neovo/dr2g00a1e0100/ag-neovo-dr-22g-55.html",
+    "price": 1027.98,
+    "raw_specifications": {
+        "Artikelnummer": "M10YJKSL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "21,5 Zoll",
+        "EAN": "4710739595932",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "DR2G00A1E0100",
+        "Panel": "TN",
+        "Reaktionszeit": "3 ms",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 21,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: TN\nReaktionszeit: 3 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 2x HDMI, 1x DisplayPort\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: DR2G00A1E0100\nEAN: 4710739595932\nArtikelnummer: M10YJKSL",
+    "reference_file": "offer_reference_632.json",
+    "shop_name": "mylemon.at"
+}

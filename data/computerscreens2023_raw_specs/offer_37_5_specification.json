@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_37_5.html",
+    "name": "ASUS ROG Strix XG259QN, 24.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C18253",
+    "price": 521.17,
+    "raw_specifications": {
+        "Artikelnummer": "3C18253",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "24.5 Zoll",
+        "Bildschirmdiagonale/cm": "62.2 cm",
+        "DVI": "0x",
+        "HDMI": "2x",
+        "Helligkeit": "400 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 24.5 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nVGA: 0x\nDVI: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 400 cd/m2\nBildschirmdiagonale/cm: 62.2 cm\nTouch-Funktion: nein\nArtikelnummer: 3C18253\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_37.json",
+    "shop_name": "haym.infotec"
+}

@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_953_3.html",
+    "name": "Philips B-line 246B1, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/246b1_00/246b1-00-60-45cm-23.html",
+    "price": 220.27,
+    "raw_specifications": {
+        "Artikelnummer": "M18YVV3L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "24 Zoll",
+        "EAN": "8712581776183",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "246B1/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 24 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 246B1/00\nEAN: 8712581776183\nArtikelnummer: M18YVV3L",
+    "reference_file": "offer_reference_953.json",
+    "shop_name": "mylemon.at"
+}

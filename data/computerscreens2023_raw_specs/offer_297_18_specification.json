@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_297_18.html",
+    "name": "ASUS VA34VCPSN, 34\"",
+    "offer_link": "https://www.cyberport.at/?DEEP=6135-0HW&APID=294&STOREID=7",
+    "price": 590.9,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3.440x1.440 Ultra Wide QHD",
+        "Betrachtungswinkel h/v": "178\u00b0/178\u00b0",
+        "Bildformat": "21:9",
+        "Bildwiederholfrequenz": "100 Hz",
+        "Breite in mm": "809mm",
+        "Displaygr\u00f6\u00dfe in Zoll": "34 Zoll",
+        "Displaygr\u00f6\u00dfe in cm": "86,4 cm",
+        "Farbtiefe": "8 Bit / 16,7 Mio Farben",
+        "Gewicht in kg": "9,5 kg",
+        "Helligkeit": "300 cd/m\u00b2",
+        "H\u00f6he in mm": "354mm",
+        "H\u00f6henverstellbar": "130mm",
+        "Jahresverbrauch": "31 kWh",
+        "Kontrast dynamisch": "k.A.",
+        "Kontrast typisch": "3.000:1",
+        "Lautsprecher": "2x",
+        "Leistung": "2W",
+        "Oberfl\u00e4che": "matt",
+        "Reaktionszeit": "4 ms",
+        "Technologie": "VA/PVA/MVA/AMVA",
+        "Tiefe in mm": "211mm",
+        "Wandmontage": "VESA100x100"
+    },
+    "raw_specifications_text": "Jahresverbrauch: 31 kWh\nDisplaygr\u00f6\u00dfe in cm: 86,4 cm\nDisplaygr\u00f6\u00dfe in Zoll: 34 Zoll\nTechnologie: VA/PVA/MVA/AMVA\nAufl\u00f6sung: 3.440x1.440 Ultra Wide QHD\nBildformat: 21:9\nOberfl\u00e4che: matt\nFarbtiefe: 8 Bit / 16,7 Mio Farben\nHelligkeit: 300 cd/m\u00b2\nKontrast typisch: 3.000:1\nKontrast dynamisch: k.A.\nReaktionszeit: 4 ms\nBetrachtungswinkel h/v: 178\u00b0/178\u00b0\nBildwiederholfrequenz: 100 Hz\nH\u00f6henverstellbar: 130mm\nWandmontage: VESA100x100\nBreite in mm: 809mm\nH\u00f6he in mm: 354mm\nTiefe in mm: 211mm\nLautsprecher: 2x\nLeistung: 2W\nGewicht in kg: 9,5 kg",
+    "reference_file": "offer_reference_297.json",
+    "shop_name": "Cyberport Stores \u00d6sterreich"
+}

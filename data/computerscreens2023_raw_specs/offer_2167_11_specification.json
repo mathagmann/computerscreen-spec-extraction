@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2167_11.html",
+    "name": "ASUS VA279HAL, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm04j9_b03370/68-6cm-commercial-va279hal-d.html",
+    "price": 172.39,
+    "raw_specifications": {
+        "Artikelnummer": "M1JY4LXL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "60 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4718017220422",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM04J9-B03370",
+        "Panel": "VA",
+        "Reaktionszeit": "6 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 6 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 60 Hz, Lautsprecher\nHersteller Artikelnummer: 90LM04J9-B03370\nEAN: 4718017220422\nArtikelnummer: M1JY4LXL",
+    "reference_file": "offer_reference_2167.json",
+    "shop_name": "mylemon.at"
+}

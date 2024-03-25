@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_1376_32.html",
+    "name": "ASUS VP32AQ, 31.5\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125543-monitor-asus-vp32aq-32-4711081031154.html",
+    "price": 347.7,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Wide Quad HD+",
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Energieklassifizierung": "G",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Farbe": "Schwarz",
+        "Glanz": "350 lm ANSI",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1200:1",
+        "Kopfh\u00f6rer": "3,5 mm",
+        "Leistung": "4 W",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 8\u00ba",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Stromquelle": "Wechselstrom",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Steckbares Produkt: Ja\nSteckertyp: EU-Stecker\nAufl\u00f6sung (px): 2560 x 1440 px\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: G\nKontrastverh\u00e4ltnis: 1200:1\nKopfh\u00f6rer: 3,5 mm\nVerbindung: DisplayPort 1.2\nAufl\u00f6sung: Wide Quad HD+\nLeistung: 4 W\nGlanz: 350 lm ANSI\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nStromquelle: Wechselstrom\nMontage: VESA\nKompatibel: VESA 100 x 100 mm\nNeigungswinkel: -5\u00ba / 8\u00ba",
+    "reference_file": "offer_reference_1376.json",
+    "shop_name": "bauguru"
+}

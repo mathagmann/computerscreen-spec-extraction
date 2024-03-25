@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_2304_12.html",
+    "name": "AG neovo X-15E schwarz, 15\"",
+    "offer_link": "https://www.future-x.at/ag-neovo-x15e-15in-1024-768-300cd-glas-schwarz-p-1987609/?pv=2",
+    "price": 427.99,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1024 * 768",
+        "Aufl\u00f6sungsstandard": "XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "15 \"",
+        "Bilddiagonale (cm)": "38,1 cm",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "700:1",
+        "Material": "Glas",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 38,1 cm\nBilddiagonale (Zoll): 15 \"\nAufl\u00f6sung: 1024 * 768\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 700:1\nAufl\u00f6sungsstandard: XGA (1024x768)\nMaterial: Glas\nFarbe: Schwarz",
+    "reference_file": "offer_reference_2304.json",
+    "shop_name": "Future-X.at"
+}

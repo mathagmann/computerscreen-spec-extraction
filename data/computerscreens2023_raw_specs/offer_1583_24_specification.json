@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_1583_24.html",
+    "name": "Dell UltraSharp U4021QW, 39.7\"",
+    "offer_link": "https://technikladen.at/I-Dell-UltraSharp-U4021QW-1008-cm-397-Zoll-5120-x-2160-Pixel-LCD-8-ms-Schwarz-Silber?tl=gzhls",
+    "price": 1509.23,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "100,8 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "5120 x 2160 Pixel",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "4K DCI",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "21:9",
+        "Produktfarbe": "Silber",
+        "Reaktionszeit": "8 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 100,8 cm\nDisplay-Aufl\u00f6sung: 5120 x 2160 Pixel\nHD-Typ: 4K DCI\nBildschirmtechnologie: LCD\nReaktionszeit: 8 ms\nNatives Seitenverh\u00e4ltnis: 21:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Silber",
+    "reference_file": "offer_reference_1583.json",
+    "shop_name": "TechnikLaden"
+}

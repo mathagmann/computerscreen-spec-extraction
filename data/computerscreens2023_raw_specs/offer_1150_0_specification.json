@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1150_0.html",
+    "name": "Monoprice Dark Matter, 49\"",
+    "offer_link": "https://www.mylemon.at/artikel/monoprice/143263/dark-matter-124-46-cm.html",
+    "price": 1149.94,
+    "raw_specifications": {
+        "Artikelnummer": "M18YTSLL",
+        "Aufl\u00f6sung": "5120x1440",
+        "Besonderheiten": "Curved",
+        "Displaygr\u00f6\u00dfe": "49 Zoll",
+        "EAN": "0889028174814",
+        "Ergonomie": "Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "143263",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "75x75 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 2x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 49 Zoll\nAufl\u00f6sung: 5120x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 2x DisplayPort\nErgonomie: Schwenkbar, Neigbar\nVESA Halterung: 75x75 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: Curved\nHersteller Artikelnummer: 143263\nEAN: 0889028174814\nArtikelnummer: M18YTSLL",
+    "reference_file": "offer_reference_1150.json",
+    "shop_name": "mylemon.at"
+}

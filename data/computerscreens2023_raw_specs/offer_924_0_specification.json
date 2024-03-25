@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_924_0.html",
+    "name": "MSI MPG Artymis 273CQR-QD, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3cc05t_0014/mpg-artymis-273cqr-qd-gaming.html",
+    "price": 502.2,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYUWAL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz, Curved, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719072881443",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3CC05T-0014",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 165 Hz, Curved, USB HUB\nHersteller Artikelnummer: 9S6-3CC05T-0014\nEAN: 4719072881443\nArtikelnummer: M1LYUWAL",
+    "reference_file": "offer_reference_924.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_1394_28.html",
+    "name": "HP M27fw, 27\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=320000000121409792&ano=A-I121409792&mno=2H1A4AA&ean=5715063139752&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 343.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Wei\u00df",
+        "Gewicht": "3,2 kg",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kennzeichnung": "CB; CE; FCC",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: CB; CE; FCC\nFarbe: Wei\u00df\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nBildwiederholfrequenz (Hz): 75 Hz\nGewicht: 3,2 kg",
+    "reference_file": "offer_reference_1394.json",
+    "shop_name": "ElectronicShop24"
+}

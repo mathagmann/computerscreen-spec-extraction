@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_552_2.html",
+    "name": "Philips S-line 222S1AE, 21.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/222s1ae_00/monitor-222s1ae-21-5-inch.html",
+    "price": 171.28,
+    "raw_specifications": {
+        "Artikelnummer": "M1GYRPHL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "21,5 Zoll",
+        "EAN": "8712581767259",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "222S1AE/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 21,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 222S1AE/00\nEAN: 8712581767259\nArtikelnummer: M1GYRPHL",
+    "reference_file": "offer_reference_552.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_122_20.html",
+    "name": "iiyama ProLite B1980D-B5, 19\"",
+    "offer_link": "https://www.future-x.at/iiyama-prolite-b1980d-b5-wei%DF-19-48cm-1280-x-1024-5%3A4-1000%3A1-5ms-vga-dvi-p-9178926/?pv=2",
+    "price": 162.89,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1280 * 1024",
+        "Aufl\u00f6sungsstandard": "SXGA (1280x1024)",
+        "Betrachtungswinkel horizontal": "90 \u00b0",
+        "Bilddiagonale (Zoll)": "19 \"",
+        "Bilddiagonale (cm)": "48 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "TFT",
+        "Pivot": "90 \u00b0",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 48 cm\nBilddiagonale (Zoll): 19 \"\nAufl\u00f6sung: 1280 * 1024\nAufl\u00f6sungsstandard: SXGA (1280x1024)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nBetrachtungswinkel horizontal: 90 \u00b0\nPaneltyp: TFT\nPivot: 90 \u00b0\nVideo-Schnittstellen: DVI; VGA\nBildwiederholfrequenz (Hz): 60 Hz",
+    "reference_file": "offer_reference_122.json",
+    "shop_name": "Future-X.at"
+}

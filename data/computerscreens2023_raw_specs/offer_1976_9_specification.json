@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1976_9.html",
+    "name": "ViewSonic VP2785-2K, 27\"",
+    "offer_link": "https://haym.info/produktdetails?id=0C03951",
+    "price": 627.32,
+    "raw_specifications": {
+        "Artikelnummer": "0C03951",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "27 Zoll",
+        "Bildschirmdiagonale/cm": "68.6 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "48 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 27 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 68.6 cm\nTouch-Funktion: nein\nArtikelnummer: 0C03951\nHerstellergarantie: 48 Monate",
+    "reference_file": "offer_reference_1976.json",
+    "shop_name": "haym.infotec"
+}

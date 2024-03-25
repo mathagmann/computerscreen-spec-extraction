@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1047_24.html",
+    "name": "Philips 5000 27E1N5600AE, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/27e1n5600ae_00/27e1n5600ae-00-68-58cm-27zoll.html",
+    "price": 312.26,
+    "raw_specifications": {
+        "Artikelnummer": "M19YYG0L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "75 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581783402",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "27E1N5600AE/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher\nHersteller Artikelnummer: 27E1N5600AE/00\nEAN: 8712581783402\nArtikelnummer: M19YYG0L",
+    "reference_file": "offer_reference_1047.json",
+    "shop_name": "mylemon.at"
+}

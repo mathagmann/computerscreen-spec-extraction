@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_929_21.html",
+    "name": "ASUS ROG Strix XG259CM, 24.5\"",
+    "offer_link": "https://technikladen.at/P-ASUS-622cm-GAMING-ROG-XG259CM-HDMIDP-Gsync-240hz-Lift-Flachbildschirm-TFT/LCD-622-cm?tl=gzhls",
+    "price": 528.01,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "62,2 cm",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "1920 x 1080 Pixel",
+        "Display-Oberfl\u00e4che": "Matt",
+        "HD-Typ": "Full HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "1 ms",
+        "USB-Hub-Version": "3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 62,2 cm\nDisplay-Aufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nDisplay-Oberfl\u00e4che: Matt\nReaktionszeit: 1 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_929.json",
+    "shop_name": "TechnikLaden"
+}

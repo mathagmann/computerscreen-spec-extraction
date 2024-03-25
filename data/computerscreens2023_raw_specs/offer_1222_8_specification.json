@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1222_8.html",
+    "name": "Dell C1422H, 14\"",
+    "offer_link": "https://www.future-x.at/dell-14-portable-monitor-c1422h-35-5-cm-flachbildschirm-tft-lcd-35-5-6-ms-700%3A1-ips-usb-typ-c-p-8913445/?pv=2",
+    "price": 1444.3,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1980 * 1080",
+        "Bilddiagonale (Zoll)": "14 \"",
+        "Bilddiagonale (cm)": "35,5 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Kontrastverh\u00e4ltnis": "700:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "6 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 35,5 cm\nBilddiagonale (Zoll): 14 \"\nAufl\u00f6sung: 1980 * 1080\nReaktionszeit: 6 ms\nKontrastverh\u00e4ltnis: 700:1\nPaneltyp: IPS\nPC-Schnittstellen: USB Typ C\nBildwiederholfrequenz (Hz): 60 Hz",
+    "reference_file": "offer_reference_1222.json",
+    "shop_name": "Future-X.at"
+}

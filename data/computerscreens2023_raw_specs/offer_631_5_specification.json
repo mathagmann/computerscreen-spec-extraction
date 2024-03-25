@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_631_5.html",
+    "name": "AG neovo LH-24, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/ag_neovo/lh240011e0100/lh-24-60-45cm-23.html",
+    "price": 260.99,
+    "raw_specifications": {
+        "Artikelnummer": "MW4YRYL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4710739595772",
+        "Helligkeit": "270 cd/m\u00b2",
+        "Hersteller Artikelnummer": "LH240011E0100",
+        "Panel": "IPS",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nHelligkeit: 270 cd/m\u00b2\nHersteller Artikelnummer: LH240011E0100\nEAN: 4710739595772\nArtikelnummer: MW4YRYL",
+    "reference_file": "offer_reference_631.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_1180_28.html",
+    "name": "Dell S2722DZ, 27\"",
+    "offer_link": "https://technikladen.at/P-Dell-TFT-S2722DZ-27IN-IPS-WHITE-Flachbildschirm-TFT/LCD-IPS?tl=gzhls",
+    "price": 375.97,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,47 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Energieeffizienzklasse": "F",
+        "Farbe": "Silber; Wei\u00df",
+        "Gewicht": "8,7 kg",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Netzwerkkameras": "Webcam",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Silber; Wei\u00df\nBilddiagonale (cm): 68,47 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 350 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nNetzwerkkameras: Webcam\nEnergieeffizienzklasse: F\nGewicht: 8,7 kg",
+    "reference_file": "offer_reference_1180.json",
+    "shop_name": "TechnikLaden"
+}

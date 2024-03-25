@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1326_19.html",
+    "name": "Philips P-line 439P1, 42.51\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/439p1_00/phil-43-l-439p1-00.html",
+    "price": 821.24,
+    "raw_specifications": {
+        "Artikelnummer": "M16YFCCL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "60 Hz",
+        "Displaygr\u00f6\u00dfe": "42,5 Zoll",
+        "EAN": "8712581776947",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "439P1/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "200x200 mm",
+        "Video Anschl\u00fcsse": "3x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 42,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 3x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 200x200 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 60 Hz\nHersteller Artikelnummer: 439P1/00\nEAN: 8712581776947\nArtikelnummer: M16YFCCL",
+    "reference_file": "offer_reference_1326.json",
+    "shop_name": "mylemon.at"
+}

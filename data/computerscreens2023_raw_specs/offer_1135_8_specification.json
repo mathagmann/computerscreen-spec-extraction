@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1135_8.html",
+    "name": "LC-Power LC-M27-QHD-240-C-K, 27\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C04058",
+    "price": 576.12,
+    "raw_specifications": {
+        "Artikelnummer": "2C04058",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "27 Zoll",
+        "Bildschirmdiagonale/cm": "68.6 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "2x",
+        "Helligkeit": "650 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 27 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 650 cd/m2\nBildschirmdiagonale/cm: 68.6 cm\nTouch-Funktion: nein\nArtikelnummer: 2C04058\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1135.json",
+    "shop_name": "haym.infotec"
+}

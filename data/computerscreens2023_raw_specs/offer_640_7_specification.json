@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_640_7.html",
+    "name": "Philips S-line 242S9AL, 23.8\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C24182",
+    "price": 109.8,
+    "raw_specifications": {
+        "Artikelnummer": "2C24182",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.8 Zoll",
+        "Bildschirmdiagonale/cm": "60.5 cm",
+        "DVI": "1x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.8 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 1x\nDisplayPort: 0x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 60.5 cm\nTouch-Funktion: nein\nArtikelnummer: 2C24182\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_640.json",
+    "shop_name": "haym.infotec"
+}

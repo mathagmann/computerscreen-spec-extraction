@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_1112_2.html",
+    "name": "ASUS BE27ACSBK, 27\"",
+    "offer_link": "https://technikladen.at/P-ASUS-27-L-BE27ACSBK?tl=gzhls",
+    "price": 472.34,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "68,6 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Quad HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "USB-Hub-Version": "3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm\nHD-Typ: Quad HD\nBildschirmtechnologie: LED\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1112.json",
+    "shop_name": "TechnikLaden"
+}

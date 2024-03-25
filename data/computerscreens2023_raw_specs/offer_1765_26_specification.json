@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1765_26.html",
+    "name": "AOC U32E2N, 31.5\"",
+    "offer_link": "https://www.future-x.at/aoc-32-va-uhd-4k-monitor-3840-x-2160-60hz-displayport-hdmi-4ms-flachbildschirm-tft-lcd-32-2500%3A1-displayport-eingang-p-8690437/?pv=2",
+    "price": 381.59,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Bilddiagonale (Zoll)": "32 \"",
+        "Bilddiagonale (cm)": "80,01 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "2500:1",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video Ein- und Ausg\u00e4nge": "Displayport-Eingang",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 80,01 cm\nBilddiagonale (Zoll): 32 \"\nAufl\u00f6sung: 3840 * 2160\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 2500:1\nBildwiederholfrequenz (Hz): 60 Hz\nVideo-Schnittstellen: DisplayPort; HDMI\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nVideo Ein- und Ausg\u00e4nge: Displayport-Eingang\nFarbe: Schwarz",
+    "reference_file": "offer_reference_1765.json",
+    "shop_name": "Future-X.at"
+}

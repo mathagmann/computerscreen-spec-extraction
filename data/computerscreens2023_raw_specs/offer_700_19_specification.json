@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_700_19.html",
+    "name": "HP P24 G5, 23.8\"",
+    "offer_link": "https://technikladen.at/P-64X66AAABB-HP-P24-G5-605-cm-238-Zoll-1920-x-1080-Pixel-Full-HD-LCD-5-ms-Schwarz-64X66AAABB-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+    "price": 136.2,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "1920 x 1080 Pixel",
+        "HD-Typ": "Full HD",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nDisplay-Aufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LCD\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_700.json",
+    "shop_name": "TechnikLaden"
+}

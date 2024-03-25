@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_2457_12.html",
+    "name": "Eizo FlexScan S1934 schwarz, 19\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/6294225?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 320.97,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "USB, DisplayPort, Kopfh\u00f6reranschluss, DVI-D, VGA/D-Sub, Audioausgang (Line-Out), Audioeingang (Line-In)",
+        "Bildwiederholungsrate": "60 Hz",
+        "Displaygr\u00f6\u00dfe": "48,26 cm (19 Zoll)",
+        "Energieeffizienzklasse": "C",
+        "Gewicht": "7,60 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Hersteller": "Eizo",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "14 ms",
+        "Seitenverh\u00e4ltnis": "5:4",
+        "max. Aufl\u00f6sung": "1.280 x 1.024 Pixel (5:4)"
+    },
+    "raw_specifications_text": "Anschl\u00fcsse: USB, DisplayPort, Kopfh\u00f6reranschluss, DVI-D, VGA/D-Sub, Audioausgang (Line-Out), Audioeingang (Line-In)\nProduktart: Monitore\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nGewicht: 7,60 kg\nHersteller: Eizo\nDisplaygr\u00f6\u00dfe: 48,26 cm (19 Zoll)\nmax. Aufl\u00f6sung: 1.280 x 1.024 Pixel (5:4)\nSeitenverh\u00e4ltnis: 5:4\nLCD-Technologie: IPS Panel\nReaktionszeit: 14 ms\nBildwiederholungsrate: 60 Hz\nEnergieeffizienzklasse: C",
+    "reference_file": "offer_reference_2457.json",
+    "shop_name": "playox (AT)"
+}

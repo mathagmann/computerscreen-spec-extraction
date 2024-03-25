@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_790_6.html",
+    "name": "Samsung S60UA, 24\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C10272",
+    "price": 281.98,
+    "raw_specifications": {
+        "Artikelnummer": "3C10272",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "24 Zoll",
+        "Bildschirmdiagonale/cm": "61 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "1x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "75x75",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 24 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 75x75\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 61 cm\nTouch-Funktion: nein\nArtikelnummer: 3C10272\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_790.json",
+    "shop_name": "haym.infotec"
+}

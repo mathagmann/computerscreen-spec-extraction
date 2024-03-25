@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2483_6.html",
+    "name": "Philips V-line 223V5LHSB2, 21.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=6C05529",
+    "price": 115.78,
+    "raw_specifications": {
+        "Artikelnummer": "6C05529",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "21.5 Zoll",
+        "Bildschirmdiagonale/cm": "54.6 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "200 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 21.5 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 200 cd/m2\nBildschirmdiagonale/cm: 54.6 cm\nTouch-Funktion: nein\nArtikelnummer: 6C05529\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_2483.json",
+    "shop_name": "haym.infotec"
+}

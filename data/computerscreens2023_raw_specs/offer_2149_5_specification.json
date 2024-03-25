@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_2149_5.html",
+    "name": "Philips B-line 272B7QUBHEB, 27\"",
+    "offer_link": "https://haym.info/produktdetails?id=9C30643",
+    "price": 438.43,
+    "raw_specifications": {
+        "Artikelnummer": "9C30643",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "27 Zoll",
+        "Bildschirmdiagonale/cm": "68.6 cm",
+        "DVI": "0x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "1x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 27 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 68.6 cm\nTouch-Funktion: nein\nArtikelnummer: 9C30643\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2149.json",
+    "shop_name": "haym.infotec"
+}

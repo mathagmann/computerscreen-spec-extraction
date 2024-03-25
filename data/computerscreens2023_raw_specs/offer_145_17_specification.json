@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_145_17.html",
+    "name": "Acer KA0 KA270Hbi, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/129042-monitor-acer-um-hx0ee-034-led-va-amd-freesync-flicker-free-4711121505980.html",
+    "price": 147.8,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Energieklassifizierung": "F",
+        "Farbe": "Schwarz",
+        "Glanz": "250 cd/m2",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Reaktionszeit": "1 ms",
+        "Spannung": "100-240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Technologie": "LED",
+        "Touchscreen": "Kein"
+    },
+    "raw_specifications_text": "Diagonale des Bildschirms (cm): 68,6 cm\nAufl\u00f6sung (px): 1920 x 1080 px\nReaktionszeit: 1 ms\nKompatibel: VESA 100 x 100 mm\nTouchscreen: Kein\nSpannung: 100-240 V\nGlanz: 250 cd/m2\nBildschirm: 27\"\nTechnologie: LED\nAufl\u00f6sung: Full HD\nFarbe: Schwarz\nArt: Monitor\nSteckbares Produkt: Ja\nEnergieklassifizierung: F\nSteckertyp: EU-Stecker",
+    "reference_file": "offer_reference_145.json",
+    "shop_name": "bauguru"
+}

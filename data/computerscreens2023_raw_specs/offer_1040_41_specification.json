@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1040_41.html",
+    "name": "Dell E2723HN, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126904-monitor-dell-e2723hn-5397184656822.html",
+    "price": 202.9,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "27\"",
+        "Energieklassifizierung": "D",
+        "Gaming": "Kein",
+        "Pixel-Dichte (dpi)": "81 dpi",
+        "Ports": "1",
+        "Steckbares Produkt": "Ja",
+        "Technologie": "IPS",
+        "Touchscreen": "Kein"
+    },
+    "raw_specifications_text": "Technologie: IPS\nAufl\u00f6sung (px): 1920 x 1080 px\nPorts: 1\nBildschirm: 27\"\nGaming: Kein\nTouchscreen: Kein\nPixel-Dichte (dpi): 81 dpi\nArt: Monitor\nSteckbares Produkt: Ja\nEnergieklassifizierung: D",
+    "reference_file": "offer_reference_1040.json",
+    "shop_name": "bauguru"
+}

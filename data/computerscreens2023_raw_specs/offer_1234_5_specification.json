@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_1234_5.html",
+    "name": "ASUS VP299CL, 29\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/132786-monitor-asus-vp299cl-full-hd-2560x1080-29-4711081166566.html",
+    "price": 340.4,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Bildschirm": "29\"",
+        "Empfohlene verwendung": "Haushalt",
+        "Energieklassifizierung": "G",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Finish": "Mattierend",
+        "Glanz": "350 lm ANSI",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Konnektivit\u00e4t": "HDMI",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Maximale Anpassung": "130 mm",
+        "Montage": "VESA",
+        "Ports": "1",
+        "Reichweite": "99% sRGB",
+        "Seitenverh\u00e4ltnis": "21:9",
+        "Spannung": "100 - 240 V",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Energieklassifizierung: G\nArt: Monitor\nKonnektivit\u00e4t: HDMI\nKontrastverh\u00e4ltnis: 1000:1\nFinish: Mattierend\nPorts: 1\nBildschirm: 29\"\nSpannung: 100 - 240 V\nGlanz: 350 lm ANSI\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nSeitenverh\u00e4ltnis: 21:9\nMontage: VESA\nMaximale Anpassung: 130 mm\nEmpfohlene verwendung: Haushalt\nReichweite: 99% sRGB\nKompatibel: VESA 100 x 100 mm",
+    "reference_file": "offer_reference_1234.json",
+    "shop_name": "bauguru"
+}

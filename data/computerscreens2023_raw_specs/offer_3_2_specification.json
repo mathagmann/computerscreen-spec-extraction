@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_3_2.html",
+    "name": "Acer CB2 CB272Ebir, 27\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000001287174141&ano=A-H1287174141&mno=UM.HB2EE.E08&ean=4711121618567&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 179.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "100 Hz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 4 ms\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; VGA\nBildwiederholfrequenz (Hz): 100 Hz\nVerstellbarkeit: H\u00f6henverstellbar",
+    "reference_file": "offer_reference_3.json",
+    "shop_name": "ElectronicShop24"
+}

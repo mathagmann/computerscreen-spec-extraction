@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_2060_5.html",
+    "name": "Apple Pro Display XDR (Standardglas), 32\"",
+    "offer_link": "https://www.cyberport.at/?DEEP=6101-21D&APID=294&STOREID=7",
+    "price": 5194.9,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "6016x3384",
+        "Betrachtungswinkel h/v": "k.A.",
+        "Bildformat": "16:9",
+        "Breite in mm": "720mm",
+        "Displaygr\u00f6\u00dfe in Zoll": "32 Zoll",
+        "Displaygr\u00f6\u00dfe in cm": "81,3 cm",
+        "Farbraumabdeckung": "gro\u00dfer P3 Farbraum",
+        "Farbtiefe": "10 Bit / 1,07 Mrd Farben",
+        "Gewicht in kg": "7,5 kg",
+        "Helligkeit": "1.000 cd/m\u00b2",
+        "H\u00f6he in mm": "412mm",
+        "Jahresverbrauch": "54 kWh",
+        "Kontrast dynamisch": "k.A.",
+        "Kontrast typisch": "1.000.000:1",
+        "Leistungsaufnahme": "54 Watt",
+        "Reaktionszeit": "k.A.",
+        "Tiefe in mm": "27mm",
+        "USB-C": "3x"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe in cm: 81,3 cm\nDisplaygr\u00f6\u00dfe in Zoll: 32 Zoll\nAufl\u00f6sung: 6016x3384\nBildformat: 16:9\nFarbraumabdeckung: gro\u00dfer P3 Farbraum\nFarbtiefe: 10 Bit / 1,07 Mrd Farben\nHelligkeit: 1.000 cd/m\u00b2\nKontrast typisch: 1.000.000:1\nKontrast dynamisch: k.A.\nReaktionszeit: k.A.\nBetrachtungswinkel h/v: k.A.\nUSB-C: 3x\nJahresverbrauch: 54 kWh\nLeistungsaufnahme: 54 Watt\nBreite in mm: 720mm\nH\u00f6he in mm: 412mm\nTiefe in mm: 27mm\nGewicht in kg: 7,5 kg",
+    "reference_file": "offer_reference_2060.json",
+    "shop_name": "Cyberport Stores \u00d6sterreich"
+}

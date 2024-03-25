@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_1700_1.html",
+    "name": "Lenovo ThinkVision M14 (2020), 14\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133461-monitor-lenovo-thinkvision-m14-14-led-ips-lcd-60-hz-0193386077725.html",
+    "price": 332.0,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "14\"",
+        "Diagonale des Bildschirms (cm)": "35,6 cm",
+        "Energieklassifizierung": "B",
+        "Farbe": "Schwarz",
+        "Frequenz": "60 Hz",
+        "Gaming": "Kein",
+        "Glanz": "300 cd/m\u00b2",
+        "Merkmale": "Flachbildschirm",
+        "Pixel-Dichte (dpi)": "157 dpi",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein"
+    },
+    "raw_specifications_text": "Gaming: Kein\nTouchscreen: Kein\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nAufl\u00f6sung (px): 1920 x 1080 px\nAufl\u00f6sung: Full HD\nPixel-Dichte (dpi): 157 dpi\nArt: Monitor\nEnergieklassifizierung: B\nDiagonale des Bildschirms (cm): 35,6 cm\nMerkmale: Flachbildschirm\nFarbe: Schwarz\nBildschirm: 14\"\nGlanz: 300 cd/m\u00b2\nFrequenz: 60 Hz",
+    "reference_file": "offer_reference_1700.json",
+    "shop_name": "bauguru"
+}

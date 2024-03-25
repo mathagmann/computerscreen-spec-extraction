@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_412_19.html",
+    "name": "Philips 3000 Series 16B1P3302D, 15.6\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/16b1p3302d_00/16b1p3302d-00-39-62cm-15.html",
+    "price": 312.99,
+    "raw_specifications": {
+        "Artikelnummer": "M1IY2U5L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "15,6 Zoll",
+        "EAN": "8712581799526",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "16B1P3302D/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 15,6 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: USB-C DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: 16B1P3302D/00\nEAN: 8712581799526\nArtikelnummer: M1IY2U5L",
+    "reference_file": "offer_reference_412.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_109_12.html",
+    "name": "Cooler Master GA271, 27\"",
+    "offer_link": "https://ms-it-beratung.at/shop/details.php?art=422860&artname=CoolerMaster+68%2C6cm+%2827%22%29+GA271+16%3A09+VA%2BDP%2BHDMI+WQHD+100Hz",
+    "price": 183.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2K WQHD 2560x1440",
+        "Betrachtungswinkel": "178\u00b0/178\u00b0",
+        "Bilddiagonale": "27\"",
+        "DP": "1",
+        "Farbe": "sRGB 95%",
+        "Frequenz": "100 Hz",
+        "HDMI": "2",
+        "HDR": "HDR10",
+        "Helligkeit (nits)": "250",
+        "Kontrast": "4000:1",
+        "Modellnummer": "CMI-GA271-EK",
+        "Neigungsverstellung": "-5\u00b0~+20\u00b0",
+        "Panel": "Flat Serie",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "VESA": "100x100 mm",
+        "VRR Technologie": "Adaptive Sync, FreeSync-Bereich, G-Sync-Bereich : Ja"
+    },
+    "raw_specifications_text": "Modellnummer: CMI-GA271-EK\nPanel: Flat Serie\nSeitenverh\u00e4ltnis: 16:9\nBilddiagonale: 27\"\nAufl\u00f6sung: 2K WQHD 2560x1440\nFrequenz: 100 Hz\nKontrast: 4000:1\nBetrachtungswinkel: 178\u00b0/178\u00b0\nHelligkeit (nits): 250\nHDR: HDR10\nFarbe: sRGB 95%\nNeigungsverstellung: -5\u00b0~+20\u00b0\nDP: 1\nHDMI: 2\nVESA: 100x100 mm\nVRR Technologie: Adaptive Sync, FreeSync-Bereich, G-Sync-Bereich : Ja",
+    "reference_file": "offer_reference_109.json",
+    "shop_name": "ms-it-beratung"
+}

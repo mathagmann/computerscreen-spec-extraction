@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_602_2.html",
+    "name": "Samsung Odyssey G5 G53T / G54T / G55T (2022), 31.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C28573",
+    "price": 246.71,
+    "raw_specifications": {
+        "Artikelnummer": "2C28573",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "31.5 Zoll",
+        "Bildschirmdiagonale/cm": "80 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "1x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "75x75",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 31.5 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 75x75\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 80 cm\nTouch-Funktion: nein\nArtikelnummer: 2C28573\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_602.json",
+    "shop_name": "haym.infotec"
+}

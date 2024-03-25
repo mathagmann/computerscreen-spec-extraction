@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_586_16.html",
+    "name": "ASUS TUF Gaming VG27AQA1A, 27\"",
+    "offer_link": "https://www.future-x.at/asus-tuf-gaming-vg27aqa1a-68-6-cm-27-zoll-2560-x-1440-pixel-quad-hd-1-ms-schwarz-wqhd-monitor-170-hz-1ms-reaktionszeit-freesync-premium-hdr-10-elmb-displayport-p-9132694/?pv=2",
+    "price": 271.79,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,4 cm",
+        "Bildwiederholfrequenz (Hz)": "170 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,4 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 3000:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 170 Hz",
+    "reference_file": "offer_reference_586.json",
+    "shop_name": "Future-X.at"
+}

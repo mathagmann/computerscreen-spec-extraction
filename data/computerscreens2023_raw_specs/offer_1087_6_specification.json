@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_1087_6.html",
+    "name": "LC-Power LC-M27-FHD-165-C-V2, 27\"",
+    "offer_link": "https://technikladen.at/P-LC-Power-6858cm/27-1920x1080-LC-M27-FHD-165-C-V2-Curved-Gaming-16-9-1ms-165Hz?tl=gzhls",
+    "price": 225.05,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "4000:1",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "Neigbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 4000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 165 Hz\nVerstellbarkeit: Neigbar",
+    "reference_file": "offer_reference_1087.json",
+    "shop_name": "TechnikLaden"
+}

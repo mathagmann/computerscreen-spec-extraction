@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_1808_5.html",
+    "name": "Philips E-line 272E2FA, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/272e2fa_00/272e2fa-00-27-ips-1920x1080.html",
+    "price": 148.89,
+    "raw_specifications": {
+        "Artikelnummer": "M12Y5I7L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581767624",
+        "Hersteller Artikelnummer": "272E2FA/00",
+        "Panel": "IPS",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nHersteller Artikelnummer: 272E2FA/00\nEAN: 8712581767624\nArtikelnummer: M12Y5I7L",
+    "reference_file": "offer_reference_1808.json",
+    "shop_name": "mylemon.at"
+}

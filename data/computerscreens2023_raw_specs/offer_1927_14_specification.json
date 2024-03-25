@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_1927_14.html",
+    "name": "AOC U27P2, 27\"",
+    "offer_link": "https://www.future-x.at/aoc-lcd-monitor-27-68-58-cm-4k-16%3A9-ips-4-ms-usb-hub-schwarz-p-8459524/?pv=2",
+    "price": 306.89,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2460",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Farbe": "Schwarz",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 3840 * 2460\nReaktionszeit: 4 ms\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nFarbe: Schwarz",
+    "reference_file": "offer_reference_1927.json",
+    "shop_name": "Future-X.at"
+}

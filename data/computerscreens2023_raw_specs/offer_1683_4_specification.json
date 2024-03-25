@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1683_4.html",
+    "name": "Philips B-line 276B1, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/276b1_00/276b1-00-68-58cm-27zoll.html",
+    "price": 358.77,
+    "raw_specifications": {
+        "Artikelnummer": "M14YAZZL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581764357",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "276B1/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: 276B1/00\nEAN: 8712581764357\nArtikelnummer: M14YAZZL",
+    "reference_file": "offer_reference_1683.json",
+    "shop_name": "mylemon.at"
+}

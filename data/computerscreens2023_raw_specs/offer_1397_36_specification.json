@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_1397_36.html",
+    "name": "ASUS ZenScreen MB16ACV, 15.6\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126545-monitor-asus-mb16acv-15-6-4718017949040.html",
+    "price": 268.1,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "15,6\"",
+        "Diagonale des Bildschirms (cm)": "39,6 cm",
+        "Energieklassifizierung": "F",
+        "Farbe": "Schwarz",
+        "Geschwindigkeit": "60 Hz",
+        "Kontrastverh\u00e4ltnis": "800:1",
+        "Merkmale": "Flachbildschirm",
+        "Nicht erhalten": "AMD FreeSync",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein"
+    },
+    "raw_specifications_text": "Bildschirm: 15,6\"\nAufl\u00f6sung (px): 1920 x 1080 px\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 39,6 cm\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nAufl\u00f6sung: Full HD\nEnergieklassifizierung: F\nMerkmale: Flachbildschirm\nKontrastverh\u00e4ltnis: 800:1\nTouchscreen: Kein\nNicht erhalten: AMD FreeSync\nGeschwindigkeit: 60 Hz",
+    "reference_file": "offer_reference_1397.json",
+    "shop_name": "bauguru"
+}

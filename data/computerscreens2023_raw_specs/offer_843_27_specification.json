@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_843_27.html",
+    "name": "ASUS ROG Strix XG32UQ, 32\"",
+    "offer_link": "https://www.cyberport.at/?DEEP=6135-0JL&APID=294&STOREID=7",
+    "price": 1144.9,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3.840x2.160 4K (Ultra HD)",
+        "Betrachtungswinkel h/v": "178\u00b0/178\u00b0",
+        "Bildformat": "16:9",
+        "Bildwiederholfrequenz": "144 Hz (160Hz OC)",
+        "Breite in mm": "728mm",
+        "Displaygr\u00f6\u00dfe in Zoll": "32 Zoll",
+        "Displaygr\u00f6\u00dfe in cm": "81,3 cm",
+        "Farbtiefe": "10 Bit / 1,07 Mrd Farben",
+        "Gewicht in kg": "8,9 kg",
+        "Helligkeit": "450 cd/m\u00b2",
+        "H\u00f6he in mm": "459mm",
+        "H\u00f6henverstellbar": "80mm",
+        "Jahresverbrauch": "33 kWh",
+        "Kontrast dynamisch": "1.000.000:1",
+        "Kontrast typisch": "1.000:1",
+        "Lautsprecher": "kein",
+        "Oberfl\u00e4che": "matt",
+        "Reaktionszeit": "1 ms",
+        "Technologie": "IPS",
+        "Tiefe in mm": "279mm",
+        "USB-C": "kein",
+        "Wandmontage": "VESA100x100"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe in cm: 81,3 cm\nDisplaygr\u00f6\u00dfe in Zoll: 32 Zoll\nTechnologie: IPS\nAufl\u00f6sung: 3.840x2.160 4K (Ultra HD)\nBildformat: 16:9\nOberfl\u00e4che: matt\nFarbtiefe: 10 Bit / 1,07 Mrd Farben\nHelligkeit: 450 cd/m\u00b2\nKontrast typisch: 1.000:1\nKontrast dynamisch: 1.000.000:1\nReaktionszeit: 1 ms\nBetrachtungswinkel h/v: 178\u00b0/178\u00b0\nBildwiederholfrequenz: 144 Hz (160Hz OC)\nUSB-C: kein\nH\u00f6henverstellbar: 80mm\nWandmontage: VESA100x100\nBreite in mm: 728mm\nH\u00f6he in mm: 459mm\nTiefe in mm: 279mm\nGewicht in kg: 8,9 kg\nJahresverbrauch: 33 kWh\nLautsprecher: kein",
+    "reference_file": "offer_reference_843.json",
+    "shop_name": "Cyberport Stores \u00d6sterreich"
+}

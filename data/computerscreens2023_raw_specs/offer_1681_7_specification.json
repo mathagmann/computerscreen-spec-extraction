@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_1681_7.html",
+    "name": "HP P24 G4, 23.8\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/15278650?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 94.54,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, VGA/D-Sub",
+        "Bildwiederholungsrate": "60,00 Hz",
+        "Displaygr\u00f6\u00dfe": "58,42 cm (23 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Energieeffizienzklasse": "E",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "4,61 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "5,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: E\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nDisplaygr\u00f6\u00dfe: 58,42 cm (23 Zoll)\nAnschl\u00fcsse: HDMI, DisplayPort, VGA/D-Sub\nFiltergruppennummer: Monitore\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nGewicht: 4,61 kg\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 5,00 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 60,00 Hz",
+    "reference_file": "offer_reference_1681.json",
+    "shop_name": "office-partner (AT)"
+}

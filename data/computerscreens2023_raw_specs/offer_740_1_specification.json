@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_740_1.html",
+    "name": "MSI G281UVDE, 27.9\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3cc81q_024/optix-g281uvde-ips-3840x2160-uhd.html",
+    "price": 347.29,
+    "raw_specifications": {
+        "Artikelnummer": "M1BYZSGL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "AMD FreeSync, HDCP",
+        "Displaygr\u00f6\u00dfe": "27,9 Zoll",
+        "EAN": "4719072955977",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3CC81Q-024",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27,9 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: AMD FreeSync, HDCP\nHersteller Artikelnummer: 9S6-3CC81Q-024\nEAN: 4719072955977\nArtikelnummer: M1BYZSGL",
+    "reference_file": "offer_reference_740.json",
+    "shop_name": "mylemon.at"
+}

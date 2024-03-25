@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_324_35.html",
+    "name": "LG UltraFine 32UN880P-B, 31.5\"",
+    "offer_link": "https://technikladen.at/I-32UN880P-BBEU-LG-32-L-32UN880P-B-32UN880P-BBEU-Displays-Projektoren?tl=gzhls",
+    "price": 608.99,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Aufl\u00f6sungsstandard": "UHD (3840x2160)",
+        "Bilddiagonale (Zoll)": "32 \"",
+        "Bilddiagonale (cm)": "81,3 cm",
+        "Energieeffizienzklasse": "G",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 81,3 cm\nBilddiagonale (Zoll): 32 \"\nAufl\u00f6sung: 3840 * 2160\nAufl\u00f6sungsstandard: UHD (3840x2160)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nLautsprecher: Ja\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: G",
+    "reference_file": "offer_reference_324.json",
+    "shop_name": "TechnikLaden"
+}

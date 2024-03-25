@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_1649_44.html",
+    "name": "HP E23 G4, 23\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000000999367881&ano=A-H999367881&mno=9VF96AA&ean=194850079580&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 169.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA (1280x800); XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "23 \"",
+        "Bilddiagonale (cm)": "58,4 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Silber; Schwarz",
+        "Gewicht": "5,4 kg",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB 3.0",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort; HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Silber; Schwarz\nBilddiagonale (cm): 58,4 cm\nBilddiagonale (Zoll): 23 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA (1280x800); XGA (1024x768)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI; VGA\nPC-Schnittstellen: USB 3.0\nBildwiederholfrequenz (Hz): 60 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nGewicht: 5,4 kg",
+    "reference_file": "offer_reference_1649.json",
+    "shop_name": "ElectronicShop24"
+}

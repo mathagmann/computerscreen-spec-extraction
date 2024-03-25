@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_628_3.html",
+    "name": "HP V27i G5, 27\"",
+    "offer_link": "https://www.alternate.at/HP/V27i-G5-LED-Monitor/html/product/1868358?partner=AtGeizhalsat&campaign=Monitor/HP/1868358",
+    "price": 152.9,
+    "raw_specifications": {
+        "": "AMD FreeSync",
+        "Abmessungen": "Breite: 61,1 cm x H\u00f6he: 43,84 cm x Tiefe/L\u00e4nge: 19,03 cm",
+        "Anschl\u00fcsse": "1x HDMI-Eingang, (HDMI-Version: 1.4), 1x DisplayPort-Eingang, (DisplayPort-Version: 1.2), 1x VGA-Eingang",
+        "Bild": "Glaretyp",
+        "Bildschirmaufl\u00f6sung": "1.920 x 1.080 Pixel",
+        "Bildschirmdiagonale": "69 cm (27 Zoll)",
+        "EAN": "0196548194872",
+        "Energieeffizienzklasse (SDR)": "E (A - G)",
+        "Energieverbauch pro 1000 Stunden (SDR)": "20 kWh",
+        "Ergonomie": "Neigbar",
+        "Farbe": "schwarz",
+        "Features": "Low Blue Light-Modus",
+        "Gewicht": "5,1 kg",
+        "Hersteller-Nr.": "65P64E9#ABB",
+        "Leistungsaufnahme im Bereitschafts- und Aus-Zustand": "0,5 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)": "20 Watt",
+        "Stromversorgung": "Eco-Off",
+        "Typ": "LED-Monitor",
+        "Wandhalterung": "VESA kompatibel (100 x 100 mm)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse (SDR): E (A - G)\nEnergieverbauch pro 1000 Stunden (SDR): 20 kWh\nLeistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR): 20 Watt\nLeistungsaufnahme im Bereitschafts- und Aus-Zustand: 0,5 Watt\nBildschirmdiagonale: 69 cm (27 Zoll)\nBildschirmaufl\u00f6sung: 1.920 x 1.080 Pixel\nTyp: LED-Monitor\nFarbe: schwarz\nEAN: 0196548194872\nHersteller-Nr.: 65P64E9#ABB\nBild: Glaretyp\n: AMD FreeSync\nAnschl\u00fcsse: 1x HDMI-Eingang, (HDMI-Version: 1.4), 1x DisplayPort-Eingang, (DisplayPort-Version: 1.2), 1x VGA-Eingang\nErgonomie: Neigbar\nStromversorgung: Eco-Off\nWandhalterung: VESA kompatibel (100 x 100 mm)\nFeatures: Low Blue Light-Modus\nAbmessungen: Breite: 61,1 cm x H\u00f6he: 43,84 cm x Tiefe/L\u00e4nge: 19,03 cm\nGewicht: 5,1 kg",
+    "reference_file": "offer_reference_628.json",
+    "shop_name": "Alternate.at"
+}

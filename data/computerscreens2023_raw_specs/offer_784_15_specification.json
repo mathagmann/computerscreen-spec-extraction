@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_784_15.html",
+    "name": "HP M24, 23.8\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000002007057243&ano=A-H2007057243&mno=459J3E9%23ABB&ean=196068981372&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 316.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA (1280x800); XGA (1024x768)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Silber; Grau",
+        "Gewicht": "6,3 kg",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Netzwerkkameras": "Webcam",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Silber; Grau\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA (1280x800); XGA (1024x768)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nVideo-Schnittstellen: VGA\nPC-Schnittstellen: USB Typ C\nBildwiederholfrequenz (Hz): 75 Hz\nNetzwerkkameras: Webcam\nGewicht: 6,3 kg",
+    "reference_file": "offer_reference_784.json",
+    "shop_name": "ElectronicShop24"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1231_31.html",
+    "name": "Dell E2222HS, 21.5\"",
+    "offer_link": "https://technikladen.at/P-Dell-22-Monitor-E2222HS-545cm-215?tl=gzhls",
+    "price": 137.37,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "54,6 cm",
+        "Bildschirmtechnologie": "LED",
+        "Blickwinkel, horizontal": "178 \u00b0",
+        "Blickwinkel, vertikal": "178 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "H\u00f6henverstellung": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "10 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 54,6 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LED\nReaktionszeit: 10 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBlickwinkel, horizontal: 178 \u00b0\nBlickwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1231.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2074_2.html",
+    "name": "MSI Optix G32C4, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/g32c4e2/31-5-optix-g32c4-e2.html",
+    "price": 285.67,
+    "raw_specifications": {
+        "Artikelnummer": "M1LY4UWL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719072964498",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "G32C4E2",
+        "Panel": "VA",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: G32C4E2\nEAN: 4719072964498\nArtikelnummer: M1LY4UWL",
+    "reference_file": "offer_reference_2074.json",
+    "shop_name": "mylemon.at"
+}

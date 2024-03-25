@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1021_6.html",
+    "name": "Philips Evnia 5000 32M1N5800A, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/32m1n5800a_00/phil-31-5-l-32m1n5800a.html",
+    "price": 804.81,
+    "raw_specifications": {
+        "Artikelnummer": "M18YVTYL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "144 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8712581781064",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "500 cd/m\u00b2",
+        "Hersteller Artikelnummer": "32M1N5800A/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 2x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 2x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 500 cd/m\u00b2\nBesonderheiten: 144 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 32M1N5800A/00\nEAN: 8712581781064\nArtikelnummer: M18YVTYL",
+    "reference_file": "offer_reference_1021.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1447_35.html",
+    "name": "LG UltraGear 32GP850-B, 31.5\"",
+    "offer_link": "https://www.future-x.at/lg-ultragear-32gp850-b-led-monitor-80-cm-32-2560-x-1440-qhd-165-hz-nano-ips-350-cd-m%B2-1000%3A1-hdr10-1-ms-2xhdmi-displayport-mattschwarz-p-8831565/?pv=2",
+    "price": 444.79,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Bilddiagonale (Zoll)": "32 \"",
+        "Bilddiagonale (cm)": "80 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Energieeffizienzklasse": "F",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 80 cm\nBilddiagonale (Zoll): 32 \"\nAufl\u00f6sung: 2560 * 1440\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort\nBildwiederholfrequenz (Hz): 165 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_1447.json",
+    "shop_name": "Future-X.at"
+}

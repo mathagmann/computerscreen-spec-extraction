@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_744_6.html",
+    "name": "Philips 3000 Series 24B1U5301H, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/24b1u5301h_00/24b1u5301h-00-23-8.html",
+    "price": 386.07,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYLZJL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581796488",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "24B1U5301H/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 24B1U5301H/00\nEAN: 8712581796488\nArtikelnummer: M1EYLZJL",
+    "reference_file": "offer_reference_744.json",
+    "shop_name": "mylemon.at"
+}

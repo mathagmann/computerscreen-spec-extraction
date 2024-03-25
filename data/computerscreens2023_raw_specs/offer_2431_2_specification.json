@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2431_2.html",
+    "name": "Philips V-line 243V7QDSB, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/243v7qdsb_00/243v7qdsb-61cm-24in-ips-led.html",
+    "price": 98.03,
+    "raw_specifications": {
+        "Artikelnummer": "MODYUJL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "USB HUB",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581742331",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "243V7QDSB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: USB HUB\nHersteller Artikelnummer: 243V7QDSB/00\nEAN: 8712581742331\nArtikelnummer: MODYUJL",
+    "reference_file": "offer_reference_2431.json",
+    "shop_name": "mylemon.at"
+}

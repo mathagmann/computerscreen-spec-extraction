@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2457_4.html",
+    "name": "Eizo FlexScan S1934 schwarz, 19\"",
+    "offer_link": "https://haym.info/produktdetails?id=6C63458",
+    "price": 314.02,
+    "raw_specifications": {
+        "Artikelnummer": "6C63458",
+        "Aufl\u00f6sung": "1280x1024 (5:4)",
+        "Bildschirmdiagonale/Zoll": "19 Zoll",
+        "Bildschirmdiagonale/cm": "48.3 cm",
+        "DVI": "1x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "C",
+        "HDMI": "0x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "60 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "14 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 19 Zoll\nAufl\u00f6sung: 1280x1024 (5:4)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: C\nVGA: 1x\nDVI: 1x\nDisplayPort: 1x\nHDMI: 0x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 14 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 48.3 cm\nTouch-Funktion: nein\nArtikelnummer: 6C63458\nHerstellergarantie: 60 Monate",
+    "reference_file": "offer_reference_2457.json",
+    "shop_name": "haym.infotec"
+}

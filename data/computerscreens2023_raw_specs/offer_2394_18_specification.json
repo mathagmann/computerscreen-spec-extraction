@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_2394_18.html",
+    "name": "BenQ GW2780, 27\"",
+    "offer_link": "https://www.ba-computer.at/benq-68-6cm-27-1920x1080-gw2780-16-9-5ms-hdmi-vga-displayport-vesa-speaker-full-68-6-cm-27-9h-lgela-tbe-cpe.html",
+    "price": 157.38,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Farbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 5 ms\nVideo-Schnittstellen: DisplayPort; HDMI; VGA",
+    "reference_file": "offer_reference_2394.json",
+    "shop_name": "BA-Computer"
+}

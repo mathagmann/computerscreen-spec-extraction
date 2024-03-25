@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1114_8.html",
+    "name": "LG UltraWide 38WP85C-W, 38\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C04549",
+    "price": 1339.54,
+    "raw_specifications": {
+        "Artikelnummer": "2C04549",
+        "Aufl\u00f6sung": "3840x1600 (21:9)",
+        "Bildschirmdiagonale/Zoll": "38 Zoll",
+        "Bildschirmdiagonale/cm": "96.5 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 38 Zoll\nAufl\u00f6sung: 3840x1600 (21:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 96.5 cm\nTouch-Funktion: nein\nArtikelnummer: 2C04549\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_1114.json",
+    "shop_name": "haym.infotec"
+}

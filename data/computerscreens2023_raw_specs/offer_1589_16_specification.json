@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_1589_16.html",
+    "name": "ASUS BE24EQSK, 23.8\"",
+    "offer_link": "https://www.future-x.at/asus-60-5-cm-commercbe24eqsk-dp%2Bhdmi-ips-spk-lift-webcam-flachbildschirm-tft-lcd-60-5-cm-p-8776556/?pv=2",
+    "price": 237.89,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Netzwerkkameras": "Webcam",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 60,5 cm\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 1 ms\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nNetzwerkkameras: Webcam",
+    "reference_file": "offer_reference_1589.json",
+    "shop_name": "Future-X.at"
+}

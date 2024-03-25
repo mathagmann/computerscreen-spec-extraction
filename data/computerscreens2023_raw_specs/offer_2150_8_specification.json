@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2150_8.html",
+    "name": "Philips B-line 241B7QUBHEB, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/241b7qubheb_00/241b7qubheb-60-5cm-23-8in.html",
+    "price": 330.45,
+    "raw_specifications": {
+        "Artikelnummer": "MYDYFGL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Webcam",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581756727",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "241B7QUBHEB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Webcam\nHersteller Artikelnummer: 241B7QUBHEB/00\nEAN: 8712581756727\nArtikelnummer: MYDYFGL",
+    "reference_file": "offer_reference_2150.json",
+    "shop_name": "mylemon.at"
+}

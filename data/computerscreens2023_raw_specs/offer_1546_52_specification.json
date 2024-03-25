@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1546_52.html",
+    "name": "HP Z27u G3, 27\"",
+    "offer_link": "https://www.ba-computer.at/hp-bundle-hp-z27u-g3-68-6cm-27zoll-ips-qhd-16-9-1000-1-350cd-m2-5ms-hdmi-dp-usb-c-usb-68-6-cm-27-1b9x2aa-3pcs-bundle.html",
+    "price": 1564.81,
+    "raw_specifications": {
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "St\u00fcckzahl": "3er",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nSt\u00fcckzahl: 3er\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C",
+    "reference_file": "offer_reference_1546.json",
+    "shop_name": "BA-Computer"
+}

@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_635_7.html",
+    "name": "BenQ Mobiuz EX270QM, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126094-monitor-benq-ex270qm-27-qhd-240-hz-4718755089350.html",
+    "price": 1045.2,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "F",
+        "Farbe": "Grau",
+        "Frequenz": "240 Hz",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Reaktionszeit": "1 ms",
+        "Spannung": "100-240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Technologie": "IPS"
+    },
+    "raw_specifications_text": "Bildschirm: 27\"\nSpannung: 100-240 V\nKompatibel: VESA 100 x 100 mm\nReaktionszeit: 1 ms\nAufl\u00f6sung (px): 2560 x 1440 px\nArt: Monitor\nEnergieklassifizierung: F\nFrequenz: 240 Hz\nTechnologie: IPS\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 68,6 cm\nFarbe: Grau\nEmpfohlene verwendung: Gaming",
+    "reference_file": "offer_reference_635.json",
+    "shop_name": "bauguru"
+}

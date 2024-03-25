@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1807_7.html",
+    "name": "Philips E-line 288E2A, 28\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/288e2a_00/x88e2a-00-28-ips-3840x2160.html",
+    "price": 267.12,
+    "raw_specifications": {
+        "Artikelnummer": "M12Y5JML",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "60 Hz, AMD FreeSync, Lautsprecher, Picture-in-Picture",
+        "Displaygr\u00f6\u00dfe": "28 Zoll",
+        "EAN": "8712581767563",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "288E2A/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 28 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 60 Hz, AMD FreeSync, Lautsprecher, Picture-in-Picture\nHersteller Artikelnummer: 288E2A/00\nEAN: 8712581767563\nArtikelnummer: M12Y5JML",
+    "reference_file": "offer_reference_1807.json",
+    "shop_name": "mylemon.at"
+}

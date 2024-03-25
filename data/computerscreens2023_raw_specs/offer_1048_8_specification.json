@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1048_8.html",
+    "name": "Philips 3000 27E1N3300A, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/27e1n3300a_00/27e1n3300a-00-68-58cm-27zoll.html",
+    "price": 180.12,
+    "raw_specifications": {
+        "Artikelnummer": "M19YYFZL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581783365",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "27E1N3300A/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, USB-C DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, USB HUB\nHersteller Artikelnummer: 27E1N3300A/00\nEAN: 8712581783365\nArtikelnummer: M19YYFZL",
+    "reference_file": "offer_reference_1048.json",
+    "shop_name": "mylemon.at"
+}

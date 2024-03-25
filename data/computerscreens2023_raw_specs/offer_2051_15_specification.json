@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_2051_15.html",
+    "name": "BenQ PhotoVue SW321C, 32\"",
+    "offer_link": "https://technikladen.at/P-BenQ-SW321C-813-cm-32-Zoll-3840-x-2160-Pixel-4K-Ultra-HD-LED-5-ms-Grau?tl=gzhls",
+    "price": 2012.81,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "3840 x 2160 Pixel",
+        "Bildschirmdiagonale": "81,3 cm",
+        "Bildschirmtechnologie": "LED",
+        "Blickwinkel, horizontal": "178 \u00b0",
+        "Blickwinkel, vertikal": "178 \u00b0",
+        "HD-Typ": "4K Ultra HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Grau",
+        "Reaktionszeit": "5 ms",
+        "USB-Hub-Version": "3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 81,3 cm\nBildschirmaufl\u00f6sung: 3840 x 2160 Pixel\nHD-Typ: 4K Ultra HD\nBildschirmtechnologie: LED\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBlickwinkel, horizontal: 178 \u00b0\nBlickwinkel, vertikal: 178 \u00b0\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Grau",
+    "reference_file": "offer_reference_2051.json",
+    "shop_name": "TechnikLaden"
+}

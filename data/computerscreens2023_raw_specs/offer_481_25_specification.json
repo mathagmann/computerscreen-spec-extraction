@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_481_25.html",
+    "name": "Samsung Odyssey G3 G3A (2023), 27\"",
+    "offer_link": "https://www.future-x.at/samsung-27-1920-x-1080-full-hd-144-hz-odyssey-68-6-cm-1920%2A1080-1-ms-250-cd-m%B2-178%B0-schwarz-p-9165827/?pv=2",
+    "price": 184.79,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "144 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kennzeichnung": "CE",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Paneltyp": "MVA",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: CE\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 3000:1\nHelligkeit: 250 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: MVA\nVideo-Schnittstellen: DisplayPort; HDMI\nBildwiederholfrequenz (Hz): 144 Hz\nVerstellbarkeit: H\u00f6henverstellbar",
+    "reference_file": "offer_reference_481.json",
+    "shop_name": "Future-X.at"
+}

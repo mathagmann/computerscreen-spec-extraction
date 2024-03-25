@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2356_17.html",
+    "name": "BenQ BL2480, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/benq/9h_lh1la_tbe_cpe/60-5cm-23-8-1920x1080.html",
+    "price": 101.0,
+    "raw_specifications": {
+        "Artikelnummer": "M16Y8VFL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4718755073533",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9H.LH1LA.TBE/CPE",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 9H.LH1LA.TBE/CPE\nEAN: 4718755073533\nArtikelnummer: M16Y8VFL",
+    "reference_file": "offer_reference_2356.json",
+    "shop_name": "mylemon.at"
+}

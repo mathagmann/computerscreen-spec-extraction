@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_358_2.html",
+    "name": "LC-Power LC-M34-UWQHD-165-C, 34\"",
+    "offer_link": "https://technikladen.at/P-LC-M34-UWQHD-165-C-LC-Power-34-864cm-TFT-Gaming-LC-M34-UWQHD-165-C-HDMI-retail-Flachbildschirm-TFT-LCD-864-cm-LC-M34-UWQHD-165-C-Displays-Projektoren?tl=gzhls",
+    "price": 375.55,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3440 * 1440",
+        "Bilddiagonale (Zoll)": "34 \"",
+        "Bilddiagonale (cm)": "86,4 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar; Neigbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 86,4 cm\nBilddiagonale (Zoll): 34 \"\nAufl\u00f6sung: 3440 * 1440\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 3000:1\nHelligkeit: 350 cd/m\u00b2\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 165 Hz\nVerstellbarkeit: H\u00f6henverstellbar; Neigbar",
+    "reference_file": "offer_reference_358.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_605_20.html",
+    "name": "Acer Vero CB1 CB241Ybmirux, 23.8\"",
+    "offer_link": "https://technikladen.at/P-UMQB1EE019-Acer-605cm-238-CB241Ybmirux-16-9-Flachbildschirm-TFT-LCD-605-cm-UMQB1EE019-Displays-Projektoren?tl=gzhls",
+    "price": 196.37,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Energieeffizienzklasse": "E",
+        "Farbe": "Schwarz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: E",
+    "reference_file": "offer_reference_605.json",
+    "shop_name": "TechnikLaden"
+}

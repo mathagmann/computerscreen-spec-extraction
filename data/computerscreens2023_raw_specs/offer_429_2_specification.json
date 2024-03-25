@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_429_2.html",
+    "name": "MSI MEG 342CDE QD-OLED, 34.18\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/130697-monitor-msi-meg-342c-qd-oled-34-va-lcd-180-hz-4711377030243.html",
+    "price": 1732.1,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "UltraWide Quad HD",
+        "Aufl\u00f6sung (px)": "3440 x 1440 px",
+        "Bildschirm": "34\"",
+        "Design": "W\u00f6lbung",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "G",
+        "Farbe": "Schwarz",
+        "Glanz": "250 ANSI",
+        "Maximale Anpassung": "100 mm",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 20\u00ba",
+        "Seitenverh\u00e4ltnis": "21:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "VESA": "10 x 10 cm",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Energieklassifizierung: G\nBildschirm: 34\"\nVESA: 10 x 10 cm\nAufl\u00f6sung (px): 3440 x 1440 px\nArt: Monitor\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nFarbe: Schwarz\nDesign: W\u00f6lbung\nGlanz: 250 ANSI\nSpannung: 100 - 240 V\nEmpfohlene verwendung: Gaming\nTouchscreen: Kein\nAufl\u00f6sung: UltraWide Quad HD\nWinkel: 178\u00ba\nNeigungswinkel: -5\u00ba / 20\u00ba\nSeitenverh\u00e4ltnis: 21:9\nMontage: VESA\nMaximale Anpassung: 100 mm",
+    "reference_file": "offer_reference_429.json",
+    "shop_name": "bauguru"
+}

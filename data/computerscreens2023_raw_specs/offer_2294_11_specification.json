@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2294_11.html",
+    "name": "AOC 24B1H, 23.6\"",
+    "offer_link": "https://haym.info/produktdetails?id=8C19042",
+    "price": 97.6,
+    "raw_specifications": {
+        "Artikelnummer": "8C19042",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.6 Zoll",
+        "Bildschirmdiagonale/cm": "59.9 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "MVA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "8 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "nein",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.6 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: MVA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 1x\nVESA-Bohrung: nein\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 8 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 59.9 cm\nTouch-Funktion: nein\nArtikelnummer: 8C19042\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2294.json",
+    "shop_name": "haym.infotec"
+}

@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_1661_18.html",
+    "name": "Philips B-line 240B9, 24.1\"",
+    "offer_link": "https://www.future-x.at/philips-b-line-240b9-monitor-a-led-241-24-visualizzabile-1920-x-1200-wuxga-75-flachbildschirm-tft-lcd-4-ms-1000%3A1-300-cd-m%B2-ips-dvi-hdmi-line-eingang-p-8747947/?pv=2",
+    "price": 285.1,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "1920 * 1200",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "61,2 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 61,2 cm\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 1920 * 1200\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nVideo-Schnittstellen: DVI; HDMI; VGA\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_1661.json",
+    "shop_name": "Future-X.at"
+}

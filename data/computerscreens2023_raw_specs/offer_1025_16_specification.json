@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_1025_16.html",
+    "name": "Philips 5000 27E1N5600HE, 27\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=140000001390805320&ano=R1390805320&mno=27E1N5600HE%2F00&ean=8712581783426&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 304.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Netzwerkkameras": "Webcam",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz\nNetzwerkkameras: Webcam",
+    "reference_file": "offer_reference_1025.json",
+    "shop_name": "ElectronicShop24"
+}

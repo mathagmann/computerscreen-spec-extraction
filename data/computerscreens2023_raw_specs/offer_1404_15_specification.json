@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_1404_15.html",
+    "name": "GIGABYTE M28U, 28\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/16300746?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 611.35,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "USB, DisplayPort, HDMI",
+        "Bildwiederholungsrate": "144 Hz",
+        "Display Features": "FlickerFree",
+        "Displaygr\u00f6\u00dfe": "71,12 cm (28 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "G",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "6,93 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Hersteller": "GigaByte",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "S-IPS Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "3.840 x 2.160 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Geh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: USB, DisplayPort, HDMI\nProduktart: Monitore\nDisplay Features: FlickerFree\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nDisplaygr\u00f6\u00dfe: 71,12 cm (28 Zoll)\nHersteller: GigaByte\nGewicht: 6,93 kg\nmax. Aufl\u00f6sung: 3.840 x 2.160 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: S-IPS Panel\nReaktionszeit: 1 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 144 Hz\nEinsatzort: Innen\nEnergieeffizienzklasse: G",
+    "reference_file": "offer_reference_1404.json",
+    "shop_name": "playox (AT)"
+}

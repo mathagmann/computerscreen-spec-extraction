@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2371_1.html",
+    "name": "Wortmann Terra LED 2456W PV, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/wortmann/3030206/terra-lcd-led-2456w-pv.html",
+    "price": 216.0,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYIVGL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4039407073122",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "3030206",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 3030206\nEAN: 4039407073122\nArtikelnummer: M1IYIVGL",
+    "reference_file": "offer_reference_2371.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_2433_18.html",
+    "name": "Philips S-line 243S7EHMB, 23.8\"",
+    "offer_link": "https://haym.info/produktdetails?id=7C25918",
+    "price": 139.28,
+    "raw_specifications": {
+        "Artikelnummer": "7C25918",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.8 Zoll",
+        "Bildschirmdiagonale/cm": "60.4 cm",
+        "Energieeffizienzklasse": "E",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.8 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 60.4 cm\nTouch-Funktion: nein\nArtikelnummer: 7C25918\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2433.json",
+    "shop_name": "haym.infotec"
+}

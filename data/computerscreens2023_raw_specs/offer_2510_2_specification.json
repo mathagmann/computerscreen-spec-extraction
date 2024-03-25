@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2510_2.html",
+    "name": "HANNspree HP247HJB, 23.6\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C12396",
+    "price": 124.43,
+    "raw_specifications": {
+        "Artikelnummer": "3C12396",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.6 Zoll",
+        "Bildschirmdiagonale/cm": "59.9 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "D",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.6 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: D\nVGA: 1x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 59.9 cm\nTouch-Funktion: nein\nArtikelnummer: 3C12396\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_2510.json",
+    "shop_name": "haym.infotec"
+}

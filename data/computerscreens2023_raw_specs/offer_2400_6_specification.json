@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2400_6.html",
+    "name": "BenQ PD2500Q, 25\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=250000001981965410&ano=A-C1981965410&mno=9H.LG8LA.TPE&ean=4718755068683&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 238.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "25 \"",
+        "Bilddiagonale (cm)": "63,5 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Energieeffizienzklasse": "F",
+        "Farbe": "Grau",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kennzeichnung": "CE",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB 3.0",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "Mini DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: CE\nFarbe: Grau\nBilddiagonale (cm): 63,5 cm\nBilddiagonale (Zoll): 25 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 350 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nVideo-Schnittstellen: Mini DisplayPort; HDMI\nPC-Schnittstellen: USB 3.0\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 60 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_2400.json",
+    "shop_name": "ElectronicShop24"
+}

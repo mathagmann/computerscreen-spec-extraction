@@ -1,0 +1,32 @@
+{
+    "html_file": "offer_1155_20.html",
+    "name": "Wortmann Terra LED 2448W Greenline Plus, 23.8\"",
+    "offer_link": "https://www.ba-computer.at/terra-lcd-led-2448w-pv-v3-schwarz-hdmi-dp-usb-c-greenline-plus-flachbildschirm-tft-lcd-60-5-cm-3030226.html",
+    "price": 175.14,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Kopfh\u00f6rer Ausgang",
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "100 Hz",
+        "Energieeffizienzklasse": "E",
+        "Farbe": "Schwarz",
+        "Gewicht": "5,2 kg",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kennzeichnung": "CE",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Produktfeatures": "Plug and Play",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Vesa-Bohrung": "100 x 100 mm",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nVesa-Bohrung: 100 x 100 mm\nKennzeichnung: CE\nProduktfeatures: Plug and Play\nFarbe: Schwarz\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 5 ms\nHelligkeit: 250 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nAudio Ein- und Ausg\u00e4nge: Kopfh\u00f6rer Ausgang\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 100 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: E\nGewicht: 5,2 kg",
+    "reference_file": "offer_reference_1155.json",
+    "shop_name": "BA-Computer"
+}

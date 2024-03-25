@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_794_10.html",
+    "name": "ASUS ZenScreen OLED MQ13AH, 13.3\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C19474",
+    "price": 431.45,
+    "raw_specifications": {
+        "Artikelnummer": "2C19474",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "13.3 Zoll",
+        "Bildschirmdiagonale/cm": "33.8 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "C",
+        "HDMI": "0x",
+        "Helligkeit": "400 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "OLED",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "nein",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 13.3 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: OLED\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: C\nVGA: 0x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 0x\nVESA-Bohrung: nein\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 400 cd/m2\nBildschirmdiagonale/cm: 33.8 cm\nTouch-Funktion: nein\nArtikelnummer: 2C19474\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_794.json",
+    "shop_name": "haym.infotec"
+}

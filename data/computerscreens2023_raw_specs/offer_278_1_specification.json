@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_278_1.html",
+    "name": "LG 32UN500P-W, 31.5\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/127301-monitor-lg-32un500p-w-4k-ultra-hd-31-5-8806091969927.html",
+    "price": 385.5,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Bildschirm": "31,5\"",
+        "Diagonale des Bildschirms (cm)": "80 cm",
+        "Energieklassifizierung": "G",
+        "Gaming": "Kein",
+        "Ports": "2",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "VESA": "10 x 10 cm"
+    },
+    "raw_specifications_text": "Energieklassifizierung: G\nBildschirm: 31,5\"\nVESA: 10 x 10 cm\nTouchscreen: Kein\nPorts: 2\nGaming: Kein\nDiagonale des Bildschirms (cm): 80 cm\nArt: Monitor\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker",
+    "reference_file": "offer_reference_278.json",
+    "shop_name": "bauguru"
+}

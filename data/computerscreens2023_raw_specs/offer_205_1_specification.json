@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_205_1.html",
+    "name": "Samsung ViewFinity S8 S27A800UJP (2023), 26.9\"",
+    "offer_link": "https://www.mylemon.at/artikel/samsung/ls27a80pujpxen/viewfinity-s8-s27a800ujp-sk-rm.html",
+    "price": 296.37,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYHULL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "60 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "26,9 Zoll",
+        "EAN": "8806094771800",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "LS27A80PUJPXEN",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 26,9 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 60 Hz, USB HUB\nHersteller Artikelnummer: LS27A80PUJPXEN\nEAN: 8806094771800\nArtikelnummer: M1LYHULL",
+    "reference_file": "offer_reference_205.json",
+    "shop_name": "mylemon.at"
+}

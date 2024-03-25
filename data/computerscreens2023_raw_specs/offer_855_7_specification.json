@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_855_7.html",
+    "name": "AOC Q32V5CE, 31.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C17151",
+    "price": 289.91,
+    "raw_specifications": {
+        "Artikelnummer": "2C17151",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "31.5 Zoll",
+        "Bildschirmdiagonale/cm": "80 cm",
+        "DVI": "0x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 31.5 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 80 cm\nTouch-Funktion: nein\nArtikelnummer: 2C17151\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_855.json",
+    "shop_name": "haym.infotec"
+}

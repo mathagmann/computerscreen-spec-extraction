@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2176_20.html",
+    "name": "Philips P-line 329P9H, 31.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=9C14289",
+    "price": 896.59,
+    "raw_specifications": {
+        "Artikelnummer": "9C14289",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "31.5 Zoll",
+        "Bildschirmdiagonale/cm": "80 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 31.5 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 80 cm\nTouch-Funktion: nein\nArtikelnummer: 9C14289\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2176.json",
+    "shop_name": "haym.infotec"
+}

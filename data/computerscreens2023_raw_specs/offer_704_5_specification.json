@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_704_5.html",
+    "name": "HP P24h G5, 23.8\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C23195",
+    "price": 140.56,
+    "raw_specifications": {
+        "Artikelnummer": "2C23195",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.8 Zoll",
+        "Bildschirmdiagonale/cm": "60.5 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.8 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 60.5 cm\nTouch-Funktion: nein\nArtikelnummer: 2C23195\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_704.json",
+    "shop_name": "haym.infotec"
+}

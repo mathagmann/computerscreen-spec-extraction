@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_985_13.html",
+    "name": "ASUS VA247HE, 23.8\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/20317782?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 117.37,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, VGA/D-Sub",
+        "Bildwiederholungsrate": "75,00 Hz",
+        "Display Features": "FlickerFree",
+        "Display Sync": "AMD FreeSync",
+        "Displaygr\u00f6\u00dfe": "60,96 cm (24 Zoll)",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "E",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "3,25 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "VA Panel",
+        "Reaktionszeit": "5,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Geh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nDisplaygr\u00f6\u00dfe: 60,96 cm (24 Zoll)\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nAnschl\u00fcsse: HDMI, VGA/D-Sub\nDisplay Features: FlickerFree\nGewicht: 3,25 kg\nDisplay Sync: AMD FreeSync\nFiltergruppennummer: Monitore\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: VA Panel\nReaktionszeit: 5,00 ms\nBildwiederholungsrate: 75,00 Hz\nEinsatzort: Innen\nEnergieeffizienzklasse: E",
+    "reference_file": "offer_reference_985.json",
+    "shop_name": "playox (AT)"
+}

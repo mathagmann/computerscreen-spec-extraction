@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_2435_11.html",
+    "name": "NEC MultiSync E221N-WH wei\u00df, 22\"",
+    "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1608&from=geizhals.at",
+    "price": 198.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1.920 x 1.080\u00a0Pixel",
+        "Bildschirmdiagonale": "55,88\u00a0cm",
+        "Bildschirmformat": "16:9",
+        "Bildschirmgr\u00f6\u00dfe": "22\u00a0Zoll",
+        "Bildwiederholungsrate": "60\u00a0Hz",
+        "Datenblatt": "Kein Datenblatt verf\u00fcgbar",
+        "Energieeffizienzklasse SDR": "C",
+        "Herstellerlink": "NEC",
+        "Hinweis": "Der tats\u00e4chliche Verbrauch h\u00e4ngt von Art und H\u00e4ufigkeit der Nutzung des Ger\u00e4ts ab",
+        "Netzschalter": "nein",
+        "Panel-Technologie": "LED",
+        "Produktlink": "Link",
+        "Quellen": "**\u00d8 Nutzungsdauer nach Initiative EnergieEffizienz (Stand 2013), *\u00d8 Strompreis Eurostat (Stand 1. Halbjahr 2020)",
+        "Rahmenfarbe": "wei\u00df",
+        "Standfu\u00dffarbe": "wei\u00df",
+        "Stromverbrauch SDR": "11\u00a0kWh/1000h",
+        "Stromverbrauch Standby": "0,29\u00a0Watt",
+        "Stromverbrauch in Betrieb": "16\u00a0Watt",
+        "Touchscreen": "ohne",
+        "j\u00e4hrlicher Stromverbrauch": "24\u00a0kWh",
+        "\u00d8 Stromkosten in 5 Jahren** (0,3 \u20ac/kWh)*": "29.21\u00a0Euro",
+        "\u00d8 Stromkosten pro Jahr (0,3 \u20ac/kWh)*": "7.3\u00a0Euro"
+    },
+    "raw_specifications_text": "Bildschirmgr\u00f6\u00dfe: 22\u00a0Zoll\nBildschirmdiagonale: 55,88\u00a0cm\nPanel-Technologie: LED\nAufl\u00f6sung: 1.920 x 1.080\u00a0Pixel\nBildschirmformat: 16:9\nBildwiederholungsrate: 60\u00a0Hz\nTouchscreen: ohne\nRahmenfarbe: wei\u00df\nStandfu\u00dffarbe: wei\u00df\nEnergieeffizienzklasse SDR: C\nStromverbrauch SDR: 11\u00a0kWh/1000h\nj\u00e4hrlicher Stromverbrauch: 24\u00a0kWh\nStromverbrauch in Betrieb: 16\u00a0Watt\nStromverbrauch Standby: 0,29\u00a0Watt\n\u00d8 Stromkosten pro Jahr (0,3 \u20ac/kWh)*: 7.3\u00a0Euro\n\u00d8 Stromkosten in 5 Jahren** (0,3 \u20ac/kWh)*: 29.21\u00a0Euro\nQuellen: **\u00d8 Nutzungsdauer nach Initiative EnergieEffizienz (Stand 2013), *\u00d8 Strompreis Eurostat (Stand 1. Halbjahr 2020)\nHinweis: Der tats\u00e4chliche Verbrauch h\u00e4ngt von Art und H\u00e4ufigkeit der Nutzung des Ger\u00e4ts ab\nNetzschalter: nein\nDatenblatt: Kein Datenblatt verf\u00fcgbar\nProduktlink: Link\nHerstellerlink: NEC",
+    "reference_file": "offer_reference_2435.json",
+    "shop_name": "Syswork"
+}

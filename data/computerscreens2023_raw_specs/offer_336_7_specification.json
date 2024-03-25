@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_336_7.html",
+    "name": "Samsung Odyssey G5 G50A (2023), 32\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C07902",
+    "price": 658.16,
+    "raw_specifications": {
+        "Artikelnummer": "3C07902",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "32 Zoll",
+        "Bildschirmdiagonale/cm": "81.3 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "1x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 32 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 81.3 cm\nTouch-Funktion: nein\nArtikelnummer: 3C07902\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_336.json",
+    "shop_name": "haym.infotec"
+}

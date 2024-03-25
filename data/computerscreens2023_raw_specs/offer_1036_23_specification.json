@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1036_23.html",
+    "name": "Philips Momentum 3000 27M1N3200VS, 27\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C04732",
+    "price": 212.4,
+    "raw_specifications": {
+        "Artikelnummer": "2C04732",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "27 Zoll",
+        "Bildschirmdiagonale/cm": "68.6 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "2x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 27 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 68.6 cm\nTouch-Funktion: nein\nArtikelnummer: 2C04732\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_1036.json",
+    "shop_name": "haym.infotec"
+}

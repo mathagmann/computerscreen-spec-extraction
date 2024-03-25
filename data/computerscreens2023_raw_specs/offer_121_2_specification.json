@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_121_2.html",
+    "name": "LG 24BQ55WY-B, 23.8\"",
+    "offer_link": "https://www.future-x.at/lg-24bq55wy-b-monitor-60-96-cm-24-zoll-wuxga-ips-5ms-hdmi-displayport-dvi-d-pivot-funktion-anti-glare-p-9074895/?pv=2",
+    "price": 150.59,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1200",
+        "Aufl\u00f6sungsstandard": "WUXGA (1920x1200)",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "61 cm",
+        "Farbe": "Schwarz",
+        "Paneltyp": "IPS",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 61 cm\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 1920 * 1200\nAufl\u00f6sungsstandard: WUXGA (1920x1200)\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI",
+    "reference_file": "offer_reference_121.json",
+    "shop_name": "Future-X.at"
+}

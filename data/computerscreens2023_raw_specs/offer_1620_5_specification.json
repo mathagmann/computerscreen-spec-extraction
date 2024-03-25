@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1620_5.html",
+    "name": "Philips E-line 288E2UAE, 28\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/288e2uae_00/288e2uae-00-e-line-71.html",
+    "price": 279.87,
+    "raw_specifications": {
+        "Artikelnummer": "M14YUOWL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "28 Zoll",
+        "EAN": "8712581772635",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "288E2UAE/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, 4x USB"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 28 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, 4x USB\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 288E2UAE/00\nEAN: 8712581772635\nArtikelnummer: M14YUOWL",
+    "reference_file": "offer_reference_1620.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2455_3.html",
+    "name": "Acer Business B6 B196LAymdr, 19\"",
+    "offer_link": "https://haym.info/produktdetails?id=6C63605",
+    "price": 166.85,
+    "raw_specifications": {
+        "Artikelnummer": "6C63605",
+        "Aufl\u00f6sung": "1280x1024 (5:4)",
+        "Bildschirmdiagonale/Zoll": "19 Zoll",
+        "Bildschirmdiagonale/cm": "48.3 cm",
+        "DVI": "1x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "0x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 19 Zoll\nAufl\u00f6sung: 1280x1024 (5:4)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 1x\nDVI: 1x\nDisplayPort: 0x\nHDMI: 0x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 48.3 cm\nTouch-Funktion: nein\nArtikelnummer: 6C63605\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2455.json",
+    "shop_name": "haym.infotec"
+}

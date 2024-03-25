@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_758_2.html",
+    "name": "GIGABYTE G27F 2, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/g27f_2/g27f-2-68-6cm-27.html",
+    "price": 222.0,
+    "raw_specifications": {
+        "Artikelnummer": "M1FY0MFL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "165 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719331836306",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "G27F 2",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, 3x USB"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, 3x USB\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 165 Hz, USB HUB\nHersteller Artikelnummer: G27F 2\nEAN: 4719331836306\nArtikelnummer: M1FY0MFL",
+    "reference_file": "offer_reference_758.json",
+    "shop_name": "mylemon.at"
+}

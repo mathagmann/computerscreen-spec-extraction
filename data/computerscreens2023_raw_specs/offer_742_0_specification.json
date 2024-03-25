@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_742_0.html",
+    "name": "Philips 5000 Series 34B1U5600CH, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/34b1u5600ch_00/curved-lcd-monitor-mit-5mp.html",
+    "price": 564.29,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYFLML",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "120 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "8712581796525",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "34B1U5600CH/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 120 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 34B1U5600CH/00\nEAN: 8712581796525\nArtikelnummer: M1EYFLML",
+    "reference_file": "offer_reference_742.json",
+    "shop_name": "mylemon.at"
+}

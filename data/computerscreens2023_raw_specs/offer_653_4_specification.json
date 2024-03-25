@@ -1,0 +1,31 @@
+{
+    "html_file": "offer_653_4.html",
+    "name": "MSI PRO MP243, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133798-monitor-msi-mp243-4719072963354.html",
+    "price": 166.5,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Diagonale des Bildschirms (cm)": "60,5 cm",
+        "Empfohlene verwendung": "Haushalt",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Glanz": "250 ANSI",
+        "Kompatibel": "VESA 75 x 75 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Leistung": "4 W",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 20\u00ba",
+        "Nicht erhalten": "AMD FreeSync",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Stromst\u00e4rke": "2,5 A",
+        "Touchscreen": "Kein",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Art: Monitor\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 60,5 cm\nSeitenverh\u00e4ltnis: 16:9\nAufl\u00f6sung: Full HD\nKontrastverh\u00e4ltnis: 1000:1\nGlanz: 250 ANSI\nSpannung: 100 - 240 V\nLeistung: 4 W\nTouchscreen: Kein\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nNeigungswinkel: -5\u00ba / 20\u00ba\nNicht erhalten: AMD FreeSync\nMontage: VESA\nEmpfohlene verwendung: Haushalt\nStromst\u00e4rke: 2,5 A\nKompatibel: VESA 75 x 75 mm\nAufl\u00f6sung (px): 1920 x 1080 px",
+    "reference_file": "offer_reference_653.json",
+    "shop_name": "bauguru"
+}

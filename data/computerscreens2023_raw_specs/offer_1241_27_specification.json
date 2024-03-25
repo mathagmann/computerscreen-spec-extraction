@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1241_27.html",
+    "name": "Dell S2722QC, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/dell/dell_s2722qc/s2722qc-68-5-cm-27.html",
+    "price": 543.26,
+    "raw_specifications": {
+        "Artikelnummer": "M1DYOGTL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "60 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "5397184567616",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "Dell-S2722QC",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 60 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: Dell-S2722QC\nEAN: 5397184567616\nArtikelnummer: M1DYOGTL",
+    "reference_file": "offer_reference_1241.json",
+    "shop_name": "mylemon.at"
+}

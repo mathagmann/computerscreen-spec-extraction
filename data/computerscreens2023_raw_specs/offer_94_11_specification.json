@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_94_11.html",
+    "name": "Eizo FlexScan EV2740X wei\u00df, 27\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/27924196?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 1016.67,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "USB, DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out), Audioeingang (Line-In)",
+        "Display Features": "FlickerFree, Bild an Bild (PbP) Funktion, Bild in Bild (PiP) Funktion",
+        "Displaygr\u00f6\u00dfe": "68,58 cm (27 Zoll)",
+        "Energieeffizienzklasse": "D",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Wei\u00df",
+        "Gewicht": "11,98 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "5,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "3.840 x 2.160 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 68,58 cm (27 Zoll)\nGeh\u00e4usefarbe des Ger\u00e4tes: Wei\u00df\nAnschl\u00fcsse: USB, DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out), Audioeingang (Line-In)\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nDisplay Features: FlickerFree, Bild an Bild (PbP) Funktion, Bild in Bild (PiP) Funktion\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nGewicht: 11,98 kg\nFiltergruppennummer: Monitore\nmax. Aufl\u00f6sung: 3.840 x 2.160 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 5,00 ms\nEnergieeffizienzklasse: D",
+    "reference_file": "offer_reference_94.json",
+    "shop_name": "playox (AT)"
+}

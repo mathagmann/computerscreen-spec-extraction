@@ -1,0 +1,17 @@
+{
+    "html_file": "offer_1344_19.html",
+    "name": "ASUS VP32UQ, 31.5\"",
+    "offer_link": "https://www.future-x.at/asus-dis-32-asus-vp32uq-tuf-gaming-3840%2A2160-2-ms-p-8817301/?pv=2",
+    "price": 510.1,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Bilddiagonale (cm)": "80,1 cm",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "2 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 80,1 cm\nAufl\u00f6sung: 3840 * 2160\nReaktionszeit: 2 ms\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI",
+    "reference_file": "offer_reference_1344.json",
+    "shop_name": "Future-X.at"
+}

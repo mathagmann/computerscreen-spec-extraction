@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_97_6.html",
+    "name": "Eizo FlexScan EV3240X schwarz, 31.5\"",
+    "offer_link": "https://www.future-x.at/eizo-flexscan-80-cm-31-5-3840%2A2160-5-ms-350-cd-m%B2-schwarz-p-9233075/?pv=2",
+    "price": 1276.39,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); UXGA (1600x1200); WSXGA+ (1680x1050); XGA (1024x768)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "31,5 \"",
+        "Bilddiagonale (cm)": "80 cm",
+        "Farbe": "Schwarz",
+        "Farbraum": "sRGB",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kennzeichnung": "CB; CE; FCC; T\u00dcV / GS",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Produktfeatures": "Energiesparmodus",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: CB; CE; FCC; T\u00dcV / GS\nProduktfeatures: Energiesparmodus\nFarbe: Schwarz\nBilddiagonale (cm): 80 cm\nBilddiagonale (Zoll): 31,5 \"\nAufl\u00f6sung: 3840 * 2160\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); UXGA (1600x1200); WSXGA+ (1680x1050); XGA (1024x768)\nReaktionszeit: 5 ms\nHelligkeit: 350 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nFarbraum: sRGB\nVideo-Schnittstellen: DisplayPort; HDMI\nPC-Schnittstellen: USB Typ C\nLautsprecher: Ja\nVerstellbarkeit: H\u00f6henverstellbar",
+    "reference_file": "offer_reference_97.json",
+    "shop_name": "Future-X.at"
+}

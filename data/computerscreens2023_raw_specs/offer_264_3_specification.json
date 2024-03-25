@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_264_3.html",
+    "name": "Samsung Odyssey Neo G7 G75NB (2023), 32\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C06023",
+    "price": 880.57,
+    "raw_specifications": {
+        "Artikelnummer": "3C06023",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "32 Zoll",
+        "Bildschirmdiagonale/cm": "81.3 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 32 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 81.3 cm\nTouch-Funktion: nein\nArtikelnummer: 3C06023\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_264.json",
+    "shop_name": "haym.infotec"
+}

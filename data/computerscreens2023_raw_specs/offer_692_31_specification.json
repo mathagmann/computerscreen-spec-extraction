@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_692_31.html",
+    "name": "AOC U34E2M, 34\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/134429-monitor-aoc-u34e2m-34-va-flicker-free-100-hz-4038986110723.html",
+    "price": 343.0,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung (px)": "3440 x 1440 px",
+        "Bildschirm": "34\"",
+        "Diagonale des Bildschirms (cm)": "86,4 cm",
+        "Energieklassifizierung": "F",
+        "Frequenz": "100 Hz",
+        "Gaming": "Kein",
+        "Merkmale": "Flachbildschirm",
+        "Ports": "2",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "VESA": "10 x 10 cm"
+    },
+    "raw_specifications_text": "Diagonale des Bildschirms (cm): 86,4 cm\nPorts: 2\nBildschirm: 34\"\nGaming: Kein\nTouchscreen: Kein\nAufl\u00f6sung (px): 3440 x 1440 px\nArt: Monitor\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nEnergieklassifizierung: F\nMerkmale: Flachbildschirm\nVESA: 10 x 10 cm\nFrequenz: 100 Hz",
+    "reference_file": "offer_reference_692.json",
+    "shop_name": "bauguru"
+}

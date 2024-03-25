@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_444_2.html",
+    "name": "MSI Optix G32CQ4DE E2, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3db51t_022/32-l-optix-g32cq4de-e2.html",
+    "price": 353.99,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYU57L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719072962845",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3DB51T-022",
+        "Panel": "VA",
+        "Reaktionszeit": "1 ms",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 9S6-3DB51T-022\nEAN: 4719072962845\nArtikelnummer: M1IYU57L",
+    "reference_file": "offer_reference_444.json",
+    "shop_name": "mylemon.at"
+}

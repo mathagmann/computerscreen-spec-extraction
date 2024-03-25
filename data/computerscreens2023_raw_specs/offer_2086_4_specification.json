@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_2086_4.html",
+    "name": "Philips C-line 276C8, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/276c8_00/276c8-68-58cm-27in-ips.html",
+    "price": 290.26,
+    "raw_specifications": {
+        "Artikelnummer": "MZ4YKVL",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581759162",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "276C8/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "2x HDMI, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, USB-C DisplayPort\nHelligkeit: 350 cd/m\u00b2\nHersteller Artikelnummer: 276C8/00\nEAN: 8712581759162\nArtikelnummer: MZ4YKVL",
+    "reference_file": "offer_reference_2086.json",
+    "shop_name": "mylemon.at"
+}

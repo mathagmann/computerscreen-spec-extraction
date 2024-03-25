@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_897_1.html",
+    "name": "Wortmann Terra LED 2463W PV weiss, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/wortmann/3030101/terra-led-2463w-pv-white.html",
+    "price": 212.34,
+    "raw_specifications": {
+        "Artikelnummer": "M14YQE9L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4039407059973",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "3030101",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 3030101\nEAN: 4039407059973\nArtikelnummer: M14YQE9L",
+    "reference_file": "offer_reference_897.json",
+    "shop_name": "mylemon.at"
+}

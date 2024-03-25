@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1767_8.html",
+    "name": "GIGABYTE M27Q, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/m27q/giby-27-m27q-170hz.html",
+    "price": 334.71,
+    "raw_specifications": {
+        "Artikelnummer": "M14Y59YL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "170 Hz, AMD FreeSync, Picture-in-Picture",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719331809263",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "M27Q",
+        "Panel": "IPS",
+        "Reaktionszeit": "0,5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 0,5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 170 Hz, AMD FreeSync, Picture-in-Picture\nHersteller Artikelnummer: M27Q\nEAN: 4719331809263\nArtikelnummer: M14Y59YL",
+    "reference_file": "offer_reference_1767.json",
+    "shop_name": "mylemon.at"
+}

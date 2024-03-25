@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_693_24.html",
+    "name": "AOC U34V5C/BK, 34\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/134633-monitor-aoc-u34v5c-bk-34-va-lcd-100-hz-4038986110617.html",
+    "price": 383.0,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "UltraWide Quad HD",
+        "Aufl\u00f6sung (px)": "3440 x 1440 px",
+        "Bildschirm": "34\"",
+        "Diagonale des Bildschirms (cm)": "86,4 cm",
+        "Energieklassifizierung": "G",
+        "Farbe": "Schwarz",
+        "Frequenz": "100 Hz",
+        "Glanz": "300 cd/m\u00b2",
+        "Leistung": "60 W",
+        "Reaktionszeit": "4 ms",
+        "Spannung": "100-240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Technologie": "LCD",
+        "VESA": "10 x 10 cm"
+    },
+    "raw_specifications_text": "Diagonale des Bildschirms (cm): 86,4 cm\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nArt: Monitor\nEnergieklassifizierung: G\nFarbe: Schwarz\nReaktionszeit: 4 ms\nVESA: 10 x 10 cm\nGlanz: 300 cd/m\u00b2\nAufl\u00f6sung (px): 3440 x 1440 px\nSpannung: 100-240 V\nBildschirm: 34\"\nLeistung: 60 W\nAufl\u00f6sung: UltraWide Quad HD\nTechnologie: LCD\nFrequenz: 100 Hz",
+    "reference_file": "offer_reference_693.json",
+    "shop_name": "bauguru"
+}

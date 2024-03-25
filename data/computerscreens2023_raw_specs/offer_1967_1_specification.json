@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_1967_1.html",
+    "name": "Lenovo ThinkVision T34w-20, 34\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/134412-monitor-lenovo-thinkvision-t34w-20-34-lcd-60-hz-0936389805441.html",
+    "price": 837.7,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI 2.0",
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "UltraWide Quad HD",
+        "Aufl\u00f6sung (px)": "3440 x 1440 px",
+        "Bildschirm": "34\"",
+        "Diagonale des Bildschirms (cm)": "86,4 cm",
+        "Energieklassifizierung": "G",
+        "Farbe": "Schwarz",
+        "Frequenz": "60 Hz",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Spannung": "100-240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Technologie": "LCD"
+    },
+    "raw_specifications_text": "Diagonale des Bildschirms (cm): 86,4 cm\nArt: Monitor\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nFarbe: Schwarz\nKompatibel: VESA 100 x 100 mm\nFrequenz: 60 Hz\nTechnologie: LCD\nSpannung: 100-240 V\nBildschirm: 34\"\nEnergieklassifizierung: G\nAufl\u00f6sung: UltraWide Quad HD\nAnschl\u00fcsse: HDMI 2.0\nAufl\u00f6sung (px): 3440 x 1440 px",
+    "reference_file": "offer_reference_1967.json",
+    "shop_name": "bauguru"
+}

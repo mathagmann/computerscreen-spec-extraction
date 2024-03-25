@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_989_11.html",
+    "name": "Lenovo Q24i-20, 23.8\"",
+    "offer_link": "https://technikladen.at/I-66EEGAC3EU-Lenovo-Q24i-20-238inch-16-9-1920x1080-300cd-m2-1000-1-1xHDMI-1xDP-12-238-66EEGAC3EU-Displays-Projektoren?tl=gzhls",
+    "price": 185.82,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "H\u00f6henverstellung": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Black, Silver",
+        "Reaktionszeit": "8 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LED\nReaktionszeit: 8 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Black, Silver",
+    "reference_file": "offer_reference_989.json",
+    "shop_name": "TechnikLaden"
+}

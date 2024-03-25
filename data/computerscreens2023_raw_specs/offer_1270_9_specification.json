@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1270_9.html",
+    "name": "GIGABYTE AORUS FO48U, 47.53\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/aorus_fo48u/aorus-fo48u-48-zoll-121.html",
+    "price": 932.97,
+    "raw_specifications": {
+        "Artikelnummer": "M17YRAJL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Displaygr\u00f6\u00dfe": "48,5 Zoll",
+        "EAN": "4719331814762",
+        "Ergonomie": "Neigbar",
+        "Hersteller Artikelnummer": "AORUS FO48U",
+        "Panel": "OLED",
+        "VESA Halterung": "300x300 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 48,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: OLED\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 300x300 mm\nHersteller Artikelnummer: AORUS FO48U\nEAN: 4719331814762\nArtikelnummer: M17YRAJL",
+    "reference_file": "offer_reference_1270.json",
+    "shop_name": "mylemon.at"
+}

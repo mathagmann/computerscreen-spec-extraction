@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2409_1.html",
+    "name": "Philips V-line 273V7QDAB, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/273v7qdab_00/273v7qdab-27in-ips-panel.html",
+    "price": 124.96,
+    "raw_specifications": {
+        "Artikelnummer": "MOPYM7L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581742980",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "273V7QDAB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher, USB HUB\nHersteller Artikelnummer: 273V7QDAB/00\nEAN: 8712581742980\nArtikelnummer: MOPYM7L",
+    "reference_file": "offer_reference_2409.json",
+    "shop_name": "mylemon.at"
+}

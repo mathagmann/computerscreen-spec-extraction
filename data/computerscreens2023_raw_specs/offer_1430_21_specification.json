@@ -1,0 +1,16 @@
+{
+    "html_file": "offer_1430_21.html",
+    "name": "ASUS ROG Strix XG16AHP-W, 15.6\"",
+    "offer_link": "https://www.future-x.at/asus-39-6-cm-strix-gaming-xg16ahp-w-hdmi-ips-spk-lift-144hz-flachbildschirm-tft-lcd-39-6-cm-p-8805288/?pv=2",
+    "price": 503.8,
+    "raw_specifications": {
+        "Bilddiagonale (cm)": "39,6 cm",
+        "Bildwiederholfrequenz (Hz)": "144 Hz",
+        "Paneltyp": "IPS",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 39,6 cm\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 144 Hz",
+    "reference_file": "offer_reference_1430.json",
+    "shop_name": "Future-X.at"
+}

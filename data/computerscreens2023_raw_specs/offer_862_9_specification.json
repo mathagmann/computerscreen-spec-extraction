@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_862_9.html",
+    "name": "GIGABYTE S55U, 54.6\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/s55u/s55u-138-7cm-54-6.html",
+    "price": 1302.7,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYZVZL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "120 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "54,6 Zoll",
+        "EAN": "4719331826390",
+        "Helligkeit": "500 cd/m\u00b2",
+        "Hersteller Artikelnummer": "S55U",
+        "Panel": "VA",
+        "Reaktionszeit": "2 ms",
+        "VESA Halterung": "400x300 mm",
+        "Video Anschl\u00fcsse": "2x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 54,6 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: VA\nReaktionszeit: 2 ms\nVideo Anschl\u00fcsse: 2x HDMI\nVESA Halterung: 400x300 mm\nHelligkeit: 500 cd/m\u00b2\nBesonderheiten: 120 Hz, Lautsprecher\nHersteller Artikelnummer: S55U\nEAN: 4719331826390\nArtikelnummer: M1IYZVZL",
+    "reference_file": "offer_reference_862.json",
+    "shop_name": "mylemon.at"
+}

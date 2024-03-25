@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1338_5.html",
+    "name": "LG UltraWide 29WP500-B, 29\"",
+    "offer_link": "https://haym.info/produktdetails?id=1C16411",
+    "price": 172.14,
+    "raw_specifications": {
+        "Artikelnummer": "1C16411",
+        "Aufl\u00f6sung": "2560x1080 (21:9)",
+        "Bildschirmdiagonale/Zoll": "29 Zoll",
+        "Bildschirmdiagonale/cm": "73.7 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "2x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 29 Zoll\nAufl\u00f6sung: 2560x1080 (21:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVGA: 0x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 73.7 cm\nTouch-Funktion: nein\nArtikelnummer: 1C16411\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_1338.json",
+    "shop_name": "haym.infotec"
+}

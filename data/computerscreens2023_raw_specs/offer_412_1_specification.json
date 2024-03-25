@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_412_1.html",
+    "name": "Philips 3000 Series 16B1P3302D, 15.6\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/26425991?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 234.14,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "Kopfh\u00f6reranschluss, Audioausgang (Line-Out), Audioeingang (Line-In)",
+        "Display Features": "FlickerFree",
+        "Displaygr\u00f6\u00dfe": "bis 45,72 cm (18 Zoll)",
+        "Energieeffizienzklasse": "C",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "1,03 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "400:1 bis 800:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "4,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Geh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nAnschl\u00fcsse: Kopfh\u00f6reranschluss, Audioausgang (Line-Out), Audioeingang (Line-In)\nDisplay Features: FlickerFree\nDisplaygr\u00f6\u00dfe: bis 45,72 cm (18 Zoll)\nKontrastverh\u00e4ltnis (typisch) Bereich: 400:1 bis 800:1\nGewicht: 1,03 kg\nFiltergruppennummer: Monitore\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 4,00 ms\nEnergieeffizienzklasse: C",
+    "reference_file": "offer_reference_412.json",
+    "shop_name": "playox (AT)"
+}

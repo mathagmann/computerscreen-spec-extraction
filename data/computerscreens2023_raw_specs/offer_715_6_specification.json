@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_715_6.html",
+    "name": "MSI G321CUVDE, 31.5\"",
+    "offer_link": "https://www.ba-computer.at/msi-optix-g321cuvde-va-3840x2160-uhd-9s6-3da21a-022.html",
+    "price": 434.56,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Aufl\u00f6sungsstandard": "UHD (3840x2160)",
+        "Bilddiagonale (Zoll)": "32 \"",
+        "Bilddiagonale (cm)": "81,3 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Energieeffizienzklasse": "G",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 81,3 cm\nBilddiagonale (Zoll): 32 \"\nAufl\u00f6sung: 3840 * 2160\nAufl\u00f6sungsstandard: UHD (3840x2160)\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 3000:1\nPaneltyp: TFT\nVideo-Schnittstellen: DisplayPort; HDMI\nBildwiederholfrequenz (Hz): 60 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: G",
+    "reference_file": "offer_reference_715.json",
+    "shop_name": "BA-Computer"
+}

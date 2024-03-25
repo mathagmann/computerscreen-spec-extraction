@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_695_26.html",
+    "name": "BenQ Zowie XL2566K, 24.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/zowie/9h_lkrlb_qbe/monitor-benq-xl2566k-led-360hz.html",
+    "price": 851.42,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYX24L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "360 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "24,5 Zoll",
+        "EAN": "4718755086731",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "320 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9H.LKRLB.QBE",
+        "Panel": "TN",
+        "Reaktionszeit": "0,5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 24,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: TN\nReaktionszeit: 0,5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 320 cd/m\u00b2\nBesonderheiten: 360 Hz, USB HUB\nHersteller Artikelnummer: 9H.LKRLB.QBE\nEAN: 4718755086731\nArtikelnummer: M1IYX24L",
+    "reference_file": "offer_reference_695.json",
+    "shop_name": "mylemon.at"
+}

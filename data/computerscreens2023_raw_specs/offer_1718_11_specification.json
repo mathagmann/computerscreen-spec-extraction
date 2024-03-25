@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_1718_11.html",
+    "name": "AOC Porsche Design Agon PD27, 27\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/15260977?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 604.68,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioeingang (Line-In)",
+        "Bildwiederholungsrate": "240,00 Hz",
+        "Display Features": "FlickerFree, 3D ready",
+        "Display Sync": "AMD FreeSync",
+        "Displaygr\u00f6\u00dfe": "68,58 cm (27 Zoll)",
+        "Energieeffizienzklasse": "G",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "8,90 kg",
+        "Helligkeit Bereich": "ab 450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "VA Panel",
+        "Reaktionszeit": "1,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "2.560 x 1.440 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 68,58 cm (27 Zoll)\nEnergieeffizienzklasse: G\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioeingang (Line-In)\nFiltergruppennummer: Monitore\nHelligkeit Bereich: ab 450 cd/m\u00b2\nDisplay Features: FlickerFree, 3D ready\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nGewicht: 8,90 kg\nDisplay Sync: AMD FreeSync\nmax. Aufl\u00f6sung: 2.560 x 1.440 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: VA Panel\nReaktionszeit: 1,00 ms\nBildwiederholungsrate: 240,00 Hz",
+    "reference_file": "offer_reference_1718.json",
+    "shop_name": "office-partner (AT)"
+}

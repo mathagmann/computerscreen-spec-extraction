@@ -1,0 +1,31 @@
+{
+    "html_file": "offer_763_5.html",
+    "name": "HP HyperX Armada 25, 24.5\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125808-monitor-hyperx-armada-25-24-5-ips-240-hz-0196548124015.html",
+    "price": 546.8,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "24,5\"",
+        "Chipsatz": "NVIDIA",
+        "Diagonale des Bildschirms (cm)": "62,2 cm",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "E",
+        "Glanz": "400 lm ANSI",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Montage": "VESA",
+        "Nicht erhalten": "AMD FreeSync",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Technologie": "IPS",
+        "Touchscreen": "Kein",
+        "Verbindung": "DisplayPort 1.4",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Art: Monitor\nSteckbares Produkt: Ja\nEnergieklassifizierung: E\nBildschirm: 24,5\"\nAufl\u00f6sung (px): 1920 x 1080 px\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 62,2 cm\nSeitenverh\u00e4ltnis: 16:9\nAufl\u00f6sung: Full HD\nKontrastverh\u00e4ltnis: 1000:1\nTechnologie: IPS\nEmpfohlene verwendung: Gaming\nTouchscreen: Kein\nWinkel: 178\u00ba\nVerbindung: DisplayPort 1.4\nNicht erhalten: AMD FreeSync\nMontage: VESA\nChipsatz: NVIDIA\nGlanz: 400 lm ANSI\nKompatibel: VESA 100 x 100 mm",
+    "reference_file": "offer_reference_763.json",
+    "shop_name": "bauguru"
+}

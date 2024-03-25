@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_424_1.html",
+    "name": "Wortmann Terra LED 2727W HA, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/wortmann/3030204/terra-lcd-led-2727w-ha.html",
+    "price": 174.18,
+    "raw_specifications": {
+        "Artikelnummer": "M1CYLE7L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4039407072132",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "3030204",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher\nHersteller Artikelnummer: 3030204\nEAN: 4039407072132\nArtikelnummer: M1CYLE7L",
+    "reference_file": "offer_reference_424.json",
+    "shop_name": "mylemon.at"
+}

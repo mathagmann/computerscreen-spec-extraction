@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1690_0.html",
+    "name": "Samsung Odyssey G5 G55T (2020), 34\"",
+    "offer_link": "https://haym.info/produktdetails?id=1C01439",
+    "price": 439.08,
+    "raw_specifications": {
+        "Artikelnummer": "1C01439",
+        "Aufl\u00f6sung": "3440x1440 (21:9)",
+        "Bildschirmdiagonale/Zoll": "34 Zoll",
+        "Bildschirmdiagonale/cm": "86.4 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "75x75",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 34 Zoll\nAufl\u00f6sung: 3440x1440 (21:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 75x75\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 86.4 cm\nTouch-Funktion: nein\nArtikelnummer: 1C01439\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_1690.json",
+    "shop_name": "haym.infotec"
+}

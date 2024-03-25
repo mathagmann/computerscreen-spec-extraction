@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_735_9.html",
+    "name": "iiyama ProLite XB2283HSU-B1, 21.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C24732",
+    "price": 118.87,
+    "raw_specifications": {
+        "Artikelnummer": "2C24732",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "21.5 Zoll",
+        "Bildschirmdiagonale/cm": "54.6 cm",
+        "DVI": "0x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 21.5 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVGA: 0x\nDVI: 0x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 1 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 54.6 cm\nTouch-Funktion: nein\nArtikelnummer: 2C24732\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_735.json",
+    "shop_name": "haym.infotec"
+}

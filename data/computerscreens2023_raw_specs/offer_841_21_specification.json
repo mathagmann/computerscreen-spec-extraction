@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_841_21.html",
+    "name": "ASUS TUF Gaming VG27VQM, 27\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/24752835?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 277.11,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Bildwiederholungsrate": "240 Hz",
+        "Display Features": "FlickerFree, 3D ready",
+        "Displaygr\u00f6\u00dfe": "68,58 cm (27 Zoll)",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "E",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "6,00 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Hersteller": "ASUS",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "sonstige",
+        "LCD-Technologie": "VA Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: E\nDisplaygr\u00f6\u00dfe: 68,58 cm (27 Zoll)\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nDisplay Features: FlickerFree, 3D ready\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nHersteller: ASUS\nKontrastverh\u00e4ltnis (typisch) Bereich: sonstige\nGewicht: 6,00 kg\nProduktart: Monitore\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: VA Panel\nReaktionszeit: 1 ms\nBildwiederholungsrate: 240 Hz\nEinsatzort: Innen",
+    "reference_file": "offer_reference_841.json",
+    "shop_name": "office-partner (AT)"
+}

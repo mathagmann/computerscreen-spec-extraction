@@ -1,0 +1,32 @@
+{
+    "html_file": "offer_508_11.html",
+    "name": "ASUS ROG Strix XG27AQV, 27\"",
+    "offer_link": "https://www.alternate.at/ASUS/ROG-Strix-XG27AQV-Gaming-Monitor/html/product/1907006?partner=AtGeizhalsat&campaign=Monitor/ASUS/1907006",
+    "price": 465.0,
+    "raw_specifications": {
+        "": "VESA DisplayHDR Standard",
+        "Anschl\u00fcsse": "2x HDMI-Eingang, (HDMI-Version: 2.0), 1x DisplayPort-Eingang, (DisplayPort-Version: 1.2), 1x 3,5-mm-Audio-Ausgang",
+        "Bild": "Format",
+        "Bildschirmaufl\u00f6sung": "2.560 x 1.440 Pixel",
+        "Bildschirmdiagonale": "69 cm (27 Zoll)",
+        "EAN": "4711081927150",
+        "Energieeffizienzklasse (HDR)": "G (A - G)",
+        "Energieeffizienzklasse (SDR)": "F (A - G)",
+        "Energieverbauch pro 1000 Stunden (HDR)": "46 kWh",
+        "Energieverbauch pro 1000 Stunden (SDR)": "26 kWh",
+        "Ergonomie": "Typ",
+        "Farbe": "schwarz",
+        "Features": "ASUS Variable Overdrive, Dynamic Shadow Boost, Flicker-Free Technologie GamePlus, GameVisual",
+        "Geeignet f\u00fcr": "Gaming",
+        "Hersteller-Nr.": "90LM08G0-B01A70",
+        "Leistungsaufnahme im Bereitschafts- und Aus-Zustand": "0,5 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)": "25,9 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei hohem Dynamikumfang (HDR)": "46.1 Watt",
+        "Serie": "ROG Strix",
+        "Stromversorgung": "Eco-Off",
+        "Typ": "Gaming-Monitor"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse (SDR): F (A - G)\nEnergieverbauch pro 1000 Stunden (SDR): 26 kWh\nEnergieeffizienzklasse (HDR): G (A - G)\nEnergieverbauch pro 1000 Stunden (HDR): 46 kWh\nLeistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR): 25,9 Watt\nLeistungsaufnahme im Ein-Zustand bei hohem Dynamikumfang (HDR): 46.1 Watt\nLeistungsaufnahme im Bereitschafts- und Aus-Zustand: 0,5 Watt\nBildschirmdiagonale: 69 cm (27 Zoll)\nBildschirmaufl\u00f6sung: 2.560 x 1.440 Pixel\nTyp: Gaming-Monitor\nFarbe: schwarz\nEAN: 4711081927150\nHersteller-Nr.: 90LM08G0-B01A70\nSerie: ROG Strix\nGeeignet f\u00fcr: Gaming\nBild: Format\n: VESA DisplayHDR Standard\nAnschl\u00fcsse: 2x HDMI-Eingang, (HDMI-Version: 2.0), 1x DisplayPort-Eingang, (DisplayPort-Version: 1.2), 1x 3,5-mm-Audio-Ausgang\nErgonomie: Typ\nStromversorgung: Eco-Off\nFeatures: ASUS Variable Overdrive, Dynamic Shadow Boost, Flicker-Free Technologie GamePlus, GameVisual",
+    "reference_file": "offer_reference_508.json",
+    "shop_name": "Alternate.at"
+}

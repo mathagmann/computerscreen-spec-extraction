@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_593_3.html",
+    "name": "Philips 5000 Series 40B1U5600, 39.53\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/40b1u5600_00/40b1u5600-00-40-3440x1440.html",
+    "price": 576.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYYLJL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "120 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "39,5 Zoll",
+        "EAN": "8712581797478",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "500 cd/m\u00b2",
+        "Hersteller Artikelnummer": "40B1U5600/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 39,5 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 500 cd/m\u00b2\nBesonderheiten: 120 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 40B1U5600/00\nEAN: 8712581797478\nArtikelnummer: M1EYYLJL",
+    "reference_file": "offer_reference_593.json",
+    "shop_name": "mylemon.at"
+}

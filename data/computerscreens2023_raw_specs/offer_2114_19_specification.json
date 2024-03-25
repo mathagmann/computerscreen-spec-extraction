@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_2114_19.html",
+    "name": "Philips E-line 241E1SCA, 23.6\"",
+    "offer_link": "https://technikladen.at/P-241E1SCA-00-Philips-E-Line-241E1SCA-00-599-cm-236-Zoll-1920-x-1080-Pixel-Full-HD-LCD-4-ms-Schwarz-241E1SCA-00-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+    "price": 133.8,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "59,9 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "1920 x 1080 Pixel",
+        "Display-Oberfl\u00e4che": "Matt",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "4 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 59,9 cm\nDisplay-Aufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LCD\nDisplay-Oberfl\u00e4che: Matt\nReaktionszeit: 4 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_2114.json",
+    "shop_name": "TechnikLaden"
+}

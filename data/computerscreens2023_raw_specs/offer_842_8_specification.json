@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_842_8.html",
+    "name": "Acer EB1 EB321HQAbi, 31.5\"",
+    "offer_link": "https://www.future-x.at/acer-eb321hqabi-80-cm-31-5-1920%2A1080-4-ms-300-cd-m%B2-schwarz-p-9164125/?pv=2",
+    "price": 210.79,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "31,5 \"",
+        "Bilddiagonale (cm)": "80 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Vesa-Bohrung": "100 x 100 mm",
+        "Video-Schnittstellen": "VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nVesa-Bohrung: 100 x 100 mm\nFarbe: Schwarz\nBilddiagonale (cm): 80 cm\nBilddiagonale (Zoll): 31,5 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 4 ms\nHelligkeit: 300 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nVideo-Schnittstellen: VGA\nBildwiederholfrequenz (Hz): 60 Hz",
+    "reference_file": "offer_reference_842.json",
+    "shop_name": "Future-X.at"
+}

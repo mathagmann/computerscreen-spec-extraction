@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_266_13.html",
+    "name": "Lenovo L27q-38, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125872-monitor-lenovo-l27q-38-27-qhd-0196379978054.html",
+    "price": 320.0,
+    "raw_specifications": {
+        "Art": "Achse",
+        "Aufl\u00f6sung": "Quad HD",
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Energieklassifizierung": "E",
+        "Glanz": "350 lm ANSI",
+        "Hinterleuchtet": "W-LED",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "4000:1",
+        "Maximale Anpassung": "150 mm",
+        "Montage": "VESA",
+        "Pixel-Dichte (dpi)": "109 dpi",
+        "Ports": "Audio-Ausgang",
+        "Reichweite": "99% sRGB",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Sound": "6 W",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Sound: 6 W\nAufl\u00f6sung: Quad HD\nAufl\u00f6sung (px): 2560 x 1440 px\nPixel-Dichte (dpi): 109 dpi\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nEnergieklassifizierung: E\nDiagonale des Bildschirms (cm): 68,6 cm\nArt: Achse\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 4000:1\nPorts: Audio-Ausgang\nVerbindung: DisplayPort 1.2\nSpannung: 100 - 240 V\nGlanz: 350 lm ANSI\nTouchscreen: Kein\nWinkel: 178\u00ba\nHinterleuchtet: W-LED\nMontage: VESA\nMaximale Anpassung: 150 mm\nReichweite: 99% sRGB\nKompatibel: VESA 100 x 100 mm",
+    "reference_file": "offer_reference_266.json",
+    "shop_name": "bauguru"
+}

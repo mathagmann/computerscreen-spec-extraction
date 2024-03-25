@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_288_13.html",
+    "name": "LG 27MP60GP-B, 27\"",
+    "offer_link": "https://www.future-x.at/lg-27mp60gp-b-0fhd-68-6-cm-27-1920%2A1080-5-ms-1000%3A1-200-cd-m%B2-vga-hdmi-hdmi-dp-schwarz-p-9256207/?pv=2",
+    "price": 147.89,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "200 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Vesa-Bohrung": "75 x 75 mm",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nVesa-Bohrung: 75 x 75 mm\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 200 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; VGA\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_288.json",
+    "shop_name": "Future-X.at"
+}

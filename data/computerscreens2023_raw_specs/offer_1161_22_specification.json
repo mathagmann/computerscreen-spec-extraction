@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1161_22.html",
+    "name": "BenQ EW3880R, 37.5\"",
+    "offer_link": "https://www.future-x.at/benq-monitor-ew3880r-38-96-5-cm-37-5-3840%2A1600-4-ms-1000%3A1-300-cd-m%B2-p-8948361/?pv=2",
+    "price": 1193.39,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 1600",
+        "Bilddiagonale (Zoll)": "38 \"",
+        "Bilddiagonale (cm)": "95,3 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Braun",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Braun\nBilddiagonale (cm): 95,3 cm\nBilddiagonale (Zoll): 38 \"\nAufl\u00f6sung: 3840 * 1600\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nBildwiederholfrequenz (Hz): 60 Hz",
+    "reference_file": "offer_reference_1161.json",
+    "shop_name": "Future-X.at"
+}

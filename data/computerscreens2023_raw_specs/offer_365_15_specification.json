@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_365_15.html",
+    "name": "Samsung Odyssey G5 G51C, 27\"",
+    "offer_link": "https://technikladen.at/P-LS27CG510EUXEN-Samsung-S27CG510EU-LS27CG510EUXEN-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+    "price": 298.88,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Energieeffizienzklasse": "F",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 3000:1\nHelligkeit: 300 cd/m\u00b2\nVideo-Schnittstellen: DisplayPort; HDMI\nBildwiederholfrequenz (Hz): 165 Hz\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_365.json",
+    "shop_name": "TechnikLaden"
+}

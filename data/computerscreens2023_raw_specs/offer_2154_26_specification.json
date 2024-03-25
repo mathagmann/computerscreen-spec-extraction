@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2154_26.html",
+    "name": "AOC U2790PQU, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/aoc/u2790pqu/68-6cm-27-u2790pqu-16.html",
+    "price": 344.83,
+    "raw_specifications": {
+        "Artikelnummer": "MY0Y53L",
+        "Aufl\u00f6sung": "3840x2160",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4038986186698",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "U2790Pqu",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x200 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x200 mm\nHelligkeit: 350 cd/m\u00b2\nHersteller Artikelnummer: U2790Pqu\nEAN: 4038986186698\nArtikelnummer: MY0Y53L",
+    "reference_file": "offer_reference_2154.json",
+    "shop_name": "mylemon.at"
+}

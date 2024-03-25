@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_1712_9.html",
+    "name": "Philips V-line 242V8LA, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/242v8la_00/242v8la-00.html",
+    "price": 112.89,
+    "raw_specifications": {
+        "Artikelnummer": "M14YHQEL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581771676",
+        "Hersteller Artikelnummer": "242V8LA/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nHersteller Artikelnummer: 242V8LA/00\nEAN: 8712581771676\nArtikelnummer: M14YHQEL",
+    "reference_file": "offer_reference_1712.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1149_1.html",
+    "name": "Monoprice Dark Matter, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/monoprice/143246/dark-matter-86-36-cm.html",
+    "price": 518.81,
+    "raw_specifications": {
+        "Artikelnummer": "M18YTSML",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "144 Hz, Curved",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "0889028159590",
+        "Ergonomie": "Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "143246",
+        "Panel": "VA",
+        "VESA Halterung": "75x75 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 2x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nVideo Anschl\u00fcsse: 2x HDMI, 2x DisplayPort\nErgonomie: Schwenkbar, Neigbar\nVESA Halterung: 75x75 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 144 Hz, Curved\nHersteller Artikelnummer: 143246\nEAN: 0889028159590\nArtikelnummer: M18YTSML",
+    "reference_file": "offer_reference_1149.json",
+    "shop_name": "mylemon.at"
+}

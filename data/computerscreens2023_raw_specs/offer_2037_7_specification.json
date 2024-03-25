@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2037_7.html",
+    "name": "ASUS TUF Gaming VG27WQ, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm05f0_b02e70/tuf-gaming-vg27wq.html",
+    "price": 296.33,
+    "raw_specifications": {
+        "Artikelnummer": "M1IY0G3L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4718017556286",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM05F0-B02E70",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 165 Hz, Lautsprecher\nHersteller Artikelnummer: 90LM05F0-B02E70\nEAN: 4718017556286\nArtikelnummer: M1IY0G3L",
+    "reference_file": "offer_reference_2037.json",
+    "shop_name": "mylemon.at"
+}

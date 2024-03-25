@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_244_1.html",
+    "name": "MSI G32C4XDE, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3da61t_039/32-81-3cm-tft-optix.html",
+    "price": 281.99,
+    "raw_specifications": {
+        "Artikelnummer": "M1FYKEFL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "240 Hz, Curved",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4711377059497",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3DA61T-039",
+        "Panel": "VA",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 240 Hz, Curved\nHersteller Artikelnummer: 9S6-3DA61T-039\nEAN: 4711377059497\nArtikelnummer: M1FYKEFL",
+    "reference_file": "offer_reference_244.json",
+    "shop_name": "mylemon.at"
+}

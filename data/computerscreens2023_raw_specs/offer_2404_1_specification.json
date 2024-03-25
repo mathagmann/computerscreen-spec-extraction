@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2404_1.html",
+    "name": "Fujitsu P-Line P27-8 TS UHD LED, 27\"",
+    "offer_link": "https://technikladen.at/DISPLAY-27-P27-8-TS-UHD?tl=gzhls",
+    "price": 573.0,
+    "raw_specifications": {
+        "3D": "Ja",
+        "Bildschirmdiagonale": "68,6 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "4K Ultra HD",
+        "H\u00f6henverstellung": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm\nHD-Typ: 4K Ultra HD\nBildschirmtechnologie: LED\n3D: Ja\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_2404.json",
+    "shop_name": "TechnikLaden"
+}

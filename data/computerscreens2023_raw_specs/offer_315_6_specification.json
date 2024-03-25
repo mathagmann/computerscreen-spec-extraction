@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_315_6.html",
+    "name": "LG 32UL750P-W, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/lg/32ul750p_w/monitor-lcd-32-va-4k.html",
+    "price": 522.99,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYZPWL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Displaygr\u00f6\u00dfe": "32 Zoll",
+        "EAN": "8806091970688",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "32UL750P-W",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, 2x USB"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 32 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, 2x USB\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nHersteller Artikelnummer: 32UL750P-W\nEAN: 8806091970688\nArtikelnummer: M1IYZPWL",
+    "reference_file": "offer_reference_315.json",
+    "shop_name": "mylemon.at"
+}

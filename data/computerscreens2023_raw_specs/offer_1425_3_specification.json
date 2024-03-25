@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_1425_3.html",
+    "name": "LG 24BN550Y-T, 23.8\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C08668",
+    "price": 197.92,
+    "raw_specifications": {
+        "Artikelnummer": "2C08668",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.8 Zoll",
+        "Bildschirmdiagonale/cm": "60.5 cm",
+        "DVI": "1x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 Millisekunden",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.8 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 1x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 60.5 cm\nTouch-Funktion: nein\nArtikelnummer: 2C08668\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1425.json",
+    "shop_name": "haym.infotec"
+}

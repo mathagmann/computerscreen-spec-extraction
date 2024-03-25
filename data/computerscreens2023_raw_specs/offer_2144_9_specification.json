@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2144_9.html",
+    "name": "AG neovo X-19E schwarz, 19\"",
+    "offer_link": "https://technikladen.at/P-X19E0011E0100-AG-Neovo-X-19E-483-cm-19-Zoll-1280-x-1024-Pixel-SXGA-LED-3-ms-Schwarz-X19E0011E0100-Displays-Projektoren?tl=gzhls",
+    "price": 651.21,
+    "raw_specifications": {
+        "Anzeige": "LCD",
+        "Bildschirmaufl\u00f6sung": "1280 x 1024 Pixel",
+        "Bildschirmdiagonale": "48,3 cm",
+        "Bildschirmtechnologie": "LED",
+        "Blickwinkel, horizontal": "170 \u00b0",
+        "Blickwinkel, vertikal": "160 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "SXGA",
+        "Natives Seitenverh\u00e4ltnis": "5:4",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "3 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 48,3 cm\nBildschirmaufl\u00f6sung: 1280 x 1024 Pixel\nHD-Typ: SXGA\nBildschirmtechnologie: LED\nAnzeige: LCD\nReaktionszeit: 3 ms\nNatives Seitenverh\u00e4ltnis: 5:4\nBlickwinkel, horizontal: 170 \u00b0\nBlickwinkel, vertikal: 160 \u00b0\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_2144.json",
+    "shop_name": "TechnikLaden"
+}

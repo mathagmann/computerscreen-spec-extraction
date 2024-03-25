@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_946_18.html",
+    "name": "ASUS VY279HE-W, 27\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/23771809?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 212.75,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, VGA/D-Sub",
+        "Bildwiederholungsrate": "75 Hz",
+        "Display Features": "FlickerFree",
+        "Displaygr\u00f6\u00dfe": "68,58 cm (27 Zoll)",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "E",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Wei\u00df",
+        "Gewicht": "4,21 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Hersteller": "ASUS",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 68,58 cm (27 Zoll)\nGeh\u00e4usefarbe des Ger\u00e4tes: Wei\u00df\nProduktart: Monitore\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nAnschl\u00fcsse: HDMI, VGA/D-Sub\nDisplay Features: FlickerFree\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nHersteller: ASUS\nGewicht: 4,21 kg\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 1 ms\nBildwiederholungsrate: 75 Hz\nEinsatzort: Innen\nEnergieeffizienzklasse: E",
+    "reference_file": "offer_reference_946.json",
+    "shop_name": "playox (AT)"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1050_2.html",
+    "name": "Philips 3000 24E1N3300A, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/24e1n3300a_00/24e1n3300a-00-60-45cm-23.html",
+    "price": 149.89,
+    "raw_specifications": {
+        "Artikelnummer": "M19YYFXL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581783303",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "24E1N3300A/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, USB-C DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 24E1N3300A/00\nEAN: 8712581783303\nArtikelnummer: M19YYFXL",
+    "reference_file": "offer_reference_1050.json",
+    "shop_name": "mylemon.at"
+}

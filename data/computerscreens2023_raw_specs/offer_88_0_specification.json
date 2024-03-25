@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_88_0.html",
+    "name": "LC-Power LC-M32-QHD-165-C-V2, 31.5\"",
+    "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1658100&KATEGORIE=162&pva=geizhals2",
+    "price": 235.33,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "80 cm 31.5\"",
+        "Bildschirmtechnologie": "LED",
+        "Display-Aufl\u00f6sung": "2560 x 1440 Pixel",
+        "HD-Typ": "Full HD",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Panel-Typ": "IPS",
+        "Touchscreen": "Nein"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 80 cm 31.5\"\nDisplay-Aufl\u00f6sung: 2560 x 1440 Pixel\nNatives Seitenverh\u00e4ltnis: 16:9\nBildschirmtechnologie: LED\nTouchscreen: Nein\nHD-Typ: Full HD\nPanel-Typ: IPS",
+    "reference_file": "offer_reference_88.json",
+    "shop_name": "CSV-Direct.de"
+}

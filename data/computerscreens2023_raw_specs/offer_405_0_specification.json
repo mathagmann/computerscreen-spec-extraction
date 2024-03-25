@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_405_0.html",
+    "name": "Philips S-line 273S1, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/273s1_00/smb-volumen-27-usb-c.html",
+    "price": 177.58,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYE1BL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "273S1/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher\nHersteller Artikelnummer: 273S1/00\nArtikelnummer: M1IYE1BL",
+    "reference_file": "offer_reference_405.json",
+    "shop_name": "mylemon.at"
+}

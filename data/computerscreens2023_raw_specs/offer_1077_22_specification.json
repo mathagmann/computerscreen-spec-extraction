@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_1077_22.html",
+    "name": "Philips S-line 243S1, 23.8\"",
+    "offer_link": "https://technikladen.at/P-243S1-00-Philips-S-Line-243S1-00-605-cm-238-Zoll-1920-x-1080-Pixel-Full-HD-LCD-4-ms-Schwarz-243S1-00-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+    "price": 248.58,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "1920 x 1080 Pixel",
+        "Display-Oberfl\u00e4che": "Matt",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "4 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "USB-Hub-Version": "3.2 Gen 2 (3.1 Gen 2)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nDisplay-Aufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LCD\nDisplay-Oberfl\u00e4che: Matt\nReaktionszeit: 4 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 2 (3.1 Gen 2)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1077.json",
+    "shop_name": "TechnikLaden"
+}

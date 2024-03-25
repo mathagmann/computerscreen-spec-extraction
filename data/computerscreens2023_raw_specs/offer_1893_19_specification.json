@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1893_19.html",
+    "name": "Philips B-line 272B1G, 27\"",
+    "offer_link": "https://www.future-x.at/philips-272b1g-27-ips-fullhd-1920x1080-16-9-hdmi-flachbildschirm-tft-lcd-68-58-cm-4-ms-1000%3A1-250-cd-m%B2-p-8459490/?pv=2",
+    "price": 211.69,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,58 cm",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,58 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI",
+    "reference_file": "offer_reference_1893.json",
+    "shop_name": "Future-X.at"
+}

@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2220_8.html",
+    "name": "iiyama ProLite XUB2792UHSU-B1, 27\"",
+    "offer_link": "https://haym.info/produktdetails?id=8C36398",
+    "price": 343.51,
+    "raw_specifications": {
+        "Artikelnummer": "8C36398",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "27 Zoll",
+        "Bildschirmdiagonale/cm": "68.6 cm",
+        "DVI": "1x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "1x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 27 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 1x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 68.6 cm\nTouch-Funktion: nein\nArtikelnummer: 8C36398\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2220.json",
+    "shop_name": "haym.infotec"
+}

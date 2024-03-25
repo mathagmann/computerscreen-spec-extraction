@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_2012_49.html",
+    "name": "Lenovo ThinkVision T25d-10, 25\"",
+    "offer_link": "https://technikladen.at/ThinkVision-T25d-10-25-TS?tl=gzhls",
+    "price": 299.59,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "63,5 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "1920 x 1200 Pixel",
+        "Display-Oberfl\u00e4che": "Matt",
+        "HD-Typ": "WUXGA",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:10",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "6 ms",
+        "USB-Hub-Version": "3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 63,5 cm\nDisplay-Aufl\u00f6sung: 1920 x 1200 Pixel\nHD-Typ: WUXGA\nBildschirmtechnologie: LED\nDisplay-Oberfl\u00e4che: Matt\nReaktionszeit: 6 ms\nNatives Seitenverh\u00e4ltnis: 16:10\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_2012.json",
+    "shop_name": "TechnikLaden"
+}

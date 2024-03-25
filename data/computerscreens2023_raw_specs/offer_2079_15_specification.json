@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2079_15.html",
+    "name": "BenQ GL2780, 27\"",
+    "offer_link": "https://haym.info/produktdetails?id=9C32800",
+    "price": 175.21,
+    "raw_specifications": {
+        "Artikelnummer": "9C32800",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "27 Zoll",
+        "Bildschirmdiagonale/cm": "68.6 cm",
+        "DVI": "1x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "D",
+        "HDMI": "1x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 27 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: D\nVGA: 1x\nDVI: 1x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 1 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 68.6 cm\nTouch-Funktion: nein\nArtikelnummer: 9C32800\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_2079.json",
+    "shop_name": "haym.infotec"
+}

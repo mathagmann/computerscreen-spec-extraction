@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_783_0.html",
+    "name": "Philips V-line 221V8LD, 21.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/221v8ld_00/54-6cm-21-5-1920x1080.html",
+    "price": 91.99,
+    "raw_specifications": {
+        "Artikelnummer": "M15YOF3L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "21,5 Zoll",
+        "EAN": "8712581771713",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "221V8LD/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 21,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 221V8LD/00\nEAN: 8712581771713\nArtikelnummer: M15YOF3L",
+    "reference_file": "offer_reference_783.json",
+    "shop_name": "mylemon.at"
+}

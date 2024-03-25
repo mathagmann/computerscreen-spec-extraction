@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_382_0.html",
+    "name": "Dell S3221QSA, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/dell/210_bfvu/31-5-s3221qsa-led-curved.html",
+    "price": 397.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1LY3FJL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "Curved, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "5397184657195",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "210-BFVU",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 2x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 2x DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: Curved, Lautsprecher\nHersteller Artikelnummer: 210-BFVU\nEAN: 5397184657195\nArtikelnummer: M1LY3FJL",
+    "reference_file": "offer_reference_382.json",
+    "shop_name": "mylemon.at"
+}

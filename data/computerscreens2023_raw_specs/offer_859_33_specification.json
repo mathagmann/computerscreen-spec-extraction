@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_859_33.html",
+    "name": "AOC 27V5CE/BK, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125492-monitor-aoc-27v5ce-bk-full-hd-27-4038986180146.html",
+    "price": 202.4,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Empfohlene verwendung": "Haushalt",
+        "Energieklassifizierung": "E",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Montage": "VESA",
+        "Pixel-Dichte (dpi)": "82 dpi",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Aufl\u00f6sung: Full HD\nBildschirm: 27\"\nKompatibel: VESA 100 x 100 mm\nReaktionszeit: 1 ms\nAufl\u00f6sung (px): 1920 x 1080 px\nArt: Monitor\nEnergieklassifizierung: E\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nPixel-Dichte (dpi): 82 dpi\nDiagonale des Bildschirms (cm): 68,6 cm\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nTouchscreen: Kein\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nMontage: VESA\nEmpfohlene verwendung: Haushalt",
+    "reference_file": "offer_reference_859.json",
+    "shop_name": "bauguru"
+}

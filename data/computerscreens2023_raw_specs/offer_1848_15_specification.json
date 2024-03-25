@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1848_15.html",
+    "name": "ASUS TUF Gaming VG27AQL1A, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm05z0_b06370/68-5cm-gaming-tuf-vg27aql1a.html",
+    "price": 401.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYW3SL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "170 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4718017637657",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM05Z0-B06370",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 170 Hz, USB HUB\nHersteller Artikelnummer: 90LM05Z0-B06370\nEAN: 4718017637657\nArtikelnummer: M1IYW3SL",
+    "reference_file": "offer_reference_1848.json",
+    "shop_name": "mylemon.at"
+}

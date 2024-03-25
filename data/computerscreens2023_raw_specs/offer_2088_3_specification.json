@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2088_3.html",
+    "name": "Philips B-line 345B1C, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/345b1c_00/345b1c-86-36cm-34in-va.html",
+    "price": 362.41,
+    "raw_specifications": {
+        "Artikelnummer": "MZ4YL8L",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "100 Hz, AMD FreeSync, HDCP, Helligkeitssensor",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "8712581760779",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "345B1C/00",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 100 Hz, AMD FreeSync, HDCP, Helligkeitssensor\nHersteller Artikelnummer: 345B1C/00\nEAN: 8712581760779\nArtikelnummer: MZ4YL8L",
+    "reference_file": "offer_reference_2088.json",
+    "shop_name": "mylemon.at"
+}

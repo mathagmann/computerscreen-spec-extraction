@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_20_6.html",
+    "name": "Acer CB2 CB242YEsmiprx, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/acer/um_qb2ee_e02/tft-cb242yesmiprx-60-5cm-23.html",
+    "price": 144.71,
+    "raw_specifications": {
+        "Artikelnummer": "M1JY28RL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4711121604867",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "UM.QB2EE.E02",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher\nHersteller Artikelnummer: UM.QB2EE.E02\nEAN: 4711121604867\nArtikelnummer: M1JY28RL",
+    "reference_file": "offer_reference_20.json",
+    "shop_name": "mylemon.at"
+}

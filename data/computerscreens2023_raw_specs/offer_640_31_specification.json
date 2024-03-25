@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_640_31.html",
+    "name": "Philips S-line 242S9AL, 23.8\"",
+    "offer_link": "https://technikladen.at/A-242S9AL-00-Philips-242S9AL-00-605-cm-238-Zoll-1920-x-1080-Pixel-Full-HD-LCD-4-ms-Schwarz-242S9AL-00-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+    "price": 137.45,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "1920 x 1080 Pixel",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "4 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nDisplay-Aufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LCD\nReaktionszeit: 4 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_640.json",
+    "shop_name": "TechnikLaden"
+}

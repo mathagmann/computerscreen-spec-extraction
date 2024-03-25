@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_402_2.html",
+    "name": "AG neovo DW-Series DW3401, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/ag_neovo/dw341011e0000/dw-3401-34in-ultrawide-ips.html",
+    "price": 623.88,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYAEXL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "4710739597714",
+        "Hersteller Artikelnummer": "DW341011E0000",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nHersteller Artikelnummer: DW341011E0000\nEAN: 4710739597714\nArtikelnummer: M1EYAEXL",
+    "reference_file": "offer_reference_402.json",
+    "shop_name": "mylemon.at"
+}

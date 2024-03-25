@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_2522_4.html",
+    "name": "Fujitsu B-Line B19-7 LED, 19\"",
+    "offer_link": "https://www.taufnaus.de/product/12429948",
+    "price": 625.77,
+    "raw_specifications": {
+        "Entwickelt f\u00fcr": "Fujitsu PRIMERGY RX100 S8 (2.5\"), RX1330 M1 (2.5\"), RX4770 M1 (2.5\")",
+        "Formfaktor": "2.5\" (6.4 cm)",
+        "Ger\u00e4tetyp": "Festplatte - Hot-Swap",
+        "Kapazit\u00e4t": "300 GB",
+        "Kompatibles Schaltfeld": "2.5\" (6.4 cm)",
+        "Schnittstelle": "SAS 6Gb/s",
+        "Schnittstellen": "1 x SAS 6Gb/s",
+        "Spindelgeschwindigkeit": "15000 rpm",
+        "\u00dcbertragungsrate Laufwerk": "600 MBps (extern)"
+    },
+    "raw_specifications_text": "Ger\u00e4tetyp: Festplatte - Hot-Swap\nKapazit\u00e4t: 300 GB\nFormfaktor: 2.5\" (6.4 cm)\nSchnittstelle: SAS 6Gb/s\n\u00dcbertragungsrate Laufwerk: 600 MBps (extern)\nSpindelgeschwindigkeit: 15000 rpm\nSchnittstellen: 1 x SAS 6Gb/s\nKompatibles Schaltfeld: 2.5\" (6.4 cm)\nEntwickelt f\u00fcr: Fujitsu PRIMERGY RX100 S8 (2.5\"), RX1330 M1 (2.5\"), RX4770 M1 (2.5\")",
+    "reference_file": "offer_reference_2522.json",
+    "shop_name": "TaufNaus"
+}

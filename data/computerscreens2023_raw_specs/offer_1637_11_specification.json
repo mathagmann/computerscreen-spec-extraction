@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1637_11.html",
+    "name": "GIGABYTE G32QC A, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/g32qc_a/g32qc-a-80-cm-31.html",
+    "price": 343.48,
+    "raw_specifications": {
+        "Artikelnummer": "M16Y53IL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719331811495",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "G32QC A",
+        "Panel": "VA",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, 2x USB"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, 2x USB\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nHersteller Artikelnummer: G32QC A\nEAN: 4719331811495\nArtikelnummer: M16Y53IL",
+    "reference_file": "offer_reference_1637.json",
+    "shop_name": "mylemon.at"
+}

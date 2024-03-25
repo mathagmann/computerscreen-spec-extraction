@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_2440_8.html",
+    "name": "Dell E2016HV, 19.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=7C08557",
+    "price": 73.62,
+    "raw_specifications": {
+        "Artikelnummer": "7C08557",
+        "Aufl\u00f6sung": "1600x900 (16:9)",
+        "Bildschirmdiagonale/Zoll": "19.5 Zoll",
+        "Bildschirmdiagonale/cm": "49.5 cm",
+        "Energieeffizienzklasse": "D",
+        "Helligkeit": "200 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 19.5 Zoll\nAufl\u00f6sung: 1600x900 (16:9)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: D\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 200 cd/m2\nBildschirmdiagonale/cm: 49.5 cm\nTouch-Funktion: nein\nArtikelnummer: 7C08557\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2440.json",
+    "shop_name": "haym.infotec"
+}

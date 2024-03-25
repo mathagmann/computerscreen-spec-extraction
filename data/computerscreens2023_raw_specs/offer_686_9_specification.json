@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_686_9.html",
+    "name": "Philips S-line 275S9JAL, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/275s9jal_00/275s9jal-00-68-58cm-27zoll.html",
+    "price": 167.72,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYMHTL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "75 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581796402",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "275S9JAL/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x USB"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x USB\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher\nHersteller Artikelnummer: 275S9JAL/00\nEAN: 8712581796402\nArtikelnummer: M1EYMHTL",
+    "reference_file": "offer_reference_686.json",
+    "shop_name": "mylemon.at"
+}

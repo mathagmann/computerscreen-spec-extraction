@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_93_1.html",
+    "name": "Wortmann Terra LED 2427W HA Greenline Plus, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/wortmann/3030202/terra-lcd-led-2427w-ha.html",
+    "price": 149.8,
+    "raw_specifications": {
+        "Artikelnummer": "M1CYLE4L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4039407072118",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "3030202",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: 3030202\nEAN: 4039407072118\nArtikelnummer: M1CYLE4L",
+    "reference_file": "offer_reference_93.json",
+    "shop_name": "mylemon.at"
+}

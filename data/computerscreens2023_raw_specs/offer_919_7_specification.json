@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_919_7.html",
+    "name": "MSI PRO MP241XDE, 23.8\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C12786",
+    "price": 139.66,
+    "raw_specifications": {
+        "Artikelnummer": "2C12786",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.8 Zoll",
+        "Bildschirmdiagonale/cm": "60.5 cm",
+        "DVI": "0x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "Lautsprecher": "nein",
+        "Paneltyp": "VA",
+        "Reaktionszeit": "8 Millisekunden",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "75x75",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.8 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: VA\nEnergieeffizienzklasse: F\nVGA: 1x\nDVI: 0x\nHDMI: 1x\nVESA-Bohrung: 75x75\nLautsprecher: nein\nReaktionszeit: 8 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 60.5 cm\nTouch-Funktion: nein\nArtikelnummer: 2C12786\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_919.json",
+    "shop_name": "haym.infotec"
+}

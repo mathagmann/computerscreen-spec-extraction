@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1872_5.html",
+    "name": "Philips B-line 242B1, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/242b1_00/242b1-00-60-45cm-23.html",
+    "price": 301.07,
+    "raw_specifications": {
+        "Artikelnummer": "M11YIX3L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher, Lichtsensor, Picture-in-Picture, USB HUB",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581764210",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "242B1/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher, Lichtsensor, Picture-in-Picture, USB HUB\nHersteller Artikelnummer: 242B1/00\nEAN: 8712581764210\nArtikelnummer: M11YIX3L",
+    "reference_file": "offer_reference_1872.json",
+    "shop_name": "mylemon.at"
+}

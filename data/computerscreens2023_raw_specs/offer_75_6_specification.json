@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_75_6.html",
+    "name": "Acer Predator X27Ubmiipruzx, 26.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/acer/um_hxxee_001/27-l-predator-x27u-predator.html",
+    "price": 1120.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYO8KL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "240 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "26,5 Zoll",
+        "EAN": "4711121472428",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "150 cd/m\u00b2",
+        "Hersteller Artikelnummer": "UM.HXXEE.001",
+        "Panel": "OLED",
+        "Reaktionszeit": "0,1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 26,5 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: OLED\nReaktionszeit: 0,1 ms\nVideo Anschl\u00fcsse: 2x HDMI\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 150 cd/m\u00b2\nBesonderheiten: 240 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: UM.HXXEE.001\nEAN: 4711121472428\nArtikelnummer: M1LYO8KL",
+    "reference_file": "offer_reference_75.json",
+    "shop_name": "mylemon.at"
+}

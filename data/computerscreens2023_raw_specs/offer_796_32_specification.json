@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_796_32.html",
+    "name": "ASUS ZenScreen OLED MQ16AH, 15.6\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126574-monitor-asus-90lm07sv-b01170-oled-4711081494256.html",
+    "price": 544.4,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "15,6\"",
+        "Diagonale des Bildschirms (cm)": "39,6 cm",
+        "Frequenz": "50 - 60 Hz",
+        "Geschwindigkeit": "60 Hz",
+        "Gewicht": "0,65 kg",
+        "Nicht erhalten": "AMD FreeSync",
+        "Ports": "2",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 15,6\"\nAufl\u00f6sung (px): 1920 x 1080 px\nArt: Monitor\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 39,6 cm\nSeitenverh\u00e4ltnis: 16:9\nAufl\u00f6sung: Full HD\nPorts: 2\nFrequenz: 50 - 60 Hz\nSpannung: 100 - 240 V\nTouchscreen: Kein\nGewicht: 0,65 kg\nWinkel: 178\u00ba\nNicht erhalten: AMD FreeSync\nGeschwindigkeit: 60 Hz",
+    "reference_file": "offer_reference_796.json",
+    "shop_name": "bauguru"
+}

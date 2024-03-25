@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_375_8.html",
+    "name": "iiyama ProLite XUB2390HS-B5, 23\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C07010",
+    "price": 130.33,
+    "raw_specifications": {
+        "Artikelnummer": "3C07010",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23 Zoll",
+        "Bildschirmdiagonale/cm": "58.4 cm",
+        "DVI": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 58.4 cm\nTouch-Funktion: nein\nArtikelnummer: 3C07010\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_375.json",
+    "shop_name": "haym.infotec"
+}

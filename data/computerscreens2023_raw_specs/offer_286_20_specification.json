@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_286_20.html",
+    "name": "LG 27BN65YP-B, 27\"",
+    "offer_link": "https://technikladen.at/LG-27BN55UP-B/27/IPS/3840-x-2160/16-9/schwarz-Flachbildschirm-TFT/LCD-27-5-ms-10001-IPS-TCO9-DVI-HDMI?tl=gzhls",
+    "price": 182.33,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Strahlungsklasse TCO": "TCO9",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nStrahlungsklasse TCO: TCO9\nVideo-Schnittstellen: DVI; HDMI",
+    "reference_file": "offer_reference_286.json",
+    "shop_name": "TechnikLaden"
+}

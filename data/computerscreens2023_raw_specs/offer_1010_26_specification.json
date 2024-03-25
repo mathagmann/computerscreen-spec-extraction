@@ -1,0 +1,15 @@
+{
+    "html_file": "offer_1010_26.html",
+    "name": "Dell P2423DE, 23.8\"",
+    "offer_link": "https://www.future-x.at/dell-24-usb-c-hub-monitor%96-p2423de-60-5-cm-238-p-9031587/?pv=2",
+    "price": 290.2,
+    "raw_specifications": {
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "PC-Schnittstellen": "USB Typ C",
+        "Typ": "Flachbildschirm (TFT/LCD)"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 24 \"\nPC-Schnittstellen: USB Typ C",
+    "reference_file": "offer_reference_1010.json",
+    "shop_name": "Future-X.at"
+}

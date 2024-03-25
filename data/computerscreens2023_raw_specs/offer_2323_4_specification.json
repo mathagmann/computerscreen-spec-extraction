@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2323_4.html",
+    "name": "AG neovo X-19Ew wei\u00df, 19\"",
+    "offer_link": "https://haym.info/produktdetails?id=8C07394",
+    "price": 624.91,
+    "raw_specifications": {
+        "Artikelnummer": "8C07394",
+        "Aufl\u00f6sung": "1280x1024 (5:4)",
+        "Bildschirmdiagonale/Zoll": "19 Zoll",
+        "Bildschirmdiagonale/cm": "48.3 cm",
+        "DVI": "1x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "3 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 19 Zoll\nAufl\u00f6sung: 1280x1024 (5:4)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 1x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 3 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 48.3 cm\nTouch-Funktion: nein\nArtikelnummer: 8C07394\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2323.json",
+    "shop_name": "haym.infotec"
+}

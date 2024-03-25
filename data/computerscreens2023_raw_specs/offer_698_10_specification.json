@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_698_10.html",
+    "name": "HP 24mh, 23.8\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000001269027024&ano=A-H1269027024&mno=1D0J9AA%23ABB&ean=196548497355&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 164.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Farbe": "Silber; Grau",
+        "Gewicht": "4,5 kg",
+        "Kennzeichnung": "CB; CE; CSA; FCC",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: CB; CE; CSA; FCC\nFarbe: Silber; Grau\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)\nReaktionszeit: 5 ms\nPaneltyp: IPS\nLautsprecher: Ja\nGewicht: 4,5 kg",
+    "reference_file": "offer_reference_698.json",
+    "shop_name": "ElectronicShop24"
+}

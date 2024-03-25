@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1969_24.html",
+    "name": "BenQ GW2780E, 27\"",
+    "offer_link": "https://www.future-x.at/benq-gw2780e-69-cm-27-led-ips-panel-lautsprecher-displayport-hdmi-9hlgelb-flachbildschirm-tft-lcd-5-ms-3000%3A1-250-cd-m%B2-ips-vga-p-8451795/?pv=2",
+    "price": 168.4,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Farbe": "Gelb",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 3000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI; VGA\nLautsprecher: Ja\nFarbe: Gelb",
+    "reference_file": "offer_reference_1969.json",
+    "shop_name": "Future-X.at"
+}

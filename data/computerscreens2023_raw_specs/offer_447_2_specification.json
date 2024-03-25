@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_447_2.html",
+    "name": "MSI Optix G27CQ4DE E2, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3cb01t_028/optix-g27cq4de-e2-69cm-27.html",
+    "price": 332.99,
+    "raw_specifications": {
+        "Artikelnummer": "M1IY3DYL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "170 Hz, Curved",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719072964290",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3CB01T-028",
+        "Panel": "VA",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 170 Hz, Curved\nHersteller Artikelnummer: 9S6-3CB01T-028\nEAN: 4719072964290\nArtikelnummer: M1IY3DYL",
+    "reference_file": "offer_reference_447.json",
+    "shop_name": "mylemon.at"
+}

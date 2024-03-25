@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1281_4.html",
+    "name": "Philips B-line 243B9H, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/243b9h_00/243b9h-00-60-5cm-23.html",
+    "price": 229.33,
+    "raw_specifications": {
+        "Artikelnummer": "M15YFBBL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581776169",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "243B9H/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort, 1x USB"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort, 1x USB\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 243B9H/00\nEAN: 8712581776169\nArtikelnummer: M15YFBBL",
+    "reference_file": "offer_reference_1281.json",
+    "shop_name": "mylemon.at"
+}

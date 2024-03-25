@@ -1,0 +1,17 @@
+{
+    "html_file": "offer_1413_15.html",
+    "name": "ASUS VA27DQ, 27\"",
+    "offer_link": "https://www.future-x.at/asus-va27dq-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-75-hz-ips-250-cd-m%B2-1000%3A1-5-ms-hdmi-vga-displayport-lautsprecher-p-8817297/?pv=2",
+    "price": 152.2,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 5 ms\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; VGA",
+    "reference_file": "offer_reference_1413.json",
+    "shop_name": "Future-X.at"
+}

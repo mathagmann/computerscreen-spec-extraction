@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1865_20.html",
+    "name": "ASUS ZenScreen MB14AC, 14\"",
+    "offer_link": "https://www.cyberport.at/?DEEP=6135-0EL&APID=294&STOREID=7",
+    "price": 215.9,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1.920x1.080 Full HD",
+        "Betrachtungswinkel h/v": "k.A.",
+        "Bildformat": "16:9",
+        "Breite in mm": "325mm",
+        "Displaygr\u00f6\u00dfe in Zoll": "14 Zoll",
+        "Displaygr\u00f6\u00dfe in cm": "35,6 cm",
+        "Gewicht in kg": "0,9 kg",
+        "Helligkeit": "250 cd/m\u00b2",
+        "H\u00f6he in mm": "208mm",
+        "H\u00f6henverstellbar": "ohne",
+        "Kontrast dynamisch": "k.A.",
+        "Kontrast typisch": "700:1",
+        "Lautsprecher": "kein",
+        "Oberfl\u00e4che": "entspiegelt",
+        "Reaktionszeit": "k.A.",
+        "Technologie": "LED-IPS",
+        "Tiefe in mm": "11mm",
+        "USB-C": "1x",
+        "Wandmontage": "nein"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe in cm: 35,6 cm\nDisplaygr\u00f6\u00dfe in Zoll: 14 Zoll\nTechnologie: LED-IPS\nAufl\u00f6sung: 1.920x1.080 Full HD\nBildformat: 16:9\nOberfl\u00e4che: entspiegelt\nHelligkeit: 250 cd/m\u00b2\nKontrast typisch: 700:1\nKontrast dynamisch: k.A.\nReaktionszeit: k.A.\nBetrachtungswinkel h/v: k.A.\nH\u00f6henverstellbar: ohne\nWandmontage: nein\nBreite in mm: 325mm\nH\u00f6he in mm: 208mm\nTiefe in mm: 11mm\nUSB-C: 1x\nLautsprecher: kein\nGewicht in kg: 0,9 kg",
+    "reference_file": "offer_reference_1865.json",
+    "shop_name": "Cyberport Stores \u00d6sterreich"
+}

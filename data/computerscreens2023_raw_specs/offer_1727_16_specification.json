@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_1727_16.html",
+    "name": "Philips P-line 279P1, 27\"",
+    "offer_link": "https://www.future-x.at/philips-27-ips-monitor-3840-x-2160-60-hz-displayport-hdmi-usb-c-4ms-pivot-speaker-15-cm-typ-c-p-8690409/?pv=2",
+    "price": 471.59,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "15 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Schwarz; Blau",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz; Blau\nBilddiagonale (cm): 15 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 3840 * 2160\nReaktionszeit: 4 ms\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nBildwiederholfrequenz (Hz): 60 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nVideo-Schnittstellen: DisplayPort; HDMI\nPC-Schnittstellen: USB Typ C",
+    "reference_file": "offer_reference_1727.json",
+    "shop_name": "Future-X.at"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_741_10.html",
+    "name": "Samsung Odyssey OLED G8 G85SB, 34\"",
+    "offer_link": "https://technikladen.at/I-LS34BG850SUXEN-Samsung-Odyssey-Neo-G8-LS34BG850SUXEN-864-cm-34-Zoll-3440-x-1440-Pixel-UltraWide-Quad-HD-OLED-01-ms-Silber-LS34BG850SUXEN-Displays-Projektoren?tl=gzhls",
+    "price": 1044.55,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "86,4 cm",
+        "Bildschirmtechnologie": "OLED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "3440 x 1440 Pixel",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "UltraWide Quad HD",
+        "H\u00f6henverstellung": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "21:9",
+        "Produktfarbe": "Silber",
+        "Reaktionszeit": "0,1 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 86,4 cm\nDisplay-Aufl\u00f6sung: 3440 x 1440 Pixel\nHD-Typ: UltraWide Quad HD\nBildschirmtechnologie: OLED\nReaktionszeit: 0,1 ms\nNatives Seitenverh\u00e4ltnis: 21:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Silber",
+    "reference_file": "offer_reference_741.json",
+    "shop_name": "TechnikLaden"
+}

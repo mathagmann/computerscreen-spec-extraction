@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1027_12.html",
+    "name": "AOC Agon AG275QXL League of Legends Edition, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125431-monitor-aoc-ag275qxl-27-4038986180580.html",
+    "price": 579.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Quad HD",
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Bildschirm": "27\"",
+        "Chipsatz": "NVIDIA",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "G",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Farbe": "Schwarz",
+        "Geschwindigkeit": "170 Hz",
+        "Glanz": "400 lm ANSI",
+        "Hinterleuchtet": "W-LED",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Maximale Anpassung": "130 mm",
+        "Neigungswinkel": "-5\u00ba / 23\u00ba",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Verbindung": "DisplayPort 1.4",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Energieklassifizierung: G\nBildschirm: 27\"\nAufl\u00f6sung: Quad HD\nKompatibel: VESA 100 x 100 mm\nReaktionszeit: 1 ms\nAufl\u00f6sung (px): 2560 x 1440 px\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 68,6 cm\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nEmpfohlene verwendung: Gaming\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nHinterleuchtet: W-LED\nVerbindung: DisplayPort 1.4\nChipsatz: NVIDIA\nMaximale Anpassung: 130 mm\nGlanz: 400 lm ANSI\nNeigungswinkel: -5\u00ba / 23\u00ba\nGeschwindigkeit: 170 Hz",
+    "reference_file": "offer_reference_1027.json",
+    "shop_name": "bauguru"
+}

@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_611_9.html",
+    "name": "Dell Alienware AW3423DWF, 34.18\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C11557",
+    "price": 1028.2,
+    "raw_specifications": {
+        "Artikelnummer": "3C11557",
+        "Aufl\u00f6sung": "3440x1440 (21:9)",
+        "Bildschirmdiagonale/Zoll": "34.18 Zoll",
+        "Bildschirmdiagonale/cm": "86.8 cm",
+        "DVI": "0x",
+        "DisplayPort": "2x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "OLED",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "0.1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 34.18 Zoll\nAufl\u00f6sung: 3440x1440 (21:9)\nPaneltyp: OLED\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 2x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 0.1 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 86.8 cm\nTouch-Funktion: nein\nArtikelnummer: 3C11557\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_611.json",
+    "shop_name": "haym.infotec"
+}

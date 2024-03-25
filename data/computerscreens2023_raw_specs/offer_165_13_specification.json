@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_165_13.html",
+    "name": "Eizo ColorEdge CS2400S, 24.1\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/27657465?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 796.11,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB",
+        "Bildwiederholungsrate": "60,00 Hz",
+        "Displaygr\u00f6\u00dfe": "60,96 cm (24 Zoll)",
+        "Energieeffizienzklasse": "G",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "12,00 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Seitenverh\u00e4ltnis": "16:10",
+        "max. Aufl\u00f6sung": "1.920 x 1.200 Pixel (16:10)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: G\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB\nFiltergruppennummer: Monitore\nGewicht: 12,00 kg\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nDisplaygr\u00f6\u00dfe: 60,96 cm (24 Zoll)\nmax. Aufl\u00f6sung: 1.920 x 1.200 Pixel (16:10)\nSeitenverh\u00e4ltnis: 16:10\nLCD-Technologie: IPS Panel\nBildwiederholungsrate: 60,00 Hz",
+    "reference_file": "offer_reference_165.json",
+    "shop_name": "office-partner (AT)"
+}

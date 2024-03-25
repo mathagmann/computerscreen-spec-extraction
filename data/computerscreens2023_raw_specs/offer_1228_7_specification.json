@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1228_7.html",
+    "name": "MSI MPG Artymis 323CQRDE, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3db15t_002/32-l-mpg-artymis-323cqrde.html",
+    "price": 606.99,
+    "raw_specifications": {
+        "Artikelnummer": "M15YQ1PL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719072794316",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3DB15T-002",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 165 Hz, USB HUB\nHersteller Artikelnummer: 9S6-3DB15T-002\nEAN: 4719072794316\nArtikelnummer: M15YQ1PL",
+    "reference_file": "offer_reference_1228.json",
+    "shop_name": "mylemon.at"
+}

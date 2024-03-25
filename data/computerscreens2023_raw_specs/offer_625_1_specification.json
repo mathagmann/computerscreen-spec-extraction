@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_625_1.html",
+    "name": "MSI Optix MPG341QR, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/optix_mpg341qr/optix-mpg341qr-34-inch-uwqhd.html",
+    "price": 692.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1FY1Q1L",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "144 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "4719072779658",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "OPTIX MPG341QR",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 144 Hz, USB HUB\nHersteller Artikelnummer: OPTIX MPG341QR\nEAN: 4719072779658\nArtikelnummer: M1FY1Q1L",
+    "reference_file": "offer_reference_625.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1240_25.html",
+    "name": "ASUS ProArt PA329CV, 32\"",
+    "offer_link": "https://technikladen.at/P-ASUS-32-L-PA329CV?tl=gzhls",
+    "price": 858.41,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "3840 x 2160 Pixel",
+        "Bildschirmdiagonale": "81,3 cm",
+        "Display-Oberfl\u00e4che": "Matt",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "4K Ultra HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "USB-Hub-Version": "3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 81,3 cm\nBildschirmaufl\u00f6sung: 3840 x 2160 Pixel\nHD-Typ: 4K Ultra HD\nDisplay-Oberfl\u00e4che: Matt\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1240.json",
+    "shop_name": "TechnikLaden"
+}

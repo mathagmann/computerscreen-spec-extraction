@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1883_13.html",
+    "name": "Philips P-line 498P9, 48.8\"",
+    "offer_link": "https://www.future-x.at/philips-p-line-498p9-monitor-a-led-curvato-49-488-visualizzabile-5120-x-1440-flachbildschirm-tft-lcd-124-46-cm-5-ms-3000%3A1-450-cd-m%B2-hdmi-usb-30-line-eingang-p-8524202/?pv=2",
+    "price": 1059.79,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Bilddiagonale (Zoll)": "49 \"",
+        "Bilddiagonale (cm)": "124,46 cm",
+        "Farbe": "Schwarz",
+        "Helligkeit": "450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "PC-Schnittstellen": "USB 3.0",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 124,46 cm\nBilddiagonale (Zoll): 49 \"\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 3000:1\nHelligkeit: 450 cd/m\u00b2\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB 3.0\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nFarbe: Schwarz",
+    "reference_file": "offer_reference_1883.json",
+    "shop_name": "Future-X.at"
+}

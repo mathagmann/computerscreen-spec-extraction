@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_985_20.html",
+    "name": "ASUS VA247HE, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125901-monitor-asus-va247he-led-23-8-4711081167464.html",
+    "price": 120.9,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "23,8\"",
+        "Diagonale des Bildschirms (cm)": "60,5 cm",
+        "Eingangsanschluss": "DVI",
+        "Energieklassifizierung": "F",
+        "Glanz": "250 ANSI",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 23\u00ba",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Stromquelle": "Wechselstrom",
+        "Winkel": "178\u00ba",
+        "gro\u00df": "415 cm"
+    },
+    "raw_specifications_text": "Bildschirm: 23,8\"\nEnergieklassifizierung: F\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nAufl\u00f6sung (px): 1920 x 1080 px\nDiagonale des Bildschirms (cm): 60,5 cm\nSeitenverh\u00e4ltnis: 16:9\nAufl\u00f6sung: Full HD\nKontrastverh\u00e4ltnis: 3000:1\nEingangsanschluss: DVI\nGlanz: 250 ANSI\nSpannung: 100 - 240 V\nWinkel: 178\u00ba\nStromquelle: Wechselstrom\ngro\u00df: 415 cm\nMontage: VESA\nNeigungswinkel: -5\u00ba / 23\u00ba\nKompatibel: VESA 100 x 100 mm",
+    "reference_file": "offer_reference_985.json",
+    "shop_name": "bauguru"
+}

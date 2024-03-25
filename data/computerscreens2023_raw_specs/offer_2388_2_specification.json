@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2388_2.html",
+    "name": "AG neovo X-22E, 21.5\" wei\u00df",
+    "offer_link": "https://haym.info/produktdetails?id=7C40142",
+    "price": 680.51,
+    "raw_specifications": {
+        "Artikelnummer": "7C40142",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "21.5 Zoll",
+        "Bildschirmdiagonale/cm": "54.6 cm",
+        "DVI": "1x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "75x75",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 21.5 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 1x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 75x75\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 54.6 cm\nTouch-Funktion: nein\nArtikelnummer: 7C40142\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2388.json",
+    "shop_name": "haym.infotec"
+}

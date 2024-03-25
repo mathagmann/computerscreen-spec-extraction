@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_53_5.html",
+    "name": "GIGABYTE GS27F, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/gs27f_ek/monitor-lcd-27-gs27f-ek.html",
+    "price": 218.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1MY43TL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719331852795",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "GS27F-EK",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: GS27F-EK\nEAN: 4719331852795\nArtikelnummer: M1MY43TL",
+    "reference_file": "offer_reference_53.json",
+    "shop_name": "mylemon.at"
+}

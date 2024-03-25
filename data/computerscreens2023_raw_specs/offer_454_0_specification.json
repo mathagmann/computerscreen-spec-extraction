@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_454_0.html",
+    "name": "MSI G2712DE, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3cb51t_080/27-68-6cm-tft-optix.html",
+    "price": 195.29,
+    "raw_specifications": {
+        "Artikelnummer": "M1FY9YCL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "170 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4711377044387",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3CB51T-080",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 170 Hz\nHersteller Artikelnummer: 9S6-3CB51T-080\nEAN: 4711377044387\nArtikelnummer: M1FY9YCL",
+    "reference_file": "offer_reference_454.json",
+    "shop_name": "mylemon.at"
+}

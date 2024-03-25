@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_479_10.html",
+    "name": "Samsung Flat Monitor S31A (2023), 24\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C11246",
+    "price": 124.08,
+    "raw_specifications": {
+        "Artikelnummer": "3C11246",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "24 Zoll",
+        "Bildschirmdiagonale/cm": "61 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "200 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "9 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 24 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 9 Millisekunden\nHelligkeit: 200 cd/m2\nBildschirmdiagonale/cm: 61 cm\nTouch-Funktion: nein\nArtikelnummer: 3C11246\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_479.json",
+    "shop_name": "haym.infotec"
+}

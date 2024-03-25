@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_4_1.html",
+    "name": "Acer CB2 CB242YEbir, 23.8\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000000749606164&ano=A-H749606164&mno=UM.QB2EE.E08&ean=4711121618550&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 193.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "100 Hz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 4 ms\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; VGA\nBildwiederholfrequenz (Hz): 100 Hz\nVerstellbarkeit: H\u00f6henverstellbar",
+    "reference_file": "offer_reference_4.json",
+    "shop_name": "ElectronicShop24"
+}

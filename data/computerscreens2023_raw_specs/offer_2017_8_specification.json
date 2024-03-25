@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2017_8.html",
+    "name": "Dell E2020H, 19.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=0C05088",
+    "price": 89.02,
+    "raw_specifications": {
+        "Artikelnummer": "0C05088",
+        "Aufl\u00f6sung": "1600x900 (16:9)",
+        "Bildschirmdiagonale/Zoll": "19.5 Zoll",
+        "Bildschirmdiagonale/cm": "49.5 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "D",
+        "HDMI": "0x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 19.5 Zoll\nAufl\u00f6sung: 1600x900 (16:9)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: D\nVGA: 1x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 0x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 49.5 cm\nTouch-Funktion: nein\nArtikelnummer: 0C05088\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2017.json",
+    "shop_name": "haym.infotec"
+}

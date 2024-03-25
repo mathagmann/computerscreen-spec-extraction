@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2394_60.html",
+    "name": "BenQ GW2780, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/128859-monitor-benq-gw2780-27-led-ips-60-hz-50-76-hz-4718755070105.html",
+    "price": 213.7,
+    "raw_specifications": {
+        "AC input voltage": "90 - 264 V",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Energieklassifizierung": "E",
+        "Farbe": "Schwarz",
+        "Glanz": "250 ANSI",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Leistung": "4 W",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 20\u00ba",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "240 V",
+        "Standard": "NTSC",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "VESA": "10 x 10 cm",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Aufl\u00f6sung: Full HD\nEnergieklassifizierung: E\nBildschirm: 27\"\nVESA: 10 x 10 cm\nAufl\u00f6sung (px): 1920 x 1080 px\nWinkel: 178\u00ba\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 68,6 cm\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nSpannung: 240 V\nKontrastverh\u00e4ltnis: 1000:1\nStandard: NTSC\nGlanz: 250 ANSI\nLeistung: 4 W\nAC input voltage: 90 - 264 V\nNeigungswinkel: -5\u00ba / 20\u00ba\nMontage: VESA",
+    "reference_file": "offer_reference_2394.json",
+    "shop_name": "bauguru"
+}

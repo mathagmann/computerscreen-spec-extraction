@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2323_2.html",
+    "name": "AG neovo X-19Ew wei\u00df, 19\"",
+    "offer_link": "https://www.mylemon.at/artikel/ag_neovo/x19e00a1e0100/ag-neovo-x-19ew-48.html",
+    "price": 624.09,
+    "raw_specifications": {
+        "Artikelnummer": "MS2YY0L",
+        "Aufl\u00f6sung": "1280x1024",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "19 Zoll",
+        "EAN": "4710739595086",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "X19E00A1E0100",
+        "Panel": "TN",
+        "Reaktionszeit": "3 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 19 Zoll\nAufl\u00f6sung: 1280x1024\nPanel: TN\nReaktionszeit: 3 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: X19E00A1E0100\nEAN: 4710739595086\nArtikelnummer: MS2YY0L",
+    "reference_file": "offer_reference_2323.json",
+    "shop_name": "mylemon.at"
+}

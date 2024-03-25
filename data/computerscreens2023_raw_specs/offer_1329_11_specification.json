@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1329_11.html",
+    "name": "AOC I1601P, 15.6\"",
+    "offer_link": "https://technikladen.at/P-AOC-I1601FWUX-156-inch-monitor?tl=gzhls",
+    "price": 218.26,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "39,6 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "170 \u00b0",
+        "Bildwinkel, vertikal": "170 \u00b0",
+        "HD-Typ": "Full HD",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "4 ms",
+        "Seitenverh\u00e4ltnis": "16:9"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 39,6 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LED\nReaktionszeit: 4 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 170 \u00b0\nBildwinkel, vertikal: 170 \u00b0\nIntegrierter USB-Hub: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1329.json",
+    "shop_name": "TechnikLaden"
+}

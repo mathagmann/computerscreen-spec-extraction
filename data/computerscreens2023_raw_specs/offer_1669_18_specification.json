@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_1669_18.html",
+    "name": "ASUS VY279HE, 27\"",
+    "offer_link": "https://www.future-x.at/asus-68-6-cm-design-vy279he-hdmi-d-sub-ips-fsync-1ms-flachbildschirm-tft-lcd-68-6-cm-1-ms-p-8747985/?pv=2",
+    "price": 186.7,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 1 ms\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI",
+    "reference_file": "offer_reference_1669.json",
+    "shop_name": "Future-X.at"
+}

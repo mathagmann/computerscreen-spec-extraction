@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_162_6.html",
+    "name": "Samsung ViewFinity S9 S27C902PAU, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/samsung/ls27c902pauxdu/monitor-27-inch-ls27c902pauxdu-ips.html",
+    "price": 1558.05,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYU4IL",
+        "Aufl\u00f6sung": "5120x2880",
+        "Besonderheiten": "60 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8806095008080",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Neigbar",
+        "Helligkeit": "600 cd/m\u00b2",
+        "Hersteller Artikelnummer": "LS27C902PAUXDU",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x mini DisplayPort, 1x Thunderbolt"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 5120x2880\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x mini DisplayPort, 1x Thunderbolt\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 600 cd/m\u00b2\nBesonderheiten: 60 Hz\nHersteller Artikelnummer: LS27C902PAUXDU\nEAN: 8806095008080\nArtikelnummer: M1LYU4IL",
+    "reference_file": "offer_reference_162.json",
+    "shop_name": "mylemon.at"
+}

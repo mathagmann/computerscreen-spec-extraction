@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_242_60.html",
+    "name": "Samsung Odyssey G9 G94T / G95T (2023), 49\"",
+    "offer_link": "https://www.mylemon.at/artikel/samsung/ds_lc49g94tsspxen/odyssey-g9-c49g94tssp-gaming-monitor.html",
+    "price": 1252.12,
+    "raw_specifications": {
+        "Artikelnummer": "M1MY1EFL",
+        "Aufl\u00f6sung": "5120x1440",
+        "Besonderheiten": "240 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "49 Zoll",
+        "EAN": "9191919191919",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "420 cd/m\u00b2",
+        "Hersteller Artikelnummer": "DS_LC49G94TSSPXEN",
+        "Panel": "VA",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 2x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 49 Zoll\nAufl\u00f6sung: 5120x1440\nPanel: VA\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 1x HDMI, 2x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 420 cd/m\u00b2\nBesonderheiten: 240 Hz, USB HUB\nHersteller Artikelnummer: DS_LC49G94TSSPXEN\nEAN: 9191919191919\nArtikelnummer: M1MY1EFL",
+    "reference_file": "offer_reference_242.json",
+    "shop_name": "mylemon.at"
+}

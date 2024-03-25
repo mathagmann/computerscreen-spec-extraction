@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_70_10.html",
+    "name": "Acer Vero B7 B287KLbmiiprxv, 28\"",
+    "offer_link": "https://www.ba-computer.at/acer-tft-vero-b287klbmiiprxv-71cm-28-3840x2160-2xhdmi-dp-ls-flachbildschirm-tft-lcd-28-um-pb7ee-l01.html",
+    "price": 359.69,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Aufl\u00f6sungsstandard": "UHD (3840x2160)",
+        "Bilddiagonale (Zoll)": "28 \"",
+        "Bilddiagonale (cm)": "71,1 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 71,1 cm\nBilddiagonale (Zoll): 28 \"\nAufl\u00f6sung: 3840 * 2160\nAufl\u00f6sungsstandard: UHD (3840x2160)\nReaktionszeit: 4 ms\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 60 Hz",
+    "reference_file": "offer_reference_70.json",
+    "shop_name": "BA-Computer"
+}

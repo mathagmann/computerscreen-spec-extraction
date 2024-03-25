@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2100_0.html",
+    "name": "Philips E-line 271E1SCA, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/271e1sca_00/dis-27-e-line-271e1sca.html",
+    "price": 146.33,
+    "raw_specifications": {
+        "Artikelnummer": "MYQY9ZL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581759391",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "271E1SCA/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: 271E1SCA/00\nEAN: 8712581759391\nArtikelnummer: MYQY9ZL",
+    "reference_file": "offer_reference_2100.json",
+    "shop_name": "mylemon.at"
+}

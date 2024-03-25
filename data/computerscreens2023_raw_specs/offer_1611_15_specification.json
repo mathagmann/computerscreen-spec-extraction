@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1611_15.html",
+    "name": "ASUS TUF Gaming VG289Q1A, 28\"",
+    "offer_link": "https://haym.info/produktdetails?id=1C02708",
+    "price": 292.0,
+    "raw_specifications": {
+        "Artikelnummer": "1C02708",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "28 Zoll",
+        "Bildschirmdiagonale/cm": "71.1 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 28 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 71.1 cm\nTouch-Funktion: nein\nArtikelnummer: 1C02708\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1611.json",
+    "shop_name": "haym.infotec"
+}

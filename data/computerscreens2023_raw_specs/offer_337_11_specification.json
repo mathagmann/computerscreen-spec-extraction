@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_337_11.html",
+    "name": "Philips 8000 27E1N8900, 26.9\"",
+    "offer_link": "https://www.cyberport.at/?DEEP=6108-1KH&APID=294&STOREID=7",
+    "price": 968.9,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3.840x2.160 4K (Ultra HD)",
+        "Betrachtungswinkel h/v": "178\u00b0/178\u00b0",
+        "Bildformat": "16:9",
+        "Bildwiederholfrequenz": "60 Hz",
+        "Breite in mm": "626mm",
+        "Displaygr\u00f6\u00dfe in Zoll": "27 Zoll",
+        "Displaygr\u00f6\u00dfe in cm": "68,29 cm",
+        "Farbraumabdeckung": "150% (sRGB)",
+        "Farbtiefe": "10 Bit / 1,07 Mrd Farben",
+        "Gewicht in kg": "5,5 kg",
+        "Helligkeit": "250 cd/m\u00b2",
+        "H\u00f6he in mm": "536mm",
+        "H\u00f6henverstellbar": "120mm",
+        "Jahresverbrauch": "26 kWh",
+        "Kontrast dynamisch": "k.A.",
+        "Kontrast typisch": "1.000.000:1",
+        "Lautsprecher": "kein",
+        "Oberfl\u00e4che": "matt",
+        "Reaktionszeit": "0,1 ms",
+        "Technologie": "OLED",
+        "Tiefe in mm": "218mm",
+        "Wandmontage": "VESA100x100"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe in cm: 68,29 cm\nDisplaygr\u00f6\u00dfe in Zoll: 27 Zoll\nTechnologie: OLED\nAufl\u00f6sung: 3.840x2.160 4K (Ultra HD)\nBildformat: 16:9\nOberfl\u00e4che: matt\nFarbraumabdeckung: 150% (sRGB)\nFarbtiefe: 10 Bit / 1,07 Mrd Farben\nHelligkeit: 250 cd/m\u00b2\nKontrast typisch: 1.000.000:1\nKontrast dynamisch: k.A.\nReaktionszeit: 0,1 ms\nBetrachtungswinkel h/v: 178\u00b0/178\u00b0\nBildwiederholfrequenz: 60 Hz\nH\u00f6henverstellbar: 120mm\nWandmontage: VESA100x100\nBreite in mm: 626mm\nH\u00f6he in mm: 536mm\nTiefe in mm: 218mm\nGewicht in kg: 5,5 kg\nJahresverbrauch: 26 kWh\nLautsprecher: kein",
+    "reference_file": "offer_reference_337.json",
+    "shop_name": "Cyberport Stores \u00d6sterreich"
+}

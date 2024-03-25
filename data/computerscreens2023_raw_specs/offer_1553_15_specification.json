@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1553_15.html",
+    "name": "ASUS TUF Gaming VG24VQR, 23.6\"",
+    "offer_link": "https://haym.info/produktdetails?id=1C09116",
+    "price": 196.18,
+    "raw_specifications": {
+        "Artikelnummer": "1C09116",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.6 Zoll",
+        "Bildschirmdiagonale/cm": "59.9 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "2x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.6 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 59.9 cm\nTouch-Funktion: nein\nArtikelnummer: 1C09116\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1553.json",
+    "shop_name": "haym.infotec"
+}

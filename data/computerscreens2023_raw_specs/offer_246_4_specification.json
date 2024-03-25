@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_246_4.html",
+    "name": "Samsung Odyssey G7 G73T / G74T / G75T (2023), 26.9\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C06603",
+    "price": 429.98,
+    "raw_specifications": {
+        "Artikelnummer": "3C06603",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "26.9 Zoll",
+        "Bildschirmdiagonale/cm": "68.3 cm",
+        "DVI": "0x",
+        "DisplayPort": "2x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "1x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "SVA",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 26.9 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: SVA\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 2x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 68.3 cm\nTouch-Funktion: nein\nArtikelnummer: 3C06603\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_246.json",
+    "shop_name": "haym.infotec"
+}

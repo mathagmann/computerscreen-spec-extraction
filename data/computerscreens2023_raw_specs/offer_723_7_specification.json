@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_723_7.html",
+    "name": "Philips Evnia 5000 27M2C5500W, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/27m2c5500w_00/monitor-27-inches-evnia-27m2c5500w.html",
+    "price": 391.08,
+    "raw_specifications": {
+        "Artikelnummer": "M1HY0HCL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "240 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581799540",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "27M2C5500W/00",
+        "Panel": "VA",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 2x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 2x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 240 Hz, USB HUB\nHersteller Artikelnummer: 27M2C5500W/00\nEAN: 8712581799540\nArtikelnummer: M1HY0HCL",
+    "reference_file": "offer_reference_723.json",
+    "shop_name": "mylemon.at"
+}

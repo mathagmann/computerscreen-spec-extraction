@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_450_4.html",
+    "name": "MSI PRO MP341CQDE, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3pb2ct_005/pro-mp341cqde-va-3440-x.html",
+    "price": 422.03,
+    "raw_specifications": {
+        "Artikelnummer": "M1CYRCTL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "100 Hz, Curved, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "4719072973025",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3PB2CT-005",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 100 Hz, Curved, Lautsprecher\nHersteller Artikelnummer: 9S6-3PB2CT-005\nEAN: 4719072973025\nArtikelnummer: M1CYRCTL",
+    "reference_file": "offer_reference_450.json",
+    "shop_name": "mylemon.at"
+}

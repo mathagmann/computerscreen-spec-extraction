@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1759_31.html",
+    "name": "AOC 27B2DA, 27\"",
+    "offer_link": "https://www.future-x.at/aoc-27b2da-27-ips-dvi-hdmi-d-sub-1920x1080-4ms-schwarz-flachbildschirm-tft-lcd-27-vga-p-8690439/?pv=2",
+    "price": 141.1,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,58 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,58 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nPaneltyp: IPS\nBildwiederholfrequenz (Hz): 75 Hz\nVideo-Schnittstellen: DVI; HDMI\nFarbe: Schwarz",
+    "reference_file": "offer_reference_1759.json",
+    "shop_name": "Future-X.at"
+}

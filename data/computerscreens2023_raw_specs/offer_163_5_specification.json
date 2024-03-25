@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_163_5.html",
+    "name": "Philips Evnia 3000 24M1N3200ZS, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/24m1n3200zs_00/60-5cm-23-8-24m1n3200zs.html",
+    "price": 143.85,
+    "raw_specifications": {
+        "Artikelnummer": "M1KY4G1L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581802714",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "24M1N3200ZS/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: 24M1N3200ZS/00\nEAN: 8712581802714\nArtikelnummer: M1KY4G1L",
+    "reference_file": "offer_reference_163.json",
+    "shop_name": "mylemon.at"
+}

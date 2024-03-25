@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1895_4.html",
+    "name": "Philips B-line 278B1, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/278b1_00/monitor-278b1-00-27-ips.html",
+    "price": 279.61,
+    "raw_specifications": {
+        "Artikelnummer": "M11YPIUL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581764395",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "278B1/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: Lautsprecher, USB HUB\nHersteller Artikelnummer: 278B1/00\nEAN: 8712581764395\nArtikelnummer: M11YPIUL",
+    "reference_file": "offer_reference_1895.json",
+    "shop_name": "mylemon.at"
+}

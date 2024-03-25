@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_234_1.html",
+    "name": "Acer Nitro VG2 VG252QSbmiipx, 24.5\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000000569459219&ano=A-H569459219&mno=UM.KV2EE.S01&ean=4710886326731&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 145.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "24,5 \"",
+        "Bilddiagonale (cm)": "62,2 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "3 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 62,2 cm\nBilddiagonale (Zoll): 24,5 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 3 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 400 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 165 Hz",
+    "reference_file": "offer_reference_234.json",
+    "shop_name": "ElectronicShop24"
+}

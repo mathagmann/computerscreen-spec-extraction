@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_400_19.html",
+    "name": "AOC 24E3UM, 23.8\"",
+    "offer_link": "https://technikladen.at/P-24E3UM-AOC-Essential-line-24E3UM-BK-LED-Monitor-605-cm-24-24E3UM-Displays-Projektoren?tl=gzhls",
+    "price": 125.97,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "4 ms",
+        "USB-Hub-Version": "3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nReaktionszeit: 4 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_400.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1704_9.html",
+    "name": "Philips E-line 241E1SC, 23.6\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/241e1sc_00/241e1sc-00.html",
+    "price": 125.79,
+    "raw_specifications": {
+        "Artikelnummer": "M14YHQ7L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23,6 Zoll",
+        "EAN": "8712581758417",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "241E1SC/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,6 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 241E1SC/00\nEAN: 8712581758417\nArtikelnummer: M14YHQ7L",
+    "reference_file": "offer_reference_1704.json",
+    "shop_name": "mylemon.at"
+}

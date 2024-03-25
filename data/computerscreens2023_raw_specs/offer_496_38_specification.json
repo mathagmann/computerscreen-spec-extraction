@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_496_38.html",
+    "name": "HP E24u G5, 23.8\"",
+    "offer_link": "https://www.taufnaus.de/product/13882759",
+    "price": 382.28,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Silber",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Silber\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI\nPC-Schnittstellen: USB Typ C\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_496.json",
+    "shop_name": "TaufNaus"
+}

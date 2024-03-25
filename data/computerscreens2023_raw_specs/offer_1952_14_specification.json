@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_1952_14.html",
+    "name": "ViewSonic VX2476-SMH, 23.8\"",
+    "offer_link": "https://www.future-x.at/viewsonic-24-full-hd-vga-2xhdmi-speake-flachbildschirm-tft-lcd-60-45-cm-4-ms-ips-p-8458092/?pv=2",
+    "price": 129.89,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "61 cm",
+        "Farbe": "Silber",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 61 cm\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nPaneltyp: IPS\nVideo-Schnittstellen: VGA\nFarbe: Silber",
+    "reference_file": "offer_reference_1952.json",
+    "shop_name": "Future-X.at"
+}

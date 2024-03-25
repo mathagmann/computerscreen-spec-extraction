@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_919_5.html",
+    "name": "MSI PRO MP241XDE, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3ba9ch_016/pro-mp241xde.html",
+    "price": 139.18,
+    "raw_specifications": {
+        "Artikelnummer": "M1CYQ81L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4719072910044",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3BA9CH-016",
+        "Panel": "VA",
+        "Reaktionszeit": "8 ms",
+        "VESA Halterung": "75x75 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 8 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nVESA Halterung: 75x75 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: 9S6-3BA9CH-016\nEAN: 4719072910044\nArtikelnummer: M1CYQ81L",
+    "reference_file": "offer_reference_919.json",
+    "shop_name": "mylemon.at"
+}

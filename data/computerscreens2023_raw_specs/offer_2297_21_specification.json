@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_2297_21.html",
+    "name": "AOC X24P1, 24\"",
+    "offer_link": "https://www.future-x.at/aoc-monitor-24-ips-fullhd-d-sub-dvi-hdmi-dp-speakers-flachbildschirm-tft-lcd-4-ms-2000%3A1-p-2413165/?pv=2",
+    "price": 259.99,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "61 cm",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "2000:1",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 61 cm\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 2000:1\nFarbe: Schwarz",
+    "reference_file": "offer_reference_2297.json",
+    "shop_name": "Future-X.at"
+}

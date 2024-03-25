@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1815_4.html",
+    "name": "AOC C24G2AE/BK, 23.6\"",
+    "offer_link": "https://haym.info/produktdetails?id=0C27082",
+    "price": 156.1,
+    "raw_specifications": {
+        "Artikelnummer": "0C27082",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.6 Zoll",
+        "Bildschirmdiagonale/cm": "59.9 cm",
+        "DVI": "0x",
+        "DisplayPort": "2x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "2x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.6 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 0x\nDisplayPort: 2x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 1 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 59.9 cm\nTouch-Funktion: nein\nArtikelnummer: 0C27082\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1815.json",
+    "shop_name": "haym.infotec"
+}

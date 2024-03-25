@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_691_25.html",
+    "name": "AOC Q27B3MA, 27\"",
+    "offer_link": "https://technikladen.at/P-AOC-Q27B3MA?tl=gzhls",
+    "price": 172.01,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "2560 x 1440 Pixel",
+        "Bildschirmdiagonale": "68,6 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Quad HD",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "4 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm\nBildschirmaufl\u00f6sung: 2560 x 1440 Pixel\nHD-Typ: Quad HD\nBildschirmtechnologie: LED\nReaktionszeit: 4 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_691.json",
+    "shop_name": "TechnikLaden"
+}

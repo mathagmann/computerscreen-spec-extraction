@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_2543_4.html",
+    "name": "ASUS VS197DE, 19\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126981-monitor-asus-vs197de-led-18-5-led-19-75-hz-4716659339700.html",
+    "price": 102.6,
+    "raw_specifications": {
+        "3D": "Kein",
+        "Art": "DDR3 SDRAM",
+        "Aufl\u00f6sung": "WXGA",
+        "Aufl\u00f6sung (px)": "1366 x 768 px",
+        "Batteriebetrieben": "Sonderzubeh\u00f6r",
+        "Bildschirm": "19\"",
+        "Einstellbar": "Ja",
+        "Farbe": "Schwarz",
+        "Frequenz": "75 Hz",
+        "Kerne": "1 Kern",
+        "Leistung": "17 W",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 20\u00ba",
+        "Nicht erhalten": "AMD FreeSync",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Speicher Typ": "DDR3 SDRAM",
+        "Steckbares Produkt": "Ja",
+        "Stecker": "Kensington",
+        "Steckertyp": "EU-Stecker",
+        "Taktil": "LED",
+        "VESA": "7,5 x 7,5 cm",
+        "VIVAPOS": "Asus"
+    },
+    "raw_specifications_text": "Bildschirm: 19\"\nFrequenz: 75 Hz\nVESA: 7,5 x 7,5 cm\nAufl\u00f6sung (px): 1366 x 768 px\n3D: Kein\nEinstellbar: Ja\nSeitenverh\u00e4ltnis: 16:9\nFarbe: Schwarz\nTaktil: LED\nVIVAPOS: Asus\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nArt: DDR3 SDRAM\nSpeicher Typ: DDR3 SDRAM\nAufl\u00f6sung: WXGA\nBatteriebetrieben: Sonderzubeh\u00f6r\nLeistung: 17 W\nStecker: Kensington\nNeigungswinkel: -5\u00ba / 20\u00ba\nNicht erhalten: AMD FreeSync\nMontage: VESA\nKerne: 1 Kern",
+    "reference_file": "offer_reference_2543.json",
+    "shop_name": "bauguru"
+}

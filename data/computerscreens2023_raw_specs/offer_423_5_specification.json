@@ -1,0 +1,31 @@
+{
+    "html_file": "offer_423_5.html",
+    "name": "Wortmann Terra LED 2227W, 21.5\"",
+    "offer_link": "https://www.future-x.at/terra-lcd-led-2227w-black-hdmi-dp-greenline-plus-p-9079319/?pv=2",
+    "price": 110.5,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Kopfh\u00f6rer Ausgang",
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "21,45 \"",
+        "Bilddiagonale (cm)": "54,5 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Energieeffizienzklasse": "E",
+        "Farbe": "Schwarz; Blau",
+        "Gewicht": "2,3 kg",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kennzeichnung": "CE; T\u00dcV / GS",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "LED-Backlight TFT",
+        "Produktfeatures": "Plug and Play",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Vesa-Bohrung": "100 x 100 mm",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nVesa-Bohrung: 100 x 100 mm\nKennzeichnung: CE; T\u00dcV / GS\nProduktfeatures: Plug and Play\nFarbe: Schwarz; Blau\nBilddiagonale (cm): 54,5 cm\nBilddiagonale (Zoll): 21,45 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 5 ms\nHelligkeit: 250 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nPaneltyp: LED-Backlight TFT\nVideo-Schnittstellen: DisplayPort; HDMI\nAudio Ein- und Ausg\u00e4nge: Kopfh\u00f6rer Ausgang\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 60 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: E\nGewicht: 2,3 kg",
+    "reference_file": "offer_reference_423.json",
+    "shop_name": "Future-X.at"
+}

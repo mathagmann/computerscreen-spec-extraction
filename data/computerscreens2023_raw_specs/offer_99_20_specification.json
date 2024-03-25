@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_99_20.html",
+    "name": "ASUS TUF Gaming VG249Q3A, 23.8\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=110000000111375114&ano=F111375114&mno=90LM09B0-B01170&ean=4711387172452&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 229.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "180 Hz",
+        "Energieeffizienzklasse": "E",
+        "Farbe": "Schwarz",
+        "Farbraum": "sRGB",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "Neigbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nFarbraum: sRGB\nVideo-Schnittstellen: HDMI\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 180 Hz\nVerstellbarkeit: Neigbar\nEnergieeffizienzklasse: E",
+    "reference_file": "offer_reference_99.json",
+    "shop_name": "ElectronicShop24"
+}

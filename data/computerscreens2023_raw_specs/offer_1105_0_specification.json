@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1105_0.html",
+    "name": "GIGABYTE M27Q X, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/m27q_x/m27q-x-led-display-27.html",
+    "price": 590.67,
+    "raw_specifications": {
+        "Artikelnummer": "M19Y72ZL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "240 Hz, Lautsprecher, Picture-in-Picture",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719331814724",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "M27Q X",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, 3x USB, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, 3x USB, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 240 Hz, Lautsprecher, Picture-in-Picture\nHersteller Artikelnummer: M27Q X\nEAN: 4719331814724\nArtikelnummer: M19Y72ZL",
+    "reference_file": "offer_reference_1105.json",
+    "shop_name": "mylemon.at"
+}

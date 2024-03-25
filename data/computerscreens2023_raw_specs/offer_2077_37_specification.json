@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_2077_37.html",
+    "name": "BenQ GL2480, 24\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125853-monitor-benq-gl2480-24-fhd-led-4718755079214.html",
+    "price": 198.0,
+    "raw_specifications": {
+        "3D": "Kein",
+        "Art": "Monitor",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Eingangsanschluss": "DVI",
+        "Energieklassifizierung": "E",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Farbe": "Schwarz",
+        "Frequenz": "75 Hz",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 20\u00ba",
+        "Nicht erhalten": "AMD FreeSync",
+        "Pixel-Dichte (dpi)": "92 dpi",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Standard": "NTSC",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Stromquelle": "Wechselstrom",
+        "Verbindung": "DVI-D x 1",
+        "Zertifikat": "ENERGY STAR-Zertifizierung"
+    },
+    "raw_specifications_text": "3D: Kein\nReaktionszeit: 1 ms\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nPixel-Dichte (dpi): 92 dpi\nSteckbares Produkt: Ja\nArt: Monitor\nAufl\u00f6sung (px): 1920 x 1080 px\nSteckertyp: EU-Stecker\nEnergieklassifizierung: E\nKontrastverh\u00e4ltnis: 1000:1\nEingangsanschluss: DVI\nStandard: NTSC\nVerbindung: DVI-D x 1\nFrequenz: 75 Hz\nEnthalten: Kopfh\u00f6rerausgang\nNeigungswinkel: -5\u00ba / 20\u00ba\nStromquelle: Wechselstrom\nNicht erhalten: AMD FreeSync\nMontage: VESA\nZertifikat: ENERGY STAR-Zertifizierung\nKompatibel: VESA 100 x 100 mm",
+    "reference_file": "offer_reference_2077.json",
+    "shop_name": "bauguru"
+}

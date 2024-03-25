@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_184_6.html",
+    "name": "Philips 6000 Series 40B1U6903CH, 39.7\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/40b1u6903ch/40b1u6903ch-39-7in-100cm-ips.html",
+    "price": 1827.78,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYMQ9L",
+        "Aufl\u00f6sung": "5120x2160",
+        "Besonderheiten": "75 Hz, Curved, USB HUB",
+        "Displaygr\u00f6\u00dfe": "39,7 Zoll",
+        "EAN": "8712581797416",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "40B1U6903CH",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, 1x Thunderbolt"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 39,7 Zoll\nAufl\u00f6sung: 5120x2160\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, 1x Thunderbolt\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Curved, USB HUB\nHersteller Artikelnummer: 40B1U6903CH\nEAN: 8712581797416\nArtikelnummer: M1IYMQ9L",
+    "reference_file": "offer_reference_184.json",
+    "shop_name": "mylemon.at"
+}

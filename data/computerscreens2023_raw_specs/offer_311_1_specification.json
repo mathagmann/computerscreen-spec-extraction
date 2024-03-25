@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_311_1.html",
+    "name": "AOC Agon AG276QZD, 26.5\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/26593706?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 985.0,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Display Features": "FlickerFree",
+        "Display Sync": "AMD FreeSync, NVIDIA G-Sync",
+        "Displaygr\u00f6\u00dfe": "68,58 cm (27 Zoll)",
+        "Energieeffizienzklasse": "F",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "6,41 kg",
+        "Helligkeit Bereich": "ab 450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "OLED",
+        "Reaktionszeit": "1,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "2.560 x 1.440 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 68,58 cm (27 Zoll)\nEnergieeffizienzklasse: F\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nFiltergruppennummer: Monitore\nHelligkeit Bereich: ab 450 cd/m\u00b2\nDisplay Features: FlickerFree\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nGewicht: 6,41 kg\nDisplay Sync: AMD FreeSync, NVIDIA G-Sync\nmax. Aufl\u00f6sung: 2.560 x 1.440 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: OLED\nReaktionszeit: 1,00 ms",
+    "reference_file": "offer_reference_311.json",
+    "shop_name": "office-partner (AT)"
+}

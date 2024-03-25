@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1351_17.html",
+    "name": "ASUS VA27DCP, 27\"",
+    "offer_link": "https://technikladen.at/P-ASUS-VA27DCP-686-cm-27-Zoll-1920-x-1080-Pixel-Full-HD-LCD-5-ms-Schwarz?tl=gzhls",
+    "price": 276.99,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "68,6 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LCD\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1351.json",
+    "shop_name": "TechnikLaden"
+}

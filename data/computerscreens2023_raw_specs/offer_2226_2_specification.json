@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2226_2.html",
+    "name": "Eizo FlexScan EV3285 schwarz, 31.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=8C33765",
+    "price": 923.21,
+    "raw_specifications": {
+        "Artikelnummer": "8C33765",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "31.5 Zoll",
+        "Bildschirmdiagonale/cm": "80 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "60 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 31.5 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 80 cm\nTouch-Funktion: nein\nArtikelnummer: 8C33765\nHerstellergarantie: 60 Monate",
+    "reference_file": "offer_reference_2226.json",
+    "shop_name": "haym.infotec"
+}

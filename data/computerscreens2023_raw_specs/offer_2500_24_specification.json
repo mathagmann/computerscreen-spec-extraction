@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_2500_24.html",
+    "name": "BenQ BL2420PT, 23.8\"",
+    "offer_link": "https://technikladen.at/A-9HLCWLATBE-BenQ-BL2420PT-605-cm-238-Zoll-2560-x-1440-Pixel-Quad-HD-LED-5-ms-Schwarz-9HLCWLATBE-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+    "price": 225.83,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display": "LED",
+        "Display-Aufl\u00f6sung": "2560 x 1440 Pixel",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Quad HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "USB-Hub-Version": "2.0",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nDisplay-Aufl\u00f6sung: 2560 x 1440 Pixel\nDisplay: LED\nHD-Typ: Quad HD\nBildschirmtechnologie: LED\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 2.0\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_2500.json",
+    "shop_name": "TechnikLaden"
+}

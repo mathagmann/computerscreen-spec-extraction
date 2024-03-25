@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2441_3.html",
+    "name": "Fujitsu E-Line E24-8 TS Pro, 24\"",
+    "offer_link": "https://www.future-x.at/fujitsu-monitor-tft-e24-8-ts-pro-eu-flachbildschirm-tft-lcd-60-5-cm-7-ms-1000%3A1-tco-7-displayport-dvi-vga-epeat-gold-p-8812837/?pv=2",
+    "price": 119.39,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "61 cm",
+        "Farbe": "Schwarz",
+        "Kennzeichnung": "EPEAT Gold",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "5 ms",
+        "Strahlungsklasse TCO": "TCO 7",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: EPEAT Gold\nFarbe: Schwarz\nBilddiagonale (cm): 61 cm\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nBetrachtungswinkel horizontal: 178 \u00b0\nPaneltyp: TFT\nStrahlungsklasse TCO: TCO 7\nVideo-Schnittstellen: DVI; VGA",
+    "reference_file": "offer_reference_2441.json",
+    "shop_name": "Future-X.at"
+}

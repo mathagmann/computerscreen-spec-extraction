@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1145_3.html",
+    "name": "LC-Power LC-M27-FHD-144, 27\"",
+    "offer_link": "https://technikladen.at/P-LC-Power-27-6858cm-TFT-Gaming-LC-M27-FHD-144-FULL-HD-Flachbildschirm-TFT/LCD-686-cm?tl=gzhls",
+    "price": 206.91,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "144 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 144 Hz",
+    "reference_file": "offer_reference_1145.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_123_3.html",
+    "name": "iiyama ProLite B1980D-W5, 19\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C10347",
+    "price": 148.45,
+    "raw_specifications": {
+        "Artikelnummer": "3C10347",
+        "Aufl\u00f6sung": "1280x1024 (5:4)",
+        "Bildschirmdiagonale/Zoll": "19 Zoll",
+        "Bildschirmdiagonale/cm": "48.3 cm",
+        "DVI": "1x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "0x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 19 Zoll\nAufl\u00f6sung: 1280x1024 (5:4)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 1x\nDisplayPort: 0x\nHDMI: 0x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 48.3 cm\nTouch-Funktion: nein\nArtikelnummer: 3C10347\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_123.json",
+    "shop_name": "haym.infotec"
+}

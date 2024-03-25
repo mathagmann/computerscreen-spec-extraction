@@ -1,0 +1,32 @@
+{
+    "html_file": "offer_1591_4.html",
+    "name": "HP 27mq, 27\"",
+    "offer_link": "https://www.cyberport.at/?DEEP=6119-226&APID=294&STOREID=7",
+    "price": 239.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2.560x1.440 WQHD",
+        "Betrachtungswinkel h/v": "178\u00b0/178\u00b0",
+        "Bildformat": "16:9",
+        "Breite in mm": "614mm",
+        "Displaygr\u00f6\u00dfe in Zoll": "27 Zoll",
+        "Displaygr\u00f6\u00dfe in cm": "68,6 cm",
+        "Gewicht in kg": "6,8 kg",
+        "HDMI": "1x HDMI",
+        "Helligkeit": "300 cd/m\u00b2",
+        "H\u00f6he in mm": "505mm",
+        "H\u00f6henverstellbar": "100mm",
+        "Jahresverbrauch": "53 kWh",
+        "Kontrast dynamisch": "10.000.000:1",
+        "Kontrast typisch": "1.000:1",
+        "Lautsprecher": "kein",
+        "Leistungsaufnahme": "36 Watt",
+        "Oberfl\u00e4che": "entspiegelt",
+        "Reaktionszeit": "5 ms",
+        "Technologie": "IPS",
+        "Tiefe in mm": "213mm",
+        "Wandmontage": "VESA100x100"
+    },
+    "raw_specifications_text": "Jahresverbrauch: 53 kWh\nLeistungsaufnahme: 36 Watt\nDisplaygr\u00f6\u00dfe in cm: 68,6 cm\nDisplaygr\u00f6\u00dfe in Zoll: 27 Zoll\nTechnologie: IPS\nAufl\u00f6sung: 2.560x1.440 WQHD\nBildformat: 16:9\nOberfl\u00e4che: entspiegelt\nHelligkeit: 300 cd/m\u00b2\nKontrast typisch: 1.000:1\nKontrast dynamisch: 10.000.000:1\nReaktionszeit: 5 ms\nBetrachtungswinkel h/v: 178\u00b0/178\u00b0\nLautsprecher: kein\nH\u00f6henverstellbar: 100mm\nWandmontage: VESA100x100\nHDMI: 1x HDMI\nBreite in mm: 614mm\nH\u00f6he in mm: 505mm\nTiefe in mm: 213mm\nGewicht in kg: 6,8 kg",
+    "reference_file": "offer_reference_1591.json",
+    "shop_name": "Cyberport Stores \u00d6sterreich"
+}

@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1949_22.html",
+    "name": "AOC 24B2XH, 23.8\"",
+    "offer_link": "https://www.alternate.at/AOC/24B2XH-LED-Monitor/html/product/1650407?partner=AtGeizhalsat&campaign=Monitor/AOC/1650407",
+    "price": 103.9,
+    "raw_specifications": {
+        "": "Neigbar",
+        "Abmessungen": "Breite: 53,947 cm x H\u00f6he: 41,835 cm x Tiefe/L\u00e4nge: 17,094 cm",
+        "Anschl\u00fcsse": "1x HDMI-Eingang, (HDMI-Version: 1.4), 1x VGA-Eingang, 1x Kopfh\u00f6rer-Ausgang",
+        "Bild": "Format",
+        "Bildschirmaufl\u00f6sung": "1.920 x 1.080 Pixel",
+        "Bildschirmdiagonale": "60 cm (24 Zoll)",
+        "EAN": "4038986147170",
+        "Energieeffizienzklasse (SDR)": "E (A - G)",
+        "Energieverbauch pro 1000 Stunden (SDR)": "17 kWh",
+        "Ergonomie": "Typ",
+        "Farbe": "schwarz",
+        "Features": "Flicker-Free LED, Blaulichtfilter",
+        "Frequenz": "Vertikal",
+        "Gewicht": "2,7 kg",
+        "Hersteller-Nr.": "24B2XH/EU",
+        "Leistungsaufnahme im Bereitschafts- und Aus-Zustand": "0,3 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)": "17,2 Watt",
+        "Standards": "Video",
+        "Stromversorgung": "Eco-Off",
+        "Typ": "LED-Monitor",
+        "Wandhalterung": "VESA kompatibel (100 x 100 mm)",
+        "Zubeh\u00f6r": "Vorhanden"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse (SDR): E (A - G)\nEnergieverbauch pro 1000 Stunden (SDR): 17 kWh\nLeistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR): 17,2 Watt\nLeistungsaufnahme im Bereitschafts- und Aus-Zustand: 0,3 Watt\nBildschirmdiagonale: 60 cm (24 Zoll)\nBildschirmaufl\u00f6sung: 1.920 x 1.080 Pixel\nTyp: LED-Monitor\nFarbe: schwarz\nEAN: 4038986147170\nHersteller-Nr.: 24B2XH/EU\nBild: Format\n: Neigbar\nFrequenz: Vertikal\nAnschl\u00fcsse: 1x HDMI-Eingang, (HDMI-Version: 1.4), 1x VGA-Eingang, 1x Kopfh\u00f6rer-Ausgang\nErgonomie: Typ\nStromversorgung: Eco-Off\nStandards: Video\nWandhalterung: VESA kompatibel (100 x 100 mm)\nFeatures: Flicker-Free LED, Blaulichtfilter\nZubeh\u00f6r: Vorhanden\nAbmessungen: Breite: 53,947 cm x H\u00f6he: 41,835 cm x Tiefe/L\u00e4nge: 17,094 cm\nGewicht: 2,7 kg",
+    "reference_file": "offer_reference_1949.json",
+    "shop_name": "Alternate.at"
+}

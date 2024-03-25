@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_1558_41.html",
+    "name": "HP E27u G4, 27\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=320000001658387907&ano=A-I1658387907&mno=189T3AA&ean=5715063128862&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 386.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); UXGA (1600x1200); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Schwarz",
+        "Gewicht": "7,6 kg",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); UXGA (1600x1200); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nBildwiederholfrequenz (Hz): 60 Hz\nGewicht: 7,6 kg",
+    "reference_file": "offer_reference_1558.json",
+    "shop_name": "ElectronicShop24"
+}

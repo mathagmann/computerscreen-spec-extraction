@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_1225_12.html",
+    "name": "HP M24fwa, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125579-monitor-hp-m24fwa-ips-lcd-amd-freesync-flicker-free-0195697725814.html",
+    "price": 221.0,
+    "raw_specifications": {
+        "Arbeitsbereich f\u00fcr Temperatur": "5\u00ba / 35\u00ba",
+        "Art": "Monitor",
+        "Empfohlene verwendung": "Haushalt",
+        "Energieklassifizierung": "E",
+        "Farbe": "sRGB",
+        "Farben": "99",
+        "H\u00e4rte": "3H",
+        "Konnektivit\u00e4t": "HDMI",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Neigungswinkel": "-5\u00ba / 25\u00ba",
+        "Reichweite": "99% sRGB",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Stecker": "Sicherheitsrille",
+        "Touchscreen": "Kein",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Art: Monitor\nEnergieklassifizierung: E\nSeitenverh\u00e4ltnis: 16:9\nKonnektivit\u00e4t: HDMI\nKontrastverh\u00e4ltnis: 1000:1\nH\u00e4rte: 3H\nSpannung: 100 - 240 V\nTouchscreen: Kein\nWinkel: 178\u00ba\nStecker: Sicherheitsrille\nFarbe: sRGB\nArbeitsbereich f\u00fcr Temperatur: 5\u00ba / 35\u00ba\nEmpfohlene verwendung: Haushalt\nNeigungswinkel: -5\u00ba / 25\u00ba\nReichweite: 99% sRGB\nFarben: 99",
+    "reference_file": "offer_reference_1225.json",
+    "shop_name": "bauguru"
+}

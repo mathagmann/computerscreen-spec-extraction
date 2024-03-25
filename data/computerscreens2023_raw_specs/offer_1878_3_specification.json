@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1878_3.html",
+    "name": "Philips B-line 242B1H, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/242b1h_00/monitor-242b1h-00-24-ips.html",
+    "price": 223.76,
+    "raw_specifications": {
+        "Artikelnummer": "M11YPINL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lichtsensor",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581764234",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "242B1H/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz, Lichtsensor\nHersteller Artikelnummer: 242B1H/00\nEAN: 8712581764234\nArtikelnummer: M11YPINL",
+    "reference_file": "offer_reference_1878.json",
+    "shop_name": "mylemon.at"
+}

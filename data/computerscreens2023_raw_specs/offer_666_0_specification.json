@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_666_0.html",
+    "name": "Philips Evnia 5000 27M1C5500VL, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/27m1c5500vl_00/27m1c5500vl-00-27.html",
+    "price": 222.98,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYLZGL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581796006",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "27M1C5500VL/00",
+        "Panel": "VA",
+        "Reaktionszeit": "1 ms",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: 27M1C5500VL/00\nEAN: 8712581796006\nArtikelnummer: M1EYLZGL",
+    "reference_file": "offer_reference_666.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_389_1.html",
+    "name": "Acer Vero RL2 RL272yii, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/acer/um_hr2ee_013/27-l-vero-rl272-vero.html",
+    "price": 132.99,
+    "raw_specifications": {
+        "Artikelnummer": "M1IY0IEL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4711121067976",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "UM.HR2EE.013",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x VGA, 2x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 2x HDMI\nErgonomie: Neigbar\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: UM.HR2EE.013\nEAN: 4711121067976\nArtikelnummer: M1IY0IEL",
+    "reference_file": "offer_reference_389.json",
+    "shop_name": "mylemon.at"
+}

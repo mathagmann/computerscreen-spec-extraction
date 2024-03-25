@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_2442_23.html",
+    "name": "Eizo FlexScan EV2456 schwarz, 24.1\"",
+    "offer_link": "https://technikladen.at/P-EIZO-FlexScan-EV2456-BK-612-cm-241-Zoll-1920-x-1200-Pixel-WUXGA-LCD-5-ms-Schwarz?tl=gzhls",
+    "price": 406.68,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1200 Pixel",
+        "Bildschirmdiagonale": "61,2 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display": "LCD",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "WUXGA",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:10",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "USB-Hub-Version": "3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 61,2 cm\nBildschirmaufl\u00f6sung: 1920 x 1200 Pixel\nHD-Typ: WUXGA\nBildschirmtechnologie: LED\nDisplay: LCD\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:10\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_2442.json",
+    "shop_name": "TechnikLaden"
+}

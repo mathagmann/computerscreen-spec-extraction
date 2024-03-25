@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1028_26.html",
+    "name": "ASUS ZenScreen MB166C, 15.6\"",
+    "offer_link": "https://technikladen.at/I-90LM07D3-B01170-ASUS-15-6-ZenScreen-MB166C-Portable-Flachbildschirm-TFT-LCD-396-cm-90LM07D3-B01170-Displays-Projektoren?tl=gzhls",
+    "price": 195.03,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "39,6 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "1920 x 1080 Pixel",
+        "HD-Typ": "Full HD",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 39,6 cm\nDisplay-Aufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LED\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nIntegrierter USB-Hub: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1028.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1821_5.html",
+    "name": "Dell S2721HN / S2721HNM, 27\"",
+    "offer_link": "https://haym.info/produktdetails?id=0C25951",
+    "price": 124.94,
+    "raw_specifications": {
+        "Artikelnummer": "0C25951",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "27 Zoll",
+        "Bildschirmdiagonale/cm": "68.6 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "D",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 27 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: D\nVGA: 0x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 68.6 cm\nTouch-Funktion: nein\nArtikelnummer: 0C25951\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1821.json",
+    "shop_name": "haym.infotec"
+}

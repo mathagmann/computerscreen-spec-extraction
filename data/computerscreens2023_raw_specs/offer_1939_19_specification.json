@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1939_19.html",
+    "name": "AOC 24G2ZU/BK, 23.8\"",
+    "offer_link": "https://www.future-x.at/aoc-60-5-cm-238-16-09-hdmi%2Busb%2Bdp-led-flachbildschirm-tft-lcd-60-5-cm-ms-1000%3A1-350-cd-m%B2-tn-hdmi-usb-30-p-8459517/?pv=2",
+    "price": 273.29,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Farbe": "Schwarz; Rot",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB 3.0",
+        "Paneltyp": "TN",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 350 cd/m\u00b2\nPaneltyp: TN\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB 3.0\nFarbe: Schwarz; Rot",
+    "reference_file": "offer_reference_1939.json",
+    "shop_name": "Future-X.at"
+}

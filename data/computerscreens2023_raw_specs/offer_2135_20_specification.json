@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_2135_20.html",
+    "name": "Philips E-line 245E1S, 23.8\"",
+    "offer_link": "https://www.future-x.at/philips-e-line-245e1s-monitor-a-led-24-238-visualizzabile-2560-x-1440-qhd-ips-flachbildschirm-tft-lcd-61-cm-4-ms-1000%3A1-250-cd-m%B2-displayport-hdmi-hdmi-p-6678147/?pv=2",
+    "price": 176.39,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "61 cm",
+        "Farbe": "Schwarz; Blau",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video Ein- und Ausg\u00e4nge": "HDMI-Eingang",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 61 cm\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 2560 * 1440\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nVideo-Schnittstellen: DisplayPort; HDMI\nVideo Ein- und Ausg\u00e4nge: HDMI-Eingang\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nFarbe: Schwarz; Blau",
+    "reference_file": "offer_reference_2135.json",
+    "shop_name": "Future-X.at"
+}

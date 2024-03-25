@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_191_6.html",
+    "name": "ViewSonic Omni VX2428J, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/viewsonic/vx2428j/monitor-23-8-zoll-vx2428j.html",
+    "price": 219.98,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYTTQL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "180 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "0766907020915",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "VX2428j",
+        "Panel": "IPS",
+        "Reaktionszeit": "0,5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 0,5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 180 Hz, Lautsprecher\nHersteller Artikelnummer: VX2428j\nEAN: 0766907020915\nArtikelnummer: M1LYTTQL",
+    "reference_file": "offer_reference_191.json",
+    "shop_name": "mylemon.at"
+}

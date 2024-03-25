@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_1039_18.html",
+    "name": "ASUS VP349CGL, 34\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/20582173?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 532.55,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Bildwiederholungsrate": "100 Hz",
+        "Display Features": "FlickerFree, Bild in Bild (PiP) Funktion",
+        "Displaygr\u00f6\u00dfe": "86,36 cm (34 Zoll)",
+        "Energieeffizienzklasse": "G",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "12,40 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Hersteller": "ASUS",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "21:9",
+        "max. Aufl\u00f6sung": "3.440 x 1.440 Pixel (21:9)"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 86,36 cm (34 Zoll)\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nProduktart: Monitore\nAnschl\u00fcsse: DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nDisplay Features: FlickerFree, Bild in Bild (PiP) Funktion\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nHersteller: ASUS\nGewicht: 12,40 kg\nmax. Aufl\u00f6sung: 3.440 x 1.440 Pixel (21:9)\nSeitenverh\u00e4ltnis: 21:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 1 ms\nBildwiederholungsrate: 100 Hz\nEnergieeffizienzklasse: G",
+    "reference_file": "offer_reference_1039.json",
+    "shop_name": "playox (AT)"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1883_4.html",
+    "name": "Philips P-line 498P9, 48.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/498p9_00/498p9-00-49-va-5120x1440.html",
+    "price": 936.89,
+    "raw_specifications": {
+        "Artikelnummer": "M12Y5JLL",
+        "Aufl\u00f6sung": "5120x1440",
+        "Besonderheiten": "60 Hz, AMD FreeSync, Curved, HDCP, Lautsprecher, Picture-in-Picture",
+        "Displaygr\u00f6\u00dfe": "48,8 Zoll",
+        "EAN": "8712581767334",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "450 cd/m\u00b2",
+        "Hersteller Artikelnummer": "498P9/00",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, 5x USB"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 48,8 Zoll\nAufl\u00f6sung: 5120x1440\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, 5x USB\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 450 cd/m\u00b2\nBesonderheiten: 60 Hz, AMD FreeSync, Curved, HDCP, Lautsprecher, Picture-in-Picture\nHersteller Artikelnummer: 498P9/00\nEAN: 8712581767334\nArtikelnummer: M12Y5JLL",
+    "reference_file": "offer_reference_1883.json",
+    "shop_name": "mylemon.at"
+}

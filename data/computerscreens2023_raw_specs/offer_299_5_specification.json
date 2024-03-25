@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_299_5.html",
+    "name": "Samsung UR590 / UR592 / UR594 (2023), 31.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C07117",
+    "price": 299.39,
+    "raw_specifications": {
+        "Artikelnummer": "3C07117",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "31.5 Zoll",
+        "Bildschirmdiagonale/cm": "80 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "nein",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 31.5 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: nein\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 4 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 80 cm\nTouch-Funktion: nein\nArtikelnummer: 3C07117\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_299.json",
+    "shop_name": "haym.infotec"
+}

@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_404_1.html",
+    "name": "AG neovo DW-Series DW2701, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/ag_neovo/dw271011e0100/dw-2701-27in-ips-2560x1440.html",
+    "price": 374.88,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYAEVL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4710739597707",
+        "Hersteller Artikelnummer": "DW271011E0100",
+        "Panel": "IPS",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nHersteller Artikelnummer: DW271011E0100\nEAN: 4710739597707\nArtikelnummer: M1EYAEVL",
+    "reference_file": "offer_reference_404.json",
+    "shop_name": "mylemon.at"
+}

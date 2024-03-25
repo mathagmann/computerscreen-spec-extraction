@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2061_41.html",
+    "name": "BenQ PD3420Q, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/benq/9h_ljhlb_qpe/pd3420q-led-sk-rm-34.html",
+    "price": 1096.25,
+    "raw_specifications": {
+        "Artikelnummer": "M1FYW4AL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "4718755081545",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9H.LJHLB.QPE",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: Lautsprecher, USB HUB\nHersteller Artikelnummer: 9H.LJHLB.QPE\nEAN: 4718755081545\nArtikelnummer: M1FYW4AL",
+    "reference_file": "offer_reference_2061.json",
+    "shop_name": "mylemon.at"
+}

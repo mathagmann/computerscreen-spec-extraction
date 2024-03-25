@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_6_1.html",
+    "name": "Wortmann Terra LED 2748W PV V3, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/wortmann/3030228/terra-lcd-led-2748w-pv.html",
+    "price": 212.4,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYR2VL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "60 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4039407077694",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "3030228",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 60 Hz, Lautsprecher\nHersteller Artikelnummer: 3030228\nEAN: 4039407077694\nArtikelnummer: M1LYR2VL",
+    "reference_file": "offer_reference_6.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_290_38.html",
+    "name": "LG 35BN77CP-B, 35\"",
+    "offer_link": "https://technikladen.at/LG-35-35BN77CP-B-UltraWide-DP-HDMI-USB-C-USB-Black-IPS-21-9?tl=gzhls",
+    "price": 471.53,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3440 * 1440",
+        "Bilddiagonale (Zoll)": "35 \"",
+        "Bilddiagonale (cm)": "88,9 cm",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "2500:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 88,9 cm\nBilddiagonale (Zoll): 35 \"\nAufl\u00f6sung: 3440 * 1440\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 2500:1\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C",
+    "reference_file": "offer_reference_290.json",
+    "shop_name": "TechnikLaden"
+}

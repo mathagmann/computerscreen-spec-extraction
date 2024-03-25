@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2087_25.html",
+    "name": "Philips B-line 346B1C, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/346b1c_00/346b1c-86-36cm-34in-va.html",
+    "price": 541.08,
+    "raw_specifications": {
+        "Artikelnummer": "MZ4YKWL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "100 Hz",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "8712581760816",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "346B1C/00",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 100 Hz\nHersteller Artikelnummer: 346B1C/00\nEAN: 8712581760816\nArtikelnummer: MZ4YKWL",
+    "reference_file": "offer_reference_2087.json",
+    "shop_name": "mylemon.at"
+}

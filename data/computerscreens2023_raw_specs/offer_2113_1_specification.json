@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2113_1.html",
+    "name": "Philips E-line 278E1A, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/278e1a_00/dis-27-e-line-278e1a.html",
+    "price": 269.08,
+    "raw_specifications": {
+        "Artikelnummer": "MYQYA0L",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581760069",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "278E1A/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 278E1A/00\nEAN: 8712581760069\nArtikelnummer: MYQYA0L",
+    "reference_file": "offer_reference_2113.json",
+    "shop_name": "mylemon.at"
+}

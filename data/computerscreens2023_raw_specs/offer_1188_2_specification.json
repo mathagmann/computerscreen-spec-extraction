@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1188_2.html",
+    "name": "Philips S-line 272S1M, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/272s1m_00/272s1m-686cm-27in-s-line.html",
+    "price": 171.33,
+    "raw_specifications": {
+        "Artikelnummer": "M17YSD4L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581780753",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "272S1M/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 272S1M/00\nEAN: 8712581780753\nArtikelnummer: M17YSD4L",
+    "reference_file": "offer_reference_1188.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_725_0.html",
+    "name": "Philips Evnia 8000 Series 42M2N8900, 41.54\"",
+    "offer_link": "https://technikladen.at/I-42M2N8900-00-Philips-42-OLED-Monitor-3840-x-2160-138-Hz-01ms-2x-HDMI-1x-Displayport-4x-USB-32-42-DisplayPort-42M2N8900-00-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+    "price": 1612.88,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "105,5 cm",
+        "Bildschirmtechnologie": "OLED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "3840 x 2160 Pixel",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "4K Ultra HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Wei\u00df",
+        "Reaktionszeit": "0,1 ms",
+        "USB-Hub-Version": "3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 105,5 cm\nDisplay-Aufl\u00f6sung: 3840 x 2160 Pixel\nHD-Typ: 4K Ultra HD\nBildschirmtechnologie: OLED\nReaktionszeit: 0,1 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Wei\u00df",
+    "reference_file": "offer_reference_725.json",
+    "shop_name": "TechnikLaden"
+}

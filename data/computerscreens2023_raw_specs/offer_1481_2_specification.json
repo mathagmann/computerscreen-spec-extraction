@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1481_2.html",
+    "name": "Samsung UR550 / UR552 / UR554 (2021), 28\"",
+    "offer_link": "https://haym.info/produktdetails?id=9C33741",
+    "price": 234.49,
+    "raw_specifications": {
+        "Artikelnummer": "9C33741",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "28 Zoll",
+        "Bildschirmdiagonale/cm": "71.1 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "75x75",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 28 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 75x75\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 71.1 cm\nTouch-Funktion: nein\nArtikelnummer: 9C33741\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1481.json",
+    "shop_name": "haym.infotec"
+}

@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_714_17.html",
+    "name": "HP P24v G5, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/127052-monitor-hp-p24v-g5-23-8-ips-va-flicker-free-75-hz-0196548130177.html",
+    "price": 173.8,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "23,8\"",
+        "Energieklassifizierung": "E",
+        "Energieverbrauch": "30 kWh",
+        "Farbe": "Schwarz",
+        "Frequenz": "75 Hz",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Montage": "VESA",
+        "Nicht erhalten": "AMD FreeSync",
+        "Pixel-Dichte (dpi)": "93 dpi",
+        "Pr\u00e4zision (relative Feuchte)": "20 % - 80 %",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Standard": "NTSC",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "Winkel": "178\u00ba",
+        "Zertifikat": "ENERGY STAR-Zertifizierung"
+    },
+    "raw_specifications_text": "Bildschirm: 23,8\"\nAufl\u00f6sung (px): 1920 x 1080 px\nArt: Monitor\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nAufl\u00f6sung: Full HD\nEnergieklassifizierung: E\nKontrastverh\u00e4ltnis: 3000:1\nStandard: NTSC\nFrequenz: 75 Hz\nSpannung: 100 - 240 V\nEnergieverbrauch: 30 kWh\nTouchscreen: Kein\nWinkel: 178\u00ba\nPr\u00e4zision (relative Feuchte): 20 % - 80 %\nNicht erhalten: AMD FreeSync\nMontage: VESA\nZertifikat: ENERGY STAR-Zertifizierung\nKompatibel: VESA 100 x 100 mm\nPixel-Dichte (dpi): 93 dpi",
+    "reference_file": "offer_reference_714.json",
+    "shop_name": "bauguru"
+}

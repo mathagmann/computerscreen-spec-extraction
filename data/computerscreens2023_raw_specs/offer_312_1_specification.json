@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_312_1.html",
+    "name": "LG UltraGear 38GN950P-B, 37.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/lg/38gn950p_b/monitor-lcd-38-ips-38gn950p.html",
+    "price": 1244.16,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYTMSL",
+        "Aufl\u00f6sung": "3840x1600",
+        "Besonderheiten": "Curved",
+        "Displaygr\u00f6\u00dfe": "37,5 Zoll",
+        "EAN": "8806091969361",
+        "Ergonomie": "H\u00f6henverstellbar",
+        "Helligkeit": "450 cd/m\u00b2",
+        "Hersteller Artikelnummer": "38GN950P-B",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Video Anschl\u00fcsse": "1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 37,5 Zoll\nAufl\u00f6sung: 3840x1600\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 1x DisplayPort\nErgonomie: H\u00f6henverstellbar\nHelligkeit: 450 cd/m\u00b2\nBesonderheiten: Curved\nHersteller Artikelnummer: 38GN950P-B\nEAN: 8806091969361\nArtikelnummer: M1IYTMSL",
+    "reference_file": "offer_reference_312.json",
+    "shop_name": "mylemon.at"
+}

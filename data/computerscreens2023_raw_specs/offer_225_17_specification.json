@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_225_17.html",
+    "name": "AOC Q24G2A/BK, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/134080-monitor-aoc-q24g2a-bk-23-8-ips-4038986141208.html",
+    "price": 264.7,
+    "raw_specifications": {
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Bildschirm": "23,8\"",
+        "Farbe": "Schwarz/Rot",
+        "Geschwindigkeit": "165 Hz",
+        "Glanz": "350 lm ANSI",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Stecker": "Kensington",
+        "Stromquelle": "Netzkabel",
+        "Technologie": "IPS",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Steckbares Produkt: Ja\nBildschirm: 23,8\"\nKompatibel: VESA 100 x 100 mm\nAufl\u00f6sung (px): 2560 x 1440 px\nSeitenverh\u00e4ltnis: 16:9\nStromquelle: Netzkabel\nKontrastverh\u00e4ltnis: 1000:1\nFarbe: Schwarz/Rot\nTechnologie: IPS\nGlanz: 350 lm ANSI\nWinkel: 178\u00ba\nStecker: Kensington\nGeschwindigkeit: 165 Hz",
+    "reference_file": "offer_reference_225.json",
+    "shop_name": "bauguru"
+}

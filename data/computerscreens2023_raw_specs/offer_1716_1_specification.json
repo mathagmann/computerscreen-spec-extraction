@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1716_1.html",
+    "name": "BenQ Zowie XL2540K, 24.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/zowie/9h_ljmlb_qbe/monitor-benq-xl2540k-led-1ms.html",
+    "price": 299.22,
+    "raw_specifications": {
+        "Artikelnummer": "M1GYSD5L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "240 Hz",
+        "Displaygr\u00f6\u00dfe": "24,5 Zoll",
+        "EAN": "4718755083303",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "320 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9H.LJMLB.QBE",
+        "Panel": "TN",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "3x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 24,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: TN\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 3x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 320 cd/m\u00b2\nBesonderheiten: 240 Hz\nHersteller Artikelnummer: 9H.LJMLB.QBE\nEAN: 4718755083303\nArtikelnummer: M1GYSD5L",
+    "reference_file": "offer_reference_1716.json",
+    "shop_name": "mylemon.at"
+}

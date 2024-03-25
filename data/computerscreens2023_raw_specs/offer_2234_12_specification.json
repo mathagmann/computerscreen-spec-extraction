@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_2234_12.html",
+    "name": "AOC 24P1/GR, 23.8\"",
+    "offer_link": "https://technikladen.at/P-AOC-P1-24P1/GR-605-cm-238-Zoll-1920-x-1080-Pixel-Full-HD-LED-5-ms-Grau?tl=gzhls",
+    "price": 190.82,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Grau",
+        "Reaktionszeit": "5 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "USB-Hub-Version": "3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LED\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Grau",
+    "reference_file": "offer_reference_2234.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,32 @@
+{
+    "html_file": "offer_830_28.html",
+    "name": "BenQ Mobiuz EX2710U, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/134501-monitor-benq-mobiuz-ex2710u-4718755087721.html",
+    "price": 1206.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2K",
+        "Aufl\u00f6sung (px)": "3840 x 2160 px",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "G",
+        "Geschwindigkeit": "144 Hz",
+        "Glanz": "300 lm ANSI",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Maximale Anpassung": "130 mm",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 15\u00ba",
+        "Pixel-Dichte (dpi)": "82 dpi",
+        "Ports": "1",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "Verbindung": "DisplayPort 1.4",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Energieklassifizierung: G\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nAufl\u00f6sung (px): 3840 x 2160 px\nPixel-Dichte (dpi): 82 dpi\nDiagonale des Bildschirms (cm): 68,6 cm\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nPorts: 1\nAufl\u00f6sung: 2K\nSpannung: 100 - 240 V\nEmpfohlene verwendung: Gaming\nGlanz: 300 lm ANSI\nTouchscreen: Kein\nWinkel: 178\u00ba\nVerbindung: DisplayPort 1.4\nMontage: VESA\nGeschwindigkeit: 144 Hz\nMaximale Anpassung: 130 mm\nNeigungswinkel: -5\u00ba / 15\u00ba\nKompatibel: VESA 100 x 100 mm",
+    "reference_file": "offer_reference_830.json",
+    "shop_name": "bauguru"
+}

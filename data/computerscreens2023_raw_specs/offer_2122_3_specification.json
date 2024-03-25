@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2122_3.html",
+    "name": "LG UltraFine 4K 24MD4KL-B, 23.7\"",
+    "offer_link": "https://haym.info/produktdetails?id=0C26795",
+    "price": 832.9,
+    "raw_specifications": {
+        "Artikelnummer": "0C26795",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.7 Zoll",
+        "Bildschirmdiagonale/cm": "60.2 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "0x",
+        "Helligkeit": "540 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "14 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.7 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 0x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 14 Millisekunden\nHelligkeit: 540 cd/m2\nBildschirmdiagonale/cm: 60.2 cm\nTouch-Funktion: nein\nArtikelnummer: 0C26795\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_2122.json",
+    "shop_name": "haym.infotec"
+}

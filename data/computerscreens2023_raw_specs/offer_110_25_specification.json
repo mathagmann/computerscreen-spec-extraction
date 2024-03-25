@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_110_25.html",
+    "name": "ASUS TUF Gaming VG279Q3A, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133918-monitor-asus-90lm0990-b01170-27-full-hd-led-ips-lcd-flicker-free-nvidia-g-sync-4711387163085.html",
+    "price": 303.2,
+    "raw_specifications": {
+        "Art": "Gaming",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Empfohlene verwendung": "Gaming",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Glanz": "250 ANSI",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Leistung": "4 W",
+        "Montage": "VESA",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Stecker": "Kensington",
+        "Touchscreen": "Kein",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 27\"\nAufl\u00f6sung: Full HD\nArt: Gaming\nAufl\u00f6sung (px): 1920 x 1080 px\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nGlanz: 250 ANSI\nEmpfohlene verwendung: Gaming\nLeistung: 4 W\nTouchscreen: Kein\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nStecker: Kensington\nMontage: VESA\nDiagonale des Bildschirms (cm): 68,6 cm",
+    "reference_file": "offer_reference_110.json",
+    "shop_name": "bauguru"
+}

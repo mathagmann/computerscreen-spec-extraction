@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1632_53.html",
+    "name": "Lenovo ThinkVision T27hv-20, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/128040-monitor-lenovo-t27hv-20-27-ips-0195235002391.html",
+    "price": 556.5,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2K",
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Bildschirm": "27\"",
+        "Dreh": "-45\u00ba / 45\u00b0",
+        "Energieklassifizierung": "G",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Finish": "Mattierend",
+        "Geschwindigkeit": "60 Hz",
+        "Glanz": "350 lm ANSI",
+        "Hinterleuchtet": "W-LED",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Kopfh\u00f6rer": "3,5 mm",
+        "Maximale Anpassung": "135 mm",
+        "Montage": "VESA",
+        "Nicht erhalten": "AMD FreeSync",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 27\"\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nAufl\u00f6sung (px): 2560 x 1440 px\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: G\nKontrastverh\u00e4ltnis: 1000:1\nFinish: Mattierend\nKopfh\u00f6rer: 3,5 mm\nVerbindung: DisplayPort 1.2\nAufl\u00f6sung: 2K\nSpannung: 100 - 240 V\nGlanz: 350 lm ANSI\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nHinterleuchtet: W-LED\nNicht erhalten: AMD FreeSync\nMontage: VESA\nGeschwindigkeit: 60 Hz\nKompatibel: VESA 100 x 100 mm\nDreh: -45\u00ba / 45\u00b0\nMaximale Anpassung: 135 mm",
+    "reference_file": "offer_reference_1632.json",
+    "shop_name": "bauguru"
+}

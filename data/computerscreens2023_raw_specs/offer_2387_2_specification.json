@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2387_2.html",
+    "name": "AG neovo X-24E, 23.6\" schwarz",
+    "offer_link": "https://haym.info/produktdetails?id=7C40141",
+    "price": 715.12,
+    "raw_specifications": {
+        "Artikelnummer": "7C40141",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.6 Zoll",
+        "Bildschirmdiagonale/cm": "59.9 cm",
+        "DVI": "1x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "3 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "75x75",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.6 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 1x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 75x75\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 3 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 59.9 cm\nTouch-Funktion: nein\nArtikelnummer: 7C40141\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2387.json",
+    "shop_name": "haym.infotec"
+}

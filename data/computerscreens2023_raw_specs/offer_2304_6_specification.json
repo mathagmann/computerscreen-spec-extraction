@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2304_6.html",
+    "name": "AG neovo X-15E schwarz, 15\"",
+    "offer_link": "https://www.mylemon.at/artikel/ag_neovo/x15e0011e0100/x15e-15in-1024-768-300cd.html",
+    "price": 412.65,
+    "raw_specifications": {
+        "Artikelnummer": "MS6YQAL",
+        "Aufl\u00f6sung": "1024x768",
+        "Displaygr\u00f6\u00dfe": "15 Zoll",
+        "EAN": "4710739594881",
+        "Helligkeit": "320 cd/m\u00b2",
+        "Hersteller Artikelnummer": "X15E0011E0100",
+        "Panel": "TN",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x S-Video, 1x Composite Video"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 15 Zoll\nAufl\u00f6sung: 1024x768\nPanel: TN\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x S-Video, 1x Composite Video\nVESA Halterung: 100x100 mm\nHelligkeit: 320 cd/m\u00b2\nHersteller Artikelnummer: X15E0011E0100\nEAN: 4710739594881\nArtikelnummer: MS6YQAL",
+    "reference_file": "offer_reference_2304.json",
+    "shop_name": "mylemon.at"
+}

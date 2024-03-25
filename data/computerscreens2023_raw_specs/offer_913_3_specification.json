@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_913_3.html",
+    "name": "ViewSonic VX1755, 17.2\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C15922",
+    "price": 328.12,
+    "raw_specifications": {
+        "Artikelnummer": "2C15922",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "17.2 Zoll",
+        "Bildschirmdiagonale/cm": "43.7 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "D",
+        "HDMI": "0x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "nein",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 17.2 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: D\nVGA: 0x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 0x\nVESA-Bohrung: nein\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 43.7 cm\nTouch-Funktion: nein\nArtikelnummer: 2C15922\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_913.json",
+    "shop_name": "haym.infotec"
+}

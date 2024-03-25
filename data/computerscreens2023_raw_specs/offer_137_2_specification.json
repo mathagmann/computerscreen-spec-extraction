@@ -1,0 +1,32 @@
+{
+    "html_file": "offer_137_2.html",
+    "name": "Acer Vero B7 B277Dbmiprczxv, 27\"",
+    "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1611940&KATEGORIE=162&pva=geizhals2",
+    "price": 265.08,
+    "raw_specifications": {
+        "AMD FreeSync": "Nein",
+        "Anzahl DisplayPort Anschl\u00fcsse": "1",
+        "Anzahl VGA D-Sub Anschl\u00fcsse": "1",
+        "Anzahl der Farben des Displays": "16,7 Millionen Farben",
+        "Bildschirmdiagonale": "68,6 cm 27\"",
+        "Bildschirmdiagonale cm": "68,6 cm",
+        "Bildschirmform": "Flach",
+        "Bildwinkel, horizontal": "178\u00b0",
+        "Bildwinkel, vertikal": "178\u00b0",
+        "Display-Aufl\u00f6sung": "1920 x 1080 Pixel",
+        "HD-Typ": "4K Ultra HD",
+        "Helligkeit typisch": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis dynamisch": "100000000:1",
+        "NVIDIA G-SYNC": "Nein",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Panel-Montage-Schnittstelle": "100 x 100 mm",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "4 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Touchscreen": "Nein",
+        "Typ der Hintergrundbeleuchtung": "LED"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm 27\"\nDisplay-Aufl\u00f6sung: 1920 x 1080 Pixel\nNatives Seitenverh\u00e4ltnis: 16:9\nTouchscreen: Nein\nHD-Typ: 4K Ultra HD\nBildschirmform: Flach\nAnzahl der Farben des Displays: 16,7 Millionen Farben\nTyp der Hintergrundbeleuchtung: LED\nHelligkeit typisch: 250 cd/m\u00b2\nReaktionszeit: 4 ms\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis dynamisch: 100000000:1\nBildwinkel, horizontal: 178\u00b0\nBildwinkel, vertikal: 178\u00b0\nBildschirmdiagonale cm: 68,6 cm\nNVIDIA G-SYNC: Nein\nAMD FreeSync: Nein\nProduktfarbe: Schwarz\nAnzahl VGA D-Sub Anschl\u00fcsse: 1\nAnzahl DisplayPort Anschl\u00fcsse: 1\nPanel-Montage-Schnittstelle: 100 x 100 mm",
+    "reference_file": "offer_reference_137.json",
+    "shop_name": "CSV-Direct.de"
+}

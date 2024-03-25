@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_99_16.html",
+    "name": "ASUS TUF Gaming VG249Q3A, 23.8\"",
+    "offer_link": "https://www.future-x.at/asus-tuf-gaming-vg249q3a-60-5-cm-23-8-1920%2A1080-16%3A9-hdmi-dp-1-ms-schwarz-p-9256199/?pv=2",
+    "price": 221.39,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "180 Hz",
+        "Energieeffizienzklasse": "E",
+        "Farbe": "Schwarz",
+        "Farbraum": "sRGB",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "Neigbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nFarbraum: sRGB\nVideo-Schnittstellen: HDMI\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 180 Hz\nVerstellbarkeit: Neigbar\nEnergieeffizienzklasse: E",
+    "reference_file": "offer_reference_99.json",
+    "shop_name": "Future-X.at"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1805_43.html",
+    "name": "ASUS VA27DQSB, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm06h1_b02370/va27dqsb.html",
+    "price": 286.21,
+    "raw_specifications": {
+        "Artikelnummer": "M1DYI62L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4718017756426",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM06H1-B02370",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 90LM06H1-B02370\nEAN: 4718017756426\nArtikelnummer: M1DYI62L",
+    "reference_file": "offer_reference_1805.json",
+    "shop_name": "mylemon.at"
+}

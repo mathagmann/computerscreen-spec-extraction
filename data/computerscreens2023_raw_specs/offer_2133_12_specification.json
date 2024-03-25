@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2133_12.html",
+    "name": "HP 27m, 27\"",
+    "offer_link": "https://technikladen.at/I-HP-27m-686-cm-27-Zoll-1920-x-1080-Pixel-Full-HD-LED-14-ms-Weiss?tl=gzhls",
+    "price": 164.41,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "68,6 cm",
+        "Bildschirmtechnologie": "LED",
+        "Blickwinkel, horizontal": "178 \u00b0",
+        "Blickwinkel, vertikal": "178 \u00b0",
+        "HD-Typ": "Full HD",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Wei\u00df",
+        "Reaktionszeit": "14 ms",
+        "Seitenverh\u00e4ltnis": "16:9"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LED\nReaktionszeit: 14 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBlickwinkel, horizontal: 178 \u00b0\nBlickwinkel, vertikal: 178 \u00b0\nProduktfarbe: Wei\u00df",
+    "reference_file": "offer_reference_2133.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1703_4.html",
+    "name": "Philips E-line 346E2CUAE, 34\"",
+    "offer_link": "https://haym.info/produktdetails?id=1C02849",
+    "price": 356.89,
+    "raw_specifications": {
+        "Artikelnummer": "1C02849",
+        "Aufl\u00f6sung": "3440x1440 (21:9)",
+        "Bildschirmdiagonale/Zoll": "34 Zoll",
+        "Bildschirmdiagonale/cm": "86.4 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "1x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 34 Zoll\nAufl\u00f6sung: 3440x1440 (21:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 86.4 cm\nTouch-Funktion: nein\nArtikelnummer: 1C02849\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_1703.json",
+    "shop_name": "haym.infotec"
+}

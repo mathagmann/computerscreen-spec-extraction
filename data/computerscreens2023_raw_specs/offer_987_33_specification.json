@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_987_33.html",
+    "name": "ASUS ZenScreen Go MB16AWP, 15.6\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126567-monitor-asus-zenscreen-mb16awp-15-6-4711081309451.html",
+    "price": 567.1,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "15,6\"",
+        "Diagonale des Bildschirms (cm)": "39,6 cm",
+        "Energieklassifizierung": "C",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Farbe": "Schwarz",
+        "Geschwindigkeit": "60 Hz",
+        "Glanz": "250 ANSI",
+        "Kontrastverh\u00e4ltnis": "1200:1",
+        "Nicht erhalten": "AMD FreeSync",
+        "Reichweite": "100% sRGB",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Stromst\u00e4rke": "3 A",
+        "Touchscreen": "Kein",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 15,6\"\nAufl\u00f6sung (px): 1920 x 1080 px\nArt: Monitor\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 39,6 cm\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nAufl\u00f6sung: Full HD\nEnergieklassifizierung: C\nKontrastverh\u00e4ltnis: 1200:1\nGlanz: 250 ANSI\nStromst\u00e4rke: 3 A\nTouchscreen: Kein\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nNicht erhalten: AMD FreeSync\nGeschwindigkeit: 60 Hz\nReichweite: 100% sRGB",
+    "reference_file": "offer_reference_987.json",
+    "shop_name": "bauguru"
+}

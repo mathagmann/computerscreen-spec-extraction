@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2342_8.html",
+    "name": "ASUS VZ239HE-W, 23\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm0334_b01670/58-4cm-design-vz239he-w.html",
+    "price": 168.19,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYNQVL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23 Zoll",
+        "EAN": "4712900824292",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM0334-B01670",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 90LM0334-B01670\nEAN: 4712900824292\nArtikelnummer: M1EYNQVL",
+    "reference_file": "offer_reference_2342.json",
+    "shop_name": "mylemon.at"
+}

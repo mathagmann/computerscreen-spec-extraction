@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_291_5.html",
+    "name": "LG 32UL950P-W, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/lg/32ul950p_w/lcd-32ul950p-w-32-white.html",
+    "price": 821.04,
+    "raw_specifications": {
+        "Artikelnummer": "M1JY074L",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "60 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8806087975451",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Neigbar",
+        "Helligkeit": "450 cd/m\u00b2",
+        "Hersteller Artikelnummer": "32UL950P-W",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, 2x Thunderbolt"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, 2x Thunderbolt\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 450 cd/m\u00b2\nBesonderheiten: 60 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 32UL950P-W\nEAN: 8806087975451\nArtikelnummer: M1JY074L",
+    "reference_file": "offer_reference_291.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1257_21.html",
+    "name": "Dell S2722DC, 27\"",
+    "offer_link": "https://technikladen.at/P-Dell-S2722DC-685cm-27-WQHD-Monitor-HDMI/USB-C-75Hz-4ms-FreeSync-685-cm-27?tl=gzhls",
+    "price": 345.93,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "2560 x 1440 Pixel",
+        "Bildschirmdiagonale": "68,6 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Quad HD",
+        "H\u00f6henverstellung": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Grau",
+        "Reaktionszeit": "4 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm\nBildschirmaufl\u00f6sung: 2560 x 1440 Pixel\nHD-Typ: Quad HD\nBildschirmtechnologie: LCD\nReaktionszeit: 4 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Grau",
+    "reference_file": "offer_reference_1257.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_2441_6.html",
+    "name": "Fujitsu E-Line E24-8 TS Pro, 24\"",
+    "offer_link": "https://haym.info/produktdetails?id=6C75079",
+    "price": 123.71,
+    "raw_specifications": {
+        "Artikelnummer": "6C75079",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "24 Zoll",
+        "Bildschirmdiagonale/cm": "61 cm",
+        "Energieeffizienzklasse": "D",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 24 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: D\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 61 cm\nTouch-Funktion: nein\nArtikelnummer: 6C75079\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2441.json",
+    "shop_name": "haym.infotec"
+}

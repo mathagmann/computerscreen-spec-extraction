@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1051_7.html",
+    "name": "Philips 5000 24E1N5300AE, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/24e1n5300ae_00/24e1n5300ae-00-60-45cm-23.html",
+    "price": 175.35,
+    "raw_specifications": {
+        "Artikelnummer": "M19YYFTL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581783327",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "24E1N5300AE/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 24E1N5300AE/00\nEAN: 8712581783327\nArtikelnummer: M19YYFTL",
+    "reference_file": "offer_reference_1051.json",
+    "shop_name": "mylemon.at"
+}

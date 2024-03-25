@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2074_3.html",
+    "name": "MSI Optix G32C4, 31.5\"",
+    "offer_link": "https://www.ba-computer.at/msi-curved-gaming-new-q3-2022-succ-g32c4-9s6-3da61t-024.html",
+    "price": 285.68,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "31,5 \"",
+        "Bilddiagonale (cm)": "80 cm",
+        "Bildwiederholfrequenz (Hz)": "170 Hz",
+        "Energieeffizienzklasse": "G",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 80 cm\nBilddiagonale (Zoll): 31,5 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 3000:1\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 170 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: G",
+    "reference_file": "offer_reference_2074.json",
+    "shop_name": "BA-Computer"
+}

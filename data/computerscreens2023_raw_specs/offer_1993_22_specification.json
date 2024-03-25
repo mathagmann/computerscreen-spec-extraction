@@ -1,0 +1,15 @@
+{
+    "html_file": "offer_1993_22.html",
+    "name": "AOC 22B2H, 21.5\"",
+    "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=12647546&rid=Geizhals",
+    "price": 95.9,
+    "raw_specifications": {
+        "Artikelnummer": "12647546",
+        "EAN Code": "4038986127165",
+        "Herst.-Artikelnummer": "22B2H",
+        "Versandgewicht": "2.1 kg"
+    },
+    "raw_specifications_text": "Artikelnummer: 12647546\nHerst.-Artikelnummer: 22B2H\nEAN Code: 4038986127165\nVersandgewicht: 2.1 kg",
+    "reference_file": "offer_reference_1993.json",
+    "shop_name": "I-CS"
+}

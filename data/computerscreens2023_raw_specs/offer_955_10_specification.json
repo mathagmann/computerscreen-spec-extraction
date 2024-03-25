@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_955_10.html",
+    "name": "Philips 3000 32E1N3600LA, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/32e1n3600la_00/32e1n3600la-00-80-01cm-31.html",
+    "price": 353.13,
+    "raw_specifications": {
+        "Artikelnummer": "M1CY70JL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "75 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8712581783440",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "32E1N3600LA/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 32E1N3600LA/00\nEAN: 8712581783440\nArtikelnummer: M1CY70JL",
+    "reference_file": "offer_reference_955.json",
+    "shop_name": "mylemon.at"
+}

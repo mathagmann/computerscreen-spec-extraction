@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_2431_3.html",
+    "name": "Philips V-line 243V7QDSB, 23.8\"",
+    "offer_link": "https://haym.info/produktdetails?id=7C25926",
+    "price": 98.05,
+    "raw_specifications": {
+        "Artikelnummer": "7C25926",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.8 Zoll",
+        "Bildschirmdiagonale/cm": "60.4 cm",
+        "Energieeffizienzklasse": "E",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.8 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: E\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 60.4 cm\nTouch-Funktion: nein\nArtikelnummer: 7C25926\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2431.json",
+    "shop_name": "haym.infotec"
+}

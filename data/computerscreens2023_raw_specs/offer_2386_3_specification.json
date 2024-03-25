@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2386_3.html",
+    "name": "AG neovo X-24E, 23.6\" wei\u00df",
+    "offer_link": "https://www.mylemon.at/artikel/ag_neovo/x24e00a1e0100/y-neovo-lcd-led-x.html",
+    "price": 715.05,
+    "raw_specifications": {
+        "Artikelnummer": "MP6YO3L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,6 Zoll",
+        "EAN": "4710739593792",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "X24E00A1E0100",
+        "Panel": "TN",
+        "Reaktionszeit": "3 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,6 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: TN\nReaktionszeit: 3 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: X24E00A1E0100\nEAN: 4710739593792\nArtikelnummer: MP6YO3L",
+    "reference_file": "offer_reference_2386.json",
+    "shop_name": "mylemon.at"
+}

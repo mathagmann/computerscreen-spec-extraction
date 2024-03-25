@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1874_2.html",
+    "name": "Philips B-line 275B1, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/275b1_00/275b1-00-68-8cm-27zoll.html",
+    "price": 264.17,
+    "raw_specifications": {
+        "Artikelnummer": "M11YIX1L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "Lichtsensor, Picture-in-Picture",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581764333",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "275B1/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: Lichtsensor, Picture-in-Picture\nHersteller Artikelnummer: 275B1/00\nEAN: 8712581764333\nArtikelnummer: M11YIX1L",
+    "reference_file": "offer_reference_1874.json",
+    "shop_name": "mylemon.at"
+}

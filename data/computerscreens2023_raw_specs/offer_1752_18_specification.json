@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_1752_18.html",
+    "name": "AOC U28G2AE/BK, 28\"",
+    "offer_link": "https://www.future-x.at/aoc-u28g2ae-bk-28-ips-dp-hdmi-3840x2160-1-ms-16-9-schwarz-rot-28-1-ms-schwarz-p-8690434/?pv=2",
+    "price": 353.2,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Bilddiagonale (Zoll)": "28 \"",
+        "Bilddiagonale (cm)": "71,12 cm",
+        "Farbe": "Schwarz",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 71,12 cm\nBilddiagonale (Zoll): 28 \"\nAufl\u00f6sung: 3840 * 2160\nReaktionszeit: 1 ms\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nFarbe: Schwarz",
+    "reference_file": "offer_reference_1752.json",
+    "shop_name": "Future-X.at"
+}

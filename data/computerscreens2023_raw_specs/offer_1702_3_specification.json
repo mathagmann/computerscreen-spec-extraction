@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_1702_3.html",
+    "name": "HP P22 G4, 21.5\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/15232981?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 97.18,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "DisplayPort, HDMI, VGA/D-Sub",
+        "Displaygr\u00f6\u00dfe": "53,34 cm (21 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Energieeffizienzklasse": "E",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "4,14 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Hersteller": "HP Inc.",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "5 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Geh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nProduktart: Monitore\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nAnschl\u00fcsse: DisplayPort, HDMI, VGA/D-Sub\nHersteller: HP Inc.\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nDisplaygr\u00f6\u00dfe: 53,34 cm (21 Zoll)\nGewicht: 4,14 kg\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 5 ms\nDisplayoberfl\u00e4che: matt\nEnergieeffizienzklasse: E",
+    "reference_file": "offer_reference_1702.json",
+    "shop_name": "playox (AT)"
+}

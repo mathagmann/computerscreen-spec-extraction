@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1716_20.html",
+    "name": "BenQ Zowie XL2540K, 24.5\"",
+    "offer_link": "https://www.future-x.at/benq-xl2540k-6223cm-245in-tn-flachbildschirm-tft-lcd-62-23-cm-1-ms-1000%3A1-p-8740283/?pv=2",
+    "price": 375.7,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "24,5 \"",
+        "Bilddiagonale (cm)": "62,2 cm",
+        "Bildwiederholfrequenz (Hz)": "240 Hz",
+        "Farbe": "Grau",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "TN",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Grau\nBilddiagonale (cm): 62,2 cm\nBilddiagonale (Zoll): 24,5 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: TN\nBildwiederholfrequenz (Hz): 240 Hz",
+    "reference_file": "offer_reference_1716.json",
+    "shop_name": "Future-X.at"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1010_40.html",
+    "name": "Dell P2423DE, 23.8\"",
+    "offer_link": "https://technikladen.at/I-Dell-24-P2423DE-LED-Display-USB-Hub-238-cm?tl=gzhls",
+    "price": 322.51,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "2560 x 1440 Pixel",
+        "HD-Typ": "Quad HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nDisplay-Aufl\u00f6sung: 2560 x 1440 Pixel\nHD-Typ: Quad HD\nBildschirmtechnologie: LCD\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nIntegrierter USB-Hub: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1010.json",
+    "shop_name": "TechnikLaden"
+}

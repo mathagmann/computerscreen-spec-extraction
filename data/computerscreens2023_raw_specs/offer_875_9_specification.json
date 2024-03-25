@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_875_9.html",
+    "name": "Huawei MateView SE, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/huawei/53060681/mateview-se-23-8.html",
+    "price": 180.21,
+    "raw_specifications": {
+        "Artikelnummer": "M1DYGR8L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "6941487263066",
+        "Ergonomie": "Pivot (90 Grad drehbar), Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "53060681",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nErgonomie: Pivot (90 Grad drehbar), Neigbar\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 53060681\nEAN: 6941487263066\nArtikelnummer: M1DYGR8L",
+    "reference_file": "offer_reference_875.json",
+    "shop_name": "mylemon.at"
+}

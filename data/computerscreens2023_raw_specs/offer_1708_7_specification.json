@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1708_7.html",
+    "name": "Philips P-line 326P1H, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/326p1h_00/326p1h-00.html",
+    "price": 444.15,
+    "raw_specifications": {
+        "Artikelnummer": "M14YHPKL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "75 Hz, Lichtsensor",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8712581768096",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "326P1H/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 75 Hz, Lichtsensor\nHersteller Artikelnummer: 326P1H/00\nEAN: 8712581768096\nArtikelnummer: M14YHPKL",
+    "reference_file": "offer_reference_1708.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2125_0.html",
+    "name": "Philips E-line 322E1C, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/322e1c_00/dis-32-e-line-322e1c.html",
+    "price": 186.89,
+    "raw_specifications": {
+        "Artikelnummer": "MY0YY7L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, AMD FreeSync",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8712581758479",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "322E1C/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz, AMD FreeSync\nHersteller Artikelnummer: 322E1C/00\nEAN: 8712581758479\nArtikelnummer: MY0YY7L",
+    "reference_file": "offer_reference_2125.json",
+    "shop_name": "mylemon.at"
+}

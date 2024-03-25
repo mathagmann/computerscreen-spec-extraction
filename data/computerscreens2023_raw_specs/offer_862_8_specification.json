@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_862_8.html",
+    "name": "GIGABYTE S55U, 54.6\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/s55u_ek/s55u-gaming-monitor-4k-uhd.html",
+    "price": 1302.7,
+    "raw_specifications": {
+        "Artikelnummer": "M1JY7NQL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "120 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "55 Zoll",
+        "EAN": "4719331826390",
+        "Helligkeit": "500 cd/m\u00b2",
+        "Hersteller Artikelnummer": "S55U-EK",
+        "Reaktionszeit": "2 ms",
+        "Video Anschl\u00fcsse": "4x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 55 Zoll\nAufl\u00f6sung: 3840x2160\nReaktionszeit: 2 ms\nVideo Anschl\u00fcsse: 4x HDMI\nHelligkeit: 500 cd/m\u00b2\nBesonderheiten: 120 Hz, USB HUB\nHersteller Artikelnummer: S55U-EK\nEAN: 4719331826390\nArtikelnummer: M1JY7NQL",
+    "reference_file": "offer_reference_862.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_926_3.html",
+    "name": "MSI MPG Artymis 273CQRXDE-QD, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3cb95t_002/mpg-artymis-273cqrxde-qd-gaming.html",
+    "price": 728.13,
+    "raw_specifications": {
+        "Artikelnummer": "M1DY3C7L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "240 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719072800239",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3CB95T-002",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 240 Hz\nHersteller Artikelnummer: 9S6-3CB95T-002\nEAN: 4719072800239\nArtikelnummer: M1DY3C7L",
+    "reference_file": "offer_reference_926.json",
+    "shop_name": "mylemon.at"
+}

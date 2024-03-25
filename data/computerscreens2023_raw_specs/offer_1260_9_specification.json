@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_1260_9.html",
+    "name": "AOC U32P2CA, 31.5\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/19262279?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 494.29,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Bildwiederholungsrate": "60,00 Hz",
+        "Display Features": "FlickerFree, Bild an Bild (PbP) Funktion, Bild in Bild (PiP) Funktion",
+        "Display Sync": "Adaptive Sync",
+        "Displaygr\u00f6\u00dfe": "81,28 cm (32 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Energieeffizienzklasse": "G",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "12,57 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "VA Panel",
+        "Reaktionszeit": "4,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "3.840 x 2.160 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: G\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nFiltergruppennummer: Monitore\nDisplay Features: FlickerFree, Bild an Bild (PbP) Funktion, Bild in Bild (PiP) Funktion\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nDisplaygr\u00f6\u00dfe: 81,28 cm (32 Zoll)\nGewicht: 12,57 kg\nDisplay Sync: Adaptive Sync\nmax. Aufl\u00f6sung: 3.840 x 2.160 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: VA Panel\nReaktionszeit: 4,00 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 60,00 Hz",
+    "reference_file": "offer_reference_1260.json",
+    "shop_name": "office-partner (AT)"
+}

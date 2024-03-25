@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_54_11.html",
+    "name": "GIGABYTE GS27QC, 27\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=420000001522938077&ano=U1522938077&mno=GS27QC+EU&ean=4719331854225&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 292.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Energieeffizienzklasse": "F",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "4000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "Neigbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 4000:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 165 Hz\nVerstellbarkeit: Neigbar\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_54.json",
+    "shop_name": "ElectronicShop24"
+}

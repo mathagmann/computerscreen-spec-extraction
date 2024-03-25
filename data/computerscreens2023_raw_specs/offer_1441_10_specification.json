@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_1441_10.html",
+    "name": "GIGABYTE AORUS FV43U, 43\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/16300742?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 848.12,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out), Audioeingang (Line-In)",
+        "Bildwiederholungsrate": "144 Hz",
+        "Display Features": "FlickerFree",
+        "Display Sync": "AMD FreeSync",
+        "Displaygr\u00f6\u00dfe": "106,68 cm (42 Zoll)",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "G",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "15,34 kg",
+        "Helligkeit Bereich": "ab 450 cd/m\u00b2",
+        "Hersteller": "GigaByte",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "VA Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "3.840 x 2.160 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: G\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out), Audioeingang (Line-In)\nHelligkeit Bereich: ab 450 cd/m\u00b2\nDisplay Features: FlickerFree\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nHersteller: GigaByte\nDisplaygr\u00f6\u00dfe: 106,68 cm (42 Zoll)\nProduktart: Monitore\nGewicht: 15,34 kg\nDisplay Sync: AMD FreeSync\nmax. Aufl\u00f6sung: 3.840 x 2.160 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: VA Panel\nReaktionszeit: 1 ms\nBildwiederholungsrate: 144 Hz\nEinsatzort: Innen",
+    "reference_file": "offer_reference_1441.json",
+    "shop_name": "office-partner (AT)"
+}

@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_65_2.html",
+    "name": "Acer Vero B7 B247YEbmiprzxv, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/acer/um_qb7ee_e15/tft-vero-b247yebmiprzxv-60-5cm.html",
+    "price": 158.25,
+    "raw_specifications": {
+        "Artikelnummer": "M1JY291L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4711121587856",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "UM.QB7EE.E15",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher, USB HUB\nHersteller Artikelnummer: UM.QB7EE.E15\nEAN: 4711121587856\nArtikelnummer: M1JY291L",
+    "reference_file": "offer_reference_65.json",
+    "shop_name": "mylemon.at"
+}

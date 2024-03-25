@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1716_5.html",
+    "name": "BenQ Zowie XL2540K, 24.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/benq/9h_ljmlb_qbe/zowie-xl2540k-62-2-cm.html",
+    "price": 328.99,
+    "raw_specifications": {
+        "Artikelnummer": "M15Y4RTL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "240 Hz, AMD FreeSync, Nvidia G-Sync",
+        "Displaygr\u00f6\u00dfe": "24,5 Zoll",
+        "EAN": "4718755083303",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "320 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9H.LJMLB.QBE",
+        "Panel": "TN",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "3x HDMI, 1x DisplayPort, 3x USB"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 24,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: TN\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 3x HDMI, 1x DisplayPort, 3x USB\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 320 cd/m\u00b2\nBesonderheiten: 240 Hz, AMD FreeSync, Nvidia G-Sync\nHersteller Artikelnummer: 9H.LJMLB.QBE\nEAN: 4718755083303\nArtikelnummer: M15Y4RTL",
+    "reference_file": "offer_reference_1716.json",
+    "shop_name": "mylemon.at"
+}

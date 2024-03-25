@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2082_8.html",
+    "name": "Philips E-Line 327E8QJAB, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/327e8qjab_00/327e8qjab-80-01cm-31-5in.html",
+    "price": 208.24,
+    "raw_specifications": {
+        "Artikelnummer": "MZ4YLAL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8712581760427",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "327E8QJAB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "75x75 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nVESA Halterung: 75x75 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 327E8QJAB/00\nEAN: 8712581760427\nArtikelnummer: MZ4YLAL",
+    "reference_file": "offer_reference_2082.json",
+    "shop_name": "mylemon.at"
+}

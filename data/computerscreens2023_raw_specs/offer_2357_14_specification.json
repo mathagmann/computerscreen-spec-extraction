@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2357_14.html",
+    "name": "BenQ BL2780, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/benq/9h_lgxla_/68-6cm-27-1920x1080-bl2780.html",
+    "price": 145.79,
+    "raw_specifications": {
+        "Artikelnummer": "M1MY8FUL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4718755072260",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9H.LGXLA.",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 9H.LGXLA.\nEAN: 4718755072260\nArtikelnummer: M1MY8FUL",
+    "reference_file": "offer_reference_2357.json",
+    "shop_name": "mylemon.at"
+}

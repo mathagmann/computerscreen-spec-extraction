@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1620_21.html",
+    "name": "Philips E-line 288E2UAE, 28\"",
+    "offer_link": "https://www.future-x.at/philips-e-line-71-1cm-28zoll-4k-ultra-hd-lcd-monitor-dp-hdmi-flachbildschirm-tft-lcd-71-1-cm-4-ms-1000%3A1-ips-line-eingang-p-8761752/?pv=2",
+    "price": 343.79,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Aufl\u00f6sungsstandard": "UHD (3840x2160)",
+        "Bilddiagonale (Zoll)": "28 \"",
+        "Bilddiagonale (cm)": "71,1 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 71,1 cm\nBilddiagonale (Zoll): 28 \"\nAufl\u00f6sung: 3840 * 2160\nAufl\u00f6sungsstandard: UHD (3840x2160)\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nBildwiederholfrequenz (Hz): 60 Hz",
+    "reference_file": "offer_reference_1620.json",
+    "shop_name": "Future-X.at"
+}

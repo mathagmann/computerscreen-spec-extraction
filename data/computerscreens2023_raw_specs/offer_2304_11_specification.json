@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2304_11.html",
+    "name": "AG neovo X-15E schwarz, 15\"",
+    "offer_link": "https://technikladen.at/P-X15E0011E0100-AG-Neovo-X-15E-381-cm-15-Zoll-1024-x-768-Pixel-XGA-LCD-3-ms-Schwarz-X15E0011E0100-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+    "price": 426.11,
+    "raw_specifications": {
+        "Anzeige": "LCD",
+        "Bildschirmaufl\u00f6sung": "1024 x 768 Pixel",
+        "Bildschirmdiagonale": "38,1 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Blickwinkel, horizontal": "176 \u00b0",
+        "Blickwinkel, vertikal": "176 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "XGA",
+        "Natives Seitenverh\u00e4ltnis": "4:3",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "3 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Eingebaute Lautsprecher: Ja\nAnzeige: LCD\nProduktfarbe: Schwarz\nVESA-Halterung: Ja\nReaktionszeit: 3 ms\nNatives Seitenverh\u00e4ltnis: 4:3\nHD-Typ: XGA\nBlickwinkel, horizontal: 176 \u00b0\nBildschirmdiagonale: 38,1 cm\nBlickwinkel, vertikal: 176 \u00b0\nBildschirmtechnologie: LCD\nBildschirmaufl\u00f6sung: 1024 x 768 Pixel",
+    "reference_file": "offer_reference_2304.json",
+    "shop_name": "TechnikLaden"
+}

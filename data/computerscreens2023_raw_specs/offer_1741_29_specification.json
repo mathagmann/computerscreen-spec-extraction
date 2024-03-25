@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1741_29.html",
+    "name": "ASUS VP279HE, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm01t0_b03170/68-6cm-essential-vp279he-dvi.html",
+    "price": 239.28,
+    "raw_specifications": {
+        "Artikelnummer": "M1JY4LYL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4718017766913",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM01T0-B03170",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: 90LM01T0-B03170\nEAN: 4718017766913\nArtikelnummer: M1JY4LYL",
+    "reference_file": "offer_reference_1741.json",
+    "shop_name": "mylemon.at"
+}

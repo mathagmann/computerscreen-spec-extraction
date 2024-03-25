@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1911_32.html",
+    "name": "GIGABYTE G27Q, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133926-monitor-gigabyte-g27q-ek-27-led-ips-flicker-free-144-hz-4719331807979.html",
+    "price": 366.4,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Quad HD",
+        "Batteriebetrieben": "Sonderzubeh\u00f6r",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "G",
+        "Farbe": "Schwarz",
+        "Frequenz": "144 Hz",
+        "Glanz": "350 lm ANSI",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Leistung": "4 W",
+        "Neigungswinkel": "-5\u00ba / 20\u00ba",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Stecker": "Kensington",
+        "Steckertyp": "EU-Stecker",
+        "Stromquelle": "CC",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 27\"\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nAufl\u00f6sung: Quad HD\nDiagonale des Bildschirms (cm): 68,6 cm\nFarbe: Schwarz\nReaktionszeit: 1 ms\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: G\nKontrastverh\u00e4ltnis: 1000:1\nFrequenz: 144 Hz\nEmpfohlene verwendung: Gaming\nBatteriebetrieben: Sonderzubeh\u00f6r\nLeistung: 4 W\nGlanz: 350 lm ANSI\nWinkel: 178\u00ba\nStecker: Kensington\nNeigungswinkel: -5\u00ba / 20\u00ba\nStromquelle: CC",
+    "reference_file": "offer_reference_1911.json",
+    "shop_name": "bauguru"
+}

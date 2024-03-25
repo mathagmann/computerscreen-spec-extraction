@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1701_1.html",
+    "name": "Philips B-line 325B1L, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/325b1l_00/phil-31-5-l-325b1l.html",
+    "price": 254.1,
+    "raw_specifications": {
+        "Artikelnummer": "M14YAV1L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "75 Hz, AMD FreeSync, Helligkeitssensor",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8712581768119",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "325B1L/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz, AMD FreeSync, Helligkeitssensor\nHersteller Artikelnummer: 325B1L/00\nEAN: 8712581768119\nArtikelnummer: M14YAV1L",
+    "reference_file": "offer_reference_1701.json",
+    "shop_name": "mylemon.at"
+}

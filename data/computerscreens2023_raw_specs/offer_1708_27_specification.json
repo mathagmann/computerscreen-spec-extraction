@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_1708_27.html",
+    "name": "Philips P-line 326P1H, 31.5\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126634-monitor-philips-326p1h-00-31-5-wxga-ips-8712581768096.html",
+    "price": 614.5,
+    "raw_specifications": {
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Bildschirm": "31,5\"",
+        "Diagonale des Bildschirms (cm)": "80 cm",
+        "Energieklassifizierung": "G",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Pixel-Dichte (dpi)": "93 dpi",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker"
+    },
+    "raw_specifications_text": "Bildschirm: 31,5\"\nAufl\u00f6sung (px): 2560 x 1440 px\nKompatibel: VESA 100 x 100 mm\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nPixel-Dichte (dpi): 93 dpi\nEnergieklassifizierung: G\nDiagonale des Bildschirms (cm): 80 cm",
+    "reference_file": "offer_reference_1708.json",
+    "shop_name": "bauguru"
+}

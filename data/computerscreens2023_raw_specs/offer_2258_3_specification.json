@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_2258_3.html",
+    "name": "Lenovo ThinkVision T27i-10, 27\"",
+    "offer_link": "https://www.future-x.at/lenovo-thinkvision-t27i-lcd-monitor-68-58-cm-27-fullhd-ips-4-ms-p-2813573/?pv=2",
+    "price": 260.89,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,58 cm",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,58 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI\nFarbe: Schwarz",
+    "reference_file": "offer_reference_2258.json",
+    "shop_name": "Future-X.at"
+}

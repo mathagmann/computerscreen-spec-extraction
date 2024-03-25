@@ -1,0 +1,32 @@
+{
+    "html_file": "offer_1628_24.html",
+    "name": "Lenovo L24i-30, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133684-monitor-2-5-lenovo-l24i-30-24-fhd-ips-0195348163682.html",
+    "price": 151.5,
+    "raw_specifications": {
+        "Art": "Gaming",
+        "Diagonale des Bildschirms (cm)": "60,5 cm",
+        "Energieklassifizierung": "E",
+        "Farbe": "Schwarz/Grau",
+        "Glanz": "250 ANSI",
+        "Hinterleuchtet": "W-LED",
+        "Klinge": "5",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "L\u00e4nge des Kabels": "1,8 m",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 22\u00ba",
+        "Pixel-Dichte (dpi)": "93 dpi",
+        "Ports": "Audio-Ausgang",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Standard": "NTSC",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Winkel": "178\u00ba",
+        "gro\u00df": "415 cm"
+    },
+    "raw_specifications_text": "Klinge: 5\nSteckertyp: EU-Stecker\nSteckbares Produkt: Ja\nPixel-Dichte (dpi): 93 dpi\nDiagonale des Bildschirms (cm): 60,5 cm\nArt: Gaming\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: E\nKontrastverh\u00e4ltnis: 1000:1\nStandard: NTSC\nPorts: Audio-Ausgang\nL\u00e4nge des Kabels: 1,8 m\nGlanz: 250 ANSI\nSpannung: 100 - 240 V\nFarbe: Schwarz/Grau\nWinkel: 178\u00ba\nHinterleuchtet: W-LED\ngro\u00df: 415 cm\nMontage: VESA\nNeigungswinkel: -5\u00ba / 22\u00ba\nKompatibel: VESA 100 x 100 mm",
+    "reference_file": "offer_reference_1628.json",
+    "shop_name": "bauguru"
+}

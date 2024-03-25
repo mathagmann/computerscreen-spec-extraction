@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_36_4.html",
+    "name": "ASUS TUF Gaming VG34VQL3A, 34\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C18306",
+    "price": 584.7,
+    "raw_specifications": {
+        "Artikelnummer": "3C18306",
+        "Aufl\u00f6sung": "3440x1440 (21:9)",
+        "Bildschirmdiagonale/Zoll": "34 Zoll",
+        "Bildschirmdiagonale/cm": "86.4 cm",
+        "DVI": "0x",
+        "HDMI": "2x",
+        "Helligkeit": "400 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 34 Zoll\nAufl\u00f6sung: 3440x1440 (21:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: ja\nVGA: 0x\nDVI: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 1 Millisekunden\nHelligkeit: 400 cd/m2\nBildschirmdiagonale/cm: 86.4 cm\nTouch-Funktion: nein\nArtikelnummer: 3C18306\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_36.json",
+    "shop_name": "haym.infotec"
+}

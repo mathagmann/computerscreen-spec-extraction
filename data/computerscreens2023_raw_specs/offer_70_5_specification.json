@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_70_5.html",
+    "name": "Acer Vero B7 B287KLbmiiprxv, 28\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C16876",
+    "price": 350.42,
+    "raw_specifications": {
+        "Artikelnummer": "3C16876",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "28 Zoll",
+        "Bildschirmdiagonale/cm": "71.1 cm",
+        "DVI": "0x",
+        "DisplayPort": "2x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 28 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 2x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 71.1 cm\nTouch-Funktion: nein\nArtikelnummer: 3C16876\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_70.json",
+    "shop_name": "haym.infotec"
+}

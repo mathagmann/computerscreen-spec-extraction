@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1662_4.html",
+    "name": "Philips B-line 243B1JH, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/243b1jh_00/243b1jh-00-24-ips-dp.html",
+    "price": 445.89,
+    "raw_specifications": {
+        "Artikelnummer": "M14YPN6L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lichtsensor, Webcam",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581771096",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "243B1JH/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, 1x USB"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, 1x USB\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lichtsensor, Webcam\nHersteller Artikelnummer: 243B1JH/00\nEAN: 8712581771096\nArtikelnummer: M14YPN6L",
+    "reference_file": "offer_reference_1662.json",
+    "shop_name": "mylemon.at"
+}

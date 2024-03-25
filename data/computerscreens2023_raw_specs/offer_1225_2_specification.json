@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_1225_2.html",
+    "name": "HP M24fwa, 23.8\"",
+    "offer_link": "https://www.alternate.at/HP/M24fwa-LED-Monitor/html/product/1785460?partner=AtGeizhalsat&campaign=Monitor/HP/1785460",
+    "price": 156.9,
+    "raw_specifications": {
+        "": "AMD FreeSync",
+        "Anschl\u00fcsse": "1x HDMI-Eingang, 1x VGA-Eingang, 1x 3,5-mm-Audio-Eingang, 1x Kopfh\u00f6rer-Ausgang",
+        "Bild": "Format",
+        "Bildschirmaufl\u00f6sung": "1.920 x 1.080 Pixel",
+        "Bildschirmdiagonale": "61 cm (24 Zoll)",
+        "EAN": "0196068981198",
+        "Energieeffizienzklasse (SDR)": "E (A - G)",
+        "Energieverbauch pro 1000 Stunden (SDR)": "15 kWh",
+        "Farbe": "silber/wei\u00df",
+        "Features": "Low Blue Light Mode",
+        "Hersteller-Nr.": "34Y22E9#ABB",
+        "Lautsprecher": "2 Lautsprecher",
+        "Leistungsaufnahme im Bereitschafts- und Aus-Zustand": "0,5 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)": "15 Watt",
+        "Stromversorgung": "Eco-Off",
+        "Typ": "LED-Monitor",
+        "Zubeh\u00f6r": "Vorhanden"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse (SDR): E (A - G)\nEnergieverbauch pro 1000 Stunden (SDR): 15 kWh\nLeistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR): 15 Watt\nLeistungsaufnahme im Bereitschafts- und Aus-Zustand: 0,5 Watt\nBildschirmdiagonale: 61 cm (24 Zoll)\nBildschirmaufl\u00f6sung: 1.920 x 1.080 Pixel\nTyp: LED-Monitor\nFarbe: silber/wei\u00df\nEAN: 0196068981198\nHersteller-Nr.: 34Y22E9#ABB\nBild: Format\n: AMD FreeSync\nAnschl\u00fcsse: 1x HDMI-Eingang, 1x VGA-Eingang, 1x 3,5-mm-Audio-Eingang, 1x Kopfh\u00f6rer-Ausgang\nStromversorgung: Eco-Off\nLautsprecher: 2 Lautsprecher\nFeatures: Low Blue Light Mode\nZubeh\u00f6r: Vorhanden",
+    "reference_file": "offer_reference_1225.json",
+    "shop_name": "Alternate.at"
+}

@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1885_5.html",
+    "name": "Hikvision Value Series DS-D5027FN, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/hikvision/ds_d5027fn_eu/ds-d5027fn-eu-monitor-led.html",
+    "price": 247.99,
+    "raw_specifications": {
+        "Artikelnummer": "M11YVW2L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "6941264048619",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "DS-D5027FN/EU",
+        "Reaktionszeit": "14 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nReaktionszeit: 14 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nHersteller Artikelnummer: DS-D5027FN/EU\nEAN: 6941264048619\nArtikelnummer: M11YVW2L",
+    "reference_file": "offer_reference_1885.json",
+    "shop_name": "mylemon.at"
+}

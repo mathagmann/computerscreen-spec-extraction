@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2351_6.html",
+    "name": "Philips P-line 328P6AUBREB, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/328p6aubreb_00/328p6aubreb-00-81-28cm-32zoll.html",
+    "price": 480.34,
+    "raw_specifications": {
+        "Artikelnummer": "MREYDML",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "60 Hz",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8712581748081",
+        "Helligkeit": "450 cd/m\u00b2",
+        "Hersteller Artikelnummer": "328P6AUBREB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 450 cd/m\u00b2\nBesonderheiten: 60 Hz\nHersteller Artikelnummer: 328P6AUBREB/00\nEAN: 8712581748081\nArtikelnummer: MREYDML",
+    "reference_file": "offer_reference_2351.json",
+    "shop_name": "mylemon.at"
+}

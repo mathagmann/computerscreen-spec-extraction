@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_2149_8.html",
+    "name": "Philips B-line 272B7QUBHEB, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/272b7qubheb_00/272b7qubheb-68-5cm-27in-lcd.html",
+    "price": 523.13,
+    "raw_specifications": {
+        "Artikelnummer": "MYDYFDL",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581756741",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "272B7QUBHEB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, USB-C DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nHersteller Artikelnummer: 272B7QUBHEB/00\nEAN: 8712581756741\nArtikelnummer: MYDYFDL",
+    "reference_file": "offer_reference_2149.json",
+    "shop_name": "mylemon.at"
+}

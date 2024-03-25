@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_979_4.html",
+    "name": "Samsung Smart Monitor M7 M70B wei\u00df (2022), 32\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C10854",
+    "price": 287.81,
+    "raw_specifications": {
+        "Artikelnummer": "2C10854",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "32 Zoll",
+        "Bildschirmdiagonale/cm": "81.3 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 32 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 81.3 cm\nTouch-Funktion: nein\nArtikelnummer: 2C10854\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_979.json",
+    "shop_name": "haym.infotec"
+}

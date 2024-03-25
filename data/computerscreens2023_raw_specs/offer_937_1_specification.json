@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_937_1.html",
+    "name": "GIGABYTE G34WQC A, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/g34wqc_a/g34wqc-a-86-4cm-34zoll.html",
+    "price": 400.84,
+    "raw_specifications": {
+        "Artikelnummer": "M18YHGNL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "Curved, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "4719331822842",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "G34WQC A",
+        "Panel": "VA",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 2x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nVideo Anschl\u00fcsse: 2x HDMI, 2x DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: Curved, Lautsprecher\nHersteller Artikelnummer: G34WQC A\nEAN: 4719331822842\nArtikelnummer: M18YHGNL",
+    "reference_file": "offer_reference_937.json",
+    "shop_name": "mylemon.at"
+}

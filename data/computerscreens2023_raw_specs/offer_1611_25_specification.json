@@ -1,0 +1,16 @@
+{
+    "html_file": "offer_1611_25.html",
+    "name": "ASUS TUF Gaming VG289Q1A, 28\"",
+    "offer_link": "https://www.future-x.at/asus-vg289q1a-28in-wled-ips-3840x2160-350cd-m%B2hdmi-dp-flachbildschirm-tft-lcd-71-1-cm-p-8747986/?pv=2",
+    "price": 301.99,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Bilddiagonale (cm)": "71,1 cm",
+        "Paneltyp": "IPS",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 71,1 cm\nAufl\u00f6sung: 3840 * 2160\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI",
+    "reference_file": "offer_reference_1611.json",
+    "shop_name": "Future-X.at"
+}

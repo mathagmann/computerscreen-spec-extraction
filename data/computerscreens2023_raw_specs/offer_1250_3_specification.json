@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1250_3.html",
+    "name": "MSI MPG Artymis 273CQRDE, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3cc05t_002/27-l-mpg-artymis-273cqrde.html",
+    "price": 503.99,
+    "raw_specifications": {
+        "Artikelnummer": "M15YQ19L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz, AMD FreeSync",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719072800123",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "550 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3CC05T-002",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nHelligkeit: 550 cd/m\u00b2\nBesonderheiten: 165 Hz, AMD FreeSync\nHersteller Artikelnummer: 9S6-3CC05T-002\nEAN: 4719072800123\nArtikelnummer: M15YQ19L",
+    "reference_file": "offer_reference_1250.json",
+    "shop_name": "mylemon.at"
+}

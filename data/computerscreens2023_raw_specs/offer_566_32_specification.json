@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_566_32.html",
+    "name": "Samsung SA650, 34\"",
+    "offer_link": "https://technikladen.at/I-LS34A650UBUXEN-Samsung-LS34A650UBUXEN-864-cm-34-Zoll-3440-x-1440-Pixel-UltraWide-Quad-HD-5-ms-Schwarz-LS34A650UBUXEN-Displays-Projektoren?tl=gzhls",
+    "price": 435.17,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "3440 x 1440 Pixel",
+        "Bildschirmdiagonale": "86,4 cm",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "HD-Typ": "UltraWide Quad HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "21:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "USB-Hub-Version": "3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 86,4 cm\nBildschirmaufl\u00f6sung: 3440 x 1440 Pixel\nHD-Typ: UltraWide Quad HD\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 21:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_566.json",
+    "shop_name": "TechnikLaden"
+}

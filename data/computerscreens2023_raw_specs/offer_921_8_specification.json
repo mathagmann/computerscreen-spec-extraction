@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_921_8.html",
+    "name": "MSI Modern MD272QPDE, 27\"",
+    "offer_link": "https://technikladen.at/MSI-Modern-MD272QPDE-2560x1440-WQHD-IPS-16-9-75Hz?tl=gzhls",
+    "price": 370.08,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Energieeffizienzklasse": "F",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_921.json",
+    "shop_name": "TechnikLaden"
+}

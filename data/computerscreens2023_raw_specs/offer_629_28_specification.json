@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_629_28.html",
+    "name": "GIGABYTE G24F 2, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/g24f_2_eu/dis-24-gbt-g24f-2.html",
+    "price": 262.56,
+    "raw_specifications": {
+        "Artikelnummer": "M1FYIESL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "165 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4719331836566",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "G24F 2 EU",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 165 Hz, USB HUB\nHersteller Artikelnummer: G24F 2 EU\nEAN: 4719331836566\nArtikelnummer: M1FYIESL",
+    "reference_file": "offer_reference_629.json",
+    "shop_name": "mylemon.at"
+}

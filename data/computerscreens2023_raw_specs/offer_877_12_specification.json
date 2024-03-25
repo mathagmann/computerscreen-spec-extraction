@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_877_12.html",
+    "name": "LG UltraWide 38WQ88C-W, 37.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/lg/38wq88c_w_aeu/38wq88c-w-38in-95-29cm.html",
+    "price": 981.44,
+    "raw_specifications": {
+        "Artikelnummer": "M1DYI3SL",
+        "Aufl\u00f6sung": "3840x1600",
+        "Besonderheiten": "USB HUB",
+        "Displaygr\u00f6\u00dfe": "37,5 Zoll",
+        "EAN": "8806091600202",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "38WQ88C-W.AEU",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 37,5 Zoll\nAufl\u00f6sung: 3840x1600\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: USB HUB\nHersteller Artikelnummer: 38WQ88C-W.AEU\nEAN: 8806091600202\nArtikelnummer: M1DYI3SL",
+    "reference_file": "offer_reference_877.json",
+    "shop_name": "mylemon.at"
+}

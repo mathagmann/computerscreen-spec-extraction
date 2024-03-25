@@ -1,0 +1,31 @@
+{
+    "html_file": "offer_2047_0.html",
+    "name": "Philips B-line 243B9, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/127643-monitor-philips-243b9-00-24-23-8-led-ips-flicker-free-50-60-hz-75-hz-50-60-hz-8712581761981.html",
+    "price": 197.8,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Full HD",
+        "Dreh": "-175\u00ba / 175\u00b0",
+        "Energieklassifizierung": "D",
+        "Finish": "Mattierend",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kompatibilit\u00e4t": "Mac OS",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Montage": "VESA",
+        "Pixel-Dichte (dpi)": "93 dpi",
+        "Pr\u00e4zision (relative Feuchte)": "20 % - 80 %",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Stecker": "Kensington",
+        "Steckertyp": "EU-Stecker",
+        "Stromquelle": "Wechselstrom",
+        "Umweltfreundliche Verpackung": "Zu 100 % wiederverwertbar",
+        "Unterst\u00fctzte Video-Formate": "1080p",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba",
+        "Zertifikat": "ENERGY STAR-Zertifizierung"
+    },
+    "raw_specifications_text": "Seitenverh\u00e4ltnis: 16:9\nAufl\u00f6sung: Full HD\nKompatibel: VESA 100 x 100 mm\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nPixel-Dichte (dpi): 93 dpi\nEnergieklassifizierung: D\nKontrastverh\u00e4ltnis: 1000:1\nFinish: Mattierend\nKompatibilit\u00e4t: Mac OS\nVerbindung: DisplayPort 1.2\nUmweltfreundliche Verpackung: Zu 100 % wiederverwertbar\nWinkel: 178\u00ba\nPr\u00e4zision (relative Feuchte): 20 % - 80 %\nStecker: Kensington\nStromquelle: Wechselstrom\nMontage: VESA\nZertifikat: ENERGY STAR-Zertifizierung\nUnterst\u00fctzte Video-Formate: 1080p\nDreh: -175\u00ba / 175\u00b0",
+    "reference_file": "offer_reference_2047.json",
+    "shop_name": "bauguru"
+}

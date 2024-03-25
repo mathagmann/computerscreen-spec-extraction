@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_1102_10.html",
+    "name": "BenQ Mobiuz EX3210U, 32\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C03479",
+    "price": 977.06,
+    "raw_specifications": {
+        "Artikelnummer": "2C03479",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "32 Zoll",
+        "Bildschirmdiagonale/cm": "81.3 cm",
+        "DVI": "0x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "2 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 32 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 2 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 81.3 cm\nTouch-Funktion: nein\nArtikelnummer: 2C03479\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_1102.json",
+    "shop_name": "haym.infotec"
+}

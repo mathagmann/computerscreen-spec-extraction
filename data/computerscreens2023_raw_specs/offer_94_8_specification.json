@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_94_8.html",
+    "name": "Eizo FlexScan EV2740X wei\u00df, 27\"",
+    "offer_link": "https://www.future-x.at/eizo-flexscan-68-6-cm-27-3840%2A2160-5-ms-350-cd-m%B2-wei%DF-p-9233074/?pv=2",
+    "price": 1004.8,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); UXGA (1600x1200); WSXGA+ (1680x1050); XGA (1024x768)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Farbe": "Wei\u00df",
+        "Farbraum": "sRGB",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kennzeichnung": "CB; CE; FCC; T\u00dcV / GS",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Produktfeatures": "Energiesparmodus",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: CB; CE; FCC; T\u00dcV / GS\nProduktfeatures: Energiesparmodus\nFarbe: Wei\u00df\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 3840 * 2160\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); UXGA (1600x1200); WSXGA+ (1680x1050); XGA (1024x768)\nReaktionszeit: 5 ms\nHelligkeit: 350 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nFarbraum: sRGB\nVideo-Schnittstellen: DisplayPort\nPC-Schnittstellen: USB Typ C\nLautsprecher: Ja\nVerstellbarkeit: H\u00f6henverstellbar",
+    "reference_file": "offer_reference_94.json",
+    "shop_name": "Future-X.at"
+}

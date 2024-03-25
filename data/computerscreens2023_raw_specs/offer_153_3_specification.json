@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_153_3.html",
+    "name": "ASUS ZenScreen MB17AHG, 17.3\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/mb17ahg/monitor-17-inches-mb17ahg-ips.html",
+    "price": 373.0,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYTUUL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "144 Hz",
+        "Displaygr\u00f6\u00dfe": "17,3 Zoll",
+        "EAN": "4711387005804",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "MB17AHG",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "1x HDMI, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 17,3 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, USB-C DisplayPort\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 144 Hz\nHersteller Artikelnummer: MB17AHG\nEAN: 4711387005804\nArtikelnummer: M1LYTUUL",
+    "reference_file": "offer_reference_153.json",
+    "shop_name": "mylemon.at"
+}

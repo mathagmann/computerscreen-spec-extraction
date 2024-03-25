@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_1393_1.html",
+    "name": "HP M27fd, 27\"",
+    "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1440497&KATEGORIE=162&pva=geizhals2",
+    "price": 155.94,
+    "raw_specifications": {
+        "Breite": "607,9 mm",
+        "Farbskala": "99",
+        "Ger\u00e4tebreite inkl. Fu\u00df": "60,8 mm",
+        "Ger\u00e4teh\u00f6he inkl. Fu\u00df": "18,8 mm",
+        "Ger\u00e4tetiefe inkl. Fu\u00df": "43,7 mm",
+        "Gewicht": "3,2 kg",
+        "Gewicht mit St\u00e4nder": "3,2 kg",
+        "H\u00f6he": "356 mm",
+        "H\u00f6he ohne Standfu\u00df": "35,6 mm",
+        "Paketgewicht": "6 kg",
+        "RGB-Farbraum": "sRGB",
+        "Tiefe": "32 mm",
+        "Tiefe ohne Standfu\u00df": "3,2 mm",
+        "Verpackungsbreite": "607,9 mm",
+        "Verpackungsh\u00f6he": "437,3 mm",
+        "Verpackungstiefe": "188,2 mm"
+    },
+    "raw_specifications_text": "RGB-Farbraum: sRGB\nFarbskala: 99\nGer\u00e4tebreite inkl. Fu\u00df: 60,8 mm\nGer\u00e4tetiefe inkl. Fu\u00df: 43,7 mm\nGer\u00e4teh\u00f6he inkl. Fu\u00df: 18,8 mm\nGewicht mit St\u00e4nder: 3,2 kg\nTiefe ohne Standfu\u00df: 3,2 mm\nH\u00f6he ohne Standfu\u00df: 35,6 mm\nVerpackungsbreite: 607,9 mm\nVerpackungstiefe: 188,2 mm\nVerpackungsh\u00f6he: 437,3 mm\nPaketgewicht: 6 kg\nGewicht: 3,2 kg\nH\u00f6he: 356 mm\nBreite: 607,9 mm\nTiefe: 32 mm",
+    "reference_file": "offer_reference_1393.json",
+    "shop_name": "CSV-Direct.de"
+}

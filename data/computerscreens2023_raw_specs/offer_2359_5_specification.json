@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2359_5.html",
+    "name": "Philips B-line 241B7QUPBEB, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/241b7qupbeb_00/241b7qupbeb-00-60-45cm-23.html",
+    "price": 277.89,
+    "raw_specifications": {
+        "Artikelnummer": "MQWYCGL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581748197",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "241B7QUPBEB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 241B7QUPBEB/00\nEAN: 8712581748197\nArtikelnummer: MQWYCGL",
+    "reference_file": "offer_reference_2359.json",
+    "shop_name": "mylemon.at"
+}

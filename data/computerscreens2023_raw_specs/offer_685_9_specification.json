@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_685_9.html",
+    "name": "HP V24i G5, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126697-monitor-hp-65p58e9-ips-full-hd-23-8-0196548194353.html",
+    "price": 147.3,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Bildschirm": "23,8\"",
+        "Gaming": "Kein",
+        "Ports": "1",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Technologie": "IPS",
+        "Touchscreen": "Kein"
+    },
+    "raw_specifications_text": "Art: Monitor\nTouchscreen: Kein\nTechnologie: IPS\nGaming: Kein\nBildschirm: 23,8\"\nPorts: 1\nSteckbares Produkt: Ja\nAufl\u00f6sung: Full HD\nSteckertyp: EU-Stecker",
+    "reference_file": "offer_reference_685.json",
+    "shop_name": "bauguru"
+}

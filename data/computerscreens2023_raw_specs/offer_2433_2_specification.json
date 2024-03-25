@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2433_2.html",
+    "name": "Philips S-line 243S7EHMB, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/243s7ehmb_00/243s7ehmb-24in-ips-led.html",
+    "price": 127.89,
+    "raw_specifications": {
+        "Artikelnummer": "MODYUBL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581744281",
+        "Ergonomie": "Pivot (90 Grad drehbar)",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "243S7EHMB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Pivot (90 Grad drehbar)\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher, USB HUB\nHersteller Artikelnummer: 243S7EHMB/00\nEAN: 8712581744281\nArtikelnummer: MODYUBL",
+    "reference_file": "offer_reference_2433.json",
+    "shop_name": "mylemon.at"
+}

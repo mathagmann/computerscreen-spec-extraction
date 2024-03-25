@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_694_10.html",
+    "name": "AOC 24P2QM, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126934-monitor-aoc-24p2qm-led-23-8-va-flicker-free-4038986140713.html",
+    "price": 152.7,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI 1.4",
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "23,8\"",
+        "Energieklassifizierung": "E",
+        "Farbe": "Schwarz",
+        "Frequenz": "50-60 Hz",
+        "Gaming": "Kein",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Leistung": "4 W",
+        "Merkmale": "Flachbildschirm",
+        "Ports": "1",
+        "Spannung": "100-240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein"
+    },
+    "raw_specifications_text": "Farbe: Schwarz\nAufl\u00f6sung: Full HD\nBildschirm: 23,8\"\nFrequenz: 50-60 Hz\nLeistung: 4 W\nSpannung: 100-240 V\nAnschl\u00fcsse: HDMI 1.4\nKompatibel: VESA 100 x 100 mm\nAufl\u00f6sung (px): 1920 x 1080 px\nTouchscreen: Kein\nPorts: 1\nGaming: Kein\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nMerkmale: Flachbildschirm\nArt: Monitor\nEnergieklassifizierung: E",
+    "reference_file": "offer_reference_694.json",
+    "shop_name": "bauguru"
+}

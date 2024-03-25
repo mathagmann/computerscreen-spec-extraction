@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1222_3.html",
+    "name": "Dell C1422H, 14\"",
+    "offer_link": "https://www.mylemon.at/artikel/dell/dell_c1422h/dis-14-c1422h-portable-monitor.html",
+    "price": 1312.89,
+    "raw_specifications": {
+        "Artikelnummer": "M17YCXVL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "14 Zoll",
+        "EAN": "5397184567746",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "DELL-C1422H",
+        "Panel": "IPS",
+        "Reaktionszeit": "6 ms",
+        "Video Anschl\u00fcsse": "USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 14 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 6 ms\nVideo Anschl\u00fcsse: USB-C DisplayPort\nErgonomie: Neigbar\nHelligkeit: 300 cd/m\u00b2\nHersteller Artikelnummer: DELL-C1422H\nEAN: 5397184567746\nArtikelnummer: M17YCXVL",
+    "reference_file": "offer_reference_1222.json",
+    "shop_name": "mylemon.at"
+}

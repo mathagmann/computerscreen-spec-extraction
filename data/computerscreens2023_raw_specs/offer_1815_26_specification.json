@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1815_26.html",
+    "name": "AOC C24G2AE/BK, 23.6\"",
+    "offer_link": "https://www.future-x.at/aoc-59-9-cm-236-c24g2ae-16-09-curved-black-flachbildschirm-tft-lcd-59-9-cm-59-94-23-6-schwarz-p-8638755/?pv=2",
+    "price": 172.6,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "23,6 \"",
+        "Bilddiagonale (cm)": "59,9 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Farbe": "Schwarz",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 59,9 cm\nBilddiagonale (Zoll): 23,6 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 1 ms\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nBildwiederholfrequenz (Hz): 165 Hz\nVideo-Schnittstellen: DisplayPort; HDMI; VGA\nFarbe: Schwarz",
+    "reference_file": "offer_reference_1815.json",
+    "shop_name": "Future-X.at"
+}

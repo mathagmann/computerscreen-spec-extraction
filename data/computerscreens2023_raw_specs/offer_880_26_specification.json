@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_880_26.html",
+    "name": "ASUS VA24EQSB, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm056f_b03170/eye-care-va24eqsb-60-5cm.html",
+    "price": 189.93,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYUK5L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4711081557265",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM056F-B03170",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 90LM056F-B03170\nEAN: 4711081557265\nArtikelnummer: M1LYUK5L",
+    "reference_file": "offer_reference_880.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_32_12.html",
+    "name": "MSI PRO MP271APDE, 27\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=30000000008569280&ano=T8569280&mno=9S6-3PA29T-070&ean=4711377097451&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 228.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "100 Hz",
+        "Energieeffizienzklasse": "E",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort; HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI; VGA\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 100 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: E",
+    "reference_file": "offer_reference_32.json",
+    "shop_name": "ElectronicShop24"
+}

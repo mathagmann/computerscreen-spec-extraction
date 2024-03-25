@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_604_7.html",
+    "name": "Philips S-line 242S9JAL, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/242s9jal_00/242s9jal-00-24-va-wled.html",
+    "price": 120.99,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYF1IL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "24 Zoll",
+        "EAN": "8712581796426",
+        "Hersteller Artikelnummer": "242S9JAL/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x DVI, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 24 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x HDMI, 1x DisplayPort\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 242S9JAL/00\nEAN: 8712581796426\nArtikelnummer: M1EYF1IL",
+    "reference_file": "offer_reference_604.json",
+    "shop_name": "mylemon.at"
+}

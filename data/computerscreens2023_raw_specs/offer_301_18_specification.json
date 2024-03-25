@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_301_18.html",
+    "name": "Philips Evnia 5000 25M2N5200P, 24.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/25m2n5200p_00/gaming-25m2n5200p-00.html",
+    "price": 339.48,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYE1EL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "240 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "24,5 Zoll",
+        "EAN": "8712581799601",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "25M2N5200P/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 24,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 240 Hz, USB HUB\nHersteller Artikelnummer: 25M2N5200P/00\nEAN: 8712581799601\nArtikelnummer: M1IYE1EL",
+    "reference_file": "offer_reference_301.json",
+    "shop_name": "mylemon.at"
+}

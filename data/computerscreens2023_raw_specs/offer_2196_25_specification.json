@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_2196_25.html",
+    "name": "Fujitsu B-Line B22-8 WE Neo, 21.5\"",
+    "offer_link": "https://technikladen.at/DISPLAY-B22-8-WE-Neo-22-EU?tl=gzhls",
+    "price": 274.04,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "55,9 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "170 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "WSXGA+",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:10",
+        "Produktfarbe": "Silber",
+        "Reaktionszeit": "5 ms",
+        "Seitenverh\u00e4ltnis": "16:10",
+        "USB-Hub-Version": "2.0",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 55,9 cm\nHD-Typ: WSXGA+\nBildschirmtechnologie: LED\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:10\nSeitenverh\u00e4ltnis: 16:10\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 170 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 2.0\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Silber",
+    "reference_file": "offer_reference_2196.json",
+    "shop_name": "TechnikLaden"
+}

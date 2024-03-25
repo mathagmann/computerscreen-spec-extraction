@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_237_11.html",
+    "name": "LG UltraWide 38BQ85C-W, 37.5\"",
+    "offer_link": "https://technikladen.at/P-38BQ85C-W-LG-Dis-38-LG-38BQ85C-W-38BQ85C-W-Displays-Projektoren?tl=gzhls",
+    "price": 1157.44,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 1600",
+        "Bilddiagonale (Zoll)": "38 \"",
+        "Bilddiagonale (cm)": "96,5 cm",
+        "Farbe": "Wei\u00df",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; RJ-45"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Wei\u00df\nBilddiagonale (cm): 96,5 cm\nBilddiagonale (Zoll): 38 \"\nAufl\u00f6sung: 3840 * 1600\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; RJ-45\nPC-Schnittstellen: USB Typ C",
+    "reference_file": "offer_reference_237.json",
+    "shop_name": "TechnikLaden"
+}

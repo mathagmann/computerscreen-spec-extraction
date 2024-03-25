@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1507_34.html",
+    "name": "Samsung T45F (2021), 27\"",
+    "offer_link": "https://www.future-x.at/samsung-27in-ips-1920x1080-250cd-m2-4-ms-flachbildschirm-tft-lcd-68-6-cm-1000%3A1-displayport-hdmi-usb-20-p-8784941/?pv=2",
+    "price": 158.5,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB 2.0",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI\nPC-Schnittstellen: USB 2.0\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_1507.json",
+    "shop_name": "Future-X.at"
+}

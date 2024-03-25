@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_354_31.html",
+    "name": "LG UltraWide 35WN75CP-B, 35\"",
+    "offer_link": "https://technikladen.at/P-35WN75CP-B-LG-35WN75CP-W-353440x1440WQHD-35WN75CP-B-Displays-Projektoren?tl=gzhls",
+    "price": 520.36,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3440 * 1440",
+        "Bilddiagonale (Zoll)": "35 \"",
+        "Bilddiagonale (cm)": "88,9 cm",
+        "Bildwiederholfrequenz (Hz)": "100 Hz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "2500:1",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 88,9 cm\nBilddiagonale (Zoll): 35 \"\nAufl\u00f6sung: 3440 * 1440\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 2500:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI\nPC-Schnittstellen: USB Typ C\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 100 Hz",
+    "reference_file": "offer_reference_354.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1239_1.html",
+    "name": "Monoprice Zero-G, 35\"",
+    "offer_link": "https://www.mylemon.at/artikel/monoprice/141751/zero-g-88-90-cm.html",
+    "price": 438.03,
+    "raw_specifications": {
+        "Artikelnummer": "M18YTSNL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "120 Hz, Curved",
+        "Displaygr\u00f6\u00dfe": "35 Zoll",
+        "EAN": "0889028159620",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "141751",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "75x75 mm",
+        "Video Anschl\u00fcsse": "3x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 35 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 3x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 75x75 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 120 Hz, Curved\nHersteller Artikelnummer: 141751\nEAN: 0889028159620\nArtikelnummer: M18YTSNL",
+    "reference_file": "offer_reference_1239.json",
+    "shop_name": "mylemon.at"
+}

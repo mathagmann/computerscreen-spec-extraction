@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_861_5.html",
+    "name": "LG UltraWide 34WQ65X-W, 34\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C16408",
+    "price": 340.03,
+    "raw_specifications": {
+        "Artikelnummer": "2C16408",
+        "Aufl\u00f6sung": "2560x1080 (21:9)",
+        "Bildschirmdiagonale/Zoll": "34 Zoll",
+        "Bildschirmdiagonale/cm": "86.4 cm",
+        "DVI": "0x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "2x",
+        "Helligkeit": "400 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 34 Zoll\nAufl\u00f6sung: 2560x1080 (21:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 400 cd/m2\nBildschirmdiagonale/cm: 86.4 cm\nTouch-Funktion: nein\nArtikelnummer: 2C16408\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_861.json",
+    "shop_name": "haym.infotec"
+}

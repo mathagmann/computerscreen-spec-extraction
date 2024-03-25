@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_837_8.html",
+    "name": "LG UltraGear 48GQ900-B, 47.5\"",
+    "offer_link": "https://www.alternate.at/LG/UltraGear-48GQ900-B-Gaming-Monitor/html/product/1862943?partner=AtGeizhalsat&campaign=Monitor/LG/1862943",
+    "price": 1019.0,
+    "raw_specifications": {
+        "": "AMD FreeSync, NVIDIA G-Sync kompatibel",
+        "Anschl\u00fcsse": "3x HDMI-Eingang, (HDMI-Version: 2.1), 1x DisplayPort-Eingang, (DisplayPort-Version: 1.4), 3x USB-A-3.2 Gen 1 (5 Gbit/s)",
+        "Bild": "Glaretyp",
+        "Bildschirmaufl\u00f6sung": "3.840 x 2.160 Pixel",
+        "Bildschirmdiagonale": "121 cm (48 Zoll)",
+        "EAN": "8806091661104",
+        "Energieeffizienzklasse (HDR)": "G (A - G)",
+        "Energieeffizienzklasse (SDR)": "F (A - G)",
+        "Energieverbauch pro 1000 Stunden (HDR)": "70 kWh",
+        "Energieverbauch pro 1000 Stunden (SDR)": "60 kWh",
+        "Farbe": "schwarz",
+        "Features": "Flicker Safe, Lesemodus,Black Stabilizer, Dynamic Action Sync, Fadenkreuz, OverClocking, Auto Input Switch, Sphere Lighting",
+        "Geeignet f\u00fcr": "Gaming",
+        "Gewicht": "16,8 kg",
+        "Hersteller-Nr.": "48GQ900-B.AEU",
+        "Lautsprecher": "2 Lautsprecher",
+        "Leistungsaufnahme im Bereitschafts- und Aus-Zustand": "0,5 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)": "60 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei hohem Dynamikumfang (HDR)": "69.4 Watt",
+        "Standards": "Video",
+        "Typ": "Gaming-Monitor",
+        "Zubeh\u00f6r": "Vorhanden"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse (SDR): F (A - G)\nEnergieverbauch pro 1000 Stunden (SDR): 60 kWh\nEnergieeffizienzklasse (HDR): G (A - G)\nEnergieverbauch pro 1000 Stunden (HDR): 70 kWh\nLeistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR): 60 Watt\nLeistungsaufnahme im Ein-Zustand bei hohem Dynamikumfang (HDR): 69.4 Watt\nLeistungsaufnahme im Bereitschafts- und Aus-Zustand: 0,5 Watt\nBildschirmdiagonale: 121 cm (48 Zoll)\nBildschirmaufl\u00f6sung: 3.840 x 2.160 Pixel\nTyp: Gaming-Monitor\nFarbe: schwarz\nEAN: 8806091661104\nHersteller-Nr.: 48GQ900-B.AEU\nGeeignet f\u00fcr: Gaming\nBild: Glaretyp\n: AMD FreeSync, NVIDIA G-Sync kompatibel\nAnschl\u00fcsse: 3x HDMI-Eingang, (HDMI-Version: 2.1), 1x DisplayPort-Eingang, (DisplayPort-Version: 1.4), 3x USB-A-3.2 Gen 1 (5 Gbit/s)\nLautsprecher: 2 Lautsprecher\nStandards: Video\nFeatures: Flicker Safe, Lesemodus,Black Stabilizer, Dynamic Action Sync, Fadenkreuz, OverClocking, Auto Input Switch, Sphere Lighting\nZubeh\u00f6r: Vorhanden\nGewicht: 16,8 kg",
+    "reference_file": "offer_reference_837.json",
+    "shop_name": "Alternate.at"
+}

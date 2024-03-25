@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_956_17.html",
+    "name": "ViewSonic VG2748a-2, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/viewsonic/vg2748a_2/vg2748a-2-68-6cm-27.html",
+    "price": 206.31,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYE86L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "60 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "0766907014709",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "VG2748a-2",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 60 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: VG2748a-2\nEAN: 0766907014709\nArtikelnummer: M1EYE86L",
+    "reference_file": "offer_reference_956.json",
+    "shop_name": "mylemon.at"
+}

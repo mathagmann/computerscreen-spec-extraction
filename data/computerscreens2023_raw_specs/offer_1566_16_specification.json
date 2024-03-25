@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1566_16.html",
+    "name": "ASUS ROG Strix XG27AQ, 27\"",
+    "offer_link": "https://technikladen.at/P-ASUS-ROG-Strix-XG27AQ-686-cm-27-Zoll-2560-x-1440-Pixel-LED-1-ms-Schwarz?tl=gzhls",
+    "price": 553.63,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "2560 x 1440 Pixel",
+        "Bildschirmdiagonale": "68,6 cm",
+        "Bildschirmtechnologie": "LED",
+        "Eingebaute Lautsprecher": "Ja",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm\nBildschirmaufl\u00f6sung: 2560 x 1440 Pixel\nBildschirmtechnologie: LED\nReaktionszeit: 1 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1566.json",
+    "shop_name": "TechnikLaden"
+}

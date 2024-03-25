@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_731_14.html",
+    "name": "iiyama ProLite XU2494HS-B2, 23.8\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C24733",
+    "price": 111.46,
+    "raw_specifications": {
+        "Artikelnummer": "2C24733",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.8 Zoll",
+        "Bildschirmdiagonale/cm": "60.5 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "Lautsprecher": "ja",
+        "Paneltyp": "VA",
+        "Reaktionszeit": "4 Millisekunden",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.8 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: VA\nEnergieeffizienzklasse: E\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 60.5 cm\nTouch-Funktion: nein\nArtikelnummer: 2C24733\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_731.json",
+    "shop_name": "haym.infotec"
+}

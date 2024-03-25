@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_99_22.html",
+    "name": "ASUS TUF Gaming VG249Q3A, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133921-monitor-asus-vg249q3a-27-led-ips-lcd-flicker-free-4711387172452.html",
+    "price": 233.0,
+    "raw_specifications": {
+        "Art": "Gaming",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "27\"",
+        "Empfohlene verwendung": "Gaming",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Gewicht": "3,5 kg",
+        "Glanz": "250 ANSI",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Leistung": "4 W",
+        "Montage": "VESA",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Stecker": "Kensington",
+        "Touchscreen": "Kein",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 27\"\nArt: Gaming\nAufl\u00f6sung (px): 1920 x 1080 px\nSeitenverh\u00e4ltnis: 16:9\nGewicht: 3,5 kg\nAufl\u00f6sung: Full HD\nKontrastverh\u00e4ltnis: 1000:1\nGlanz: 250 ANSI\nEmpfohlene verwendung: Gaming\nLeistung: 4 W\nTouchscreen: Kein\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nStecker: Kensington\nMontage: VESA",
+    "reference_file": "offer_reference_99.json",
+    "shop_name": "bauguru"
+}

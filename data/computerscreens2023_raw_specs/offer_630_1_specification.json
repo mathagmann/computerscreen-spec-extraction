@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_630_1.html",
+    "name": "AG neovo LA-27, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/ag_neovo/la27a011e0100/ag-neovo-la-27-68.html",
+    "price": 313.2,
+    "raw_specifications": {
+        "Artikelnummer": "M16Y429L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4710739595758",
+        "Hersteller Artikelnummer": "LA27A011E0100",
+        "Panel": "TN",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: TN\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI\nHersteller Artikelnummer: LA27A011E0100\nEAN: 4710739595758\nArtikelnummer: M16Y429L",
+    "reference_file": "offer_reference_630.json",
+    "shop_name": "mylemon.at"
+}

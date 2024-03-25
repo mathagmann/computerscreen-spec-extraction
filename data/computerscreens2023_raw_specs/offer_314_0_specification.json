@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_314_0.html",
+    "name": "LG UltraWide 34WP65CP-B, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/lg/34wp65cp_b/monitor-lcd-34-va-34wp65cp.html",
+    "price": 345.54,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYTMRL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "160 Hz",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "8806091970589",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Hersteller Artikelnummer": "34WP65CP-B",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nBesonderheiten: 160 Hz\nHersteller Artikelnummer: 34WP65CP-B\nEAN: 8806091970589\nArtikelnummer: M1IYTMRL",
+    "reference_file": "offer_reference_314.json",
+    "shop_name": "mylemon.at"
+}

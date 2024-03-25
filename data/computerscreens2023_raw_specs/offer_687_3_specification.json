@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_687_3.html",
+    "name": "Cooler Master Tempest GP27Q, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/coolermaster/cmi_gp27_fqs_ek/27-l-gp27-fqs.html",
+    "price": 620.55,
+    "raw_specifications": {
+        "Artikelnummer": "M1CYZIQL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719512126899",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "600 cd/m\u00b2",
+        "Hersteller Artikelnummer": "CMI-GP27-FQS-EK",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 600 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: CMI-GP27-FQS-EK\nEAN: 4719512126899\nArtikelnummer: M1CYZIQL",
+    "reference_file": "offer_reference_687.json",
+    "shop_name": "mylemon.at"
+}

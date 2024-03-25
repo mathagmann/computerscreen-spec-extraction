@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_203_1.html",
+    "name": "Samsung ViewFinity S7 S70A (2023), 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/samsung/ls32a706nwpxen/viewfinity-s7-s32a706nwp-sk-rm.html",
+    "price": 290.2,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYWB3L",
+        "Aufl\u00f6sung": "3840x2160",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8806094781069",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "LS32A706NWPXEN",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nHersteller Artikelnummer: LS32A706NWPXEN\nEAN: 8806094781069\nArtikelnummer: M1LYWB3L",
+    "reference_file": "offer_reference_203.json",
+    "shop_name": "mylemon.at"
+}

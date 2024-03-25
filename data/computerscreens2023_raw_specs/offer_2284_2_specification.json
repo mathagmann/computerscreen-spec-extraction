@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2284_2.html",
+    "name": "Eizo FlexScan EV2430 schwarz, 24.1\"",
+    "offer_link": "https://haym.info/produktdetails?id=8C25700",
+    "price": 309.02,
+    "raw_specifications": {
+        "Artikelnummer": "8C25700",
+        "Aufl\u00f6sung": "1920x1200 (16:10)",
+        "Bildschirmdiagonale/Zoll": "24.1 Zoll",
+        "Bildschirmdiagonale/cm": "61.2 cm",
+        "DVI": "1x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "0x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "60 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "14 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 24.1 Zoll\nAufl\u00f6sung: 1920x1200 (16:10)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 1x\nDisplayPort: 1x\nHDMI: 0x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 14 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 61.2 cm\nTouch-Funktion: nein\nArtikelnummer: 8C25700\nHerstellergarantie: 60 Monate",
+    "reference_file": "offer_reference_2284.json",
+    "shop_name": "haym.infotec"
+}

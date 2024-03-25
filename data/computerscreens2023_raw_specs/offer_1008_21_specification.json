@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1008_21.html",
+    "name": "Dell P2423D, 23.8\"",
+    "offer_link": "https://www.hiq24.de/shop/artikel/322767/?sPartner=geizhals",
+    "price": 245.9,
+    "raw_specifications": {
+        "Entwickelt f\u00fcr": "Alienware Area-51 R4, Area-51 R7, Aurora R7, M15 R2, M17 R2; G3; G7; Inspiron 13 7353, 13 7390, 15, 15 7590, 3277, 3477, 5490, 7386 2-in-1, 7586 2-in-1, 7777; Latitude 3490, 5285 2-in-1, 5289 2-In-1, 5290, 5310, 5401, 5420, 5421, 5424, 5480, 5490, 5501, 5520, 5521, 5590, 7290, 7389 2-in-1, 7390, 7424, 7490, E5470; OptiPlex 3050, 3060, 3070, 5040, 5055, 5070, 5270, 5480, 5490, 7040, 7070, 7080, 7090, 7470, 7490, 7770, XE3; Precision 3430, 3541, 3630, 5540, 7540, 7560, 7740, 7760; Precision Rack 7910; Precision Tower 3420, 3620, 7910; Vostro 7590; XPS 15 7590, 27 7760",
+        "Formfaktor": "M.2 2280",
+        "Ger\u00e4tetyp": "Solid State Drive - intern",
+        "Kapazit\u00e4t": "1 TB",
+        "Kompatibles Schaltfeld": "M.2 2280",
+        "Merkmale": "NVM Express (NVMe), Class 40",
+        "Produktbeschreibung": "Dell - SSD - 1 TB - PCIe",
+        "Schnittstelle": "PCIe",
+        "Schnittstellen": "1 x PCI Express - M.2 Card",
+        "Typ": "Solid State Drive - intern"
+    },
+    "raw_specifications_text": "Ger\u00e4tetyp: Solid State Drive - intern\nKapazit\u00e4t: 1 TB\nFormfaktor: M.2 2280\nSchnittstelle: PCIe\nMerkmale: NVM Express (NVMe), Class 40\nSchnittstellen: 1 x PCI Express - M.2 Card\nKompatibles Schaltfeld: M.2 2280\nEntwickelt f\u00fcr: Alienware Area-51 R4, Area-51 R7, Aurora R7, M15 R2, M17 R2; G3; G7; Inspiron 13 7353, 13 7390, 15, 15 7590, 3277, 3477, 5490, 7386 2-in-1, 7586 2-in-1, 7777; Latitude 3490, 5285 2-in-1, 5289 2-In-1, 5290, 5310, 5401, 5420, 5421, 5424, 5480, 5490, 5501, 5520, 5521, 5590, 7290, 7389 2-in-1, 7390, 7424, 7490, E5470; OptiPlex 3050, 3060, 3070, 5040, 5055, 5070, 5270, 5480, 5490, 7040, 7070, 7080, 7090, 7470, 7490, 7770, XE3; Precision 3430, 3541, 3630, 5540, 7540, 7560, 7740, 7760; Precision Rack 7910; Precision Tower 3420, 3620, 7910; Vostro 7590; XPS 15 7590, 27 7760\nProduktbeschreibung: Dell - SSD - 1 TB - PCIe\nTyp: Solid State Drive - intern",
+    "reference_file": "offer_reference_1008.json",
+    "shop_name": "HiQ24"
+}

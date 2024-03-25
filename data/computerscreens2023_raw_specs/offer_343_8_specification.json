@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_343_8.html",
+    "name": "LG 27BQ65UB-B, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/lg/27bq65ub_b_aeu/27bq65ub-b-aeu-68-47cm.html",
+    "price": 373.83,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYT7VL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "60 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8806084178510",
+        "Ergonomie": "H\u00f6henverstellbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "27BQ65UB-B.AEU",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 60 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 27BQ65UB-B.AEU\nEAN: 8806084178510\nArtikelnummer: M1IYT7VL",
+    "reference_file": "offer_reference_343.json",
+    "shop_name": "mylemon.at"
+}

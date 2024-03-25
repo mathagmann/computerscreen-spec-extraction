@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_114_6.html",
+    "name": "Acer Nitro VG1 VG271UM3bmiipx, 27\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/27617232?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 251.09,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "DisplayPort, HDMI, Audioausgang (Line-Out)",
+        "Bildwiederholungsrate": "165,00 Hz",
+        "Displaygr\u00f6\u00dfe": "68,58 cm (27 Zoll)",
+        "Energieeffizienzklasse": "F",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "5,50 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "1,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "2.560 x 1.440 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 68,58 cm (27 Zoll)\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nGewicht: 5,50 kg\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nAnschl\u00fcsse: DisplayPort, HDMI, Audioausgang (Line-Out)\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nFiltergruppennummer: Monitore\nmax. Aufl\u00f6sung: 2.560 x 1.440 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 1,00 ms\nBildwiederholungsrate: 165,00 Hz\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_114.json",
+    "shop_name": "playox (AT)"
+}

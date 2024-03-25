@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2192_5.html",
+    "name": "Philips P-line 499P9H, 48.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/499p9h_00/499p9h-00-124-5cm-49zoll.html",
+    "price": 1058.15,
+    "raw_specifications": {
+        "Artikelnummer": "MVNYU8L",
+        "Aufl\u00f6sung": "5120x1440",
+        "Displaygr\u00f6\u00dfe": "48,8 Zoll",
+        "EAN": "8712581753719",
+        "Helligkeit": "450 cd/m\u00b2",
+        "Hersteller Artikelnummer": "499P9H/00",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 48,8 Zoll\nAufl\u00f6sung: 5120x1440\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 450 cd/m\u00b2\nHersteller Artikelnummer: 499P9H/00\nEAN: 8712581753719\nArtikelnummer: MVNYU8L",
+    "reference_file": "offer_reference_2192.json",
+    "shop_name": "mylemon.at"
+}

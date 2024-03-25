@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1179_22.html",
+    "name": "Dell S2422HZ, 23.8\"",
+    "offer_link": "https://www.future-x.at/dell-tft-s2422hz-238in-ips-white-flachbildschirm-tft-lcd-60-47-cm-4-ms-hdmi-usb-typ-c-p-8951473/?pv=2",
+    "price": 250.69,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "60,47 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Wei\u00df",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Wei\u00df\nBilddiagonale (cm): 60,47 cm\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_1179.json",
+    "shop_name": "Future-X.at"
+}

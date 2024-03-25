@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1932_24.html",
+    "name": "AOC 24P2Q, 23.8\"",
+    "offer_link": "https://www.future-x.at/aoc-60-5-cm-238-16-09-dvi%2Bhdmi%2Bdp%2Busb-black-flachbildschirm-tft-lcd-60-5-cm-4-ms-ips-dvi-hdmi-vga-eingang-p-8459518/?pv=2",
+    "price": 183.19,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Farbe": "Schwarz",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video Ein- und Ausg\u00e4nge": "VGA-Eingang",
+        "Video-Schnittstellen": "DVI; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nPaneltyp: IPS\nVideo-Schnittstellen: DVI; HDMI\nVideo Ein- und Ausg\u00e4nge: VGA-Eingang\nFarbe: Schwarz",
+    "reference_file": "offer_reference_1932.json",
+    "shop_name": "Future-X.at"
+}

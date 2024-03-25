@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_333_24.html",
+    "name": "iiyama ProLite XUB2493QSU-B5, 23.8\"",
+    "offer_link": "https://technikladen.at/P-XUB2493QSU-B5-Iiyama-24W-LCD-Business-WQHD-IPS-Flachbildschirm-TFT-LCD-24-XUB2493QSU-B5-Displays-Projektoren?tl=gzhls",
+    "price": 227.55,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Energieeffizienzklasse": "D",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Pivot": "90 \u00b0",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nPaneltyp: IPS\nPivot: 90 \u00b0\nVideo-Schnittstellen: HDMI\nLautsprecher: Ja\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: D",
+    "reference_file": "offer_reference_333.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,15 @@
+{
+    "html_file": "offer_1746_25.html",
+    "name": "ASUS ROG Strix XG32VC, 31.5\"",
+    "offer_link": "https://www.future-x.at/asus-xg32vc-32in-wled-va-2560x1440-flachbildschirm-tft-lcd-hdmi-p-8690448/?pv=2",
+    "price": 564.59,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nVideo-Schnittstellen: HDMI",
+    "reference_file": "offer_reference_1746.json",
+    "shop_name": "Future-X.at"
+}

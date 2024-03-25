@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_419_1.html",
+    "name": "Wortmann Terra LED 2775W PV, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/wortmann/3030218/terra-lcd-led-2775w-pv.html",
+    "price": 365.43,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYHMDL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "60 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4039407076611",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "3030218",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 60 Hz, Lautsprecher\nHersteller Artikelnummer: 3030218\nEAN: 4039407076611\nArtikelnummer: M1LYHMDL",
+    "reference_file": "offer_reference_419.json",
+    "shop_name": "mylemon.at"
+}

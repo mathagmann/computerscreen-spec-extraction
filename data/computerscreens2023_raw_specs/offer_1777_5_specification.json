@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1777_5.html",
+    "name": "MSI Optix G32CQ4, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/g32cq4_e2/monitor-g32cq4-e2-31-5.html",
+    "price": 368.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYS8TL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719072962838",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "G32CQ4 E2",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: G32CQ4 E2\nEAN: 4719072962838\nArtikelnummer: M1IYS8TL",
+    "reference_file": "offer_reference_1777.json",
+    "shop_name": "mylemon.at"
+}

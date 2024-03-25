@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_761_18.html",
+    "name": "AOC Agon AG275QX, 27\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=140000000377801733&ano=R377801733&mno=AG275QX%2FEU&ean=4038986180474&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 361.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "170 Hz",
+        "Farbe": "Rot",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB 3.0",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Rot\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI\nPC-Schnittstellen: USB 3.0\nBildwiederholfrequenz (Hz): 170 Hz\nVerstellbarkeit: H\u00f6henverstellbar",
+    "reference_file": "offer_reference_761.json",
+    "shop_name": "ElectronicShop24"
+}

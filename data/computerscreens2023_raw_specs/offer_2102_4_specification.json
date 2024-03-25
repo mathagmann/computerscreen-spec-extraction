@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2102_4.html",
+    "name": "Philips V-line 272V8A, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/272v8a_00/272v8a-69-cm-27-zoll.html",
+    "price": 146.58,
+    "raw_specifications": {
+        "Artikelnummer": "MZMYNVL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581759827",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "272V8A/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: 272V8A/00\nEAN: 8712581759827\nArtikelnummer: MZMYNVL",
+    "reference_file": "offer_reference_2102.json",
+    "shop_name": "mylemon.at"
+}

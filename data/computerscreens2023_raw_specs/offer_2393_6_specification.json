@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2393_6.html",
+    "name": "ASUS VZ239HE, 23\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm0333_b01670/23-8-vz239he-75hz-inkl.html",
+    "price": 152.79,
+    "raw_specifications": {
+        "Artikelnummer": "M18YNL5L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23 Zoll",
+        "EAN": "4712900688726",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM0333-B01670",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 90LM0333-B01670\nEAN: 4712900688726\nArtikelnummer: M18YNL5L",
+    "reference_file": "offer_reference_2393.json",
+    "shop_name": "mylemon.at"
+}

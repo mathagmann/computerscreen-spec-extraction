@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2388_1.html",
+    "name": "AG neovo X-22E, 21.5\" wei\u00df",
+    "offer_link": "https://www.mylemon.at/artikel/ag_neovo/x22e00a1e0100/y-neovo-lcd-led-x.html",
+    "price": 680.34,
+    "raw_specifications": {
+        "Artikelnummer": "MP6YNYL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "21,5 Zoll",
+        "EAN": "4710739593785",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "X22E00A1E0100",
+        "Panel": "TN",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 21,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: TN\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: X22E00A1E0100\nEAN: 4710739593785\nArtikelnummer: MP6YNYL",
+    "reference_file": "offer_reference_2388.json",
+    "shop_name": "mylemon.at"
+}

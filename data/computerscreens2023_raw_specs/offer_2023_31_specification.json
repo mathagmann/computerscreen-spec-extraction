@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2023_31.html",
+    "name": "HP P24h G4, 23.8\"",
+    "offer_link": "https://technikladen.at/I-7VH44AAABB-HP-P24h-G4-605-cm-238-Zoll-1920-x-1080-Pixel-Full-HD-IPS-14-ms-Schwarz-7VH44AAABB-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+    "price": 161.29,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "IPS",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "H\u00f6henverstellung": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "14 ms"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: IPS\nReaktionszeit: 14 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_2023.json",
+    "shop_name": "TechnikLaden"
+}

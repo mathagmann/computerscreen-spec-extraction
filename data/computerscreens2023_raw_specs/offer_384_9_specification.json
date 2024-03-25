@@ -1,0 +1,31 @@
+{
+    "html_file": "offer_384_9.html",
+    "name": "ASUS ZenScreen MB16AHG, 15.6\"",
+    "offer_link": "https://www.alternate.at/ASUS/ZenScreen-MB16AHG-LED-Monitor/html/product/1907002?partner=AtGeizhalsat&campaign=Monitor/ASUS/1907002",
+    "price": 333.0,
+    "raw_specifications": {
+        "": "AMD FreeSync",
+        "Abmessungen": "Breite: 360 mm x H\u00f6he: 227 mm x Tiefe/L\u00e4nge: 12 mm",
+        "Anschl\u00fcsse": "1x Mini-HDMI-Eingang, 2x USB-C",
+        "Bild": "Format",
+        "Bildschirmaufl\u00f6sung": "1.920 x 1.080 Pixel",
+        "Bildschirmdiagonale": "40 cm (16 Zoll)",
+        "EAN": "4711387005798",
+        "Energieeffizienzklasse (SDR)": "E (A - G)",
+        "Energieverbauch pro 1000 Stunden (SDR)": "10 kWh",
+        "Ergonomie": "Neigbar",
+        "Farbe": "schwarz",
+        "Features": "Flimmerfreie Technologie, Low-Blue-Light-Technologie, Spiel-Modus",
+        "Frequenz": "Vertikal",
+        "Gewicht": "920 Gramm",
+        "Hersteller-Nr.": "90LM08U0-B01170",
+        "Leistungsaufnahme im Bereitschafts- und Aus-Zustand": "0,3 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)": "10 Watt",
+        "Standards": "Video",
+        "Stromversorgung": "Eco-Off",
+        "Typ": "LED-Monitor"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse (SDR): E (A - G)\nEnergieverbauch pro 1000 Stunden (SDR): 10 kWh\nLeistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR): 10 Watt\nLeistungsaufnahme im Bereitschafts- und Aus-Zustand: 0,3 Watt\nBildschirmdiagonale: 40 cm (16 Zoll)\nBildschirmaufl\u00f6sung: 1.920 x 1.080 Pixel\nTyp: LED-Monitor\nFarbe: schwarz\nEAN: 4711387005798\nHersteller-Nr.: 90LM08U0-B01170\nBild: Format\n: AMD FreeSync\nFrequenz: Vertikal\nAnschl\u00fcsse: 1x Mini-HDMI-Eingang, 2x USB-C\nErgonomie: Neigbar\nStromversorgung: Eco-Off\nStandards: Video\nFeatures: Flimmerfreie Technologie, Low-Blue-Light-Technologie, Spiel-Modus\nAbmessungen: Breite: 360 mm x H\u00f6he: 227 mm x Tiefe/L\u00e4nge: 12 mm\nGewicht: 920 Gramm",
+    "reference_file": "offer_reference_384.json",
+    "shop_name": "Alternate.at"
+}

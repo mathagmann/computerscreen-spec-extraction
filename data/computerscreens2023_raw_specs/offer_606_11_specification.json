@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_606_11.html",
+    "name": "Acer CB2 CB322QKsemipruzx, 31.5\"",
+    "offer_link": "https://technikladen.at/P-UMJB2EE006-Acer-CB322QK-80-cm-315-Zoll-3840-x-2160-Pixel-4K-Ultra-HD-LED-4-ms-Silber-UMJB2EE006-Displays-Projektoren?tl=gzhls",
+    "price": 553.54,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "80 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "3840 x 2160 Pixel",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "4K Ultra HD",
+        "H\u00f6henverstellung": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Silber",
+        "Reaktionszeit": "4 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 80 cm\nDisplay-Aufl\u00f6sung: 3840 x 2160 Pixel\nHD-Typ: 4K Ultra HD\nBildschirmtechnologie: LED\nReaktionszeit: 4 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Silber",
+    "reference_file": "offer_reference_606.json",
+    "shop_name": "TechnikLaden"
+}

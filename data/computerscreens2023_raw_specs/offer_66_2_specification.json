@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_66_2.html",
+    "name": "ASUS ROG Swift PG27UQR, 27\"",
+    "offer_link": "https://www.ba-computer.at/asus-pg27uqr-27in-3840x2160-16-9-90lm03a0-b02370.html",
+    "price": 1018.98,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Aufl\u00f6sungsstandard": "UHD (3840x2160)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "160 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "600 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 3840 * 2160\nAufl\u00f6sungsstandard: UHD (3840x2160)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 600 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 160 Hz\nVerstellbarkeit: H\u00f6henverstellbar",
+    "reference_file": "offer_reference_66.json",
+    "shop_name": "BA-Computer"
+}

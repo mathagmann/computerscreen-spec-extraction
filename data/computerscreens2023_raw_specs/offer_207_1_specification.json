@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_207_1.html",
+    "name": "MSI G322C, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/g322c/monitor-g322c.html",
+    "price": 380.17,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYZ3HL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "170 Hz",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719072937911",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "G322C",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 170 Hz\nHersteller Artikelnummer: G322C\nEAN: 4719072937911\nArtikelnummer: M1LYZ3HL",
+    "reference_file": "offer_reference_207.json",
+    "shop_name": "mylemon.at"
+}

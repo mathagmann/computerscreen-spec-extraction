@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2412_32.html",
+    "name": "Philips V-line 243V7QDAB, 23.8\"",
+    "offer_link": "https://technikladen.at/I-Philips-V-Line-Full-HD-LCD-Monitor-243V7QDAB/00-605-cm-238-Zoll-1920-x-1080-Pixel-Full-HD-LED-4-ms-Schwarz?tl=gzhls",
+    "price": 128.53,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "4 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LED\nReaktionszeit: 4 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_2412.json",
+    "shop_name": "TechnikLaden"
+}

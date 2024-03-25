@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_1092_13.html",
+    "name": "Lenovo G24e-20, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125428-monitor-lenovo-g24e-20-120hz-24-0195891416020.html",
+    "price": 208.8,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "F",
+        "Frequenz": "50 - 60 Hz",
+        "Geschwindigkeit": "120 Hz",
+        "Glanz": "300 lm ANSI",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 22\u00ba",
+        "Ports": "Audio-Ausgang",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Aufl\u00f6sung: Full HD\nEnergieklassifizierung: F\nAufl\u00f6sung (px): 1920 x 1080 px\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 3000:1\nPorts: Audio-Ausgang\nVerbindung: DisplayPort 1.2\nFrequenz: 50 - 60 Hz\nSpannung: 100 - 240 V\nEmpfohlene verwendung: Gaming\nGlanz: 300 lm ANSI\nWinkel: 178\u00ba\nGeschwindigkeit: 120 Hz\nMontage: VESA\nNeigungswinkel: -5\u00ba / 22\u00ba\nKompatibel: VESA 100 x 100 mm",
+    "reference_file": "offer_reference_1092.json",
+    "shop_name": "bauguru"
+}

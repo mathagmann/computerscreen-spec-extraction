@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1988_8.html",
+    "name": "Philips P-line 346P1CRH, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/346p1crh_00/346p1crh-00-va-technologie-3440x1440.html",
+    "price": 629.99,
+    "raw_specifications": {
+        "Artikelnummer": "M11Y2C0L",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "Curved, LAN, Lautsprecher, Lichtsensor, Webcam",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "8712581762193",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Hersteller Artikelnummer": "346P1CRH/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, 4x USB, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, 4x USB, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nBesonderheiten: Curved, LAN, Lautsprecher, Lichtsensor, Webcam\nHersteller Artikelnummer: 346P1CRH/00\nEAN: 8712581762193\nArtikelnummer: M11Y2C0L",
+    "reference_file": "offer_reference_1988.json",
+    "shop_name": "mylemon.at"
+}

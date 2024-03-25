@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1289_1.html",
+    "name": "Lenovo L27e-30, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126124-monitor-lenovo-l27e-30-27-fhd-led-0195348325486.html",
+    "price": 178.6,
+    "raw_specifications": {
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Empfohlene verwendung": "Gaming",
+        "Farbe": "Schwarz",
+        "Glanz": "250 ANSI",
+        "Hinterleuchtet": "W-LED",
+        "Klinge": "6",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "L\u00e4nge des Kabels": "1,8 m",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 22\u00ba",
+        "Pixel-Dichte (dpi)": "82 dpi",
+        "Ports": "Audio-Ausgang",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Standard": "NTSC",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Klinge: 6\nFarbe: Schwarz\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nPixel-Dichte (dpi): 82 dpi\nDiagonale des Bildschirms (cm): 68,6 cm\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nStandard: NTSC\nPorts: Audio-Ausgang\nL\u00e4nge des Kabels: 1,8 m\nGlanz: 250 ANSI\nSpannung: 100 - 240 V\nEmpfohlene verwendung: Gaming\nWinkel: 178\u00ba\nHinterleuchtet: W-LED\nMontage: VESA\nNeigungswinkel: -5\u00ba / 22\u00ba\nKompatibel: VESA 100 x 100 mm",
+    "reference_file": "offer_reference_1289.json",
+    "shop_name": "bauguru"
+}

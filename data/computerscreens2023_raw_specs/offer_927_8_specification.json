@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_927_8.html",
+    "name": "LG DualUp 28MQ780-B, 27.6\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C14781",
+    "price": 562.61,
+    "raw_specifications": {
+        "Artikelnummer": "2C14781",
+        "Aufl\u00f6sung": "2560x2880 (16:18)",
+        "Bildschirmdiagonale/Zoll": "27.6 Zoll",
+        "Bildschirmdiagonale/cm": "70.1 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 27.6 Zoll\nAufl\u00f6sung: 2560x2880 (16:18)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 70.1 cm\nTouch-Funktion: nein\nArtikelnummer: 2C14781\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_927.json",
+    "shop_name": "haym.infotec"
+}

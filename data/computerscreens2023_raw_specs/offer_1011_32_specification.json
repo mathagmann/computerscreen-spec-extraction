@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1011_32.html",
+    "name": "Dell P2723DE, 27\"",
+    "offer_link": "https://technikladen.at/P-Dell-27-AVEC-HUB-USB-C-P2723DE?tl=gzhls",
+    "price": 355.8,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "2560 x 1440 Pixel",
+        "Bildschirmdiagonale": "68,6 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "HD-Typ": "Quad HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Black, Silver",
+        "Reaktionszeit": "5 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm\nBildschirmaufl\u00f6sung: 2560 x 1440 Pixel\nHD-Typ: Quad HD\nBildschirmtechnologie: LCD\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nIntegrierter USB-Hub: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Black, Silver",
+    "reference_file": "offer_reference_1011.json",
+    "shop_name": "TechnikLaden"
+}

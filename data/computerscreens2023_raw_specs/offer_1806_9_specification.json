@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1806_9.html",
+    "name": "Philips E-line 345E2AE, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/345e2ae_00/345e2ae-00-34-ips-3440x1440.html",
+    "price": 363.67,
+    "raw_specifications": {
+        "Artikelnummer": "M12Y5JKL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "75 Hz, AMD FreeSync, Picture-in-Picture",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "8712581767587",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "345E2AE/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, AMD FreeSync, Picture-in-Picture\nHersteller Artikelnummer: 345E2AE/00\nEAN: 8712581767587\nArtikelnummer: M12Y5JKL",
+    "reference_file": "offer_reference_1806.json",
+    "shop_name": "mylemon.at"
+}

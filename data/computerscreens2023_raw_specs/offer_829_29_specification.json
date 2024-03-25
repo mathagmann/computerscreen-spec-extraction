@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_829_29.html",
+    "name": "LG 24BP450S-B, 23.8\"",
+    "offer_link": "https://technikladen.at/P-LG-24BP450S-B/24-IPS-FHD-169blk-Flachbildschirm-TFT/LCD-24?tl=gzhls",
+    "price": 126.49,
+    "raw_specifications": {
+        "Abmessungen": "539,9 x 506 x 249,5 mm",
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "90 \u00b0",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Energieeffizienzklasse": "F",
+        "Farbe": "Schwarz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Pivot": "90 \u00b0",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort; HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 90 \u00b0\nPaneltyp: IPS\nPivot: 90 \u00b0\nVideo-Schnittstellen: DisplayPort; HDMI; VGA\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: F\nAbmessungen: 539,9 x 506 x 249,5 mm",
+    "reference_file": "offer_reference_829.json",
+    "shop_name": "TechnikLaden"
+}

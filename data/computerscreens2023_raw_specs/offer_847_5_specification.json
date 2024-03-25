@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_847_5.html",
+    "name": "Philips 3000 Series 16B1P3302, 15.6\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/16b1p3302_00/16b1p3302-15-6-1920x1080-ips.html",
+    "price": 273.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYO17L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "15,6 Zoll",
+        "EAN": "871258178880",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "16B1P3302/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 15,6 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: USB-C DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: 16B1P3302/00\nEAN: 871258178880\nArtikelnummer: M1EYO17L",
+    "reference_file": "offer_reference_847.json",
+    "shop_name": "mylemon.at"
+}

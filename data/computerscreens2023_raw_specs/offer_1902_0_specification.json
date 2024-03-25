@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1902_0.html",
+    "name": "Hikvision Pro Series 4K DS-D5027UC, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/hikvision/ds_5027uc/ds-5027uc.html",
+    "price": 508.49,
+    "raw_specifications": {
+        "Artikelnummer": "M11YHINL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "6941264049760",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "DS-5027UC",
+        "Reaktionszeit": "14 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 3840x2160\nReaktionszeit: 14 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nHersteller Artikelnummer: DS-5027UC\nEAN: 6941264049760\nArtikelnummer: M11YHINL",
+    "reference_file": "offer_reference_1902.json",
+    "shop_name": "mylemon.at"
+}

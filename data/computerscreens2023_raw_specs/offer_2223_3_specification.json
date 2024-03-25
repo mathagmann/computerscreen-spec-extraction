@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2223_3.html",
+    "name": "Philips B-line 241B8QJEB, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/241b8qjeb_00/241b8qjeb-00-60-96cm-24zoll.html",
+    "price": 180.06,
+    "raw_specifications": {
+        "Artikelnummer": "MV2YCZL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "AMD FreeSync",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581756413",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "241B8QJEB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: AMD FreeSync\nHersteller Artikelnummer: 241B8QJEB/00\nEAN: 8712581756413\nArtikelnummer: MV2YCZL",
+    "reference_file": "offer_reference_2223.json",
+    "shop_name": "mylemon.at"
+}

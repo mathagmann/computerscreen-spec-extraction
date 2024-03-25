@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_256_19.html",
+    "name": "HP Omen 27 (2023), 27\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000000311287780&ano=A-H311287780&mno=780F9AA%23ABB&ean=197029614865&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 235.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA (1280x800); XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Farbe": "Schwarz",
+        "Gewicht": "8,08 kg",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kennzeichnung": "CB; CE; CSA; FCC; T\u00dcV / GS",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: CB; CE; CSA; FCC; T\u00dcV / GS\nFarbe: Schwarz\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA (1280x800); XGA (1024x768)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 350 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI\nBildwiederholfrequenz (Hz): 165 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nGewicht: 8,08 kg",
+    "reference_file": "offer_reference_256.json",
+    "shop_name": "ElectronicShop24"
+}

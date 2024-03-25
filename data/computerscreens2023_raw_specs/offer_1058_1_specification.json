@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1058_1.html",
+    "name": "Wortmann Terra LED 2748W PV, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/wortmann/3030194/terra-lcd-led-2748w-v2.html",
+    "price": 149.61,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYC10L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4039407070206",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "3030194",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nHersteller Artikelnummer: 3030194\nEAN: 4039407070206\nArtikelnummer: M1IYC10L",
+    "reference_file": "offer_reference_1058.json",
+    "shop_name": "mylemon.at"
+}

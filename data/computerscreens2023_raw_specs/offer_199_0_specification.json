@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_199_0.html",
+    "name": "Acer KA2 KA272Ebi, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/acer/um_hx2ee_e13/ka272ebi-full-hd-monitor-ips.html",
+    "price": 121.99,
+    "raw_specifications": {
+        "Artikelnummer": "M1JYT9KL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "100 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4711121479427",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "UM.HX2EE.E13",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 100 Hz\nHersteller Artikelnummer: UM.HX2EE.E13\nEAN: 4711121479427\nArtikelnummer: M1JYT9KL",
+    "reference_file": "offer_reference_199.json",
+    "shop_name": "mylemon.at"
+}

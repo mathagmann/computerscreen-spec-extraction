@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_282_9.html",
+    "name": "LG 27BN65QP-B, 27\"",
+    "offer_link": "https://technikladen.at/LG-27BN65QP-B/27/IPS/2560-x-1440/16-9/schwarz-grau-Flachbildschirm-TFT/LCD-27-5-ms-10001-IPS-HDMI-USB-Typ-C?tl=gzhls",
+    "price": 257.43,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz; Grau",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz; Grau\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 350 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_282.json",
+    "shop_name": "TechnikLaden"
+}

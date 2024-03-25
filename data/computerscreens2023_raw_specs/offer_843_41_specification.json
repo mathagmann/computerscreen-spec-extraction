@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_843_41.html",
+    "name": "ASUS ROG Strix XG32UQ, 32\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126609-monitor-asus-90lm08b0-b01170-32-led-ips-lcd-flicker-free-nvidia-g-sync-50-60-hz-4711081848028.html",
+    "price": 1281.6,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "4K Ultra HD",
+        "Bildschirm": "32\"",
+        "Chipsatz": "NVIDIA",
+        "Diagonale des Bildschirms (cm)": "81,3 cm",
+        "Dreh": "-20\u00ba / 20\u00b0",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "F",
+        "Farbe": "Schwarz",
+        "Farben": "96",
+        "Frequenz": "50 - 60 Hz",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Kopfh\u00f6rer": "3,5 mm",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 20\u00ba",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "Verbindung": "DisplayPort 1.4",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 32\"\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 81,3 cm\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: F\nKontrastverh\u00e4ltnis: 1000:1\nKopfh\u00f6rer: 3,5 mm\nFrequenz: 50 - 60 Hz\nAufl\u00f6sung: 4K Ultra HD\nSpannung: 100 - 240 V\nEmpfohlene verwendung: Gaming\nTouchscreen: Kein\nWinkel: 178\u00ba\nNeigungswinkel: -5\u00ba / 20\u00ba\nVerbindung: DisplayPort 1.4\nMontage: VESA\nChipsatz: NVIDIA\nKompatibel: VESA 100 x 100 mm\nFarben: 96\nDreh: -20\u00ba / 20\u00b0",
+    "reference_file": "offer_reference_843.json",
+    "shop_name": "bauguru"
+}

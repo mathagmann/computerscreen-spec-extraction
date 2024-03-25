@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_1637_15.html",
+    "name": "GIGABYTE G32QC A, 31.5\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/15949903?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 347.54,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss",
+        "Bildwiederholungsrate": "165,00 Hz",
+        "Display Features": "FlickerFree, 3D ready",
+        "Displaygr\u00f6\u00dfe": "81,28 cm (32 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "G",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "7,80 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "VA Panel",
+        "Reaktionszeit": "1,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: G\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss\nFiltergruppennummer: Monitore\nDisplay Features: FlickerFree, 3D ready\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nDisplaygr\u00f6\u00dfe: 81,28 cm (32 Zoll)\nGewicht: 7,80 kg\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: VA Panel\nReaktionszeit: 1,00 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 165,00 Hz\nEinsatzort: Innen",
+    "reference_file": "offer_reference_1637.json",
+    "shop_name": "office-partner (AT)"
+}

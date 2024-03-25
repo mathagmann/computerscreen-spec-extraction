@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_489_4.html",
+    "name": "Samsung Odyssey G7 G70B, 28\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C05403",
+    "price": 488.68,
+    "raw_specifications": {
+        "Artikelnummer": "3C05403",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "28 Zoll",
+        "Bildschirmdiagonale/cm": "71.1 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 28 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 1 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 71.1 cm\nTouch-Funktion: nein\nArtikelnummer: 3C05403\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_489.json",
+    "shop_name": "haym.infotec"
+}

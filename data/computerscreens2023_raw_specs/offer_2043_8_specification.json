@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2043_8.html",
+    "name": "ASUS VP249QGR, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133596-monitor-asus-vp249qgr-23-8-full-hd-ips-144-hz-led-flicker-free-4718017502337.html",
+    "price": 215.4,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "23,8\"",
+        "Frequenz": "144 Hz",
+        "Glanz": "250 cd/m2",
+        "Merkmale": "Flachbildschirm",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Sound": "2 x 2 W",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker"
+    },
+    "raw_specifications_text": "Bildschirm: 23,8\"\nAufl\u00f6sung: Full HD\nFrequenz: 144 Hz\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nAufl\u00f6sung (px): 1920 x 1080 px\nSeitenverh\u00e4ltnis: 16:9\nGlanz: 250 cd/m2\nSound: 2 x 2 W\nArt: Monitor\nMerkmale: Flachbildschirm",
+    "reference_file": "offer_reference_2043.json",
+    "shop_name": "bauguru"
+}

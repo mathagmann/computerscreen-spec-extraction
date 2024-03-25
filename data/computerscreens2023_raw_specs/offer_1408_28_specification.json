@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1408_28.html",
+    "name": "Dell SE2422H, 23.8\"",
+    "offer_link": "https://technikladen.at/I-Dell-24-Monitor-SE2422H-605cm-238-Flachbildschirm-TFT/LCD-605-cm?tl=gzhls",
+    "price": 124.43,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Blickwinkel, horizontal": "178 \u00b0",
+        "Blickwinkel, vertikal": "178 \u00b0",
+        "HD-Typ": "Full HD",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "12 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LCD\nReaktionszeit: 12 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBlickwinkel, horizontal: 178 \u00b0\nBlickwinkel, vertikal: 178 \u00b0\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1408.json",
+    "shop_name": "TechnikLaden"
+}

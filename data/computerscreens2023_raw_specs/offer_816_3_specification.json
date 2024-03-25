@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_816_3.html",
+    "name": "LG UltraWide 49WQ95X-W, 49\"",
+    "offer_link": "https://www.mylemon.at/artikel/iiyama/49wq95x_w/lg-49wq95x-w.html",
+    "price": 1293.49,
+    "raw_specifications": {
+        "Artikelnummer": "M1JY0MJL",
+        "Aufl\u00f6sung": "5120x1440",
+        "Besonderheiten": "144 Hz, Curved, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "49 Zoll",
+        "EAN": "8806091660534",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "49WQ95X-W",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 49 Zoll\nAufl\u00f6sung: 5120x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nBesonderheiten: 144 Hz, Curved, Lautsprecher, USB HUB\nHersteller Artikelnummer: 49WQ95X-W\nEAN: 8806091660534\nArtikelnummer: M1JY0MJL",
+    "reference_file": "offer_reference_816.json",
+    "shop_name": "mylemon.at"
+}

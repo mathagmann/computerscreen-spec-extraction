@@ -1,0 +1,31 @@
+{
+    "html_file": "offer_1740_41.html",
+    "name": "ASUS VA27AQSB, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126607-monitor-asus-90lm06g0-b01170-27-led-ips-75-hz-4718017802352.html",
+    "price": 360.2,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Quad HD",
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Bildschirm": "27\"",
+        "Chipsatz": "NVIDIA",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Dreh": "-180\u00ba / 180\u00ba",
+        "Empfohlene verwendung": "Haushalt",
+        "Energieklassifizierung": "F",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Farbe": "Schwarz",
+        "Glanz": "350 lm ANSI",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Leistung": "40 W",
+        "Maximale Anpassung": "150 mm",
+        "Montage": "VESA",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 27\"\nAufl\u00f6sung (px): 2560 x 1440 px\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 68,6 cm\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: F\nKontrastverh\u00e4ltnis: 1000:1\nVerbindung: DisplayPort 1.2\nAufl\u00f6sung: Quad HD\nGlanz: 350 lm ANSI\nEnthalten: Kopfh\u00f6rerausgang\nLeistung: 40 W\nWinkel: 178\u00ba\nMontage: VESA\nChipsatz: NVIDIA\nMaximale Anpassung: 150 mm\nEmpfohlene verwendung: Haushalt\nDreh: -180\u00ba / 180\u00ba",
+    "reference_file": "offer_reference_1740.json",
+    "shop_name": "bauguru"
+}

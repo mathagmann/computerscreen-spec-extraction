@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1170_6.html",
+    "name": "Philips Evnia 3000 24M1N3200VA, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/24m1n3200va_00/24m1n3200va-00-60-45cm-23.html",
+    "price": 166.04,
+    "raw_specifications": {
+        "Artikelnummer": "M18YCL3L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581781088",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "24M1N3200VA/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 24M1N3200VA/00\nEAN: 8712581781088\nArtikelnummer: M18YCL3L",
+    "reference_file": "offer_reference_1170.json",
+    "shop_name": "mylemon.at"
+}

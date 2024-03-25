@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_777_17.html",
+    "name": "ASUS ProArt PA32DC, 31.5\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/25079027?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 4220.2,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "USB, DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out), Audioeingang (Line-In)",
+        "Bildwiederholungsrate": "60,00 Hz",
+        "Display Features": "FlickerFree",
+        "Displaygr\u00f6\u00dfe": "81,28 cm (32 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "G",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "12,10 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "sonstige",
+        "LCD-Technologie": "OLED",
+        "Reaktionszeit": "1,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "3.840 x 2.160 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Geh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: USB, DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out), Audioeingang (Line-In)\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nDisplay Features: FlickerFree\nDisplaygr\u00f6\u00dfe: 81,28 cm (32 Zoll)\nGewicht: 12,10 kg\nKontrastverh\u00e4ltnis (typisch) Bereich: sonstige\nFiltergruppennummer: Monitore\nmax. Aufl\u00f6sung: 3.840 x 2.160 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: OLED\nReaktionszeit: 1,00 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 60,00 Hz\nEinsatzort: Innen\nEnergieeffizienzklasse: G",
+    "reference_file": "offer_reference_777.json",
+    "shop_name": "playox (AT)"
+}

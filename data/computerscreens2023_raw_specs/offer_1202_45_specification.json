@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1202_45.html",
+    "name": "HP E24mv G4, 23.8\"",
+    "offer_link": "https://www.alternate.at/HP/E24mv-G4-LED-Monitor/html/product/1829920?partner=AtGeizhalsat&campaign=Monitor/HP/1829920",
+    "price": 382.0,
+    "raw_specifications": {
+        "": "Kensington-Schloss, Webcam",
+        "Abmessungen": "Breite: 539,4 mm x H\u00f6he: 355,6 mm x Tiefe/L\u00e4nge: 47 mm",
+        "Anschl\u00fcsse": "1x HDMI-Eingang, (HDMI-Version: 1.4), 1x DisplayPort-Eingang, (DisplayPort-Version: 1.2), 1x VGA-Eingang, 1x Kopfh\u00f6rer-Ausgang, 4x USB-A-3.2 Gen 1 (5 Gbit/s)",
+        "Bild": "Glaretyp",
+        "Bildschirmaufl\u00f6sung": "1.920 x 1.080 Pixel",
+        "Bildschirmdiagonale": "61 cm (24 Zoll)",
+        "EAN": "0195122021795",
+        "Energieeffizienzklasse (SDR)": "E (A - G)",
+        "Energieverbauch pro 1000 Stunden (SDR)": "16 kWh",
+        "Ergonomie": "Typ",
+        "Farbe": "schwarz/silber",
+        "Features": "HP Eye Ease (Flimmerfreie LEDs, Low Blue Light-Modus), 5 MP IR Webcam mit Windows Hello",
+        "Frequenz": "Vertikal",
+        "Gewicht": "6,5 kg",
+        "Hersteller-Nr.": "169L0AA#ABB",
+        "Lautsprecher": "2 Lautsprecher",
+        "Leistungsaufnahme im Bereitschafts- und Aus-Zustand": "0,5 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)": "16 Watt",
+        "Stromversorgung": "Eco-Off",
+        "Typ": "LED-Monitor",
+        "Wandhalterung": "VESA kompatibel (100 x 100 mm)",
+        "Zubeh\u00f6r": "Vorhanden"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse (SDR): E (A - G)\nEnergieverbauch pro 1000 Stunden (SDR): 16 kWh\nLeistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR): 16 Watt\nLeistungsaufnahme im Bereitschafts- und Aus-Zustand: 0,5 Watt\nBildschirmdiagonale: 61 cm (24 Zoll)\nBildschirmaufl\u00f6sung: 1.920 x 1.080 Pixel\nTyp: LED-Monitor\nFarbe: schwarz/silber\nEAN: 0195122021795\nHersteller-Nr.: 169L0AA#ABB\nBild: Glaretyp\n: Kensington-Schloss, Webcam\nFrequenz: Vertikal\nAnschl\u00fcsse: 1x HDMI-Eingang, (HDMI-Version: 1.4), 1x DisplayPort-Eingang, (DisplayPort-Version: 1.2), 1x VGA-Eingang, 1x Kopfh\u00f6rer-Ausgang, 4x USB-A-3.2 Gen 1 (5 Gbit/s)\nErgonomie: Typ\nStromversorgung: Eco-Off\nLautsprecher: 2 Lautsprecher\nWandhalterung: VESA kompatibel (100 x 100 mm)\nFeatures: HP Eye Ease (Flimmerfreie LEDs, Low Blue Light-Modus), 5 MP IR Webcam mit Windows Hello\nZubeh\u00f6r: Vorhanden\nAbmessungen: Breite: 539,4 mm x H\u00f6he: 355,6 mm x Tiefe/L\u00e4nge: 47 mm\nGewicht: 6,5 kg",
+    "reference_file": "offer_reference_1202.json",
+    "shop_name": "Alternate.at"
+}

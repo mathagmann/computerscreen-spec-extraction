@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_336_1.html",
+    "name": "Samsung Odyssey G5 G50A (2023), 32\"",
+    "offer_link": "https://www.mylemon.at/artikel/samsung/ls32ag500ppxen/s32ag500p-32in-led-2560x1440.html",
+    "price": 404.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYP54L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "32 Zoll",
+        "EAN": "8806094777901",
+        "Helligkeit": "280 cd/m\u00b2",
+        "Hersteller Artikelnummer": "LS32AG500PPXEN",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 32 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nHelligkeit: 280 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: LS32AG500PPXEN\nEAN: 8806094777901\nArtikelnummer: M1IYP54L",
+    "reference_file": "offer_reference_336.json",
+    "shop_name": "mylemon.at"
+}

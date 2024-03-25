@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_2436_4.html",
+    "name": "NEC MultiSync E221N-BK schwarz, 22\"",
+    "offer_link": "https://haym.info/produktdetails?id=6C77169",
+    "price": 103.48,
+    "raw_specifications": {
+        "Artikelnummer": "6C77169",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "22 Zoll",
+        "Bildschirmdiagonale/cm": "55.9 cm",
+        "Energieeffizienzklasse": "C",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "6 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 22 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: C\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 6 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 55.9 cm\nTouch-Funktion: nein\nArtikelnummer: 6C77169\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2436.json",
+    "shop_name": "haym.infotec"
+}

@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1094_6.html",
+    "name": "HP M24fe, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/hewlett_packard/43g27e9_abb/hp-m24fe-60-5-cm.html",
+    "price": 142.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1AY3PLL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Bildschirmdiagonale": "61 cm (24 Zoll)",
+        "Breite": "535,8 mm",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "0196068981310",
+        "Ergonomie": "Neigbar",
+        "Farbskala": "99%",
+        "Gewicht": "2,5 kg",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "43G27E9#ABB",
+        "H\u00f6he": "315,6 mm",
+        "Paketgewicht": "4,7 kg",
+        "Panel": "IPS",
+        "RGB-Farbraum": "sRGB",
+        "Reaktionszeit": "5 ms",
+        "Tiefe": "34 mm",
+        "Verpackungsbreite": "535,8 mm",
+        "Verpackungsh\u00f6he": "396,8 mm",
+        "Verpackungstiefe": "177,2 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: 43G27E9#ABB\nEAN: 0196068981310\nArtikelnummer: M1AY3PLL\nBildschirmdiagonale: 61 cm (24 Zoll)\nRGB-Farbraum: sRGB\nFarbskala: 99%\nVerpackungsbreite: 535,8 mm\nVerpackungstiefe: 177,2 mm\nVerpackungsh\u00f6he: 396,8 mm\nPaketgewicht: 4,7 kg\nGewicht: 2,5 kg\nH\u00f6he: 315,6 mm\nBreite: 535,8 mm\nTiefe: 34 mm",
+    "reference_file": "offer_reference_1094.json",
+    "shop_name": "mylemon.at"
+}

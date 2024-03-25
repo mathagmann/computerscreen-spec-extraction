@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1191_21.html",
+    "name": "ASUS VZ24EHE, 23.8\"",
+    "offer_link": "https://www.cyberport.at/?DEEP=6135-0G5&APID=294&STOREID=7",
+    "price": 142.9,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1.920x1.080 Full HD",
+        "Betrachtungswinkel h/v": "178\u00b0/178\u00b0",
+        "Bildformat": "16:9",
+        "Breite in mm": "540mm",
+        "DVI": "kein",
+        "Displaygr\u00f6\u00dfe in Zoll": "23,8 Zoll",
+        "Displaygr\u00f6\u00dfe in cm": "60.5 cm",
+        "Displayport": "kein",
+        "Farbtiefe": "8 Bit / 16,7 Mio Farben",
+        "Gewicht in kg": "2,9 kg",
+        "HDMI": "1x HDMI",
+        "Helligkeit": "250 cd/m\u00b2",
+        "H\u00f6he in mm": "390mm",
+        "Kontrast dynamisch": "100.000.000:1",
+        "Kontrast typisch": "1.000:1",
+        "Lautsprecher": "kein",
+        "Leistungsaufnahme": "22 Watt",
+        "Oberfl\u00e4che": "matt",
+        "Reaktionszeit": "1 ms",
+        "Technologie": "IPS",
+        "Tiefe in mm": "210mm",
+        "Wandmontage": "VESA75x75"
+    },
+    "raw_specifications_text": "Leistungsaufnahme: 22 Watt\nDisplaygr\u00f6\u00dfe in cm: 60.5 cm\nDisplaygr\u00f6\u00dfe in Zoll: 23,8 Zoll\nTechnologie: IPS\nAufl\u00f6sung: 1.920x1.080 Full HD\nBildformat: 16:9\nOberfl\u00e4che: matt\nFarbtiefe: 8 Bit / 16,7 Mio Farben\nHelligkeit: 250 cd/m\u00b2\nKontrast typisch: 1.000:1\nKontrast dynamisch: 100.000.000:1\nReaktionszeit: 1 ms\nBetrachtungswinkel h/v: 178\u00b0/178\u00b0\nWandmontage: VESA75x75\nBreite in mm: 540mm\nH\u00f6he in mm: 390mm\nTiefe in mm: 210mm\nHDMI: 1x HDMI\nDVI: kein\nDisplayport: kein\nLautsprecher: kein\nGewicht in kg: 2,9 kg",
+    "reference_file": "offer_reference_1191.json",
+    "shop_name": "Cyberport Stores \u00d6sterreich"
+}

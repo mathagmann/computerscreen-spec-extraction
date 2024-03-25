@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_428_3.html",
+    "name": "ASUS ProArt PA248CRV, 24.1\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C07437",
+    "price": 370.99,
+    "raw_specifications": {
+        "Artikelnummer": "3C07437",
+        "Aufl\u00f6sung": "1920x1200 (16:10)",
+        "Bildschirmdiagonale/Zoll": "24.1 Zoll",
+        "Bildschirmdiagonale/cm": "61.2 cm",
+        "DVI": "0x",
+        "Energieeffizienzklasse": "D",
+        "HDMI": "2x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 24.1 Zoll\nAufl\u00f6sung: 1920x1200 (16:10)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: D\nVGA: 0x\nDVI: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 61.2 cm\nTouch-Funktion: nein\nArtikelnummer: 3C07437\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_428.json",
+    "shop_name": "haym.infotec"
+}

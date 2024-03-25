@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1704_20.html",
+    "name": "Philips E-line 241E1SC, 23.6\"",
+    "offer_link": "https://www.future-x.at/philips-24-1920x1080-75hz-va-16-9-flachbildschirm-tft-lcd-4-ms-3000%3A1-240-cd-m%B2-hdmi-vga-hdmi-eingang-line-eingang-p-8726077/?pv=2",
+    "price": 140.2,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "240 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video Ein- und Ausg\u00e4nge": "HDMI-Eingang",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 3000:1\nHelligkeit: 240 cd/m\u00b2\nVideo-Schnittstellen: HDMI; VGA\nVideo Ein- und Ausg\u00e4nge: HDMI-Eingang\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_1704.json",
+    "shop_name": "Future-X.at"
+}

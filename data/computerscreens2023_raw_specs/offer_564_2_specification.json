@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_564_2.html",
+    "name": "Philips Evnia 5000 34M1C5500VA, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/34m1c5500va_00/34m1c5500va-00-34.html",
+    "price": 397.48,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYLZ7L",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "165 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "8712581795986",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "34M1C5500VA/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 2x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 2x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 165 Hz, USB HUB\nHersteller Artikelnummer: 34M1C5500VA/00\nEAN: 8712581795986\nArtikelnummer: M1EYLZ7L",
+    "reference_file": "offer_reference_564.json",
+    "shop_name": "mylemon.at"
+}

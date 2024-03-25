@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1870_2.html",
+    "name": "Philips V-line 221V8, 21.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/221v8_00/v-line-221v8-00-computerbildschirm.html",
+    "price": 105.95,
+    "raw_specifications": {
+        "Artikelnummer": "M1AY3RZL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "21,5 Zoll",
+        "EAN": "8712581760175",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "200 cd/m\u00b2",
+        "Hersteller Artikelnummer": "221V8/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 21,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 200 cd/m\u00b2\nHersteller Artikelnummer: 221V8/00\nEAN: 8712581760175\nArtikelnummer: M1AY3RZL",
+    "reference_file": "offer_reference_1870.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_1602_8.html",
+    "name": "Philips B-line 276B1JH, 27\"",
+    "offer_link": "https://www.future-x.at/philips-276b1jh-00-27-ips-dp-hdmi-usb-hub-usb-c-2560x1440-169-4ms-schwarz-27-4-ms-1000%3A1-ips-usb-30-typ-c-p-8747948/?pv=2",
+    "price": 534.19,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,58 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Netzwerkkameras": "Webcam",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,58 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz\nNetzwerkkameras: Webcam",
+    "reference_file": "offer_reference_1602.json",
+    "shop_name": "Future-X.at"
+}

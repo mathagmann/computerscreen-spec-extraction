@@ -1,0 +1,16 @@
+{
+    "html_file": "offer_184_11.html",
+    "name": "Philips 6000 Series 40B1U6903CH, 39.7\"",
+    "offer_link": "https://www.ba-computer.at/philips-40b1u6903ch-39-7in-100cm-ips-100-cm-1-000-1-40b1u6903ch.html",
+    "price": 1856.68,
+    "raw_specifications": {
+        "Bilddiagonale (cm)": "100 cm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 100 cm\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI",
+    "reference_file": "offer_reference_184.json",
+    "shop_name": "BA-Computer"
+}

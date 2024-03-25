@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1881_11.html",
+    "name": "BenQ BL2483TM, 24\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C00695",
+    "price": 170.59,
+    "raw_specifications": {
+        "Artikelnummer": "2C00695",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "24 Zoll",
+        "Bildschirmdiagonale/cm": "61 cm",
+        "DVI": "1x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "0x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 24 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 1x\nDisplayPort: 1x\nHDMI: 0x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 1 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 61 cm\nTouch-Funktion: nein\nArtikelnummer: 2C00695\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1881.json",
+    "shop_name": "haym.infotec"
+}

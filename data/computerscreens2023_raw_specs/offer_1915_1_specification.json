@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1915_1.html",
+    "name": "HP EliteDisplay E27d G4, 27\"",
+    "offer_link": "https://technikladen.at/P-6PA56A4ABB-HP-E-Series-E27d-G4-686-cm-27-Zoll-2560-x-1440-Pixel-Quad-HD-5-ms-Schwarz-6PA56A4ABB-Displays-Projektoren?tl=gzhls",
+    "price": 264.97,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "2560 x 1440 Pixel",
+        "Bildschirmdiagonale": "68,6 cm",
+        "HD-Typ": "Quad HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm\nBildschirmaufl\u00f6sung: 2560 x 1440 Pixel\nHD-Typ: Quad HD\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nIntegrierter USB-Hub: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1915.json",
+    "shop_name": "TechnikLaden"
+}

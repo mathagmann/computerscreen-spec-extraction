@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_280_0.html",
+    "name": "LG UltraWide 38WP85CP-W, 38\"",
+    "offer_link": "https://www.mylemon.at/artikel/lg/38wp85cp_w_aeu/38wp85cp-w-curved-monitor-uwqhd.html",
+    "price": 1138.99,
+    "raw_specifications": {
+        "Artikelnummer": "M1KYVTTL",
+        "Aufl\u00f6sung": "3840x1600",
+        "Besonderheiten": "Curved, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "38 Zoll",
+        "EAN": "8806091983336",
+        "Ergonomie": "H\u00f6henverstellbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "38WP85CP-W.AEU",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 38 Zoll\nAufl\u00f6sung: 3840x1600\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: Curved, Lautsprecher, USB HUB\nHersteller Artikelnummer: 38WP85CP-W.AEU\nEAN: 8806091983336\nArtikelnummer: M1KYVTTL",
+    "reference_file": "offer_reference_280.json",
+    "shop_name": "mylemon.at"
+}

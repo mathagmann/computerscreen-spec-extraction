@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_526_3.html",
+    "name": "Dell E2424HS, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/dell/210_bgpj/monitor-e2424hs-23-8-inch.html",
+    "price": 133.74,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYJU3L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "60 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "5397184657089",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "210-BGPJ",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 60 Hz, Lautsprecher\nHersteller Artikelnummer: 210-BGPJ\nEAN: 5397184657089\nArtikelnummer: M1IYJU3L",
+    "reference_file": "offer_reference_526.json",
+    "shop_name": "mylemon.at"
+}

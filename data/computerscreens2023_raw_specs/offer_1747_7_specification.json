@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1747_7.html",
+    "name": "BenQ Zowie XL2411K, 24\"",
+    "offer_link": "https://haym.info/produktdetails?id=0C27008",
+    "price": 224.32,
+    "raw_specifications": {
+        "Artikelnummer": "0C27008",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "24 Zoll",
+        "Bildschirmdiagonale/cm": "61 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "2x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 24 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 61 cm\nTouch-Funktion: nein\nArtikelnummer: 0C27008\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_1747.json",
+    "shop_name": "haym.infotec"
+}

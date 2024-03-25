@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_302_2.html",
+    "name": "Philips Evnia 3000 25M2N3200W, 24.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/25m2n3200w_00/monitoe-evnia-24-5-25m2n3200w.html",
+    "price": 201.39,
+    "raw_specifications": {
+        "Artikelnummer": "M1JY7QZL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "240 Hz",
+        "Displaygr\u00f6\u00dfe": "24,5 Zoll",
+        "EAN": "8712581800673",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "25M2N3200W/00",
+        "Panel": "VA",
+        "Reaktionszeit": "0,5 ms",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 24,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 0,5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 240 Hz\nHersteller Artikelnummer: 25M2N3200W/00\nEAN: 8712581800673\nArtikelnummer: M1JY7QZL",
+    "reference_file": "offer_reference_302.json",
+    "shop_name": "mylemon.at"
+}

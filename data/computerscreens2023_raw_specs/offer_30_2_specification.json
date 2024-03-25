@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_30_2.html",
+    "name": "Acer Nitro VG0 VG270UEbmiipx, 27\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000001515340971&ano=A-H1515340971&mno=UM.HV0EE.E09&ean=4711121590528&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 201.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "100 Hz",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 4 ms\nHelligkeit: 350 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 100 Hz",
+    "reference_file": "offer_reference_30.json",
+    "shop_name": "ElectronicShop24"
+}

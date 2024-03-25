@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_509_24.html",
+    "name": "HP P22v G5, 21.5\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=50000001178514561&ano=A1178514561&mno=64V81AA%23ABB&ean=196548128129&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 165.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "21,4 \"",
+        "Bilddiagonale (cm)": "54,5 cm",
+        "Farbe": "Schwarz",
+        "Gewicht": "2,8 kg",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 54,5 cm\nBilddiagonale (Zoll): 21,4 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI; VGA\nGewicht: 2,8 kg",
+    "reference_file": "offer_reference_509.json",
+    "shop_name": "ElectronicShop24"
+}

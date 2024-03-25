@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_95_17.html",
+    "name": "Eizo FlexScan EV2740X schwarz, 27\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/27924197?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 1024.02,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out), Audioeingang (Line-In)",
+        "Display Features": "FlickerFree, Bild an Bild (PbP) Funktion, Bild in Bild (PiP) Funktion",
+        "Displaygr\u00f6\u00dfe": "68,58 cm (27 Zoll)",
+        "Energieeffizienzklasse": "D",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "11,93 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "5,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "3.840 x 2.160 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: D\nDisplaygr\u00f6\u00dfe: 68,58 cm (27 Zoll)\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out), Audioeingang (Line-In)\nFiltergruppennummer: Monitore\nDisplay Features: FlickerFree, Bild an Bild (PbP) Funktion, Bild in Bild (PiP) Funktion\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nGewicht: 11,93 kg\nmax. Aufl\u00f6sung: 3.840 x 2.160 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 5,00 ms",
+    "reference_file": "offer_reference_95.json",
+    "shop_name": "office-partner (AT)"
+}

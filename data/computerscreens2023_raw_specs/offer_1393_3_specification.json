@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_1393_3.html",
+    "name": "HP M27fd, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/hewlett_packard/2h3y8e9_abb/hp-27-l-m27fd-display.html",
+    "price": 166.08,
+    "raw_specifications": {
+        "Artikelnummer": "M17Y7MXL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "0196188174487",
+        "Ergonomie": "Neigbar",
+        "Farbskala": "99%",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "2H3Y8E9#ABB",
+        "Panel": "IPS",
+        "RGB-Farbraum": "sRGB",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "1x VGA, 2x HDMI, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 2x HDMI, USB-C DisplayPort\nErgonomie: Neigbar\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, USB HUB\nHersteller Artikelnummer: 2H3Y8E9#ABB\nEAN: 0196188174487\nArtikelnummer: M17Y7MXL\nRGB-Farbraum: sRGB\nFarbskala: 99%",
+    "reference_file": "offer_reference_1393.json",
+    "shop_name": "mylemon.at"
+}

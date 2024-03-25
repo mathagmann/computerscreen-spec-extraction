@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_48_11.html",
+    "name": "Eizo ColorEdge CS2400R, 24.1\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/28003969?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 630.09,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "DisplayPort, HDMI, Kopfh\u00f6reranschluss",
+        "Displaygr\u00f6\u00dfe": "60,96 cm (24 Zoll)",
+        "Energieeffizienzklasse": "F",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "0,10 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "14,00 ms",
+        "Seitenverh\u00e4ltnis": "16:10",
+        "max. Aufl\u00f6sung": "1.920 x 1.200 Pixel (16:10)"
+    },
+    "raw_specifications_text": "Geh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nDisplaygr\u00f6\u00dfe: 60,96 cm (24 Zoll)\nAnschl\u00fcsse: DisplayPort, HDMI, Kopfh\u00f6reranschluss\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nGewicht: 0,10 kg\nFiltergruppennummer: Monitore\nmax. Aufl\u00f6sung: 1.920 x 1.200 Pixel (16:10)\nSeitenverh\u00e4ltnis: 16:10\nLCD-Technologie: IPS Panel\nReaktionszeit: 14,00 ms\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_48.json",
+    "shop_name": "playox (AT)"
+}

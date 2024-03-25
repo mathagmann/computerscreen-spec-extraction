@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_396_3.html",
+    "name": "Acer Vero CB3 CB273bemipruzx, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/acer/um_hb3ee_016/tft-vero-cb273bemipruzx-68-6cm.html",
+    "price": 289.95,
+    "raw_specifications": {
+        "Artikelnummer": "M1DYOS1L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4711121264535",
+        "Ergonomie": "Pivot (90 Grad drehbar)",
+        "Hersteller Artikelnummer": "UM.HB3EE.016",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nErgonomie: Pivot (90 Grad drehbar)\nHersteller Artikelnummer: UM.HB3EE.016\nEAN: 4711121264535\nArtikelnummer: M1DYOS1L",
+    "reference_file": "offer_reference_396.json",
+    "shop_name": "mylemon.at"
+}

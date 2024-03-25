@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_1801_20.html",
+    "name": "Philips S-line 275S1AE, 27\"",
+    "offer_link": "https://www.future-x.at/philips-s-line-275s1ae-led-monitor-27-2560-x-1440-qhd-ips-250-cd-m-1000-1-4-flachbildschirm-tft-lcd-13-cm-ms-1000%3A1-cd-m%B2-dvi-hdmi-vga-hdmi-eingang-line-p-8527178/?pv=2",
+    "price": 222.19,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Farbe": "Schwarz; Blau",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video Ein- und Ausg\u00e4nge": "HDMI-Eingang",
+        "Video-Schnittstellen": "DisplayPort; DVI; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; DVI; HDMI\nVideo Ein- und Ausg\u00e4nge: HDMI-Eingang\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nVerstellbarkeit: H\u00f6henverstellbar\nFarbe: Schwarz; Blau",
+    "reference_file": "offer_reference_1801.json",
+    "shop_name": "Future-X.at"
+}

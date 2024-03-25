@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_850_4.html",
+    "name": "Samsung Odyssey G4 G4B / G40B, 25\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C18826",
+    "price": 200.69,
+    "raw_specifications": {
+        "Artikelnummer": "2C18826",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "25 Zoll",
+        "Bildschirmdiagonale/cm": "63.5 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "2x",
+        "Helligkeit": "400 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 25 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 400 cd/m2\nBildschirmdiagonale/cm: 63.5 cm\nTouch-Funktion: nein\nArtikelnummer: 2C18826\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_850.json",
+    "shop_name": "haym.infotec"
+}

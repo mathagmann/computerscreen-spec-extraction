@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_749_16.html",
+    "name": "ASUS VP289Q, 28\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/25161278?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 359.87,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Bildwiederholungsrate": "60,00 Hz",
+        "Display Features": "FlickerFree",
+        "Display Sync": "AMD FreeSync",
+        "Displaygr\u00f6\u00dfe": "71,12 cm (28 Zoll)",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "F",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "5,66 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "5,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "3.840 x 2.160 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Geh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nDisplay Features: FlickerFree\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nDisplaygr\u00f6\u00dfe: 71,12 cm (28 Zoll)\nGewicht: 5,66 kg\nDisplay Sync: AMD FreeSync\nFiltergruppennummer: Monitore\nmax. Aufl\u00f6sung: 3.840 x 2.160 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 5,00 ms\nBildwiederholungsrate: 60,00 Hz\nEinsatzort: Innen\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_749.json",
+    "shop_name": "playox (AT)"
+}

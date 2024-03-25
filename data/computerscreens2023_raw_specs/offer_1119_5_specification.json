@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1119_5.html",
+    "name": "Fujitsu B-Line B22-8 TS Pro (2021), 21.5\"",
+    "offer_link": "https://www.future-x.at/fujitsu-monitor-tft-b22-8-ts-pro-flachbildschirm-tft-lcd-54-6-cm-21-5-5-ms-1000%3A1-displayport-dvi-d-vga-usb-20-p-8812835/?pv=2",
+    "price": 131.59,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Betrachtungswinkel vertikal": "35 \u00b0",
+        "Bilddiagonale (Zoll)": "21,5 \"",
+        "Bilddiagonale (cm)": "54,6 cm",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB 2.0",
+        "Paneltyp": "TFT",
+        "Produktfeatures": "Energiesparmodus",
+        "Reaktionszeit": "10 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nProduktfeatures: Energiesparmodus\nFarbe: Schwarz\nBilddiagonale (cm): 54,6 cm\nBilddiagonale (Zoll): 21,5 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 10 ms\nKontrastverh\u00e4ltnis: 1000:1\nBetrachtungswinkel vertikal: 35 \u00b0\nPaneltyp: TFT\nVideo-Schnittstellen: DVI; VGA\nPC-Schnittstellen: USB 2.0",
+    "reference_file": "offer_reference_1119.json",
+    "shop_name": "Future-X.at"
+}

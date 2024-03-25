@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_88_1.html",
+    "name": "LC-Power LC-M32-QHD-165-C-V2, 31.5\"",
+    "offer_link": "https://www.ba-computer.at/lc-power-31-5-80cm-tft-gaming-lc-m32-qhd-165-c-v2-hdmi-d-retail-flachbildschirm-tft-lcd-80-cm-lc-m32-qhd-165-c-v2.html",
+    "price": 240.07,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Bilddiagonale (Zoll)": "31,5 \"",
+        "Bilddiagonale (cm)": "80 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Farbe": "Schwarz",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "Neigbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 80 cm\nBilddiagonale (Zoll): 31,5 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 1 ms\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 165 Hz\nVerstellbarkeit: Neigbar",
+    "reference_file": "offer_reference_88.json",
+    "shop_name": "BA-Computer"
+}

@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_877_8.html",
+    "name": "LG UltraWide 38WQ88C-W, 37.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C14952",
+    "price": 942.22,
+    "raw_specifications": {
+        "Artikelnummer": "2C14952",
+        "Aufl\u00f6sung": "3840x1600 (21:9)",
+        "Bildschirmdiagonale/Zoll": "37.5 Zoll",
+        "Bildschirmdiagonale/cm": "95.2 cm",
+        "DVI": "0x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 37.5 Zoll\nAufl\u00f6sung: 3840x1600 (21:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 5 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 95.2 cm\nTouch-Funktion: nein\nArtikelnummer: 2C14952\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_877.json",
+    "shop_name": "haym.infotec"
+}

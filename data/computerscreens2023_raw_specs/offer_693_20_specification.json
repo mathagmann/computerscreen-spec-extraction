@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_693_20.html",
+    "name": "AOC U34V5C/BK, 34\"",
+    "offer_link": "https://www.future-x.at/aoc-u34v5c-bk-86-36cm-34zoll-va-wqhd-display-3440x1440-21%3A9-4ms-300cd-m2-hdmi-dp-usb-p-9074915/?pv=2",
+    "price": 367.09,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3440 * 1440",
+        "Bilddiagonale (Zoll)": "34 \"",
+        "Bilddiagonale (cm)": "86,4 cm",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "4000:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 86,4 cm\nBilddiagonale (Zoll): 34 \"\nAufl\u00f6sung: 3440 * 1440\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 4000:1\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C",
+    "reference_file": "offer_reference_693.json",
+    "shop_name": "Future-X.at"
+}

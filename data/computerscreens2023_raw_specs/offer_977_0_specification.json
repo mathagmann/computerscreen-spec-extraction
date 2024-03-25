@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_977_0.html",
+    "name": "ViewSonic VA2715-H, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/viewsonic/va2715_h/va2715-h-68-58cm-27zoll.html",
+    "price": 119.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1AYPHCL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "0766907014198",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "VA2715-H",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: VA2715-H\nEAN: 0766907014198\nArtikelnummer: M1AYPHCL",
+    "reference_file": "offer_reference_977.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_819_2.html",
+    "name": "Eizo FlexScan EV2781 wei\u00df, 27\"",
+    "offer_link": "https://www.future-x.at/eizo-68-5-cm-27-16%3A9-hdmi%2Bdp%2Busb-c-ips-white-flachbildschirm-tft-lcd-typ-c-p-9065637/?pv=2",
+    "price": 557.99,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Farbe": "Wei\u00df",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Wei\u00df\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 350 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C",
+    "reference_file": "offer_reference_819.json",
+    "shop_name": "Future-X.at"
+}

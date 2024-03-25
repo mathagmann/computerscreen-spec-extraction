@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_644_31.html",
+    "name": "Samsung Odyssey G6 G65B, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133691-monitor-samsung-odyssey-g6-ls27bg650eu-27-va-lcd-flicker-free-240-hz-8806094192599.html",
+    "price": 475.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Quad HD",
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Drehend": "Ja",
+        "Energieklassifizierung": "F",
+        "Farbe": "Schwarz",
+        "HDMI": "Ja",
+        "Klinge": "6",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Ports": "2",
+        "Reaktionszeit": "1 ms",
+        "Spannung": "100-240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein"
+    },
+    "raw_specifications_text": "Aufl\u00f6sung: Quad HD\nKlinge: 6\nTouchscreen: Kein\nAufl\u00f6sung (px): 2560 x 1440 px\nHDMI: Ja\nBildschirm: 27\"\nDrehend: Ja\nPorts: 2\nFarbe: Schwarz\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 68,6 cm\nReaktionszeit: 1 ms\nKompatibel: VESA 100 x 100 mm\nSpannung: 100-240 V\nEnergieklassifizierung: F",
+    "reference_file": "offer_reference_644.json",
+    "shop_name": "bauguru"
+}

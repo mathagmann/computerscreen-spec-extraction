@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_806_13.html",
+    "name": "BenQ Mobiuz EX240N, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126095-monitor-benq-ex240n-schwarz-ips-1920-x-1080-px-23-8-4718755089268.html",
+    "price": 220.5,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "23,8\"",
+        "Diagonale des Bildschirms (cm)": "60,5 cm",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "E",
+        "Frequenz": "165 Hz",
+        "Glanz": "250 cd/m2",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Reaktionszeit": "1 ms",
+        "Spannung": "100-240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker"
+    },
+    "raw_specifications_text": "Aufl\u00f6sung: Full HD\nEnergieklassifizierung: E\nBildschirm: 23,8\"\nGlanz: 250 cd/m2\nSpannung: 100-240 V\nKompatibel: VESA 100 x 100 mm\nReaktionszeit: 1 ms\nAufl\u00f6sung (px): 1920 x 1080 px\nArt: Monitor\nSteckbares Produkt: Ja\nDiagonale des Bildschirms (cm): 60,5 cm\nSteckertyp: EU-Stecker\nFrequenz: 165 Hz\nEmpfohlene verwendung: Gaming",
+    "reference_file": "offer_reference_806.json",
+    "shop_name": "bauguru"
+}

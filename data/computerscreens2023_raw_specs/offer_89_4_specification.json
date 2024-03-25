@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_89_4.html",
+    "name": "Fujitsu B-Line B2410 TE, 23.8\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/25168728?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 304.74,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, VGA/D-Sub, Kopfh\u00f6reranschluss, Audioausgang (Line-Out), DVI-D",
+        "Bildwiederholungsrate": "60,00 Hz",
+        "Display Features": "FlickerFree",
+        "Displaygr\u00f6\u00dfe": "60,96 cm (24 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "C",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "5,94 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "5,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)",
+        "t\u00e4gliche Laufzeit Bereich": "24 Std."
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: C\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB, VGA/D-Sub, Kopfh\u00f6reranschluss, Audioausgang (Line-Out), DVI-D\nFiltergruppennummer: Monitore\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nDisplay Features: FlickerFree\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nDisplaygr\u00f6\u00dfe: 60,96 cm (24 Zoll)\nt\u00e4gliche Laufzeit Bereich: 24 Std.\nGewicht: 5,94 kg\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 5,00 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 60,00 Hz\nEinsatzort: Innen",
+    "reference_file": "offer_reference_89.json",
+    "shop_name": "office-partner (AT)"
+}

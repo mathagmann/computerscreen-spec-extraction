@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1739_27.html",
+    "name": "ASUS ZenScreen MB16AH, 15.6\"",
+    "offer_link": "https://www.future-x.at/asus-zenscreen-mb16ah-portable-usb-monitor-156inch-ips-fhd-1920x1080-16-9-220cd-m2-60hz-flachbildschirm-tft-lcd-39-6-cm-15-6-5-ms-micro-hdmi-typ-c-p-8690449/?pv=2",
+    "price": 274.79,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "15,6 \"",
+        "Bilddiagonale (cm)": "39,6 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video Ein- und Ausg\u00e4nge": "Displayport-Eingang",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 39,6 cm\nBilddiagonale (Zoll): 15,6 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 5 ms\nPaneltyp: IPS\nBildwiederholfrequenz (Hz): 60 Hz\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nVideo Ein- und Ausg\u00e4nge: Displayport-Eingang",
+    "reference_file": "offer_reference_1739.json",
+    "shop_name": "Future-X.at"
+}

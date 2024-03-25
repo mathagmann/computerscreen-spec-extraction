@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_724_5.html",
+    "name": "Philips Evnia 8000 34M2C8600, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/34m2c8600_00/34m2c8600-00-86-336cm-34zoll.html",
+    "price": 1038.99,
+    "raw_specifications": {
+        "Artikelnummer": "M1IY2RPL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "170 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "8712581798680",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "34M2C8600/00",
+        "Panel": "OLED",
+        "Reaktionszeit": "0,1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: OLED\nReaktionszeit: 0,1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 170 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 34M2C8600/00\nEAN: 8712581798680\nArtikelnummer: M1IY2RPL",
+    "reference_file": "offer_reference_724.json",
+    "shop_name": "mylemon.at"
+}

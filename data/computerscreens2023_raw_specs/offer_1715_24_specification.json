@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1715_24.html",
+    "name": "Philips V-line 271V8L, 27\"",
+    "offer_link": "https://www.future-x.at/philips-27-1920x1080-75hz-va-16-9-flachbildschirm-tft-lcd-27-4-ms-1000%3A1-250-cd-m%B2-hdmi-vga-hdmi-eingang-line-eingang-p-8726075/?pv=2",
+    "price": 161.2,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video Ein- und Ausg\u00e4nge": "HDMI-Eingang",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nVideo-Schnittstellen: HDMI; VGA\nVideo Ein- und Ausg\u00e4nge: HDMI-Eingang\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_1715.json",
+    "shop_name": "Future-X.at"
+}

@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_2023_35.html",
+    "name": "HP P24h G4, 23.8\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=320000000807284352&ano=A-I807284352&mno=7VH44AT%23ABB&ean=5715063139226&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 188.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Grau",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kennzeichnung": "CB; CE; CSA; FCC",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "14 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: CB; CE; CSA; FCC\nFarbe: Grau\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)\nReaktionszeit: 14 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; VGA\nBildwiederholfrequenz (Hz): 60 Hz",
+    "reference_file": "offer_reference_2023.json",
+    "shop_name": "ElectronicShop24"
+}

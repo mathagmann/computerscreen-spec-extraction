@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_306_12.html",
+    "name": "LG 34BN670P-B, 34\"",
+    "offer_link": "https://technikladen.at/P-34BN670P-B-LG-34-34BN670P-B-UltraWide-DVI-DP-HDMI-black-IPS-21-9-Flachbildschirm-TFT-LCD-34-34BN670P-B-Displays-Projektoren?tl=gzhls",
+    "price": 306.23,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1080",
+        "Bilddiagonale (Zoll)": "34 \"",
+        "Bilddiagonale (cm)": "86,4 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 86,4 cm\nBilddiagonale (Zoll): 34 \"\nAufl\u00f6sung: 2560 * 1080\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 400 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DVI; HDMI\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_306.json",
+    "shop_name": "TechnikLaden"
+}

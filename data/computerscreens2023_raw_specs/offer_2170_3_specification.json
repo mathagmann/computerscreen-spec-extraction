@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2170_3.html",
+    "name": "iiyama ProLite XUB2595WSU-B1, 25\"",
+    "offer_link": "https://haym.info/produktdetails?id=9C08059",
+    "price": 231.36,
+    "raw_specifications": {
+        "Artikelnummer": "9C08059",
+        "Aufl\u00f6sung": "1920x1200 (16:10)",
+        "Bildschirmdiagonale/Zoll": "25 Zoll",
+        "Bildschirmdiagonale/cm": "63.5 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "1x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 25 Zoll\nAufl\u00f6sung: 1920x1200 (16:10)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 1x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 63.5 cm\nTouch-Funktion: nein\nArtikelnummer: 9C08059\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2170.json",
+    "shop_name": "haym.infotec"
+}

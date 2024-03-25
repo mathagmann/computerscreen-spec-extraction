@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_45_3.html",
+    "name": "Lenovo D32u-45, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/lenovo/67a1gac2eu/d32u-45-80cm-32-4k.html",
+    "price": 1467.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYUIXL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "60 Hz",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "0196802121866",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "67A1GAC2EU",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 60 Hz\nHersteller Artikelnummer: 67A1GAC2EU\nEAN: 0196802121866\nArtikelnummer: M1LYUIXL",
+    "reference_file": "offer_reference_45.json",
+    "shop_name": "mylemon.at"
+}

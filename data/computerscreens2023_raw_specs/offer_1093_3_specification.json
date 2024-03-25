@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_1093_3.html",
+    "name": "HP M27fe, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125581-monitor-hp-m27fe-fhd-27-ips-lcd-flicker-free-75-hz-0195908875871.html",
+    "price": 235.8,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Empfohlene verwendung": "Haushalt",
+        "Energieklassifizierung": "D",
+        "Frequenz": "75 Hz",
+        "Glanz": "300 lm ANSI",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Pixel-Dichte (dpi)": "82 dpi",
+        "Pr\u00e4zision (relative Feuchte)": "20 % - 80 %",
+        "Reichweite": "99% sRGB",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Winkel": "178\u00ba",
+        "Zertifikat": "ENERGY STAR-Zertifizierung"
+    },
+    "raw_specifications_text": "Aufl\u00f6sung: Full HD\nEnergieklassifizierung: D\nBildschirm: 27\"\nFrequenz: 75 Hz\nAufl\u00f6sung (px): 1920 x 1080 px\nPixel-Dichte (dpi): 82 dpi\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 68,6 cm\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nSpannung: 100 - 240 V\nGlanz: 300 lm ANSI\nWinkel: 178\u00ba\nPr\u00e4zision (relative Feuchte): 20 % - 80 %\nZertifikat: ENERGY STAR-Zertifizierung\nEmpfohlene verwendung: Haushalt\nReichweite: 99% sRGB",
+    "reference_file": "offer_reference_1093.json",
+    "shop_name": "bauguru"
+}

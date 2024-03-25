@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_1277_9.html",
+    "name": "AOC Q32P2CA, 31.5\"",
+    "offer_link": "https://www.future-x.at/aoc-81-3-cm-315-16-09-2xhdmi%2Bdp%2Busb-c-ips-lift-bl-flachbildschirm-tft-lcd-81-3-cm-usb-typ-c-p-8903207/?pv=2",
+    "price": 272.59,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Bilddiagonale (Zoll)": "31,5 \"",
+        "Bilddiagonale (cm)": "80 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 80 cm\nBilddiagonale (Zoll): 31,5 \"\nAufl\u00f6sung: 2560 * 1440\nReaktionszeit: 4 ms\nPaneltyp: IPS\nPC-Schnittstellen: USB Typ C\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_1277.json",
+    "shop_name": "Future-X.at"
+}

@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_1714_26.html",
+    "name": "Philips V-line 241V8L, 23.8\"",
+    "offer_link": "https://www.future-x.at/philips-24-1920x1080-75hz-va-16-9-flachbildschirm-tft-lcd-4-ms-1000%3A1-hdmi-vga-hdmi-eingang-p-8726076/?pv=2",
+    "price": 112.3,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video Ein- und Ausg\u00e4nge": "HDMI-Eingang",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nVideo-Schnittstellen: HDMI; VGA\nVideo Ein- und Ausg\u00e4nge: HDMI-Eingang\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_1714.json",
+    "shop_name": "Future-X.at"
+}

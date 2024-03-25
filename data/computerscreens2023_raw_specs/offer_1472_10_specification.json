@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1472_10.html",
+    "name": "GIGABYTE AORUS FI32Q, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/aorus_fi32q_ek/giby-31-5-aorus-fi32q.html",
+    "price": 738.71,
+    "raw_specifications": {
+        "Artikelnummer": "M18YENNL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719331810504",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Hersteller Artikelnummer": "AORUS FI32Q-EK",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 400 cd/m\u00b2\nHersteller Artikelnummer: AORUS FI32Q-EK\nEAN: 4719331810504\nArtikelnummer: M18YENNL",
+    "reference_file": "offer_reference_1472.json",
+    "shop_name": "mylemon.at"
+}

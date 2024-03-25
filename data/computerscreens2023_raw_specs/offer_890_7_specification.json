@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_890_7.html",
+    "name": "MSI MAG342CQPVDE, 34\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C19561",
+    "price": 525.17,
+    "raw_specifications": {
+        "Artikelnummer": "2C19561",
+        "Aufl\u00f6sung": "3440x1440 (21:9)",
+        "Bildschirmdiagonale/Zoll": "34 Zoll",
+        "Bildschirmdiagonale/cm": "86.4 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "75x75",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 34 Zoll\nAufl\u00f6sung: 3440x1440 (21:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 75x75\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 4 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 86.4 cm\nTouch-Funktion: nein\nArtikelnummer: 2C19561\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_890.json",
+    "shop_name": "haym.infotec"
+}

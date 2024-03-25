@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1232_3.html",
+    "name": "MSI Optix MEG381CQR Plus, 37.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/optix_meg381cqr_plus/optix-meg381cqr-plus-led-sk.html",
+    "price": 2577.09,
+    "raw_specifications": {
+        "Artikelnummer": "M1FYX0FL",
+        "Aufl\u00f6sung": "3840x1600",
+        "Besonderheiten": "170 Hz, Curved, USB HUB",
+        "Displaygr\u00f6\u00dfe": "37,5 Zoll",
+        "EAN": "4719072766337",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "450 cd/m\u00b2",
+        "Hersteller Artikelnummer": "Optix MEG381CQR PLUS",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 37,5 Zoll\nAufl\u00f6sung: 3840x1600\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 450 cd/m\u00b2\nBesonderheiten: 170 Hz, Curved, USB HUB\nHersteller Artikelnummer: Optix MEG381CQR PLUS\nEAN: 4719072766337\nArtikelnummer: M1FYX0FL",
+    "reference_file": "offer_reference_1232.json",
+    "shop_name": "mylemon.at"
+}

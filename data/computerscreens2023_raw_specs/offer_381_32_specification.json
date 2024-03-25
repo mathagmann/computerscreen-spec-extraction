@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_381_32.html",
+    "name": "LG UltraGear 27GP850P-B, 27\"",
+    "offer_link": "https://technikladen.at/I-27GP850P-BBEU-LG-27-UltraGear-Nano-IPS-1ms-gamingmonit-27-1-ms-27GP850P-BBEU-Displays-Projektoren?tl=gzhls",
+    "price": 390.82,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Energieeffizienzklasse": "F",
+        "Farbe": "Schwarz; Farbig",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar; Neigbar",
+        "Vesa-Bohrung": "100 x 100 mm",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nVesa-Bohrung: 100 x 100 mm\nFarbe: Schwarz; Farbig\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 400 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 165 Hz\nVerstellbarkeit: H\u00f6henverstellbar; Neigbar\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_381.json",
+    "shop_name": "TechnikLaden"
+}

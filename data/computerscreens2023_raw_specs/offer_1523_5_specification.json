@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_1523_5.html",
+    "name": "ViewSonic VG2439Smh-2, 23.6\"",
+    "offer_link": "https://haym.info/produktdetails?id=5C35366",
+    "price": 140.05,
+    "raw_specifications": {
+        "Artikelnummer": "5C35366",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "23.6 Zoll",
+        "Bildschirmdiagonale/cm": "59.9 cm",
+        "Energieeffizienzklasse": "F",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "MVA",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "6.5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 23.6 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: MVA\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 6.5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 59.9 cm\nTouch-Funktion: nein\nArtikelnummer: 5C35366\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1523.json",
+    "shop_name": "haym.infotec"
+}

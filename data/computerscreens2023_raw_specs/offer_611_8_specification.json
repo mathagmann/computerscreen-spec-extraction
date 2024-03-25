@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_611_8.html",
+    "name": "Dell Alienware AW3423DWF, 34.18\"",
+    "offer_link": "https://www.mylemon.at/artikel/dell/210_bfrq/alienware-aw3423dwf-86-3cm-34.html",
+    "price": 1028.19,
+    "raw_specifications": {
+        "Artikelnummer": "M1FYCARL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "5397184657157",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "1000 cd/m\u00b2",
+        "Hersteller Artikelnummer": "210-BFRQ",
+        "Panel": "OLED",
+        "Reaktionszeit": "0,1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 2x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: OLED\nReaktionszeit: 0,1 ms\nVideo Anschl\u00fcsse: 1x HDMI, 2x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 1000 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: 210-BFRQ\nEAN: 5397184657157\nArtikelnummer: M1FYCARL",
+    "reference_file": "offer_reference_611.json",
+    "shop_name": "mylemon.at"
+}

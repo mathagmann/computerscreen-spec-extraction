@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1649_25.html",
+    "name": "HP E23 G4, 23\"",
+    "offer_link": "https://www.future-x.at/hp-e23g4-23in-ips-vga-hdmi-dp-usb-displayport-58-4-cm-23-p-8740289/?pv=2",
+    "price": 151.19,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "23 \"",
+        "Bilddiagonale (cm)": "58,4 cm",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 58,4 cm\nBilddiagonale (Zoll): 23 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; VGA",
+    "reference_file": "offer_reference_1649.json",
+    "shop_name": "Future-X.at"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_52_4.html",
+    "name": "GIGABYTE GS27Q, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/gs27q/gs27q-68-6cm-27-qhd.html",
+    "price": 298.09,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYYP4L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719331852887",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "GS27Q",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: GS27Q\nEAN: 4719331852887\nArtikelnummer: M1LYYP4L",
+    "reference_file": "offer_reference_52.json",
+    "shop_name": "mylemon.at"
+}

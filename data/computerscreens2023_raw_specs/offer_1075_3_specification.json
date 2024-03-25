@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1075_3.html",
+    "name": "BenQ Zowie XL2746K, 27\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C03478",
+    "price": 585.2,
+    "raw_specifications": {
+        "Artikelnummer": "2C03478",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "27 Zoll",
+        "Bildschirmdiagonale/cm": "68.6 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "3x",
+        "Helligkeit": "320 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "TN",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "0.5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 27 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: TN\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 3x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 0.5 Millisekunden\nHelligkeit: 320 cd/m2\nBildschirmdiagonale/cm: 68.6 cm\nTouch-Funktion: nein\nArtikelnummer: 2C03478\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_1075.json",
+    "shop_name": "haym.infotec"
+}

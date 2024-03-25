@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_164_1.html",
+    "name": "Eizo ColorEdge CS2400S-LE (Limited Edition), 24.1\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C12473",
+    "price": 555.02,
+    "raw_specifications": {
+        "Artikelnummer": "3C12473",
+        "Aufl\u00f6sung": "1920x1200 (16:10)",
+        "Bildschirmdiagonale/Zoll": "24.1 Zoll",
+        "Bildschirmdiagonale/cm": "61.2 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "410 cd/m2",
+        "Herstellergarantie": "60 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "19 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 24.1 Zoll\nAufl\u00f6sung: 1920x1200 (16:10)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 19 Millisekunden\nHelligkeit: 410 cd/m2\nBildschirmdiagonale/cm: 61.2 cm\nTouch-Funktion: nein\nArtikelnummer: 3C12473\nHerstellergarantie: 60 Monate",
+    "reference_file": "offer_reference_164.json",
+    "shop_name": "haym.infotec"
+}

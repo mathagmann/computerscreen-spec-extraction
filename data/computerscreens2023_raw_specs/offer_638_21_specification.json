@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_638_21.html",
+    "name": "BenQ PD2506Q, 25\"",
+    "offer_link": "https://technikladen.at/P-BenQ-25IN-LED-2560X1440-169-4MS-Flachbildschirm-TFT/LCD-4-ms?tl=gzhls",
+    "price": 478.9,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "63,5 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "2560 x 1440 Pixel",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "2K Ultra HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 63,5 cm\nDisplay-Aufl\u00f6sung: 2560 x 1440 Pixel\nHD-Typ: 2K Ultra HD\nBildschirmtechnologie: LED\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_638.json",
+    "shop_name": "TechnikLaden"
+}

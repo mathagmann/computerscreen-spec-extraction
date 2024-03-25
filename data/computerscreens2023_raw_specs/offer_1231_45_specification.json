@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_1231_45.html",
+    "name": "Dell E2222HS, 21.5\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126537-monitor-dell-e2222hs-1920-x-1080-px-vga-hdmi-21-5-5397184505366.html",
+    "price": 159.8,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Bildschirm": "21,5\"",
+        "Diagonale des Bildschirms (cm)": "54,6 cm",
+        "Energieklassifizierung": "D",
+        "Geschwindigkeit": "60 Hz",
+        "Glanz": "250 ANSI",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Konnektivit\u00e4t": "Wi-Fi",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 21\u00ba",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Stecker": "Sicherheitsrille",
+        "Steckertyp": "EU-Stecker",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 21,5\"\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nArt: Monitor\nEnergieklassifizierung: D\nDiagonale des Bildschirms (cm): 54,6 cm\nSeitenverh\u00e4ltnis: 16:9\nKonnektivit\u00e4t: Wi-Fi\nAufl\u00f6sung: Full HD\nKontrastverh\u00e4ltnis: 3000:1\nVerbindung: DisplayPort 1.2\nGlanz: 250 ANSI\nWinkel: 178\u00ba\nStecker: Sicherheitsrille\nMontage: VESA\nGeschwindigkeit: 60 Hz\nKompatibel: VESA 100 x 100 mm\nNeigungswinkel: -5\u00ba / 21\u00ba",
+    "reference_file": "offer_reference_1231.json",
+    "shop_name": "bauguru"
+}

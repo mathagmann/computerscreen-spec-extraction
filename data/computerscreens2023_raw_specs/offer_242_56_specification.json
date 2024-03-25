@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_242_56.html",
+    "name": "Samsung Odyssey G9 G94T / G95T (2023), 49\"",
+    "offer_link": "https://www.future-x.at/samsung-c49g94tssp-48-8-32%3A9-edge-led-5120-x-1440-124-5-cm-124-5cm-49-2-ms-schwarz-p-9165829/?pv=2",
+    "price": 1206.59,
+    "raw_specifications": {
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "49 \"",
+        "Bilddiagonale (cm)": "124,5 cm",
+        "Bildwiederholfrequenz (Hz)": "240 Hz",
+        "Energieeffizienzklasse": "G",
+        "Farbe": "Schwarz; Wei\u00df",
+        "Helligkeit": "420 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "500:1",
+        "PC-Schnittstellen": "USB 3.0",
+        "Paneltyp": "MVA",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Vesa-Bohrung": "100 x 100 mm",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nVesa-Bohrung: 100 x 100 mm\nFarbe: Schwarz; Wei\u00df\nBilddiagonale (cm): 124,5 cm\nBilddiagonale (Zoll): 49 \"\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 500:1\nHelligkeit: 420 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: MVA\nVideo-Schnittstellen: DisplayPort; HDMI\nPC-Schnittstellen: USB 3.0\nBildwiederholfrequenz (Hz): 240 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: G",
+    "reference_file": "offer_reference_242.json",
+    "shop_name": "Future-X.at"
+}

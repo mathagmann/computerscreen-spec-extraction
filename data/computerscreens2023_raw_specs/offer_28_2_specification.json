@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_28_2.html",
+    "name": "MSI MAG 274UPF, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133873-monitor-msi-mag-274upf-27-ips-144-hz-4711377032209.html",
+    "price": 700.3,
+    "raw_specifications": {
+        "Aufl\u00f6sung (px)": "3840 x 2160 px",
+        "Ausgangsspannung": "19 V",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Dreh": "-45\u00ba / 45\u00b0",
+        "Empfohlene verwendung": "Gaming",
+        "Energieverbrauch": "47 kWh",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Farbe": "Schwarz",
+        "Frequenz": "144 Hz",
+        "Kompatibel": "VESA 75 x 75 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Montage": "VESA",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Stecker": "Kensington",
+        "Technologie": "IPS",
+        "Touchscreen": "Kein",
+        "Unterst\u00fctzte Video-Formate": "2160p",
+        "VESA": "10 x 10 cm",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Diagonale des Bildschirms (cm): 68,6 cm\nSteckbares Produkt: Ja\nBildschirm: 27\"\nVESA: 10 x 10 cm\nFrequenz: 144 Hz\nAufl\u00f6sung (px): 3840 x 2160 px\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nAusgangsspannung: 19 V\nTechnologie: IPS\nSpannung: 100 - 240 V\nEmpfohlene verwendung: Gaming\nUnterst\u00fctzte Video-Formate: 2160p\nEnergieverbrauch: 47 kWh\nTouchscreen: Kein\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nStecker: Kensington\nMontage: VESA\nKompatibel: VESA 75 x 75 mm\nDreh: -45\u00ba / 45\u00b0",
+    "reference_file": "offer_reference_28.json",
+    "shop_name": "bauguru"
+}

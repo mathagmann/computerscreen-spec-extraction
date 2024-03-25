@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1609_11.html",
+    "name": "Acer ConceptD CP3 CP3271UVbmiipruzx, 27\"",
+    "offer_link": "https://www.future-x.at/acer-tft-conceptd-cp3271uv-68-6-cm-27-2560x1440-hdmi-dp-typec-usb-hub-flachbildschirm-tft-lcd-27-1-ms-400-cd-m%B2-hdmi-usb-typ-c-p-8765783/?pv=2",
+    "price": 505.69,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "165 Hz",
+        "Helligkeit": "400 cd/m\u00b2",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nReaktionszeit: 1 ms\nHelligkeit: 400 cd/m\u00b2\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nBildwiederholfrequenz (Hz): 165 Hz",
+    "reference_file": "offer_reference_1609.json",
+    "shop_name": "Future-X.at"
+}

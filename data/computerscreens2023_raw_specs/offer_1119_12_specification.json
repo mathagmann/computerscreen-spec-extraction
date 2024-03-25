@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_1119_12.html",
+    "name": "Fujitsu B-Line B22-8 TS Pro (2021), 21.5\"",
+    "offer_link": "https://technikladen.at/P-Fujitsu-Displays-B22-8-TS-Pro-546-cm-215-Zoll-1920-x-1080-Pixel-Full-HD-LED-10-ms-Schwarz?tl=gzhls",
+    "price": 168.03,
+    "raw_specifications": {
+        "Anzeige": "LED",
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "54,6 cm",
+        "Bildschirmtechnologie": "LED",
+        "Blickwinkel, horizontal": "178 \u00b0",
+        "Blickwinkel, vertikal": "178 \u00b0",
+        "Display-Oberfl\u00e4che": "Matt",
+        "Eingebaute Lautsprecher": "Ja",
+        "HD-Typ": "Full HD",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "USB-Hub-Version": "2.0",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 54,6 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LED\nAnzeige: LED\nDisplay-Oberfl\u00e4che: Matt\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBlickwinkel, horizontal: 178 \u00b0\nBlickwinkel, vertikal: 178 \u00b0\nEingebaute Lautsprecher: Ja\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 2.0\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1119.json",
+    "shop_name": "TechnikLaden"
+}

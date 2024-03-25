@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1430_11.html",
+    "name": "ASUS ROG Strix XG16AHP-W, 15.6\"",
+    "offer_link": "https://www.alternate.at/ASUS/XG16AHP-W-Gaming-Monitor/html/product/1730383?partner=AtGeizhalsat&campaign=Monitor/ASUS/1730383",
+    "price": 474.0,
+    "raw_specifications": {
+        "": "NVIDIA G-Sync kompatibel",
+        "Anschl\u00fcsse": "1x Micro-HDMI-Eingang, 1x Kopfh\u00f6rer-Ausgang, 2x USB-C 3.2 Gen 1 (5 Gbit/s)",
+        "Bild": "Glaretyp",
+        "Bildschirmaufl\u00f6sung": "1.920 x 1.080 Pixel",
+        "Bildschirmdiagonale": "40 cm (16 Zoll)",
+        "EAN": "4718017911269",
+        "Energieeffizienzklasse (SDR)": "D (A - G)",
+        "Energieverbauch pro 1000 Stunden (SDR)": "9 kWh",
+        "Ergonomie": "Typ",
+        "Farbe": "wei\u00df",
+        "Features": "Flimmerfreie LEDs, Spiele-Modus, ROG Tripod",
+        "Geeignet f\u00fcr": "Gaming",
+        "Hersteller-Nr.": "90LM06ID-B02170",
+        "Lautsprecher": "2 Lautsprecher",
+        "Leistungsaufnahme im Bereitschafts- und Aus-Zustand": "0,5 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)": "9 Watt",
+        "Standards": "Video",
+        "Stromversorgung": "Eco-Off",
+        "Typ": "Gaming-Monitor"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse (SDR): D (A - G)\nEnergieverbauch pro 1000 Stunden (SDR): 9 kWh\nLeistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR): 9 Watt\nLeistungsaufnahme im Bereitschafts- und Aus-Zustand: 0,5 Watt\nBildschirmdiagonale: 40 cm (16 Zoll)\nBildschirmaufl\u00f6sung: 1.920 x 1.080 Pixel\nTyp: Gaming-Monitor\nFarbe: wei\u00df\nEAN: 4718017911269\nHersteller-Nr.: 90LM06ID-B02170\nGeeignet f\u00fcr: Gaming\nBild: Glaretyp\n: NVIDIA G-Sync kompatibel\nAnschl\u00fcsse: 1x Micro-HDMI-Eingang, 1x Kopfh\u00f6rer-Ausgang, 2x USB-C 3.2 Gen 1 (5 Gbit/s)\nErgonomie: Typ\nStromversorgung: Eco-Off\nLautsprecher: 2 Lautsprecher\nStandards: Video\nFeatures: Flimmerfreie LEDs, Spiele-Modus, ROG Tripod",
+    "reference_file": "offer_reference_1430.json",
+    "shop_name": "Alternate.at"
+}

@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_287_44.html",
+    "name": "LG 24BK55YP-B, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/lg/24bk55yp_i/monitor-lcd-24-ips-24bk55yp.html",
+    "price": 151.38,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYTMOL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8806087963533",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "24BK55YP-I",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x HDMI, 1x DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 24BK55YP-I\nEAN: 8806087963533\nArtikelnummer: M1IYTMOL",
+    "reference_file": "offer_reference_287.json",
+    "shop_name": "mylemon.at"
+}

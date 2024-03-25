@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_714_29.html",
+    "name": "HP P24v G5, 23.8\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=320000001454123881&ano=A-I1454123881&mno=64W18AA&ean=5715063139431&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 190.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Farbe": "Schwarz",
+        "Gewicht": "3,57 kg",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); XGA (1024x768)\nReaktionszeit: 5 ms\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI; VGA\nGewicht: 3,57 kg",
+    "reference_file": "offer_reference_714.json",
+    "shop_name": "ElectronicShop24"
+}

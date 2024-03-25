@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1275_19.html",
+    "name": "LC-Power LC-M32-QHD-165-C-K, 32\"",
+    "offer_link": "https://haym.info/produktdetails?id=1C19246",
+    "price": 463.82,
+    "raw_specifications": {
+        "Artikelnummer": "1C19246",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "32 Zoll",
+        "Bildschirmdiagonale/cm": "81.3 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "3x",
+        "Helligkeit": "650 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "75x75",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 32 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 3x\nVESA-Bohrung: 75x75\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 650 cd/m2\nBildschirmdiagonale/cm: 81.3 cm\nTouch-Funktion: nein\nArtikelnummer: 1C19246\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1275.json",
+    "shop_name": "haym.infotec"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1352_26.html",
+    "name": "GIGABYTE AORUS FI32U, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/aorus_fi32u/aorus-fi32u-80cm-31-5zoll.html",
+    "price": 1105.35,
+    "raw_specifications": {
+        "Artikelnummer": "M16YJSLL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "144 Hz",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719331810559",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "AORUS FI32U",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 144 Hz\nHersteller Artikelnummer: AORUS FI32U\nEAN: 4719331810559\nArtikelnummer: M16YJSLL",
+    "reference_file": "offer_reference_1352.json",
+    "shop_name": "mylemon.at"
+}

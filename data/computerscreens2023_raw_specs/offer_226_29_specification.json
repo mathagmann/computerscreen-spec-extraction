@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_226_29.html",
+    "name": "Lenovo ThinkVision T24v-30, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/127063-monitor-lenovo-thinkvision-t24v-30-23-8-led-75-hz-50-60-hz-0196801782235.html",
+    "price": 268.8,
+    "raw_specifications": {
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "23,8\"",
+        "Diagonale des Bildschirms (cm)": "60,5 cm",
+        "Energieklassifizierung": "E",
+        "Energieverbrauch": "18 W",
+        "Farbe": "Schwarz",
+        "Glanz": "250 cd/m2",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Leistung": "60 W",
+        "Spannung": "100-240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Technologie": "LED"
+    },
+    "raw_specifications_text": "Farbe: Schwarz\nAufl\u00f6sung: Full HD\nTechnologie: LED\nBildschirm: 23,8\"\nGlanz: 250 cd/m2\nEnergieverbrauch: 18 W\nSpannung: 100-240 V\nLeistung: 60 W\nKompatibel: VESA 100 x 100 mm\nAufl\u00f6sung (px): 1920 x 1080 px\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 60,5 cm\nArt: Monitor\nEnergieklassifizierung: E",
+    "reference_file": "offer_reference_226.json",
+    "shop_name": "bauguru"
+}

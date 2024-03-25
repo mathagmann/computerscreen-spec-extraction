@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1075_22.html",
+    "name": "BenQ Zowie XL2746K, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/benq/9h_lkjlb_qbe/zowie-xl2746k-68-58cm-27in.html",
+    "price": 738.8,
+    "raw_specifications": {
+        "Artikelnummer": "M19Y6F2L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "240 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4718755086687",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "320 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9H.LKJLB.QBE",
+        "Panel": "TN",
+        "Reaktionszeit": "0,5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "3x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: TN\nReaktionszeit: 0,5 ms\nVideo Anschl\u00fcsse: 3x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 320 cd/m\u00b2\nBesonderheiten: 240 Hz\nHersteller Artikelnummer: 9H.LKJLB.QBE\nEAN: 4718755086687\nArtikelnummer: M19Y6F2L",
+    "reference_file": "offer_reference_1075.json",
+    "shop_name": "mylemon.at"
+}

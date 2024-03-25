@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2000_6.html",
+    "name": "Dell UltraSharp U2520D, 25\"",
+    "offer_link": "https://haym.info/produktdetails?id=0C05836",
+    "price": 239.88,
+    "raw_specifications": {
+        "Artikelnummer": "0C05836",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "25 Zoll",
+        "Bildschirmdiagonale/cm": "63.5 cm",
+        "DVI": "0x",
+        "DisplayPort": "2x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "1x",
+        "Helligkeit": "350 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 25 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nDisplayPort: 2x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 350 cd/m2\nBildschirmdiagonale/cm: 63.5 cm\nTouch-Funktion: nein\nArtikelnummer: 0C05836\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2000.json",
+    "shop_name": "haym.infotec"
+}

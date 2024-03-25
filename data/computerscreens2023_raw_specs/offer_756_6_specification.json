@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_756_6.html",
+    "name": "Philips S-line 242S9JML, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/242s9jml_00/242s9jml-00-23-8-1920x1080.html",
+    "price": 139.66,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYAPSL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581796464",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "242S9JML/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher\nHersteller Artikelnummer: 242S9JML/00\nEAN: 8712581796464\nArtikelnummer: M1EYAPSL",
+    "reference_file": "offer_reference_756.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_1125_4.html",
+    "name": "HP Omen 27c, 27\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/20303165?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 352.0,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, Audioausgang (Line-Out)",
+        "Bildwiederholungsrate": "240,00 Hz",
+        "Display Features": "FlickerFree, 3D ready",
+        "Display Sync": "AMD FreeSync, Adaptive Sync",
+        "Displaygr\u00f6\u00dfe": "68,58 cm (27 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "F",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "0,10 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "VA Panel",
+        "Reaktionszeit": "1,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "2.560 x 1.440 Pixel (16:9)",
+        "t\u00e4gliche Laufzeit Bereich": "< 14 Std."
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 68,58 cm (27 Zoll)\nEnergieeffizienzklasse: F\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nGewicht: 0,10 kg\nAnschl\u00fcsse: HDMI, DisplayPort, USB, Audioausgang (Line-Out)\nFiltergruppennummer: Monitore\nDisplay Features: FlickerFree, 3D ready\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nt\u00e4gliche Laufzeit Bereich: < 14 Std.\nDisplay Sync: AMD FreeSync, Adaptive Sync\nmax. Aufl\u00f6sung: 2.560 x 1.440 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: VA Panel\nReaktionszeit: 1,00 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 240,00 Hz\nEinsatzort: Innen",
+    "reference_file": "offer_reference_1125.json",
+    "shop_name": "office-partner (AT)"
+}

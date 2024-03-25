@@ -1,0 +1,17 @@
+{
+    "html_file": "offer_1566_23.html",
+    "name": "ASUS ROG Strix XG27AQ, 27\"",
+    "offer_link": "https://www.future-x.at/asus-68-5-cm-strix-gaming-xg27aq-ips-hdmi-dp-170hz-spk-lift-flachbildschirm-tft-lcd-68-5-cm-2560%2A1440-p-8776555/?pv=2",
+    "price": 564.59,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Bilddiagonale (cm)": "68,5 cm",
+        "Bildwiederholfrequenz (Hz)": "170 Hz",
+        "Paneltyp": "IPS",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,5 cm\nAufl\u00f6sung: 2560 * 1440\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 170 Hz",
+    "reference_file": "offer_reference_1566.json",
+    "shop_name": "Future-X.at"
+}

@@ -1,0 +1,14 @@
+{
+    "html_file": "offer_1805_33.html",
+    "name": "ASUS VA27DQSB, 27\"",
+    "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1668197&KATEGORIE=162&pva=geizhals2",
+    "price": 262.25,
+    "raw_specifications": {
+        "Energieeffizienzklasse SDR": "C",
+        "Energieeffizienzskala": "A bis G",
+        "Energieverbrauch SDR pro 1.000 Stunden": "14 kWh"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse SDR: C\nEnergieverbrauch SDR pro 1.000 Stunden: 14 kWh\nEnergieeffizienzskala: A bis G",
+    "reference_file": "offer_reference_1805.json",
+    "shop_name": "CSV-Direct.de"
+}

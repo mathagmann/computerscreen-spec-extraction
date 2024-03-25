@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1242_23.html",
+    "name": "Lenovo L29w-30, 29\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/131240-monitor-lenovo-l29w-30-29-qhd-led-led-ips-amd-freesync-50-60-hz-0195891708125.html",
+    "price": 299.5,
+    "raw_specifications": {
+        "Art": "Gaming",
+        "Aufl\u00f6sung": "Quad HD",
+        "Aufl\u00f6sung (px)": "2560 x 1080 px",
+        "Diagonale des Bildschirms (cm)": "73,7 cm",
+        "Energieklassifizierung": "D",
+        "Frequenz": "50 - 60 Hz",
+        "Geschwindigkeit": "90 Hz",
+        "Glanz": "300 lm ANSI",
+        "Installationsart": "Wandmontage",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "L\u00e4nge des Kabels": "1,8 m",
+        "Maximale Bildaufl\u00f6sung": "96 dpi",
+        "Montage": "VESA",
+        "Ports": "Audio-Ausgang",
+        "Reichweite": "99% sRGB",
+        "Seitenverh\u00e4ltnis": "21:9",
+        "Sound": "6 W",
+        "Spannung": "100 - 240 V",
+        "Stecker": "Kensington",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Sound: 6 W\nAufl\u00f6sung: Quad HD\nEnergieklassifizierung: D\nAufl\u00f6sung (px): 2560 x 1080 px\nMaximale Bildaufl\u00f6sung: 96 dpi\nDiagonale des Bildschirms (cm): 73,7 cm\nArt: Gaming\nKontrastverh\u00e4ltnis: 1000:1\nPorts: Audio-Ausgang\nVerbindung: DisplayPort 1.2\nFrequenz: 50 - 60 Hz\nL\u00e4nge des Kabels: 1,8 m\nSpannung: 100 - 240 V\nGlanz: 300 lm ANSI\nInstallationsart: Wandmontage\nWinkel: 178\u00ba\nStecker: Kensington\nSeitenverh\u00e4ltnis: 21:9\nMontage: VESA\nReichweite: 99% sRGB\nKompatibel: VESA 100 x 100 mm\nGeschwindigkeit: 90 Hz",
+    "reference_file": "offer_reference_1242.json",
+    "shop_name": "bauguru"
+}

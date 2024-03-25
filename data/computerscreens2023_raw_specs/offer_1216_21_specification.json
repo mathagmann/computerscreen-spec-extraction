@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1216_21.html",
+    "name": "Philips M-line 329M1RV, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/329m1rv_00/phil-31-5-l-329m1rv.html",
+    "price": 1353.15,
+    "raw_specifications": {
+        "Artikelnummer": "M16YFCHL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8712581772482",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "500 cd/m\u00b2",
+        "Hersteller Artikelnummer": "329M1RV/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "3x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 3x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 500 cd/m\u00b2\nHersteller Artikelnummer: 329M1RV/00\nEAN: 8712581772482\nArtikelnummer: M16YFCHL",
+    "reference_file": "offer_reference_1216.json",
+    "shop_name": "mylemon.at"
+}

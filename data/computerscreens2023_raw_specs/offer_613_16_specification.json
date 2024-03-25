@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_613_16.html",
+    "name": "Acer Nitro XV5 XV275UVymipruzx, 27\"",
+    "offer_link": "https://www.future-x.at/acer-nitro-xv275uv-27-16%3A9-wqhd-ips-display-schwarz-hdmi-usb-typ-c-p-9187228/?pv=2",
+    "price": 416.89,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Aufl\u00f6sungsstandard": "WQHD (2560x1440)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "170 Hz",
+        "Energieeffizienzklasse": "F",
+        "Farbe": "Grau",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Vesa-Bohrung": "75 x 75 mm",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nVesa-Bohrung: 75 x 75 mm\nFarbe: Grau\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nAufl\u00f6sungsstandard: WQHD (2560x1440)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 350 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI\nPC-Schnittstellen: USB Typ C\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 170 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_613.json",
+    "shop_name": "Future-X.at"
+}

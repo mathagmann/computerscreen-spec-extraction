@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_161_17.html",
+    "name": "ASUS ROG Swift PG32UQXR, 32\"",
+    "offer_link": "https://www.future-x.at/asus-rog-swift-pg32uqxr-81-28-cm-32-3840%2A2160-16%3A9-uhd-hdmi-1-ms-schwarz-p-9256201/?pv=2",
+    "price": 1779.4,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Aufl\u00f6sungsstandard": "UHD (3840x2160)",
+        "Bilddiagonale (Zoll)": "32 \"",
+        "Bilddiagonale (cm)": "81,28 cm",
+        "Bildwiederholfrequenz (Hz)": "160 Hz",
+        "Energieeffizienzklasse": "G",
+        "Farbe": "Schwarz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 81,28 cm\nBilddiagonale (Zoll): 32 \"\nAufl\u00f6sung: 3840 * 2160\nAufl\u00f6sungsstandard: UHD (3840x2160)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 160 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: G",
+    "reference_file": "offer_reference_161.json",
+    "shop_name": "Future-X.at"
+}

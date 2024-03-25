@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1851_52.html",
+    "name": "Lenovo ThinkVision P27h-20, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125469-monitor-lenovo-p27h-qhd-27-0193638970866.html",
+    "price": 475.8,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Quad HD",
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Dreh": "-45\u00ba / 45\u00b0",
+        "Energieklassifizierung": "F",
+        "Geschwindigkeit": "60 Hz",
+        "Glanz": "350 lm ANSI",
+        "Hinterleuchtet": "W-LED",
+        "Installationsart": "Wandmontage",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Maximale Anpassung": "135 mm",
+        "Montage": "VESA",
+        "Pixel-Dichte (dpi)": "109 dpi",
+        "Ports": "Audio-Ausgang",
+        "Reichweite": "99% sRGB",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 27\"\nAufl\u00f6sung: Quad HD\nKompatibel: VESA 100 x 100 mm\nAufl\u00f6sung (px): 2560 x 1440 px\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nPixel-Dichte (dpi): 109 dpi\nDiagonale des Bildschirms (cm): 68,6 cm\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: F\nKontrastverh\u00e4ltnis: 1000:1\nPorts: Audio-Ausgang\nVerbindung: DisplayPort 1.2\nGlanz: 350 lm ANSI\nInstallationsart: Wandmontage\nWinkel: 178\u00ba\nHinterleuchtet: W-LED\nMontage: VESA\nGeschwindigkeit: 60 Hz\nReichweite: 99% sRGB\nDreh: -45\u00ba / 45\u00b0\nMaximale Anpassung: 135 mm",
+    "reference_file": "offer_reference_1851.json",
+    "shop_name": "bauguru"
+}

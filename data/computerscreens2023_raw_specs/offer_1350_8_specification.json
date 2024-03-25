@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1350_8.html",
+    "name": "ASUS VA24DCP, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm0545_b04370/60-5cm-commerc-va24dcp-dp.html",
+    "price": 218.73,
+    "raw_specifications": {
+        "Artikelnummer": "M1JY4LZL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4711081074489",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM0545-B04370",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, USB-C DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher\nHersteller Artikelnummer: 90LM0545-B04370\nEAN: 4711081074489\nArtikelnummer: M1JY4LZL",
+    "reference_file": "offer_reference_1350.json",
+    "shop_name": "mylemon.at"
+}

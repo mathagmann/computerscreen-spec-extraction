@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1800_15.html",
+    "name": "Lenovo D24-20, 23.8\"",
+    "offer_link": "https://technikladen.at/I-Lenovo-D24-20-605-cm-238-Zoll-1920-x-1080-Pixel-Full-HD-LED-6-ms-Schwarz?tl=gzhls",
+    "price": 113.8,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "60,5 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Oberfl\u00e4che": "Matt",
+        "HD-Typ": "Full HD",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "6 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LED\nDisplay-Oberfl\u00e4che: Matt\nReaktionszeit: 6 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nSeitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_1800.json",
+    "shop_name": "TechnikLaden"
+}

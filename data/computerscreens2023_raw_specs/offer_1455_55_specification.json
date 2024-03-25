@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1455_55.html",
+    "name": "Dell UltraSharp U2422H, 23.8\"",
+    "offer_link": "https://technikladen.at/I-Dell-UltraSharp-U2422H-61-cm-24-Zoll-1920-x-1080-Pixel-Full-HD-LCD-8-ms-Schwarz-Silber?tl=gzhls",
+    "price": 273.61,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "61 cm",
+        "Bildschirmtechnologie": "LCD",
+        "HD-Typ": "Full HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Black, Silver",
+        "Reaktionszeit": "8 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 61 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nBildschirmtechnologie: LCD\nReaktionszeit: 8 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nIntegrierter USB-Hub: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Black, Silver",
+    "reference_file": "offer_reference_1455.json",
+    "shop_name": "TechnikLaden"
+}

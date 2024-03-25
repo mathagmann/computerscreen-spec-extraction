@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2234_15.html",
+    "name": "AOC 24P1/GR, 23.8\"",
+    "offer_link": "https://www.future-x.at/aoc-238-1920x1080a60hz-169-5ms-gtg-panel-ips-d-sub-dvi-hdmi-dp-23-8-5-ms-usb-p-3258786/?pv=2",
+    "price": 194.2,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Farbe": "Grau",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DVI; HDMI\nPC-Schnittstellen: USB\nLautsprecher: Ja\nFarbe: Grau",
+    "reference_file": "offer_reference_2234.json",
+    "shop_name": "Future-X.at"
+}

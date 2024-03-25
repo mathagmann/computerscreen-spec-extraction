@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_782_1.html",
+    "name": "MSI PRO MP241X, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/pro_mp241x/pro-mp241x-60-5-cm.html",
+    "price": 89.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1FY160L",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "4719072910037",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "PRO MP241X",
+        "Panel": "VA",
+        "Reaktionszeit": "8 ms",
+        "VESA Halterung": "75x75 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 8 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nErgonomie: Neigbar\nVESA Halterung: 75x75 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: PRO MP241X\nEAN: 4719072910037\nArtikelnummer: M1FY160L",
+    "reference_file": "offer_reference_782.json",
+    "shop_name": "mylemon.at"
+}

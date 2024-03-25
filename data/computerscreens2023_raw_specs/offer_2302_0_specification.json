@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2302_0.html",
+    "name": "LG 24MK430H-B, 23.8\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/134591-monitor-lg-24mk43hp-b-full-hd-24-amd-freesync-8806091965028.html",
+    "price": 119.8,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Energieklassifizierung": "E",
+        "Farbe": "Schwarz",
+        "Frequenz": "60 Hz",
+        "Glanz": "250 cd/m2",
+        "Ports": "1",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "VESA": "7,5 x 7,5 cm"
+    },
+    "raw_specifications_text": "Farbe: Schwarz\nTouchscreen: Kein\nPorts: 1\nAufl\u00f6sung: Full HD\nEnergieklassifizierung: E\nGlanz: 250 cd/m2\nVESA: 7,5 x 7,5 cm\nFrequenz: 60 Hz\nAufl\u00f6sung (px): 1920 x 1080 px\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker",
+    "reference_file": "offer_reference_2302.json",
+    "shop_name": "bauguru"
+}

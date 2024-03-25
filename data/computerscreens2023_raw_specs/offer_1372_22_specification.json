@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_1372_22.html",
+    "name": "ASUS ROG Strix XG349C, 34.14\"",
+    "offer_link": "https://www.future-x.at/asus-86-7-cm-strix-gamxg349c-curved-180hz-flachbildschirm-tft-lcd-86-7-cm-ips-hdmi-usb-typ-c-c-p-8861920/?pv=2",
+    "price": 1058.29,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3440 * 1440",
+        "Bilddiagonale (cm)": "86,7 cm",
+        "Bildwiederholfrequenz (Hz)": "180 Hz",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; USB Typ C"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 86,7 cm\nAufl\u00f6sung: 3440 * 1440\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; USB Typ C\nPC-Schnittstellen: USB Typ C\nBildwiederholfrequenz (Hz): 180 Hz",
+    "reference_file": "offer_reference_1372.json",
+    "shop_name": "Future-X.at"
+}

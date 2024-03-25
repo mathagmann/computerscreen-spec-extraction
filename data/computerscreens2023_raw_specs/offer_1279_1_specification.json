@@ -1,0 +1,31 @@
+{
+    "html_file": "offer_1279_1.html",
+    "name": "Acer EH3 EH273bix, 27\"",
+    "offer_link": "https://www.taufnaus.de/product/10621697",
+    "price": 174.62,
+    "raw_specifications": {
+        "Besonderheiten": "Acer Adaptive Contrast Management (ACM), Flimmerfrei-Technologie, Acer VisionCare, breiter Betrachtungswinkel, an 3 Seiten ohne Blende, BlueLightShield Technology",
+        "Bildschirmbeschichtung": "Blendfrei",
+        "Bildschirmtyp": "IPS",
+        "Diagonalabmessung": "69 cm (27\")",
+        "Display-Typ": "LCD-Monitor / TFT-Aktivmatrix",
+        "Eingangsspannung": "Wechselstrom 120/230 V (50/60 Hz)",
+        "Einstellungen der Anzeigeposition": "Neigung",
+        "Energie Effizienzklasse": "Klasse F",
+        "Enthaltene Kabel": "1 x HDMI-Kabel",
+        "Farbe": "Schwarz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Horizontaler Betrachtungswinkel": "178",
+        "Kontrast": "100000000:1 (dynamisch)",
+        "Native Aufl\u00f6sung": "Full HD (1080p) 1920 x 1080 bei 75 Hz",
+        "Neigungswinkel": "-5/+20",
+        "Reaktionszeit": "4 ms",
+        "Schnittstellen": "HDMI \u00a6 VGA \u00a6 Audio Line-Out",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Stromverbrauch SDR (eingeschaltet)": "26 kWh/1.000 h",
+        "Vertikaler Betrachtungswinkel": "178"
+    },
+    "raw_specifications_text": "Display-Typ: LCD-Monitor / TFT-Aktivmatrix\nEnergie Effizienzklasse: Klasse F\nDiagonalabmessung: 69 cm (27\")\nBildschirmtyp: IPS\nSeitenverh\u00e4ltnis: 16:9\nNative Aufl\u00f6sung: Full HD (1080p) 1920 x 1080 bei 75 Hz\nHelligkeit: 250 cd/m\u00b2\nKontrast: 100000000:1 (dynamisch)\nReaktionszeit: 4 ms\nHorizontaler Betrachtungswinkel: 178\nVertikaler Betrachtungswinkel: 178\nBildschirmbeschichtung: Blendfrei\nBesonderheiten: Acer Adaptive Contrast Management (ACM), Flimmerfrei-Technologie, Acer VisionCare, breiter Betrachtungswinkel, an 3 Seiten ohne Blende, BlueLightShield Technology\nFarbe: Schwarz\nSchnittstellen: HDMI \u00a6 VGA \u00a6 Audio Line-Out\nEinstellungen der Anzeigeposition: Neigung\nNeigungswinkel: -5/+20\nEnthaltene Kabel: 1 x HDMI-Kabel\nEingangsspannung: Wechselstrom 120/230 V (50/60 Hz)\nStromverbrauch SDR (eingeschaltet): 26 kWh/1.000 h",
+    "reference_file": "offer_reference_1279.json",
+    "shop_name": "TaufNaus"
+}

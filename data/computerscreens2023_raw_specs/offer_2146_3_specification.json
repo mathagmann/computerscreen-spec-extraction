@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_2146_3.html",
+    "name": "AG neovo X-17E schwarz, 17\"",
+    "offer_link": "https://www.future-x.at/ag-neovo-17in-1280-x-1024-250cd-flachbildschirm-tft-lcd-43-2-cm-3-ms-1000%3A1-led-backlight-tft-dvi-p-3377324/?pv=2",
+    "price": 490.19,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1280 * 1024",
+        "Aufl\u00f6sungsstandard": "SXGA (1280x1024)",
+        "Betrachtungswinkel horizontal": "170 \u00b0",
+        "Betrachtungswinkel vertikal": "160 \u00b0",
+        "Bilddiagonale (Zoll)": "17 \"",
+        "Bilddiagonale (cm)": "43,2 cm",
+        "Farbe": "Schwarz",
+        "Gewicht": "5,2 kg",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "LED-Backlight TFT",
+        "Reaktionszeit": "3 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 43,2 cm\nBilddiagonale (Zoll): 17 \"\nAufl\u00f6sung: 1280 * 1024\nAufl\u00f6sungsstandard: SXGA (1280x1024)\nReaktionszeit: 3 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: LED-Backlight TFT\nBetrachtungswinkel horizontal: 170 \u00b0\nBetrachtungswinkel vertikal: 160 \u00b0\nVideo-Schnittstellen: DVI\nGewicht: 5,2 kg\nFarbe: Schwarz",
+    "reference_file": "offer_reference_2146.json",
+    "shop_name": "Future-X.at"
+}

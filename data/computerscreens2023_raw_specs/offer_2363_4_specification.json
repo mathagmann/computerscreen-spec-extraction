@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2363_4.html",
+    "name": "Philips B-line 221B7QPJKEB, 21.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/221b7qpjkeb_00/221b7qpjkeb-00-54-6cm-21.html",
+    "price": 203.28,
+    "raw_specifications": {
+        "Artikelnummer": "MTJY9KL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "21,5 Zoll",
+        "EAN": "8712581740238",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "221B7QPJKEB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 21,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 221B7QPJKEB/00\nEAN: 8712581740238\nArtikelnummer: MTJY9KL",
+    "reference_file": "offer_reference_2363.json",
+    "shop_name": "mylemon.at"
+}

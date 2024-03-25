@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_98_17.html",
+    "name": "ASUS VY229HE, 21.45\"",
+    "offer_link": "https://www.future-x.at/asus-eye-care-vy229he-21-4-1920%2A1080-16%3A9-fhd-hdmi-d-sub-1-ms-schwarz-p-9256204/?pv=2",
+    "price": 159.29,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "21,4 \"",
+        "Bilddiagonale (cm)": "21,45 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Energieeffizienzklasse": "E",
+        "Farbe": "Schwarz",
+        "Kennzeichnung": "T\u00dcV / GS",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "Neigbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: T\u00dcV / GS\nFarbe: Schwarz\nBilddiagonale (cm): 21,45 cm\nBilddiagonale (Zoll): 21,4 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 75 Hz\nVerstellbarkeit: Neigbar\nEnergieeffizienzklasse: E",
+    "reference_file": "offer_reference_98.json",
+    "shop_name": "Future-X.at"
+}

@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1416_2.html",
+    "name": "LC-Power LC-M16-FHD-60P, 15.6\"",
+    "offer_link": "https://www.mylemon.at/artikel/lc_power/lc_m16_fhd_60_p/dis-16-lc-power-lc.html",
+    "price": 206.88,
+    "raw_specifications": {
+        "Artikelnummer": "M17YNCLL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "15,6 Zoll",
+        "EAN": "4260070128745",
+        "Helligkeit": "220 cd/m\u00b2",
+        "Hersteller Artikelnummer": "LC-M16-FHD-60-P",
+        "Panel": "IPS",
+        "Reaktionszeit": "10 ms",
+        "Video Anschl\u00fcsse": "1x mini HDMI, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 15,6 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 10 ms\nVideo Anschl\u00fcsse: 1x mini HDMI, USB-C DisplayPort\nHelligkeit: 220 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: LC-M16-FHD-60-P\nEAN: 4260070128745\nArtikelnummer: M17YNCLL",
+    "reference_file": "offer_reference_1416.json",
+    "shop_name": "mylemon.at"
+}

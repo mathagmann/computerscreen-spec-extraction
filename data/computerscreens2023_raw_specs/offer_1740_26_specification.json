@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1740_26.html",
+    "name": "ASUS VA27AQSB, 27\"",
+    "offer_link": "https://www.future-x.at/asus-68-6-cm-essential-va27aqsb-wqhd-dp-ips-fsync-lift-flachbildschirm-tft-lcd-68-6-cm-5-ms-2000%3A1-hdmi-p-8676305/?pv=2",
+    "price": 275.29,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Blau",
+        "Kontrastverh\u00e4ltnis": "2000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nAufl\u00f6sung: 2560 * 1440\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 2000:1\nPaneltyp: IPS\nBildwiederholfrequenz (Hz): 75 Hz\nVideo-Schnittstellen: HDMI\nFarbe: Blau",
+    "reference_file": "offer_reference_1740.json",
+    "shop_name": "Future-X.at"
+}

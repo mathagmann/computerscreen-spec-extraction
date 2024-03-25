@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2454_3.html",
+    "name": "Dell P1917S schwarz, 19\"",
+    "offer_link": "https://haym.info/produktdetails?id=6C62060",
+    "price": 195.58,
+    "raw_specifications": {
+        "Artikelnummer": "6C62060",
+        "Aufl\u00f6sung": "1280x1024 (5:4)",
+        "Bildschirmdiagonale/Zoll": "19 Zoll",
+        "Bildschirmdiagonale/cm": "48.3 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "D",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "8 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 19 Zoll\nAufl\u00f6sung: 1280x1024 (5:4)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: D\nVGA: 1x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 8 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 48.3 cm\nTouch-Funktion: nein\nArtikelnummer: 6C62060\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2454.json",
+    "shop_name": "haym.infotec"
+}

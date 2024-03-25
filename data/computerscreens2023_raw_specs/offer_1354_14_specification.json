@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1354_14.html",
+    "name": "Lenovo L32p-30, 31.5\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/132387-monitor-lenovo-l32p-30-led-ips-lcd-amd-freesync-0195891372043.html",
+    "price": 523.4,
+    "raw_specifications": {
+        "Bildschirm": "31,5\"",
+        "Diagonale des Bildschirms (cm)": "80 cm",
+        "Energieklassifizierung": "G",
+        "Merkmale": "Flachbildschirm",
+        "Ports": "1",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Technologie": "IPS",
+        "Touchscreen": "Kein"
+    },
+    "raw_specifications_text": "Technologie: IPS\nPorts: 1\nBildschirm: 31,5\"\nTouchscreen: Kein\nSteckbares Produkt: Ja\nEnergieklassifizierung: G\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 80 cm\nMerkmale: Flachbildschirm",
+    "reference_file": "offer_reference_1354.json",
+    "shop_name": "bauguru"
+}

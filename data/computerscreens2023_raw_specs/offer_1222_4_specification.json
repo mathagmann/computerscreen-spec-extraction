@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1222_4.html",
+    "name": "Dell C1422H, 14\"",
+    "offer_link": "https://www.cyberport.at/?DEEP=6136-196&APID=294&STOREID=7",
+    "price": 1312.9,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1.920x1.080 Full HD",
+        "Betrachtungswinkel h/v": "178\u00b0/178\u00b0",
+        "Bildformat": "16:9",
+        "Breite in mm": "340mm",
+        "DVI": "kein",
+        "Displaygr\u00f6\u00dfe in Zoll": "14 Zoll",
+        "Displaygr\u00f6\u00dfe in cm": "35,6 cm",
+        "Displayport": "kein",
+        "Farbraumabdeckung": "72% NTSC",
+        "Farbtiefe": "8 Bit / 16,7 Mio Farben",
+        "Gewicht in kg": "0,6 kg",
+        "Helligkeit": "300 cd/m\u00b2",
+        "H\u00f6he in mm": "202mm",
+        "H\u00f6henverstellbar": "ohne",
+        "Kontrast dynamisch": "k.A.",
+        "Kontrast typisch": "700:1",
+        "Leistungsaufnahme": "6 Watt",
+        "Oberfl\u00e4che": "entspiegelt",
+        "Reaktionszeit": "6 ms",
+        "Technologie": "IPS",
+        "Tiefe in mm": "14mm",
+        "USB-C": "2x"
+    },
+    "raw_specifications_text": "Leistungsaufnahme: 6 Watt\nDisplaygr\u00f6\u00dfe in cm: 35,6 cm\nDisplaygr\u00f6\u00dfe in Zoll: 14 Zoll\nTechnologie: IPS\nAufl\u00f6sung: 1.920x1.080 Full HD\nBildformat: 16:9\nOberfl\u00e4che: entspiegelt\nFarbraumabdeckung: 72% NTSC\nFarbtiefe: 8 Bit / 16,7 Mio Farben\nHelligkeit: 300 cd/m\u00b2\nKontrast typisch: 700:1\nKontrast dynamisch: k.A.\nReaktionszeit: 6 ms\nBetrachtungswinkel h/v: 178\u00b0/178\u00b0\nDVI: kein\nDisplayport: kein\nUSB-C: 2x\nH\u00f6henverstellbar: ohne\nBreite in mm: 340mm\nH\u00f6he in mm: 202mm\nTiefe in mm: 14mm\nGewicht in kg: 0,6 kg",
+    "reference_file": "offer_reference_1222.json",
+    "shop_name": "Cyberport Stores \u00d6sterreich"
+}

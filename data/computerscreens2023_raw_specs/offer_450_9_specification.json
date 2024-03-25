@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_450_9.html",
+    "name": "MSI PRO MP341CQDE, 34\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=110000000087117923&ano=F87117923&mno=9S6-3PB2CT-005&ean=4719072973025&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 450.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3440 * 1440",
+        "Bilddiagonale (Zoll)": "34 \"",
+        "Bilddiagonale (cm)": "86,4 cm",
+        "Bildwiederholfrequenz (Hz)": "100 Hz",
+        "Energieeffizienzklasse": "G",
+        "Farbe": "Silber; Schwarz",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Lautsprecher": "Ja",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Silber; Schwarz\nBilddiagonale (cm): 86,4 cm\nBilddiagonale (Zoll): 34 \"\nAufl\u00f6sung: 3440 * 1440\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 3000:1\nVideo-Schnittstellen: HDMI\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 100 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: G",
+    "reference_file": "offer_reference_450.json",
+    "shop_name": "ElectronicShop24"
+}

@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_985_24.html",
+    "name": "ASUS VA247HE, 23.8\"",
+    "offer_link": "https://technikladen.at/P-ASUS-VA247HE-MONITOR-238IN-16-9?tl=gzhls",
+    "price": 125.15,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1920 x 1080 Pixel",
+        "Bildschirmdiagonale": "60,5 cm",
+        "HD-Typ": "Full HD",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Schwarz",
+        "Reaktionszeit": "5 ms",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 60,5 cm\nBildschirmaufl\u00f6sung: 1920 x 1080 Pixel\nHD-Typ: Full HD\nReaktionszeit: 5 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nVESA-Halterung: Ja\nProduktfarbe: Schwarz",
+    "reference_file": "offer_reference_985.json",
+    "shop_name": "TechnikLaden"
+}

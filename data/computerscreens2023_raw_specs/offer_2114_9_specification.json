@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2114_9.html",
+    "name": "Philips E-line 241E1SCA, 23.6\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/241e1sca_00/dis-24-e-line-241e1sca.html",
+    "price": 127.89,
+    "raw_specifications": {
+        "Artikelnummer": "MYQY9YL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,6 Zoll",
+        "EAN": "8712581759377",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "241E1SCA/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,6 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher\nHersteller Artikelnummer: 241E1SCA/00\nEAN: 8712581759377\nArtikelnummer: MYQY9YL",
+    "reference_file": "offer_reference_2114.json",
+    "shop_name": "mylemon.at"
+}

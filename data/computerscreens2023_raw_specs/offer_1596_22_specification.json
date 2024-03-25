@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1596_22.html",
+    "name": "HP Z24f G3, 23.8\"",
+    "offer_link": "https://www.future-x.at/hp-z24f-g3-fhd-display-flachbildschirm-tft-lcd-60-5-cm-23-8-14-ms-1000%3A1-ips-p-8758778/?pv=2",
+    "price": 228.29,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,45 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 60,45 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nBildwiederholfrequenz (Hz): 60 Hz",
+    "reference_file": "offer_reference_1596.json",
+    "shop_name": "Future-X.at"
+}

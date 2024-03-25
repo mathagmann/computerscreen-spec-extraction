@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_939_14.html",
+    "name": "ASUS ROG Strix XG309CM, 29.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C13160",
+    "price": 568.49,
+    "raw_specifications": {
+        "Artikelnummer": "2C13160",
+        "Aufl\u00f6sung": "2560x1080 (21:9)",
+        "Bildschirmdiagonale/Zoll": "29.5 Zoll",
+        "Bildschirmdiagonale/cm": "74.9 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "1x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "1 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 29.5 Zoll\nAufl\u00f6sung: 2560x1080 (21:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 1 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 74.9 cm\nTouch-Funktion: nein\nArtikelnummer: 2C13160\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_939.json",
+    "shop_name": "haym.infotec"
+}

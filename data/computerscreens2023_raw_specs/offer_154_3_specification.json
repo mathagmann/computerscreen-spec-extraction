@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_154_3.html",
+    "name": "Xiaomi Mi Curved Gaming Monitor, 30\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C12953",
+    "price": 285.6,
+    "raw_specifications": {
+        "Artikelnummer": "3C12953",
+        "Aufl\u00f6sung": "2560x1080 (21:9)",
+        "Bildschirmdiagonale/Zoll": "30 Zoll",
+        "Bildschirmdiagonale/cm": "76.2 cm",
+        "DVI": "0x",
+        "Energieeffizienzklasse": "F",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "VA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 30 Zoll\nAufl\u00f6sung: 2560x1080 (21:9)\nPaneltyp: VA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: F\nVGA: 0x\nDVI: 0x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 4 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 76.2 cm\nTouch-Funktion: nein\nArtikelnummer: 3C12953\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_154.json",
+    "shop_name": "haym.infotec"
+}

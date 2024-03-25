@@ -1,0 +1,31 @@
+{
+    "html_file": "offer_2036_36.html",
+    "name": "ASUS TUF Gaming VG279QM, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125728-gaming-monitor-asus-vg279qm-27-led-ips-flicker-free-nvidia-g-sync-4718017505918.html",
+    "price": 442.0,
+    "raw_specifications": {
+        "Art": "Achse",
+        "Aufl\u00f6sung": "Full HD",
+        "Batteriebetrieben": "Sonderzubeh\u00f6r",
+        "Bildschirm": "27\"",
+        "Chipsatz": "NVIDIA",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Dreh": "-90 / 90\u00b0",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "F",
+        "Finish": "Mattierend",
+        "Frequenz": "280 Hz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Leistung": "4 W",
+        "Montage": "VESA",
+        "Nicht erhalten": "AMD FreeSync",
+        "Reichweite": "99% sRGB",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Sound": "2 x 2 W",
+        "Stecker": "Kensington",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 27\"\nSound: 2 x 2 W\nFrequenz: 280 Hz\nDiagonale des Bildschirms (cm): 68,6 cm\nAufl\u00f6sung: Full HD\nEnergieklassifizierung: F\nArt: Achse\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nFinish: Mattierend\nDreh: -90 / 90\u00b0\nEmpfohlene verwendung: Gaming\nBatteriebetrieben: Sonderzubeh\u00f6r\nLeistung: 4 W\nWinkel: 178\u00ba\nStecker: Kensington\nNicht erhalten: AMD FreeSync\nMontage: VESA\nChipsatz: NVIDIA\nReichweite: 99% sRGB",
+    "reference_file": "offer_reference_2036.json",
+    "shop_name": "bauguru"
+}

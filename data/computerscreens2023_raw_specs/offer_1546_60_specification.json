@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1546_60.html",
+    "name": "HP Z27u G3, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/hewlett_packard/1b9x2aa_hp_backtoschool/k-hp-z27u-g3-qhd.html",
+    "price": 1878.68,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYYHFL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "60 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "1B9X2AA_HP_BACKTOSCHOOL",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 60 Hz, USB HUB\nHersteller Artikelnummer: 1B9X2AA_HP_BACKTOSCHOOL\nArtikelnummer: M1LYYHFL",
+    "reference_file": "offer_reference_1546.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_768_24.html",
+    "name": "ASUS ProArt PA348CGV, 34\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/25079025?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 884.04,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Bildwiederholungsrate": "120 Hz",
+        "Display Features": "FlickerFree, 3D Funktion",
+        "Displaygr\u00f6\u00dfe": "86,36 cm (34 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "G",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "12,20 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Hersteller": "ASUS",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "2 ms",
+        "Seitenverh\u00e4ltnis": "21:9",
+        "max. Aufl\u00f6sung": "3.440 x 1.440 Pixel (21:9)"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 86,36 cm (34 Zoll)\nEnergieeffizienzklasse: G\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nDisplay Features: FlickerFree, 3D Funktion\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nHersteller: ASUS\nGewicht: 12,20 kg\nProduktart: Monitore\nmax. Aufl\u00f6sung: 3.440 x 1.440 Pixel (21:9)\nSeitenverh\u00e4ltnis: 21:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 2 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 120 Hz\nEinsatzort: Innen",
+    "reference_file": "offer_reference_768.json",
+    "shop_name": "office-partner (AT)"
+}

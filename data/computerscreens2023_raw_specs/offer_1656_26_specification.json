@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1656_26.html",
+    "name": "AOC 24B2XDAM, 23.8\"",
+    "offer_link": "https://www.future-x.at/aoc-24-va-dvi-hdmi-d-sub-1920x1080-169-4ms-schwarz-4-ms-60-45-cm-23-8-p-8747976/?pv=2",
+    "price": 100.6,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "60,45 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Lautsprecher": "Ja",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 60,45 cm\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 3000:1\nHelligkeit: 250 cd/m\u00b2\nVideo-Schnittstellen: DVI; HDMI; VGA\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_1656.json",
+    "shop_name": "Future-X.at"
+}

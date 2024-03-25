@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_356_27.html",
+    "name": "LG 32UN550P-W, 31.5\"",
+    "offer_link": "https://technikladen.at/LG-32UN550P-WAEU?tl=gzhls",
+    "price": 367.25,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Aufl\u00f6sungsstandard": "UHD (3840x2160)",
+        "Bilddiagonale (Zoll)": "32 \"",
+        "Bilddiagonale (cm)": "81,3 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Energieeffizienzklasse": "F",
+        "Farbe": "Silber; Wei\u00df",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "800:1",
+        "Lautsprecher": "Ja",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "H\u00f6henverstellbar",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Silber; Wei\u00df\nBilddiagonale (cm): 81,3 cm\nBilddiagonale (Zoll): 32 \"\nAufl\u00f6sung: 3840 * 2160\nAufl\u00f6sungsstandard: UHD (3840x2160)\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 800:1\nHelligkeit: 350 cd/m\u00b2\nVideo-Schnittstellen: HDMI\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 60 Hz\nVerstellbarkeit: H\u00f6henverstellbar\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_356.json",
+    "shop_name": "TechnikLaden"
+}

@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_311_14.html",
+    "name": "AOC Agon AG276QZD, 26.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C18209",
+    "price": 1111.43,
+    "raw_specifications": {
+        "Artikelnummer": "3C18209",
+        "Aufl\u00f6sung": "2560x1440 (16:9)",
+        "Bildschirmdiagonale/Zoll": "26.5 Zoll",
+        "Bildschirmdiagonale/cm": "67.3 cm",
+        "DVI": "0x",
+        "DisplayPort": "2x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "150 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "OLED",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "0.03 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 26.5 Zoll\nAufl\u00f6sung: 2560x1440 (16:9)\nPaneltyp: OLED\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 2x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 0.03 Millisekunden\nHelligkeit: 150 cd/m2\nBildschirmdiagonale/cm: 67.3 cm\nTouch-Funktion: nein\nArtikelnummer: 3C18209\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_311.json",
+    "shop_name": "haym.infotec"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2176_34.html",
+    "name": "Philips P-line 329P9H, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/329p9h_00/329p9h-00-81cm-32in-ips.html",
+    "price": 1063.78,
+    "raw_specifications": {
+        "Artikelnummer": "MW6YQIL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8712581756826",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "329P9H/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: Lautsprecher, USB HUB\nHersteller Artikelnummer: 329P9H/00\nEAN: 8712581756826\nArtikelnummer: MW6YQIL",
+    "reference_file": "offer_reference_2176.json",
+    "shop_name": "mylemon.at"
+}

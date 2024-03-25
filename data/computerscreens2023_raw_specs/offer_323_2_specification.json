@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_323_2.html",
+    "name": "LG UltraWide 34WN780P-B, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/lg/34wn780p_b/86-4cm-34-3440x1440-32un500p.html",
+    "price": 449.89,
+    "raw_specifications": {
+        "Artikelnummer": "M1IYUXTL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Besonderheiten": "75 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "8806091969248",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "34WN780P-B",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 34WN780P-B\nEAN: 8806091969248\nArtikelnummer: M1IYUXTL",
+    "reference_file": "offer_reference_323.json",
+    "shop_name": "mylemon.at"
+}

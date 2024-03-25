@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_510_17.html",
+    "name": "HP E22 G5, 21.5\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/26222909?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 169.11,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB",
+        "Bildwiederholungsrate": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "55,88 cm (22 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "D",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "4,90 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Hersteller": "HP Inc.",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "5 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: D\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB\nHersteller: HP Inc.\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nGewicht: 4,90 kg\nDisplaygr\u00f6\u00dfe: 55,88 cm (22 Zoll)\nProduktart: Monitore\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 5 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 75 Hz\nEinsatzort: Innen",
+    "reference_file": "offer_reference_510.json",
+    "shop_name": "office-partner (AT)"
+}

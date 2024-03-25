@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_501_44.html",
+    "name": "Samsung UR550 / UR552 / UR554 (2023), 28\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/132289-monitor-samsung-u28r550uqp-4k-led-ips-hdr10-flicker-free-28-8806094771831.html",
+    "price": 249.0,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "DisplayPort 1.2",
+        "Art": "Monitor",
+        "Aufl\u00f6sung": "4K Ultra HD",
+        "Bildschirm": "28\"",
+        "Diagonale des Bildschirms (cm)": "71,1 cm",
+        "Einstellbar": "Ja",
+        "Farbe": "Grau",
+        "Glanz": "300 cd/m\u00b2",
+        "HDMI": "Ja",
+        "L\u00e4nge des Kabels": "1,5 m",
+        "Merkmale": "Flachbildschirm",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein"
+    },
+    "raw_specifications_text": "Art: Monitor\nTouchscreen: Kein\nEinstellbar: Ja\nHDMI: Ja\nGlanz: 300 cd/m\u00b2\nFarbe: Grau\nBildschirm: 28\"\nL\u00e4nge des Kabels: 1,5 m\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nAufl\u00f6sung: 4K Ultra HD\nDiagonale des Bildschirms (cm): 71,1 cm\nMerkmale: Flachbildschirm\nAnschl\u00fcsse: DisplayPort 1.2",
+    "reference_file": "offer_reference_501.json",
+    "shop_name": "bauguru"
+}

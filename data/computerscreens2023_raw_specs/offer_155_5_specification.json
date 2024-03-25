@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_155_5.html",
+    "name": "ASUS VA27EHF, 27\"",
+    "offer_link": "https://haym.info/produktdetails?id=3C12859",
+    "price": 167.8,
+    "raw_specifications": {
+        "Artikelnummer": "3C12859",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "27 Zoll",
+        "Bildschirmdiagonale/cm": "68.6 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "1 Millisekunden",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 27 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nEnergieeffizienzklasse: E\nVGA: 0x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 1x\nVESA-Bohrung: 100x100\nLautsprecher: nein\nReaktionszeit: 1 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 68.6 cm\nTouch-Funktion: nein\nArtikelnummer: 3C12859\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_155.json",
+    "shop_name": "haym.infotec"
+}

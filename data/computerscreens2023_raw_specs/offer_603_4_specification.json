@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_603_4.html",
+    "name": "Philips S-line 272S9JAL, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/272s9jal_00/272s9jal-00-24-va-wled.html",
+    "price": 132.63,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYF0SL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581796389",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "272S9JAL/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nHelligkeit: 300 cd/m\u00b2\nHersteller Artikelnummer: 272S9JAL/00\nEAN: 8712581796389\nArtikelnummer: M1EYF0SL",
+    "reference_file": "offer_reference_603.json",
+    "shop_name": "mylemon.at"
+}

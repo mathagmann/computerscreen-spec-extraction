@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_422_1.html",
+    "name": "Wortmann Terra LED 2227W HA, 21.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/wortmann/3030200/terra-lcd-led-2227w-ha.html",
+    "price": 120.79,
+    "raw_specifications": {
+        "Artikelnummer": "M1CYL9GL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Displaygr\u00f6\u00dfe": "21,5 Zoll",
+        "EAN": "4039407072095",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "3030200",
+        "Panel": "VA",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 21,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 3030200\nEAN: 4039407072095\nArtikelnummer: M1CYL9GL",
+    "reference_file": "offer_reference_422.json",
+    "shop_name": "mylemon.at"
+}

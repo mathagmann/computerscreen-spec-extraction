@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_1330_7.html",
+    "name": "Samsung T45F, 24\"",
+    "offer_link": "https://direkt.jacob.de/produkte/samsung-monitor-f24t450fzu-lf24t450fzuxen-artnr-7182689.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+    "price": 114.75,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "2x HDMI 1.4, 1x DisplayPort 1.2",
+        "Aufl\u00f6sung": "1920x1080, 16:9, 92ppi",
+        "Beschichtung": "Beschichtung",
+        "Bildwiederholfrequenz": "75Hz",
+        "Blickwinkel": "178\u00b0/?178\u00b0",
+        "Diagonale": "61,00cm (24\")/?61cm",
+        "Energie Effizienzklasse": "E",
+        "Farbe": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)",
+        "Farbtiefe": "8bit (16.7 Mio. Farben)",
+        "Form": "gerade (flat)",
+        "Helligkeit": "250cd/?m\u00b2",
+        "Hintergrundbeleuchtung": "White-LED, flicker-free, Blaulichtfilter",
+        "Kontrast": "1.000:1 (statisch), keine Angabe (dynamisch)",
+        "Panel": "IPS (PLS)",
+        "Reaktionszeit": "5ms (GtG), keine Angabe (MPRT)",
+        "Stromversorgung": "AC-In (internes Netzteil)"
+    },
+    "raw_specifications_text": "Diagonale: 61,00cm (24\")/?61cm\nAufl\u00f6sung: 1920x1080, 16:9, 92ppi\nHelligkeit: 250cd/?m\u00b2\nKontrast: 1.000:1 (statisch), keine Angabe (dynamisch)\nReaktionszeit: 5ms (GtG), keine Angabe (MPRT)\nBlickwinkel: 178\u00b0/?178\u00b0\nPanel: IPS (PLS)\nForm: gerade (flat)\nBeschichtung: Beschichtung\nHintergrundbeleuchtung: White-LED, flicker-free, Blaulichtfilter\nFarbtiefe: 8bit (16.7 Mio. Farben)\nBildwiederholfrequenz: 75Hz\nAnschl\u00fcsse: 2x HDMI 1.4, 1x DisplayPort 1.2\nFarbe: schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)\nStromversorgung: AC-In (internes Netzteil)\nEnergie Effizienzklasse: E",
+    "reference_file": "offer_reference_1330.json",
+    "shop_name": "Jacob Elektronik direkt (AT)"
+}

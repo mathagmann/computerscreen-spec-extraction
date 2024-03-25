@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1983_1.html",
+    "name": "Lenovo ThinkVision T32p-20, 31.5\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126451-monitor-lenovo-t32p-20-ips-31-5-0193638980155.html",
+    "price": 798.8,
+    "raw_specifications": {
+        "Art": "Achse",
+        "Aufl\u00f6sung": "4K Ultra HD",
+        "Bildschirm": "31,5\"",
+        "Diagonale des Bildschirms (cm)": "80 cm",
+        "Dreh": "-45\u00ba / 45\u00b0",
+        "Energieklassifizierung": "G",
+        "Farbe": "Schwarz",
+        "Geschwindigkeit": "60 Hz",
+        "Glanz": "350 lm ANSI",
+        "Hinterleuchtet": "W-LED",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Maximale Anpassung": "135 mm",
+        "Montage": "VESA",
+        "Ports": "Audio-Ausgang",
+        "Reichweite": "99% sRGB",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "Verbindung": "DisplayPort 1.2",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 31,5\"\nEnergieklassifizierung: G\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 80 cm\nArt: Achse\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nPorts: Audio-Ausgang\nVerbindung: DisplayPort 1.2\nAufl\u00f6sung: 4K Ultra HD\nGlanz: 350 lm ANSI\nTouchscreen: Kein\nWinkel: 178\u00ba\nHinterleuchtet: W-LED\nMontage: VESA\nGeschwindigkeit: 60 Hz\nReichweite: 99% sRGB\nKompatibel: VESA 100 x 100 mm\nDreh: -45\u00ba / 45\u00b0\nMaximale Anpassung: 135 mm",
+    "reference_file": "offer_reference_1983.json",
+    "shop_name": "bauguru"
+}

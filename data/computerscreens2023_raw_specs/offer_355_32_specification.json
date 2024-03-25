@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_355_32.html",
+    "name": "LG 27QN880P-B, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/lg/27qn880p_b_aeu/27qn880p-b-aeu-68-6cm.html",
+    "price": 438.58,
+    "raw_specifications": {
+        "Artikelnummer": "M1JY53KL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "75 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8806091984579",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "27QN880P-B.AEU",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher\nHersteller Artikelnummer: 27QN880P-B.AEU\nEAN: 8806091984579\nArtikelnummer: M1JY53KL",
+    "reference_file": "offer_reference_355.json",
+    "shop_name": "mylemon.at"
+}

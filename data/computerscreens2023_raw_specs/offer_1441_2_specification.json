@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1441_2.html",
+    "name": "GIGABYTE AORUS FV43U, 43\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/aorus_fv43u/aorus-fv43u-109-22-cm.html",
+    "price": 789.98,
+    "raw_specifications": {
+        "Artikelnummer": "M16Y2HDL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Displaygr\u00f6\u00dfe": "43 Zoll",
+        "EAN": "4719331810924",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "750 cd/m\u00b2",
+        "Hersteller Artikelnummer": "AORUS FV43U",
+        "Panel": "VA",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "200x200 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 43 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: VA\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 200x200 mm\nHelligkeit: 750 cd/m\u00b2\nHersteller Artikelnummer: AORUS FV43U\nEAN: 4719331810924\nArtikelnummer: M16Y2HDL",
+    "reference_file": "offer_reference_1441.json",
+    "shop_name": "mylemon.at"
+}

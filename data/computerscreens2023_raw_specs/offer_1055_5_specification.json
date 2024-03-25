@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_1055_5.html",
+    "name": "Dell UltraSharp U2723QE, 27\"",
+    "offer_link": "https://www.ba-computer.at/dell-u2723qe-ultrasharp-led-monitor-27-flachbildschirm-tft-lcd-x649v.html",
+    "price": 549.88,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Aufl\u00f6sungsstandard": "UHD (3840x2160)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,47 cm",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "TFT",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,47 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 3840 * 2160\nAufl\u00f6sungsstandard: UHD (3840x2160)\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C",
+    "reference_file": "offer_reference_1055.json",
+    "shop_name": "BA-Computer"
+}

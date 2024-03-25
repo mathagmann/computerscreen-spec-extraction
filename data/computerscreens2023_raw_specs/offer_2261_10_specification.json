@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2261_10.html",
+    "name": "V7 L27HAS2K-2E, 27\"",
+    "offer_link": "https://www.future-x.at/v7-27in-686cm-ads-2560-x-1440p-27-zoll-qhd-widescreen-led-monitor-p-2272533/?pv=2",
+    "price": 220.39,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Farbe": "Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nVideo-Schnittstellen: DisplayPort; HDMI\nLautsprecher: Ja\nFarbe: Schwarz",
+    "reference_file": "offer_reference_2261.json",
+    "shop_name": "Future-X.at"
+}

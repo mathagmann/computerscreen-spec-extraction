@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2105_2.html",
+    "name": "Philips V-line 242V8A, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/242v8a_00/242v8a-61cm-24-zoll-led.html",
+    "price": 140.29,
+    "raw_specifications": {
+        "Artikelnummer": "MZGYZIL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "75 Hz",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581759803",
+        "Ergonomie": "Neigbar",
+        "Hersteller Artikelnummer": "242V8A/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nBesonderheiten: 75 Hz\nHersteller Artikelnummer: 242V8A/00\nEAN: 8712581759803\nArtikelnummer: MZGYZIL",
+    "reference_file": "offer_reference_2105.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_532_4.html",
+    "name": "GIGABYTE M32U AE (Arm Edition), 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/m32u_ae_ek/dis-32-gbt-m32u-ae.html",
+    "price": 758.64,
+    "raw_specifications": {
+        "Artikelnummer": "M1HYHDDL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "144 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719331836412",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "M32U AE EK",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 144 Hz, USB HUB\nHersteller Artikelnummer: M32U AE EK\nEAN: 4719331836412\nArtikelnummer: M1HYHDDL",
+    "reference_file": "offer_reference_532.json",
+    "shop_name": "mylemon.at"
+}

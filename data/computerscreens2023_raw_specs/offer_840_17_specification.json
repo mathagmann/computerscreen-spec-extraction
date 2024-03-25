@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_840_17.html",
+    "name": "ASUS TUF Gaming VG248Q1B, 24\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/24752834?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 169.26,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Bildwiederholungsrate": "165 Hz",
+        "Display Features": "FlickerFree",
+        "Displaygr\u00f6\u00dfe": "60,96 cm (24 Zoll)",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "E",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "3,80 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Hersteller": "ASUS",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "TN Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: E\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nDisplay Features: FlickerFree\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nHersteller: ASUS\nDisplaygr\u00f6\u00dfe: 60,96 cm (24 Zoll)\nGewicht: 3,80 kg\nProduktart: Monitore\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: TN Panel\nReaktionszeit: 1 ms\nBildwiederholungsrate: 165 Hz\nEinsatzort: Innen",
+    "reference_file": "offer_reference_840.json",
+    "shop_name": "office-partner (AT)"
+}

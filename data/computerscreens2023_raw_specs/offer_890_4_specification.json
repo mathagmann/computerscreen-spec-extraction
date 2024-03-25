@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_890_4.html",
+    "name": "MSI MAG342CQPVDE, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3db64h_052/34-86-4cm-tft-optix.html",
+    "price": 524.24,
+    "raw_specifications": {
+        "Artikelnummer": "M1AYMISL",
+        "Aufl\u00f6sung": "3440x1440",
+        "Displaygr\u00f6\u00dfe": "34 Zoll",
+        "EAN": "4719072948177",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3DB64H-052",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "75x75 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 34 Zoll\nAufl\u00f6sung: 3440x1440\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 75x75 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 9S6-3DB64H-052\nEAN: 4719072948177\nArtikelnummer: M1AYMISL",
+    "reference_file": "offer_reference_890.json",
+    "shop_name": "mylemon.at"
+}

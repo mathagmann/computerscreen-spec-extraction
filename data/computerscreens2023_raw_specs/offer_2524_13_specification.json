@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_2524_13.html",
+    "name": "Eizo FlexScan S2133 grau, 21.3\"",
+    "offer_link": "https://technikladen.at/P-EIZO-FlexScan-S2133-GY-541-cm-213-Zoll-1600-x-1200-Pixel-UXGA-LCD-7-ms-Grau?tl=gzhls",
+    "price": 793.8,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "1600 x 1200 Pixel",
+        "Bildschirmdiagonale": "54,1 cm",
+        "Bildschirmtechnologie": "LED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display": "LCD",
+        "HD-Typ": "UXGA",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "4:3",
+        "Produktfarbe": "Grau",
+        "Reaktionszeit": "7 ms",
+        "Seitenverh\u00e4ltnis": "4:3",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 54,1 cm\nBildschirmaufl\u00f6sung: 1600 x 1200 Pixel\nHD-Typ: UXGA\nBildschirmtechnologie: LED\nDisplay: LCD\nReaktionszeit: 7 ms\nNatives Seitenverh\u00e4ltnis: 4:3\nSeitenverh\u00e4ltnis: 4:3\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nIntegrierter USB-Hub: Ja\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Grau",
+    "reference_file": "offer_reference_2524.json",
+    "shop_name": "TechnikLaden"
+}

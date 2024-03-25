@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_305_8.html",
+    "name": "LG 27UL500P-W, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/134702-monitor-lg-27-ips-4k-ultra-hd-hdr-8806091983527.html",
+    "price": 333.4,
+    "raw_specifications": {
+        "Art": "Gaming",
+        "Aufl\u00f6sung": "4K Ultra HD",
+        "Aufl\u00f6sung (px)": "3840 x 2160 px",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Energieverbrauch": "36 W",
+        "Ma\u00dfe ca.": "62,2 x 37,1 x 7,41 cm",
+        "Spannung": "100-240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Stromquelle": "Stromnetz",
+        "VESA": "10 x 10 cm"
+    },
+    "raw_specifications_text": "Art: Gaming\nBildschirm: 27\"\nAufl\u00f6sung: 4K Ultra HD\nVESA: 10 x 10 cm\nStromquelle: Stromnetz\nSpannung: 100-240 V\nEnergieverbrauch: 36 W\nMa\u00dfe ca.: 62,2 x 37,1 x 7,41 cm\nAufl\u00f6sung (px): 3840 x 2160 px\nSteckbares Produkt: Ja\nDiagonale des Bildschirms (cm): 68,6 cm\nSteckertyp: EU-Stecker",
+    "reference_file": "offer_reference_305.json",
+    "shop_name": "bauguru"
+}

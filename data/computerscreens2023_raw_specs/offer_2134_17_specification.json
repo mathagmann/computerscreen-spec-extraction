@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_2134_17.html",
+    "name": "Philips E-line 325E1C, 31.5\"",
+    "offer_link": "https://www.cyberport.at/?DEEP=6108-1FM&APID=294&STOREID=7",
+    "price": 263.9,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2.560x1.440 WQHD",
+        "Betrachtungswinkel h/v": "178\u00b0/178\u00b0",
+        "Bildformat": "16:9",
+        "Breite in mm": "710mm",
+        "Displaygr\u00f6\u00dfe in Zoll": "31,5 Zoll",
+        "Displaygr\u00f6\u00dfe in cm": "80,1 cm",
+        "Displayport": "1x DP",
+        "Farbtiefe": "8 Bit / 16,7 Mio Farben",
+        "Gewicht in kg": "7,3 kg",
+        "HDMI": "1x HDMI",
+        "Helligkeit": "250 cd/m\u00b2",
+        "H\u00f6he in mm": "520mm",
+        "Jahresverbrauch": "73 kWh",
+        "Kontrast dynamisch": "k.A.",
+        "Kontrast typisch": "3.000:1",
+        "Lautsprecher": "kein",
+        "Leistungsaufnahme": "50 Watt",
+        "Reaktionszeit": "4 ms",
+        "Technologie": "LED-VA",
+        "Tiefe in mm": "282mm",
+        "USB-C": "kein",
+        "Wandmontage": "VESA100x100"
+    },
+    "raw_specifications_text": "Jahresverbrauch: 73 kWh\nLeistungsaufnahme: 50 Watt\nDisplaygr\u00f6\u00dfe in cm: 80,1 cm\nDisplaygr\u00f6\u00dfe in Zoll: 31,5 Zoll\nTechnologie: LED-VA\nAufl\u00f6sung: 2.560x1.440 WQHD\nBildformat: 16:9\nFarbtiefe: 8 Bit / 16,7 Mio Farben\nHelligkeit: 250 cd/m\u00b2\nKontrast typisch: 3.000:1\nKontrast dynamisch: k.A.\nReaktionszeit: 4 ms\nBetrachtungswinkel h/v: 178\u00b0/178\u00b0\nHDMI: 1x HDMI\nDisplayport: 1x DP\nUSB-C: kein\nLautsprecher: kein\nWandmontage: VESA100x100\nBreite in mm: 710mm\nH\u00f6he in mm: 520mm\nTiefe in mm: 282mm\nGewicht in kg: 7,3 kg",
+    "reference_file": "offer_reference_2134.json",
+    "shop_name": "Cyberport Stores \u00d6sterreich"
+}

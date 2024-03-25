@@ -1,0 +1,32 @@
+{
+    "html_file": "offer_586_23.html",
+    "name": "ASUS TUF Gaming VG27AQA1A, 27\"",
+    "offer_link": "https://www.alternate.at/ASUS/TUF-Gaming-VG27AQA1A-Gaming-Monitor/html/product/1899130?partner=AtGeizhalsat&campaign=Monitor/ASUS/1899130",
+    "price": 294.0,
+    "raw_specifications": {
+        "": "AMD FreeSync",
+        "Anschl\u00fcsse": "2x HDMI-Eingang, (HDMI-Version: 2.0), 1x DisplayPort-Eingang, (DisplayPort-Version: 1.2)",
+        "Bild": "Format",
+        "Bildschirmaufl\u00f6sung": "2.540 x 1.440 Pixel",
+        "Bildschirmdiagonale": "69 cm (27 Zoll)",
+        "EAN": "4711081907503",
+        "Energieeffizienzklasse (HDR)": "G (A - G)",
+        "Energieeffizienzklasse (SDR)": "F (A - G)",
+        "Energieverbauch pro 1000 Stunden (HDR)": "32 kWh",
+        "Energieverbauch pro 1000 Stunden (SDR)": "24 kWh",
+        "Ergonomie": "Typ",
+        "Farbe": "schwarz",
+        "Features": "ASUS Extreme Low Motion Blur (ELMB), DisplayWidget Lite, ASUS ShadowBoost, GamePlus, GameVisual, Flicker-Free Technologie",
+        "Geeignet f\u00fcr": "Gaming",
+        "Hersteller-Nr.": "90LM05Z0-B05370",
+        "Leistungsaufnahme im Bereitschafts- und Aus-Zustand": "0,5 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR)": "24,3 Watt",
+        "Leistungsaufnahme im Ein-Zustand bei hohem Dynamikumfang (HDR)": "32 Watt",
+        "Serie": "TUF Gaming",
+        "Stromversorgung": "Eco-Off",
+        "Typ": "Gaming-Monitor"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse (SDR): F (A - G)\nEnergieverbauch pro 1000 Stunden (SDR): 24 kWh\nEnergieeffizienzklasse (HDR): G (A - G)\nEnergieverbauch pro 1000 Stunden (HDR): 32 kWh\nLeistungsaufnahme im Ein-Zustand bei Standard-Dynamikumfang (SDR): 24,3 Watt\nLeistungsaufnahme im Ein-Zustand bei hohem Dynamikumfang (HDR): 32 Watt\nLeistungsaufnahme im Bereitschafts- und Aus-Zustand: 0,5 Watt\nBildschirmdiagonale: 69 cm (27 Zoll)\nBildschirmaufl\u00f6sung: 2.540 x 1.440 Pixel\nTyp: Gaming-Monitor\nFarbe: schwarz\nEAN: 4711081907503\nHersteller-Nr.: 90LM05Z0-B05370\nSerie: TUF Gaming\nGeeignet f\u00fcr: Gaming\nBild: Format\n: AMD FreeSync\nAnschl\u00fcsse: 2x HDMI-Eingang, (HDMI-Version: 2.0), 1x DisplayPort-Eingang, (DisplayPort-Version: 1.2)\nErgonomie: Typ\nStromversorgung: Eco-Off\nFeatures: ASUS Extreme Low Motion Blur (ELMB), DisplayWidget Lite, ASUS ShadowBoost, GamePlus, GameVisual, Flicker-Free Technologie",
+    "reference_file": "offer_reference_586.json",
+    "shop_name": "Alternate.at"
+}

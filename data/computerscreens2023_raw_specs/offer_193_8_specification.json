@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_193_8.html",
+    "name": "MSI PRO MP161DE, 15.6\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3pb70h_004/40-64cm-16-ips-fhd.html",
+    "price": 222.94,
+    "raw_specifications": {
+        "Artikelnummer": "M1FY79RL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "60 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "15,6 Zoll",
+        "EAN": "4711377022095",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3PB70H-004",
+        "Panel": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Video Anschl\u00fcsse": "1x mini HDMI, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 15,6 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 1x mini HDMI, USB-C DisplayPort\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 60 Hz, Lautsprecher\nHersteller Artikelnummer: 9S6-3PB70H-004\nEAN: 4711377022095\nArtikelnummer: M1FY79RL",
+    "reference_file": "offer_reference_193.json",
+    "shop_name": "mylemon.at"
+}

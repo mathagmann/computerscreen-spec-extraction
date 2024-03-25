@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1987_3.html",
+    "name": "Wortmann Terra LCD 2766W PV Greenline Plus, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/wortmann/3030083/terra-led-2766w-pv-schwarz.html",
+    "price": 377.86,
+    "raw_specifications": {
+        "Artikelnummer": "MZ0YQ8L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4039407053414",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "3030083",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nHersteller Artikelnummer: 3030083\nEAN: 4039407053414\nArtikelnummer: MZ0YQ8L",
+    "reference_file": "offer_reference_1987.json",
+    "shop_name": "mylemon.at"
+}

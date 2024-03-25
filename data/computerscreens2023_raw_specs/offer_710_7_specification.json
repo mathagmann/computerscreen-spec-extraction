@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_710_7.html",
+    "name": "LG UltraWide 49WQ95C-W, 49\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=100000000275116352&ano=W275116352&mno=49WQ95C-W.AEU&ean=8806091661029&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 1289.0,
+    "raw_specifications": {
+        "Bilddiagonale (Zoll)": "49 \"",
+        "Bilddiagonale (cm)": "124,5 cm",
+        "Bildwiederholfrequenz (Hz)": "144 Hz",
+        "Farbe": "Wei\u00df",
+        "Helligkeit": "400 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Vesa-Bohrung": "100 x 100 mm",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nVesa-Bohrung: 100 x 100 mm\nFarbe: Wei\u00df\nBilddiagonale (cm): 124,5 cm\nBilddiagonale (Zoll): 49 \"\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 400 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI\nPC-Schnittstellen: USB Typ C\nBildwiederholfrequenz (Hz): 144 Hz",
+    "reference_file": "offer_reference_710.json",
+    "shop_name": "ElectronicShop24"
+}

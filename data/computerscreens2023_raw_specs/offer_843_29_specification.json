@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_843_29.html",
+    "name": "ASUS ROG Strix XG32UQ, 32\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/25161279?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 1160.92,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "USB, DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Display Features": "FlickerFree",
+        "Displaygr\u00f6\u00dfe": "81,28 cm (32 Zoll)",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "F",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "8,90 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Hersteller": "ASUS",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Verbindungen": "Netzwerk (LAN)",
+        "max. Aufl\u00f6sung": "3.840 x 2.160 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Geh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: USB, DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nProduktart: Monitore\nDisplay Features: FlickerFree\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nDisplaygr\u00f6\u00dfe: 81,28 cm (32 Zoll)\nVerbindungen: Netzwerk (LAN)\nHersteller: ASUS\nGewicht: 8,90 kg\nmax. Aufl\u00f6sung: 3.840 x 2.160 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 1 ms\nEinsatzort: Innen\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_843.json",
+    "shop_name": "playox (AT)"
+}

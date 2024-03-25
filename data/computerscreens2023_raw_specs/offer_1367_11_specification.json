@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_1367_11.html",
+    "name": "Dell P2222H (ohne Standfu\u00df), 21.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=1C14893",
+    "price": 156.55,
+    "raw_specifications": {
+        "Artikelnummer": "1C14893",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "21.5 Zoll",
+        "Bildschirmdiagonale/cm": "54.6 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "D",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "5 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 21.5 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: D\nVGA: 1x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 5 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 54.6 cm\nTouch-Funktion: nein\nArtikelnummer: 1C14893\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_1367.json",
+    "shop_name": "haym.infotec"
+}

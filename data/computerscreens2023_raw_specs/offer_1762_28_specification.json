@@ -1,0 +1,20 @@
+{
+    "html_file": "offer_1762_28.html",
+    "name": "BenQ Zowie XL2546K, 24.5\"",
+    "offer_link": "https://www.future-x.at/benq-xl2546k-6223cm-245in-tn-62-23-cm-1-ms-24-5-1920%2A1080-p-8645017/?pv=2",
+    "price": 528.89,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "24,5 \"",
+        "Bilddiagonale (cm)": "62,23 cm",
+        "Helligkeit": "320 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "TN",
+        "Reaktionszeit": "1 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 62,23 cm\nBilddiagonale (Zoll): 24,5 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 1 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 320 cd/m\u00b2\nPaneltyp: TN\nVideo-Schnittstellen: HDMI",
+    "reference_file": "offer_reference_1762.json",
+    "shop_name": "Future-X.at"
+}

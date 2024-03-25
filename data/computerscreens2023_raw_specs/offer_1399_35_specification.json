@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1399_35.html",
+    "name": "HP M24fw, 23.8\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=320000000138412006&ano=A-I138412006&mno=2D9K1AA&ean=5715063139844&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 197.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Silber",
+        "Gewicht": "2,5 kg",
+        "Kennzeichnung": "CB; CE",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: CB; CE\nFarbe: Silber\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA+ (1440x900); WXGA (1280x800); XGA (1024x768)\nReaktionszeit: 5 ms\nPaneltyp: IPS\nBildwiederholfrequenz (Hz): 75 Hz\nGewicht: 2,5 kg",
+    "reference_file": "offer_reference_1399.json",
+    "shop_name": "ElectronicShop24"
+}

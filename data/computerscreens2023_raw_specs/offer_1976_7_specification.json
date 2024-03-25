@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1976_7.html",
+    "name": "ViewSonic VP2785-2K, 27\"",
+    "offer_link": "https://www.future-x.at/viewsonic-27-68-58-cm-led-16-9-flachbildschirm-tft-lcd-68-6-cm-5-ms-1000%3A1-300-cd-m%B2-ips-displayport-hdmi-usb-typ-c-p-8507583/?pv=2",
+    "price": 619.79,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Farbe": "Silber; Schwarz",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DisplayPort; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: DisplayPort; HDMI\nPC-Schnittstellen: USB Typ C\nFarbe: Silber; Schwarz",
+    "reference_file": "offer_reference_1976.json",
+    "shop_name": "Future-X.at"
+}

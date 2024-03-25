@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2139_1.html",
+    "name": "Philips E-Line 328E1CA, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/328e1ca_00/328e1ca-80cm-31-5in-va.html",
+    "price": 326.68,
+    "raw_specifications": {
+        "Artikelnummer": "MXTYG4L",
+        "Aufl\u00f6sung": "3840x2160",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "8712581758516",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "328E1CA/00",
+        "Panel": "VA",
+        "Reaktionszeit": "4 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: VA\nReaktionszeit: 4 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nHersteller Artikelnummer: 328E1CA/00\nEAN: 8712581758516\nArtikelnummer: MXTYG4L",
+    "reference_file": "offer_reference_2139.json",
+    "shop_name": "mylemon.at"
+}

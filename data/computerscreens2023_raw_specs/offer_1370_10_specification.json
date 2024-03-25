@@ -1,0 +1,18 @@
+{
+    "html_file": "offer_1370_10.html",
+    "name": "Dell P2422H, 23.8\"",
+    "offer_link": "https://www.ba-computer.at/dell-p2422h-led-monitor-24-pn8hn.html",
+    "price": 160.88,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Paneltyp": "TFT",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI; VGA",
+    "reference_file": "offer_reference_1370.json",
+    "shop_name": "BA-Computer"
+}

@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_737_1.html",
+    "name": "Dell Alienware AW2723DF, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/dell/game_aw2723df/alienware-27-gaming-monitor-aw2723df.html",
+    "price": 560.69,
+    "raw_specifications": {
+        "Artikelnummer": "M1EYXXAL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "240 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "5397184656945",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "450 cd/m\u00b2",
+        "Hersteller Artikelnummer": "GAME-AW2723DF",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 450 cd/m\u00b2\nBesonderheiten: 240 Hz, USB HUB\nHersteller Artikelnummer: GAME-AW2723DF\nEAN: 5397184656945\nArtikelnummer: M1EYXXAL",
+    "reference_file": "offer_reference_737.json",
+    "shop_name": "mylemon.at"
+}

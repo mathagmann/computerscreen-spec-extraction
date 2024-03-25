@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_2235_0.html",
+    "name": "Philips E-line 276E8VJSB, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/276e8vjsb_00/phil-27-l-276e8vjsb-00.html",
+    "price": 251.89,
+    "raw_specifications": {
+        "Artikelnummer": "MV2Y4SL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8712581753665",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "276E8VJSB/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 276E8VJSB/00\nEAN: 8712581753665\nArtikelnummer: MV2Y4SL",
+    "reference_file": "offer_reference_2235.json",
+    "shop_name": "mylemon.at"
+}

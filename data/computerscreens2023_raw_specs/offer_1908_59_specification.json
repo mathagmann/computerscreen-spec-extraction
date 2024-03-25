@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1908_59.html",
+    "name": "ASUS ProArt PA278QV, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm05l1_b03370/68-6cm-profess-pa278qv-wqhd.html",
+    "price": 398.53,
+    "raw_specifications": {
+        "Artikelnummer": "M1FY4E3L",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "75 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4718017603614",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM05L1-B03370",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x DVI, 1x HDMI, 1x DisplayPort, 1x mini DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x DVI, 1x HDMI, 1x DisplayPort, 1x mini DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 75 Hz, USB HUB\nHersteller Artikelnummer: 90LM05L1-B03370\nEAN: 4718017603614\nArtikelnummer: M1FY4E3L",
+    "reference_file": "offer_reference_1908.json",
+    "shop_name": "mylemon.at"
+}

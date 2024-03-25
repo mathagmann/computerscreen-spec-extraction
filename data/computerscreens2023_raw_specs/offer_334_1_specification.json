@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_334_1.html",
+    "name": "MSI Modern MD272QP, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/modern_md272qp/monitor-27-inches-modern-md272qp.html",
+    "price": 341.35,
+    "raw_specifications": {
+        "Artikelnummer": "M1HY06CL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "75 Hz, Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719072944292",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Hersteller Artikelnummer": "Modern MD272QP",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "75x75 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 75x75 mm\nHelligkeit: 300 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher\nHersteller Artikelnummer: Modern MD272QP\nEAN: 4719072944292\nArtikelnummer: M1HY06CL",
+    "reference_file": "offer_reference_334.json",
+    "shop_name": "mylemon.at"
+}

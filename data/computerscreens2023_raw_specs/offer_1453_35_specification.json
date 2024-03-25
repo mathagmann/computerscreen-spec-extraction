@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_1453_35.html",
+    "name": "Dell UltraSharp U2722DE, 27\"",
+    "offer_link": "https://technikladen.at/I-Dell-U2722DE-686-cm-27-Zoll-2560-x-1440-Pixel-Quad-HD-LCD-8-ms-Schwarz-Silber?tl=gzhls",
+    "price": 407.32,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "2560 x 1440 Pixel",
+        "Bildschirmdiagonale": "68,6 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "HD-Typ": "Quad HD",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:9",
+        "Produktfarbe": "Black, Silver",
+        "Reaktionszeit": "8 ms",
+        "USB-Hub-Version": "3.2 Gen 2 (3.1 Gen 2)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 68,6 cm\nBildschirmaufl\u00f6sung: 2560 x 1440 Pixel\nHD-Typ: Quad HD\nBildschirmtechnologie: LCD\nReaktionszeit: 8 ms\nNatives Seitenverh\u00e4ltnis: 16:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 2 (3.1 Gen 2)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Black, Silver",
+    "reference_file": "offer_reference_1453.json",
+    "shop_name": "TechnikLaden"
+}

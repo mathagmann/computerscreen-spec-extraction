@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_2094_43.html",
+    "name": "ASUS TUF Gaming VG27VQ, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126599-monitor-asus-vg27vq-27-ips-ips-led-4718017472869.html",
+    "price": 326.6,
+    "raw_specifications": {
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "27\"",
+        "Design": "W\u00f6lbung",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Dreh": "-90 / 90\u00b0",
+        "Eingangsanschluss": "DVI",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "G",
+        "Farbe": "Schwarz",
+        "Geschwindigkeit": "165 Hz",
+        "Glanz": "400 lm ANSI",
+        "Kontrastverh\u00e4ltnis": "3000:1",
+        "Kopfh\u00f6rer": "3,5 mm",
+        "Maximale Anpassung": "120 mm",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 20\u00ba",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Bildschirm: 27\"\nAufl\u00f6sung (px): 1920 x 1080 px\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 68,6 cm\nFarbe: Schwarz\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: G\nKontrastverh\u00e4ltnis: 3000:1\nEingangsanschluss: DVI\nKopfh\u00f6rer: 3,5 mm\nDesign: W\u00f6lbung\nDreh: -90 / 90\u00b0\nSpannung: 100 - 240 V\nEmpfohlene verwendung: Gaming\nTouchscreen: Kein\nWinkel: 178\u00ba\nNeigungswinkel: -5\u00ba / 20\u00ba\nMontage: VESA\nGeschwindigkeit: 165 Hz\nGlanz: 400 lm ANSI\nMaximale Anpassung: 120 mm",
+    "reference_file": "offer_reference_2094.json",
+    "shop_name": "bauguru"
+}

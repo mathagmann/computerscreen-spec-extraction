@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_2273_21.html",
+    "name": "Dell P2319H, 23\"",
+    "offer_link": "https://www.taufnaus.de/product/13594729",
+    "price": 300.64,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Betrachtungswinkel horizontal": "178 \u00b0",
+        "Betrachtungswinkel vertikal": "178 \u00b0",
+        "Bilddiagonale (Zoll)": "23 \"",
+        "Bilddiagonale (cm)": "58,4 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "PC-Schnittstellen": "USB 3.0",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "8 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 58,4 cm\nBilddiagonale (Zoll): 23 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 8 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nBetrachtungswinkel horizontal: 178 \u00b0\nBetrachtungswinkel vertikal: 178 \u00b0\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; VGA\nPC-Schnittstellen: USB 3.0\nBildwiederholfrequenz (Hz): 60 Hz",
+    "reference_file": "offer_reference_2273.json",
+    "shop_name": "TaufNaus"
+}

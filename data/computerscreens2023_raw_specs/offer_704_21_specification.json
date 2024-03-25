@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_704_21.html",
+    "name": "HP P24h G5, 23.8\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=160000001190297112&ano=S1190297112&mno=64W34AA%23ABB&ean=196548132300&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 152.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA+ (1440x900); XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Farbe": "Schwarz",
+        "Gewicht": "4,6 kg",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "TFT",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); WXGA+ (1440x900); XGA (1024x768)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: TFT\nVideo-Schnittstellen: HDMI; VGA\nBildwiederholfrequenz (Hz): 60 Hz\nGewicht: 4,6 kg",
+    "reference_file": "offer_reference_704.json",
+    "shop_name": "ElectronicShop24"
+}

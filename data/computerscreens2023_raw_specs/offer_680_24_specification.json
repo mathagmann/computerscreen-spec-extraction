@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_680_24.html",
+    "name": "ASUS ROG Swift PG27AQN, 27\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/25583022?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 1390.93,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "USB, DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Display Features": "FlickerFree",
+        "Displaygr\u00f6\u00dfe": "68,58 cm (27 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "G",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Grau",
+        "Gewicht": "8,40 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Hersteller": "ASUS",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Produktart": "Monitore",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Verbindungen": "Netzwerk (LAN)",
+        "max. Aufl\u00f6sung": "2.560 x 1.440 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 68,58 cm (27 Zoll)\nGeh\u00e4usefarbe des Ger\u00e4tes: Grau\nAnschl\u00fcsse: USB, DisplayPort, HDMI, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nProduktart: Monitore\nDisplay Features: FlickerFree\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nVerbindungen: Netzwerk (LAN)\nGewicht: 8,40 kg\nHersteller: ASUS\nmax. Aufl\u00f6sung: 2.560 x 1.440 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 1 ms\nDisplayoberfl\u00e4che: matt\nEinsatzort: Innen\nEnergieeffizienzklasse: G",
+    "reference_file": "offer_reference_680.json",
+    "shop_name": "playox (AT)"
+}

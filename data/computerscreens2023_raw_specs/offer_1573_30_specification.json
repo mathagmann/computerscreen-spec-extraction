@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1573_30.html",
+    "name": "AOC 27B2AM, 27\"",
+    "offer_link": "https://www.future-x.at/aoc-27-va-hdmi-d-sub-1920x1080-169-4ms-schwarz-4-ms-4000%3A1-vga-p-8747977/?pv=2",
+    "price": 140.5,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,58 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "4000:1",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 68,58 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 4000:1\nHelligkeit: 250 cd/m\u00b2\nVideo-Schnittstellen: VGA\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_1573.json",
+    "shop_name": "Future-X.at"
+}

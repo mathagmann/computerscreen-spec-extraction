@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1472_9.html",
+    "name": "GIGABYTE AORUS FI32Q, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/gigabyte/aorusfi32q_ek/lcd-monitor-aorus-fi32q-ek.html",
+    "price": 738.71,
+    "raw_specifications": {
+        "Artikelnummer": "M1HYP9RL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz, USB HUB",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719331810504",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "AORUSFI32Q-EK",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 165 Hz, USB HUB\nHersteller Artikelnummer: AORUSFI32Q-EK\nEAN: 4719331810504\nArtikelnummer: M1HYP9RL",
+    "reference_file": "offer_reference_1472.json",
+    "shop_name": "mylemon.at"
+}

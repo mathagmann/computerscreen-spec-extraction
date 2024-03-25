@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_987_24.html",
+    "name": "ASUS ZenScreen Go MB16AWP, 15.6\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/23771808?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 543.29,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Bildwiederholungsrate": "60,00 Hz",
+        "Display Features": "FlickerFree",
+        "Displaygr\u00f6\u00dfe": "bis 45,72 cm (18 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "C",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "2,27 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "5,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)",
+        "t\u00e4gliche Laufzeit Bereich": "< 14 Std."
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: C\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nFiltergruppennummer: Monitore\nAnschl\u00fcsse: Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nDisplay Features: FlickerFree\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nDisplaygr\u00f6\u00dfe: bis 45,72 cm (18 Zoll)\nt\u00e4gliche Laufzeit Bereich: < 14 Std.\nGewicht: 2,27 kg\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 5,00 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 60,00 Hz\nEinsatzort: Innen",
+    "reference_file": "offer_reference_987.json",
+    "shop_name": "office-partner (AT)"
+}

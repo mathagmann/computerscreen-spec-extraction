@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2459_1.html",
+    "name": "NEC MultiSync EX241UN-BK schwarz, 24\"",
+    "offer_link": "https://haym.info/produktdetails?id=6C54081",
+    "price": 447.5,
+    "raw_specifications": {
+        "Artikelnummer": "6C54081",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "24 Zoll",
+        "Bildschirmdiagonale/cm": "61 cm",
+        "DVI": "1x",
+        "DisplayPort": "2x",
+        "Energieeffizienzklasse": "E",
+        "HDMI": "1x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "36 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "ja",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "6 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "1x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 24 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVGA: 1x\nDVI: 1x\nDisplayPort: 2x\nHDMI: 1x\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: ja\nReaktionszeit: 6 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 61 cm\nTouch-Funktion: nein\nArtikelnummer: 6C54081\nHerstellergarantie: 36 Monate",
+    "reference_file": "offer_reference_2459.json",
+    "shop_name": "haym.infotec"
+}

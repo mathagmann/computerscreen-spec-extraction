@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_1745_27.html",
+    "name": "ASUS VP229Q, 21.5\"",
+    "offer_link": "https://technikladen.at/P-ASUS-VP229Q-215IN-WLED/IPS1920X1080-Flachbildschirm-TFT/LCD-546-cm?tl=gzhls",
+    "price": 155.34,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "21,5 \"",
+        "Bilddiagonale (cm)": "54,6 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz; Blau",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kennzeichnung": "T\u00dcV / GS",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Verstellbarkeit": "Neigbar",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nKennzeichnung: T\u00dcV / GS\nFarbe: Schwarz; Blau\nBilddiagonale (cm): 54,6 cm\nBilddiagonale (Zoll): 21,5 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; VGA\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz\nVerstellbarkeit: Neigbar",
+    "reference_file": "offer_reference_1745.json",
+    "shop_name": "TechnikLaden"
+}

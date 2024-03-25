@@ -1,0 +1,27 @@
+{
+    "html_file": "offer_362_28.html",
+    "name": "LG 24BN65YP-B, 23.8\"",
+    "offer_link": "https://technikladen.at/LG-24BN65YP-B/24/IPS/FHD/16-9/schwarz-Flachbildschirm-TFT/LCD-24-5-ms-10001-IPS-TCO9-DVI-HDMI?tl=gzhls",
+    "price": 152.09,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Kopfh\u00f6rer Ausgang",
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "Full HD (1920x1080)",
+        "Bilddiagonale (Zoll)": "24 \"",
+        "Bilddiagonale (cm)": "61 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Schwarz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Lautsprecher": "Ja",
+        "PC-Schnittstellen": "USB 2.0; USB 3.0",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Strahlungsklasse TCO": "TCO9",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Schwarz\nBilddiagonale (cm): 61 cm\nBilddiagonale (Zoll): 24 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: Full HD (1920x1080)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nStrahlungsklasse TCO: TCO9\nVideo-Schnittstellen: DVI; HDMI\nPC-Schnittstellen: USB 2.0; USB 3.0\nAudio Ein- und Ausg\u00e4nge: Kopfh\u00f6rer Ausgang\nLautsprecher: Ja\nBildwiederholfrequenz (Hz): 75 Hz",
+    "reference_file": "offer_reference_362.json",
+    "shop_name": "TechnikLaden"
+}

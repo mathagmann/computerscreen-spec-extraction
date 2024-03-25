@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_1352_27.html",
+    "name": "GIGABYTE AORUS FI32U, 31.5\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/125325-monitor-gigabyte-fi32u-ek-32-4k-uhd-4719331810559.html",
+    "price": 1134.8,
+    "raw_specifications": {
+        "Art": "Achse",
+        "Aufl\u00f6sung (px)": "3840 x 2160 px",
+        "Bildschirm": "32\"",
+        "Dreh": "-20\u00ba / 20\u00b0",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "G",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Frequenz": "50 - 60 Hz",
+        "Geschwindigkeit": "144 Hz",
+        "Glanz": "350 lm ANSI",
+        "Grafikkarte": "AMD",
+        "Kerne": "1 Kern",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Maximale Anpassung": "130 mm",
+        "Montage": "VESA",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Verbindung": "DisplayPort 1.4",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Reaktionszeit: 1 ms\nEnergieklassifizierung: G\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nAufl\u00f6sung (px): 3840 x 2160 px\nArt: Achse\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nBildschirm: 32\"\nFrequenz: 50 - 60 Hz\nSpannung: 100 - 240 V\nEmpfohlene verwendung: Gaming\nGlanz: 350 lm ANSI\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nGrafikkarte: AMD\nVerbindung: DisplayPort 1.4\nMontage: VESA\nGeschwindigkeit: 144 Hz\nMaximale Anpassung: 130 mm\nDreh: -20\u00ba / 20\u00b0\nKerne: 1 Kern",
+    "reference_file": "offer_reference_1352.json",
+    "shop_name": "bauguru"
+}

@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_2524_2.html",
+    "name": "Eizo FlexScan S2133 grau, 21.3\"",
+    "offer_link": "https://haym.info/produktdetails?id=3A55851",
+    "price": 778.02,
+    "raw_specifications": {
+        "Artikelnummer": "3A55851",
+        "Aufl\u00f6sung": "1600x1200 (4:3)",
+        "Bildschirmdiagonale/Zoll": "21.3 Zoll",
+        "Bildschirmdiagonale/cm": "54.1 cm",
+        "Energieeffizienzklasse": "E",
+        "Helligkeit": "420 cd/m2",
+        "Herstellergarantie": "60 Monate",
+        "H\u00f6henverstellbarkeit": "ja",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "ja",
+        "Reaktionszeit": "6 Millisekunden",
+        "Swivelfunktion": "ja",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 21.3 Zoll\nAufl\u00f6sung: 1600x1200 (4:3)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: ja\nEnergieeffizienzklasse: E\nVESA-Bohrung: 100x100\nSwivelfunktion: ja\nPivotfunktion: ja\nLautsprecher: nein\nReaktionszeit: 6 Millisekunden\nHelligkeit: 420 cd/m2\nBildschirmdiagonale/cm: 54.1 cm\nTouch-Funktion: nein\nArtikelnummer: 3A55851\nHerstellergarantie: 60 Monate",
+    "reference_file": "offer_reference_2524.json",
+    "shop_name": "haym.infotec"
+}

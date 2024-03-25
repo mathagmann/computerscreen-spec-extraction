@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_33_7.html",
+    "name": "BenQ PD3205UA, 31.5\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/133409-monitor-benq-pd3205ua-32-ips-hdr10-lcd-flicker-free-60-hz-4718755090394.html",
+    "price": 1031.1,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "4K Ultra HD",
+        "Aufl\u00f6sung (px)": "3840 x 2160 px",
+        "Empfohlene verwendung": "Grafische Gestaltung",
+        "Energieklassifizierung": "F",
+        "Energieverbrauch": "30 kWh",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Frequenz": "60 Hz",
+        "Geschwindigkeit": "60 Hz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Montage": "VESA",
+        "Ports": "2",
+        "Reichweite": "99% sRGB",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Stromquelle": "USB",
+        "Touchscreen": "Kein",
+        "VESA": "10 x 10 cm",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Energieklassifizierung: F\nAufl\u00f6sung: 4K Ultra HD\nFrequenz: 60 Hz\nAufl\u00f6sung (px): 3840 x 2160 px\nVESA: 10 x 10 cm\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nSeitenverh\u00e4ltnis: 16:9\nKontrastverh\u00e4ltnis: 1000:1\nPorts: 2\nStromquelle: USB\nEnergieverbrauch: 30 kWh\nTouchscreen: Kein\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nMontage: VESA\nGeschwindigkeit: 60 Hz\nEmpfohlene verwendung: Grafische Gestaltung\nReichweite: 99% sRGB",
+    "reference_file": "offer_reference_33.json",
+    "shop_name": "bauguru"
+}

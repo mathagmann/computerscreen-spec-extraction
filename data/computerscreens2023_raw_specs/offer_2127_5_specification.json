@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_2127_5.html",
+    "name": "ViewSonic VX3276-4K-MHD, 31.5\"",
+    "offer_link": "https://haym.info/produktdetails?id=9C29491",
+    "price": 402.23,
+    "raw_specifications": {
+        "Artikelnummer": "9C29491",
+        "Aufl\u00f6sung": "3840x2160 (16:9)",
+        "Bildschirmdiagonale/Zoll": "31.5 Zoll",
+        "Bildschirmdiagonale/cm": "80 cm",
+        "DVI": "0x",
+        "DisplayPort": "1x",
+        "Energieeffizienzklasse": "G",
+        "HDMI": "2x",
+        "Helligkeit": "300 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "ja",
+        "Paneltyp": "MVA",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "3 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 31.5 Zoll\nAufl\u00f6sung: 3840x2160 (16:9)\nPaneltyp: MVA\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: G\nVGA: 0x\nDVI: 0x\nDisplayPort: 1x\nHDMI: 2x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: ja\nReaktionszeit: 3 Millisekunden\nHelligkeit: 300 cd/m2\nBildschirmdiagonale/cm: 80 cm\nTouch-Funktion: nein\nArtikelnummer: 9C29491\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_2127.json",
+    "shop_name": "haym.infotec"
+}

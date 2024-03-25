@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2074_13.html",
+    "name": "MSI Optix G32C4, 31.5\"",
+    "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3da61t_024/optix-g32c4de.html",
+    "price": 350.94,
+    "raw_specifications": {
+        "Artikelnummer": "M1FYKAJL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "165 Hz, Curved",
+        "Displaygr\u00f6\u00dfe": "31,5 Zoll",
+        "EAN": "4719072964504",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "9S6-3DA61T-024",
+        "Panel": "VA",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 31,5 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: VA\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 165 Hz, Curved\nHersteller Artikelnummer: 9S6-3DA61T-024\nEAN: 4719072964504\nArtikelnummer: M1FYKAJL",
+    "reference_file": "offer_reference_2074.json",
+    "shop_name": "mylemon.at"
+}

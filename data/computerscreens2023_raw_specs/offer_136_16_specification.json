@@ -1,0 +1,26 @@
+{
+    "html_file": "offer_136_16.html",
+    "name": "AOC Agon AG405UXC, 40\"",
+    "offer_link": "https://www.office-partner.de/productredirect/index/sku/27172500?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 687.16,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)",
+        "Bildwiederholungsrate": "144,00 Hz",
+        "Display Features": "FlickerFree",
+        "Display Sync": "Adaptive Sync",
+        "Displaygr\u00f6\u00dfe": "101,6 cm (40 Zoll)",
+        "Energieeffizienzklasse": "G",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "11,88 kg",
+        "Helligkeit Bereich": "300 - 450 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "ab 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "1,00 ms",
+        "Seitenverh\u00e4ltnis": "21:9",
+        "max. Aufl\u00f6sung": "3.440 x 1.440 Pixel (21:9)"
+    },
+    "raw_specifications_text": "Energieeffizienzklasse: G\nGeh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nAnschl\u00fcsse: HDMI, DisplayPort, USB, Kopfh\u00f6reranschluss, Audioausgang (Line-Out)\nFiltergruppennummer: Monitore\nDisplaygr\u00f6\u00dfe: 101,6 cm (40 Zoll)\nDisplay Features: FlickerFree\nKontrastverh\u00e4ltnis (typisch) Bereich: ab 1.200:1\nHelligkeit Bereich: 300 - 450 cd/m\u00b2\nDisplay Sync: Adaptive Sync\nGewicht: 11,88 kg\nmax. Aufl\u00f6sung: 3.440 x 1.440 Pixel (21:9)\nSeitenverh\u00e4ltnis: 21:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 1,00 ms\nBildwiederholungsrate: 144,00 Hz",
+    "reference_file": "offer_reference_136.json",
+    "shop_name": "office-partner (AT)"
+}

@@ -1,0 +1,28 @@
+{
+    "html_file": "offer_685_15.html",
+    "name": "HP V24i G5, 23.8\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/25254975?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 164.47,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "DisplayPort, HDMI, VGA/D-Sub",
+        "Bildwiederholungsrate": "75,00 Hz",
+        "Display Features": "FlickerFree",
+        "Display Sync": "AMD FreeSync",
+        "Displaygr\u00f6\u00dfe": "60,96 cm (24 Zoll)",
+        "Displayoberfl\u00e4che": "matt",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "E",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "3,78 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "5,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Geh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nDisplaygr\u00f6\u00dfe: 60,96 cm (24 Zoll)\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nAnschl\u00fcsse: DisplayPort, HDMI, VGA/D-Sub\nDisplay Features: FlickerFree\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nGewicht: 3,78 kg\nDisplay Sync: AMD FreeSync\nFiltergruppennummer: Monitore\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 5,00 ms\nDisplayoberfl\u00e4che: matt\nBildwiederholungsrate: 75,00 Hz\nEinsatzort: Innen\nEnergieeffizienzklasse: E",
+    "reference_file": "offer_reference_685.json",
+    "shop_name": "playox (AT)"
+}

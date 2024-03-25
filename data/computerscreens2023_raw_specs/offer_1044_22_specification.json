@@ -1,0 +1,24 @@
+{
+    "html_file": "offer_1044_22.html",
+    "name": "Dell UltraSharp U3023E, 30\"",
+    "offer_link": "https://technikladen.at/I-Dell-UltraSharp-30-USB-C-Hub-Monitor-U3023E-7562-cm-30-7562-cm-30?tl=gzhls",
+    "price": 620.09,
+    "raw_specifications": {
+        "Bildschirmaufl\u00f6sung": "2560 x 1600 Pixel",
+        "Bildschirmdiagonale": "76,2 cm",
+        "Bildschirmtechnologie": "LCD",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "HD-Typ": "WQXGA",
+        "H\u00f6henverstellung": "Ja",
+        "Integrierter USB-Hub": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "16:10",
+        "Produktfarbe": "Silber",
+        "Reaktionszeit": "8 ms",
+        "USB-Hub-Version": "3.2 Gen 2 (3.1 Gen 2)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 76,2 cm\nBildschirmaufl\u00f6sung: 2560 x 1600 Pixel\nHD-Typ: WQXGA\nBildschirmtechnologie: LCD\nReaktionszeit: 8 ms\nNatives Seitenverh\u00e4ltnis: 16:10\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nIntegrierter USB-Hub: Ja\nUSB-Hub-Version: 3.2 Gen 2 (3.1 Gen 2)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja\nProduktfarbe: Silber",
+    "reference_file": "offer_reference_1044.json",
+    "shop_name": "TechnikLaden"
+}

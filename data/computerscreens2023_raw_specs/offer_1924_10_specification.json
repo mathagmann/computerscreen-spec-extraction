@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_1924_10.html",
+    "name": "AOC 24P2C, 23.8\"",
+    "offer_link": "https://www.future-x.at/aoc-60-5-cm-238-16-09-hdmi%2Bdp%2Busb-ips-black-flachbildschirm-tft-lcd-60-5-cm-4-ms-hdmi-usb-typ-c-vga-eingang-p-8459520/?pv=2",
+    "price": 178.6,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bilddiagonale (Zoll)": "23,8 \"",
+        "Bilddiagonale (cm)": "60,5 cm",
+        "Farbe": "Schwarz",
+        "PC-Schnittstellen": "USB Typ C",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video Ein- und Ausg\u00e4nge": "VGA-Eingang",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 60,5 cm\nBilddiagonale (Zoll): 23,8 \"\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nPC-Schnittstellen: USB Typ C\nVideo Ein- und Ausg\u00e4nge: VGA-Eingang\nFarbe: Schwarz",
+    "reference_file": "offer_reference_1924.json",
+    "shop_name": "Future-X.at"
+}

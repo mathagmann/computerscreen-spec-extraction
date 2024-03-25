@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_833_1.html",
+    "name": "Samsung Odyssey G5 G52A, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/samsung/ls27ag520ppxen/odyssey-g5-g52a-27inch-wqhd.html",
+    "price": 339.49,
+    "raw_specifications": {
+        "Artikelnummer": "M1JYTNYL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "8806094796520",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "LS27AG520PPXEN",
+        "Panel": "IPS",
+        "Reaktionszeit": "1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 1 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: LS27AG520PPXEN\nEAN: 8806094796520\nArtikelnummer: M1JYTNYL",
+    "reference_file": "offer_reference_833.json",
+    "shop_name": "mylemon.at"
+}

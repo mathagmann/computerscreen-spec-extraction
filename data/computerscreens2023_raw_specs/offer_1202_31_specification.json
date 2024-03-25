@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_1202_31.html",
+    "name": "HP E24mv G4, 23.8\"",
+    "offer_link": "https://www.future-x.at/hp-e24mv-g4-fhd-1920x1080a50-60hz-dp-hdmi-vga-usb-250cd-flachbildschirm-tft-lcd-4-ms-1000%3A1-250-cd-m%B2-ips-hdmi-vga-p-8893045/?pv=2",
+    "price": 246.4,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Bildwiederholfrequenz (Hz)": "60 Hz",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nAufl\u00f6sung: 1920 * 1080\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 250 cd/m\u00b2\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; VGA\nBildwiederholfrequenz (Hz): 60 Hz",
+    "reference_file": "offer_reference_1202.json",
+    "shop_name": "Future-X.at"
+}

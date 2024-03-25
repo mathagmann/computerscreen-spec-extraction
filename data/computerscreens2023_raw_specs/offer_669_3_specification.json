@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_669_3.html",
+    "name": "Cooler Master GM27-FFS, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/coolermaster/cmi_gm27_ffs_ek/27-l-gm27-ffs.html",
+    "price": 218.49,
+    "raw_specifications": {
+        "Artikelnummer": "M1DYF6UL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "165 Hz",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4719512127360",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "CMI-GM27-FFS-EK",
+        "Panel": "IPS",
+        "Reaktionszeit": "0,5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 2x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 0,5 ms\nVideo Anschl\u00fcsse: 2x HDMI, 2x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: 165 Hz\nHersteller Artikelnummer: CMI-GM27-FFS-EK\nEAN: 4719512127360\nArtikelnummer: M1DYF6UL",
+    "reference_file": "offer_reference_669.json",
+    "shop_name": "mylemon.at"
+}

@@ -1,0 +1,33 @@
+{
+    "html_file": "offer_2400_28.html",
+    "name": "BenQ PD2500Q, 25\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/129019-monitor-benq-pd2500q-wxga-led-ips-lcd-60-hz-4718755068683.html",
+    "price": 395.8,
+    "raw_specifications": {
+        "Art": "Achse",
+        "Aufl\u00f6sung (px)": "2560 x 1440 px",
+        "Bildschirm": "25\"",
+        "Diagonale des Bildschirms (cm)": "63,5 cm",
+        "Dreh": "-45\u00ba / 45\u00b0",
+        "Empfohlene verwendung": "Grafische Gestaltung",
+        "Energieklassifizierung": "G",
+        "Enthalten": "AC-Adapter",
+        "Frequenz": "60 Hz",
+        "Glanz": "350 lm ANSI",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Land/Region der Herstellung": "China",
+        "Leistung": "4 W",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 20\u00ba",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "220 V",
+        "Steckbares Produkt": "Ja",
+        "Stecker": "Kensington",
+        "Steckertyp": "EU-Stecker",
+        "Ungef\u00e4hres Gewicht": "20 g",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Frequenz: 60 Hz\nAufl\u00f6sung (px): 2560 x 1440 px\nBildschirm: 25\"\nWinkel: 178\u00ba\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nDiagonale des Bildschirms (cm): 63,5 cm\nArt: Achse\nLand/Region der Herstellung: China\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: G\nSpannung: 220 V\nKontrastverh\u00e4ltnis: 1000:1\nUngef\u00e4hres Gewicht: 20 g\nEnthalten: AC-Adapter\nLeistung: 4 W\nGlanz: 350 lm ANSI\nStecker: Kensington\nNeigungswinkel: -5\u00ba / 20\u00ba\nMontage: VESA\nEmpfohlene verwendung: Grafische Gestaltung\nDreh: -45\u00ba / 45\u00b0",
+    "reference_file": "offer_reference_2400.json",
+    "shop_name": "bauguru"
+}

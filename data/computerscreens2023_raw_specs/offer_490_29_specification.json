@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_490_29.html",
+    "name": "Samsung CRG9 (2023), 49\"",
+    "offer_link": "https://technikladen.at/I-LC49RG94SSPXEN-Samsung-Serie-9-1240cm-C49RG94SSP-32-9-49-schwarz-Flachbildschirm-TFT-LCD-124-cm-LC49RG94SSPXEN-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+    "price": 892.5,
+    "raw_specifications": {
+        "Bildschirmdiagonale": "124 cm",
+        "Bildschirmtechnologie": "QLED",
+        "Bildwinkel, horizontal": "178 \u00b0",
+        "Bildwinkel, vertikal": "178 \u00b0",
+        "Display-Aufl\u00f6sung": "5120 x 1440 Pixel",
+        "HD-Typ": "Quad HD",
+        "H\u00f6henverstellung": "Ja",
+        "Natives Seitenverh\u00e4ltnis": "32:9",
+        "USB-Hub-Version": "2.0 / 3.2 Gen 1 (3.1 Gen 1)",
+        "VESA-Halterung": "Ja"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale: 124 cm\nDisplay-Aufl\u00f6sung: 5120 x 1440 Pixel\nHD-Typ: Quad HD\nBildschirmtechnologie: QLED\nNatives Seitenverh\u00e4ltnis: 32:9\nBildwinkel, horizontal: 178 \u00b0\nBildwinkel, vertikal: 178 \u00b0\nUSB-Hub-Version: 2.0 / 3.2 Gen 1 (3.1 Gen 1)\nVESA-Halterung: Ja\nH\u00f6henverstellung: Ja",
+    "reference_file": "offer_reference_490.json",
+    "shop_name": "TechnikLaden"
+}

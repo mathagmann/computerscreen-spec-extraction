@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_2365_5.html",
+    "name": "Philips V-line 243V7QJABF, 23.8\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/243v7qjabf_00/243v7qjabf-60-45cm-23-8zoll.html",
+    "price": 107.45,
+    "raw_specifications": {
+        "Artikelnummer": "MPVY2TL",
+        "Aufl\u00f6sung": "1920x1080",
+        "Besonderheiten": "Lautsprecher",
+        "Displaygr\u00f6\u00dfe": "23,8 Zoll",
+        "EAN": "8712581746025",
+        "Ergonomie": "Neigbar",
+        "Helligkeit": "250 cd/m\u00b2",
+        "Hersteller Artikelnummer": "243V7QJABF/00",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x VGA, 1x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 23,8 Zoll\nAufl\u00f6sung: 1920x1080\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x VGA, 1x HDMI, 1x DisplayPort\nErgonomie: Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 250 cd/m\u00b2\nBesonderheiten: Lautsprecher\nHersteller Artikelnummer: 243V7QJABF/00\nEAN: 8712581746025\nArtikelnummer: MPVY2TL",
+    "reference_file": "offer_reference_2365.json",
+    "shop_name": "mylemon.at"
+}

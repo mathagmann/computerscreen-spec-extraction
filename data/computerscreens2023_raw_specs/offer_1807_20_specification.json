@@ -1,0 +1,19 @@
+{
+    "html_file": "offer_1807_20.html",
+    "name": "Philips E-line 288E2A, 28\"",
+    "offer_link": "https://www.future-x.at/philips-x88e2a-00-28-ips-3840x2160-2xhdmi-dp-16-9-4ms-71-12-cm-28-1000%3A1-300-cd-m%B2-ips-p-8524199/?pv=2",
+    "price": 311.29,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "3840 * 2160",
+        "Bilddiagonale (Zoll)": "28 \"",
+        "Bilddiagonale (cm)": "71,12 cm",
+        "Helligkeit": "300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 71,12 cm\nBilddiagonale (Zoll): 28 \"\nAufl\u00f6sung: 3840 * 2160\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nHelligkeit: 300 cd/m\u00b2\nPaneltyp: IPS",
+    "reference_file": "offer_reference_1807.json",
+    "shop_name": "Future-X.at"
+}

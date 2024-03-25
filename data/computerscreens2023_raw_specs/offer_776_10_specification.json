@@ -1,0 +1,32 @@
+{
+    "html_file": "offer_776_10.html",
+    "name": "HP M27ha, 27\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/127321-monitor-hp-m27ha-27-ips-flicker-free-0196548498086.html",
+    "price": 242.2,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "Full HD",
+        "Aufl\u00f6sung (px)": "1920 x 1080 px",
+        "Bildschirm": "27\"",
+        "Diagonale des Bildschirms (cm)": "68,6 cm",
+        "Empfohlene verwendung": "Haushalt",
+        "Energieklassifizierung": "E",
+        "Enthalten": "Kopfh\u00f6rerausgang",
+        "Farbe": "Schwarz",
+        "Geschwindigkeit": "60 Hz",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Montage": "VESA",
+        "Nicht erhalten": "AMD FreeSync",
+        "Pixel-Dichte (dpi)": "82 dpi",
+        "Pr\u00e4zision (relative Feuchte)": "20 % - 80 %",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Spannung": "100 - 240 V",
+        "Steckbares Produkt": "Ja",
+        "Steckertyp": "EU-Stecker",
+        "Touchscreen": "Kein",
+        "Verbindung": "DisplayPort 1.4",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Farbe: Schwarz\nAufl\u00f6sung: Full HD\nBildschirm: 27\"\nAufl\u00f6sung (px): 1920 x 1080 px\nSteckbares Produkt: Ja\nSteckertyp: EU-Stecker\nSeitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: E\nKontrastverh\u00e4ltnis: 1000:1\nSpannung: 100 - 240 V\nTouchscreen: Kein\nEnthalten: Kopfh\u00f6rerausgang\nWinkel: 178\u00ba\nPr\u00e4zision (relative Feuchte): 20 % - 80 %\nVerbindung: DisplayPort 1.4\nNicht erhalten: AMD FreeSync\nMontage: VESA\nGeschwindigkeit: 60 Hz\nEmpfohlene verwendung: Haushalt\nPixel-Dichte (dpi): 82 dpi\nDiagonale des Bildschirms (cm): 68,6 cm",
+    "reference_file": "offer_reference_776.json",
+    "shop_name": "bauguru"
+}

@@ -1,0 +1,30 @@
+{
+    "html_file": "offer_847_8.html",
+    "name": "Philips 3000 Series 16B1P3302, 15.6\"",
+    "offer_link": "https://haym.info/produktdetails?id=2C24175",
+    "price": 276.08,
+    "raw_specifications": {
+        "Artikelnummer": "2C24175",
+        "Aufl\u00f6sung": "1920x1080 (16:9)",
+        "Bildschirmdiagonale/Zoll": "15.6 Zoll",
+        "Bildschirmdiagonale/cm": "39.6 cm",
+        "DVI": "0x",
+        "DisplayPort": "0x",
+        "Energieeffizienzklasse": "D",
+        "HDMI": "0x",
+        "Helligkeit": "250 cd/m2",
+        "Herstellergarantie": "24 Monate",
+        "H\u00f6henverstellbarkeit": "nein",
+        "Lautsprecher": "nein",
+        "Paneltyp": "IPS",
+        "Pivotfunktion": "nein",
+        "Reaktionszeit": "4 Millisekunden",
+        "Swivelfunktion": "nein",
+        "Touch-Funktion": "nein",
+        "VESA-Bohrung": "100x100",
+        "VGA": "0x"
+    },
+    "raw_specifications_text": "Bildschirmdiagonale/Zoll: 15.6 Zoll\nAufl\u00f6sung: 1920x1080 (16:9)\nPaneltyp: IPS\nH\u00f6henverstellbarkeit: nein\nEnergieeffizienzklasse: D\nVGA: 0x\nDVI: 0x\nDisplayPort: 0x\nHDMI: 0x\nVESA-Bohrung: 100x100\nSwivelfunktion: nein\nPivotfunktion: nein\nLautsprecher: nein\nReaktionszeit: 4 Millisekunden\nHelligkeit: 250 cd/m2\nBildschirmdiagonale/cm: 39.6 cm\nTouch-Funktion: nein\nArtikelnummer: 2C24175\nHerstellergarantie: 24 Monate",
+    "reference_file": "offer_reference_847.json",
+    "shop_name": "haym.infotec"
+}

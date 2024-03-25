@@ -1,0 +1,25 @@
+{
+    "html_file": "offer_1644_2.html",
+    "name": "ViewSonic VA2432-H, 23.8\"",
+    "offer_link": "https://www.playox.de/productredirect/index/sku/14773819?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+    "price": 104.75,
+    "raw_specifications": {
+        "Anschl\u00fcsse": "HDMI, VGA/D-Sub",
+        "Bildwiederholungsrate": "75,00 Hz",
+        "Displaygr\u00f6\u00dfe": "60,96 cm (24 Zoll)",
+        "Einsatzort": "Innen",
+        "Energieeffizienzklasse": "F",
+        "Filtergruppennummer": "Monitore",
+        "Geh\u00e4usefarbe des Ger\u00e4tes": "Schwarz",
+        "Gewicht": "2,70 kg",
+        "Helligkeit Bereich": "150 - 300 cd/m\u00b2",
+        "Kontrastverh\u00e4ltnis (typisch) Bereich": "800:1 bis 1.200:1",
+        "LCD-Technologie": "IPS Panel",
+        "Reaktionszeit": "4,00 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "max. Aufl\u00f6sung": "1.920 x 1.080 Pixel (16:9)"
+    },
+    "raw_specifications_text": "Geh\u00e4usefarbe des Ger\u00e4tes: Schwarz\nDisplaygr\u00f6\u00dfe: 60,96 cm (24 Zoll)\nHelligkeit Bereich: 150 - 300 cd/m\u00b2\nAnschl\u00fcsse: HDMI, VGA/D-Sub\nKontrastverh\u00e4ltnis (typisch) Bereich: 800:1 bis 1.200:1\nGewicht: 2,70 kg\nFiltergruppennummer: Monitore\nmax. Aufl\u00f6sung: 1.920 x 1.080 Pixel (16:9)\nSeitenverh\u00e4ltnis: 16:9\nLCD-Technologie: IPS Panel\nReaktionszeit: 4,00 ms\nBildwiederholungsrate: 75,00 Hz\nEinsatzort: Innen\nEnergieeffizienzklasse: F",
+    "reference_file": "offer_reference_1644.json",
+    "shop_name": "playox (AT)"
+}

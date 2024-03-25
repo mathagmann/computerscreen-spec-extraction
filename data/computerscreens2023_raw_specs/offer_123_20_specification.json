@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_123_20.html",
+    "name": "iiyama ProLite B1980D-W5, 19\"",
+    "offer_link": "https://www.future-x.at/iiyama-prolite-b1980d-w5-wei%DF-19-48cm-1280-x-1024-5%3A4-1000%3A1-5ms-vga-dvi-p-9178924/?pv=2",
+    "price": 162.89,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1280 * 1024",
+        "Aufl\u00f6sungsstandard": "SXGA (1280x1024)",
+        "Betrachtungswinkel horizontal": "90 \u00b0",
+        "Bilddiagonale (Zoll)": "19 \"",
+        "Bilddiagonale (cm)": "48 cm",
+        "Farbe": "Wei\u00df",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "TFT",
+        "Pivot": "90 \u00b0",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "DVI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Wei\u00df\nBilddiagonale (cm): 48 cm\nBilddiagonale (Zoll): 19 \"\nAufl\u00f6sung: 1280 * 1024\nAufl\u00f6sungsstandard: SXGA (1280x1024)\nReaktionszeit: 5 ms\nKontrastverh\u00e4ltnis: 1000:1\nBetrachtungswinkel horizontal: 90 \u00b0\nPaneltyp: TFT\nPivot: 90 \u00b0\nVideo-Schnittstellen: DVI; VGA",
+    "reference_file": "offer_reference_123.json",
+    "shop_name": "Future-X.at"
+}

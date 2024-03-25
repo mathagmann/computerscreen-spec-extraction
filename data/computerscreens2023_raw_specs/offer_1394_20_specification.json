@@ -1,0 +1,22 @@
+{
+    "html_file": "offer_1394_20.html",
+    "name": "HP M27fw, 27\"",
+    "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=140000001327918414&ano=R1327918414&mno=2H1A4E9%23ABB&ean=196068980917&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+    "price": 191.0,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1920 * 1080",
+        "Aufl\u00f6sungsstandard": "SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); XGA (1024x768)",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Bildwiederholfrequenz (Hz)": "75 Hz",
+        "Farbe": "Silber",
+        "Gewicht": "3,2 kg",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "5 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI; VGA"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nFarbe: Silber\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 1920 * 1080\nAufl\u00f6sungsstandard: SVGA (800x600); SXGA (1280x1024); WSXGA+ (1680x1050); XGA (1024x768)\nReaktionszeit: 5 ms\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI; VGA\nBildwiederholfrequenz (Hz): 75 Hz\nGewicht: 3,2 kg",
+    "reference_file": "offer_reference_1394.json",
+    "shop_name": "ElectronicShop24"
+}

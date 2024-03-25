@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_724_12.html",
+    "name": "Philips Evnia 8000 34M2C8600, 34\"",
+    "offer_link": "https://www.mylemon.at/artikel/philips/42m2n8900_00/42m2n8900-00-106-68cm-42zoll.html",
+    "price": 1790.07,
+    "raw_specifications": {
+        "Artikelnummer": "M1IY2RQL",
+        "Aufl\u00f6sung": "3840x2160",
+        "Besonderheiten": "120 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "41,54 Zoll",
+        "EAN": "8712581798703",
+        "Ergonomie": "H\u00f6henverstellbar, Schwenkbar, Neigbar",
+        "Helligkeit": "450 cd/m\u00b2",
+        "Hersteller Artikelnummer": "42M2N8900/00",
+        "Panel": "OLED",
+        "Reaktionszeit": "0,1 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "2x HDMI, 1x DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 41,54 Zoll\nAufl\u00f6sung: 3840x2160\nPanel: OLED\nReaktionszeit: 0,1 ms\nVideo Anschl\u00fcsse: 2x HDMI, 1x DisplayPort\nErgonomie: H\u00f6henverstellbar, Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 450 cd/m\u00b2\nBesonderheiten: 120 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 42M2N8900/00\nEAN: 8712581798703\nArtikelnummer: M1IY2RQL",
+    "reference_file": "offer_reference_724.json",
+    "shop_name": "mylemon.at"
+}

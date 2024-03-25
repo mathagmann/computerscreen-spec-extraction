@@ -1,0 +1,29 @@
+{
+    "html_file": "offer_1102_32.html",
+    "name": "BenQ Mobiuz EX3210U, 32\"",
+    "offer_link": "https://restposten.bauguru.at/monitore/126422-monitor-benq-9h-lkhlb-qbe-32-4k-ultra-hd-led-4718755077098.html",
+    "price": 1323.0,
+    "raw_specifications": {
+        "Art": "Gaming",
+        "Aufl\u00f6sung": "4K Ultra HD",
+        "Aufl\u00f6sung (px)": "3840 x 2160 px",
+        "Bildschirm": "32\"",
+        "Diagonale des Bildschirms (cm)": "81,3 cm",
+        "Dreh": "-15\u00ba / 15\u00b0",
+        "Empfohlene verwendung": "Gaming",
+        "Energieklassifizierung": "G",
+        "Geschwindigkeit": "144 Hz",
+        "Kompatibel": "VESA 100 x 100 mm",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Maximale Anpassung": "100 mm",
+        "Montage": "VESA",
+        "Neigungswinkel": "-5\u00ba / 15\u00ba",
+        "Reaktionszeit": "1 ms",
+        "Seitenverh\u00e4ltnis": "16:9",
+        "Verbindung": "DisplayPort 1.4",
+        "Winkel": "178\u00ba"
+    },
+    "raw_specifications_text": "Seitenverh\u00e4ltnis: 16:9\nEnergieklassifizierung: G\nBildschirm: 32\"\nAufl\u00f6sung: 4K Ultra HD\nKompatibel: VESA 100 x 100 mm\nReaktionszeit: 1 ms\nAufl\u00f6sung (px): 3840 x 2160 px\nDiagonale des Bildschirms (cm): 81,3 cm\nArt: Gaming\nKontrastverh\u00e4ltnis: 1000:1\nEmpfohlene verwendung: Gaming\nWinkel: 178\u00ba\nVerbindung: DisplayPort 1.4\nMontage: VESA\nGeschwindigkeit: 144 Hz\nNeigungswinkel: -5\u00ba / 15\u00ba\nDreh: -15\u00ba / 15\u00b0\nMaximale Anpassung: 100 mm",
+    "reference_file": "offer_reference_1102.json",
+    "shop_name": "bauguru"
+}

@@ -1,0 +1,21 @@
+{
+    "html_file": "offer_2119_27.html",
+    "name": "Philips E-line 275E1S, 27\"",
+    "offer_link": "https://www.future-x.at/philips-27-ips-monitor-qhd-2560-x-1440-displayport-hdmi-vga-flachbildschirm-tft-lcd-68-6-cm-4-ms-1000%3A1-line-eingang-p-7046678/?pv=2",
+    "price": 215.59,
+    "raw_specifications": {
+        "Audio Ein- und Ausg\u00e4nge": "Line-Eingang",
+        "Aufl\u00f6sung": "2560 * 1440",
+        "Bilddiagonale (Zoll)": "27 \"",
+        "Bilddiagonale (cm)": "68,6 cm",
+        "Farbe": "Schwarz; Blau",
+        "Kontrastverh\u00e4ltnis": "1000:1",
+        "Paneltyp": "IPS",
+        "Reaktionszeit": "4 ms",
+        "Typ": "Flachbildschirm (TFT/LCD)",
+        "Video-Schnittstellen": "HDMI"
+    },
+    "raw_specifications_text": "Typ: Flachbildschirm (TFT/LCD)\nBilddiagonale (cm): 68,6 cm\nBilddiagonale (Zoll): 27 \"\nAufl\u00f6sung: 2560 * 1440\nReaktionszeit: 4 ms\nKontrastverh\u00e4ltnis: 1000:1\nPaneltyp: IPS\nVideo-Schnittstellen: HDMI\nAudio Ein- und Ausg\u00e4nge: Line-Eingang\nFarbe: Schwarz; Blau",
+    "reference_file": "offer_reference_2119.json",
+    "shop_name": "Future-X.at"
+}

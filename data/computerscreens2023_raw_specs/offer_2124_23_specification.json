@@ -1,0 +1,32 @@
+{
+    "html_file": "offer_2124_23.html",
+    "name": "ASUS ZenScreen Go MB16AHP, 15.6\"",
+    "offer_link": "https://www.cyberport.at/?DEEP=6135-0C6&APID=294&STOREID=7",
+    "price": 345.9,
+    "raw_specifications": {
+        "Aufl\u00f6sung": "1.920x1.080 Full HD",
+        "Betrachtungswinkel h/v": "k.A.",
+        "Bildformat": "16:9",
+        "Breite in mm": "350mm",
+        "DVI": "kein",
+        "Displaygr\u00f6\u00dfe in Zoll": "15,6 Zoll",
+        "Displaygr\u00f6\u00dfe in cm": "39,6 cm",
+        "Displayport": "kein",
+        "Gewicht in kg": "0,9 kg",
+        "HDMI": "1x micro HDMI",
+        "Helligkeit": "250 cd/m\u00b2",
+        "H\u00f6he in mm": "230mm",
+        "H\u00f6henverstellbar": "ohne",
+        "Kontrast dynamisch": "k.A.",
+        "Kontrast typisch": "700:1",
+        "Lautsprecher": "kein",
+        "Oberfl\u00e4che": "entspiegelt",
+        "Reaktionszeit": "k.A.",
+        "Technologie": "LED-IPS",
+        "Tiefe in mm": "9mm",
+        "USB-C": "1x"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe in cm: 39,6 cm\nDisplaygr\u00f6\u00dfe in Zoll: 15,6 Zoll\nTechnologie: LED-IPS\nAufl\u00f6sung: 1.920x1.080 Full HD\nBildformat: 16:9\nOberfl\u00e4che: entspiegelt\nHelligkeit: 250 cd/m\u00b2\nKontrast typisch: 700:1\nKontrast dynamisch: k.A.\nReaktionszeit: k.A.\nBetrachtungswinkel h/v: k.A.\nH\u00f6henverstellbar: ohne\nBreite in mm: 350mm\nH\u00f6he in mm: 230mm\nTiefe in mm: 9mm\nHDMI: 1x micro HDMI\nDVI: kein\nDisplayport: kein\nUSB-C: 1x\nLautsprecher: kein\nGewicht in kg: 0,9 kg",
+    "reference_file": "offer_reference_2124.json",
+    "shop_name": "Cyberport Stores \u00d6sterreich"
+}

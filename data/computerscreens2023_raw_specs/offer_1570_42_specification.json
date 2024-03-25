@@ -1,0 +1,23 @@
+{
+    "html_file": "offer_1570_42.html",
+    "name": "ASUS ProArt PA278CV, 27\"",
+    "offer_link": "https://www.mylemon.at/artikel/asus/90lm06q1_b02370/proart-pa278cv-68-47cm-16.html",
+    "price": 492.78,
+    "raw_specifications": {
+        "Artikelnummer": "M1LYZUPL",
+        "Aufl\u00f6sung": "2560x1440",
+        "Besonderheiten": "75 Hz, Lautsprecher, USB HUB",
+        "Displaygr\u00f6\u00dfe": "27 Zoll",
+        "EAN": "4718017910040",
+        "Ergonomie": "H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar",
+        "Helligkeit": "350 cd/m\u00b2",
+        "Hersteller Artikelnummer": "90LM06Q1-B02370",
+        "Panel": "IPS",
+        "Reaktionszeit": "5 ms",
+        "VESA Halterung": "100x100 mm",
+        "Video Anschl\u00fcsse": "1x HDMI, 1x DisplayPort, USB-C DisplayPort"
+    },
+    "raw_specifications_text": "Displaygr\u00f6\u00dfe: 27 Zoll\nAufl\u00f6sung: 2560x1440\nPanel: IPS\nReaktionszeit: 5 ms\nVideo Anschl\u00fcsse: 1x HDMI, 1x DisplayPort, USB-C DisplayPort\nErgonomie: H\u00f6henverstellbar, Pivot (90 Grad drehbar), Schwenkbar, Neigbar\nVESA Halterung: 100x100 mm\nHelligkeit: 350 cd/m\u00b2\nBesonderheiten: 75 Hz, Lautsprecher, USB HUB\nHersteller Artikelnummer: 90LM06Q1-B02370\nEAN: 4718017910040\nArtikelnummer: M1LYZUPL",
+    "reference_file": "offer_reference_1570.json",
+    "shop_name": "mylemon.at"
+}
