@@ -1,0 +1,466 @@
+2024-03-25 19:19:45.089 | DEBUG    | spec_extraction.evaluation.evaluate:evaluate_pipeline:132 - Processed 2330 products.
+2024-03-25 19:19:45.107 | DEBUG    | spec_extraction.evaluation.evaluate:wrapper:77 - Function 'evaluate_base_pipeline_with_manual_mapping' took 77.81 seconds to execute
+2024-03-25 19:19:45.107 | INFO     | __main__:main:61 - ********** Evaluation results **********
+2024-03-25 19:19:45.107 | INFO     | __main__:main:62 - ##### Base pipeline results #####
+Confusion matrix(true positives: 33837, false positives: 22874, false negatives: 37338
+EvalScores(precision: 59.67 %, recall: 47.54 %, f1_score: 52.92 %)
+Product precision: 0.02%
+2024-03-25 19:19:45.107 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Abmessungen
+Confusion matrix(true positives: 2, false positives: 1732, false negatives: 2308
+EvalScores(precision: 0.12 %, recall: 0.09 %, f1_score: 0.10 %)
+2024-03-25 19:19:45.107 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse DVI
+Confusion matrix(true positives: 147, false positives: 12, false negatives: 76
+EvalScores(precision: 92.45 %, recall: 65.92 %, f1_score: 76.96 %)
+2024-03-25 19:19:45.107 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse DisplayPort
+Confusion matrix(true positives: 4, false positives: 4, false negatives: 1709
+EvalScores(precision: 50.00 %, recall: 0.23 %, f1_score: 0.46 %)
+2024-03-25 19:19:45.107 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse HDMI
+Confusion matrix(true positives: 63, false positives: 6, false negatives: 2016
+EvalScores(precision: 91.30 %, recall: 3.03 %, f1_score: 5.87 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse Klinke
+Confusion matrix(true positives: 905, false positives: 0, false negatives: 971
+EvalScores(precision: 100.00 %, recall: 48.24 %, f1_score: 65.08 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse LAN
+Confusion matrix(true positives: 135, false positives: 0, false negatives: 49
+EvalScores(precision: 100.00 %, recall: 73.37 %, f1_score: 84.64 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse Mini DisplayPort
+Confusion matrix(true positives: 0, false positives: 0, false negatives: 25
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse USB-A
+Confusion matrix(true positives: 385, false positives: 132, false negatives: 787
+EvalScores(precision: 74.47 %, recall: 32.85 %, f1_score: 45.59 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse USB-C
+Confusion matrix(true positives: 73, false positives: 257, false negatives: 58
+EvalScores(precision: 22.12 %, recall: 55.73 %, f1_score: 31.67 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse VGA
+Confusion matrix(true positives: 499, false positives: 14, false negatives: 238
+EvalScores(precision: 97.27 %, recall: 67.71 %, f1_score: 79.84 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Auflösung
+Confusion matrix(true positives: 1763, false positives: 157, false negatives: 567
+EvalScores(precision: 91.82 %, recall: 75.67 %, f1_score: 82.96 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Ausgänge Display
+Confusion matrix(true positives: 0, false positives: 0, false negatives: 124
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Beschichtung
+Confusion matrix(true positives: 720, false positives: 1037, false negatives: 1573
+EvalScores(precision: 40.98 %, recall: 31.40 %, f1_score: 35.56 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Besonderheiten
+Confusion matrix(true positives: 422, false positives: 1594, false negatives: 1902
+EvalScores(precision: 20.93 %, recall: 18.16 %, f1_score: 19.45 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Bilddiagonale (Zoll)
+Confusion matrix(true positives: 1463, false positives: 61, false negatives: 867
+EvalScores(precision: 96.00 %, recall: 62.79 %, f1_score: 75.92 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Bilddiagonale (cm)
+Confusion matrix(true positives: 591, false positives: 1253, false negatives: 1739
+EvalScores(precision: 32.05 %, recall: 25.36 %, f1_score: 28.32 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Bildwiederholfrequenz
+Confusion matrix(true positives: 1761, false positives: 236, false negatives: 569
+EvalScores(precision: 88.18 %, recall: 75.58 %, f1_score: 81.40 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Blickwinkel horizontal
+Confusion matrix(true positives: 1704, false positives: 316, false negatives: 626
+EvalScores(precision: 84.36 %, recall: 73.13 %, f1_score: 78.34 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Blickwinkel vertikal
+Confusion matrix(true positives: 1704, false positives: 316, false negatives: 626
+EvalScores(precision: 84.36 %, recall: 73.13 %, f1_score: 78.34 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Energieeffizienzklasse
+Confusion matrix(true positives: 1583, false positives: 305, false negatives: 439
+EvalScores(precision: 83.85 %, recall: 78.29 %, f1_score: 80.97 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbe
+Confusion matrix(true positives: 2, false positives: 1991, false negatives: 2328
+EvalScores(precision: 0.10 %, recall: 0.09 %, f1_score: 0.09 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum Adobe RGB
+Confusion matrix(true positives: 161, false positives: 67, false negatives: 187
+EvalScores(precision: 70.61 %, recall: 46.26 %, f1_score: 55.90 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum DCI-P3
+Confusion matrix(true positives: 322, false positives: 68, false negatives: 309
+EvalScores(precision: 82.56 %, recall: 51.03 %, f1_score: 63.08 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum NTSC
+Confusion matrix(true positives: 0, false positives: 585, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum REC 2020
+Confusion matrix(true positives: 0, false positives: 0, false negatives: 33
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum REC 709
+Confusion matrix(true positives: 0, false positives: 45, false negatives: 152
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.108 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum sRGB
+Confusion matrix(true positives: 830, false positives: 182, false negatives: 553
+EvalScores(precision: 82.02 %, recall: 60.01 %, f1_score: 69.31 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbtiefe
+Confusion matrix(true positives: 1327, false positives: 65, false negatives: 941
+EvalScores(precision: 95.33 %, recall: 58.51 %, f1_score: 72.51 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Form
+Confusion matrix(true positives: 943, false positives: 172, false negatives: 1387
+EvalScores(precision: 84.57 %, recall: 40.47 %, f1_score: 54.75 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Gewicht
+Confusion matrix(true positives: 1643, false positives: 299, false negatives: 665
+EvalScores(precision: 84.60 %, recall: 71.19 %, f1_score: 77.32 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: HDR
+Confusion matrix(true positives: 395, false positives: 85, false negatives: 305
+EvalScores(precision: 82.29 %, recall: 56.43 %, f1_score: 66.95 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Helligkeit
+Confusion matrix(true positives: 1923, false positives: 138, false negatives: 403
+EvalScores(precision: 93.30 %, recall: 82.67 %, f1_score: 87.67 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Herstellergarantie
+Confusion matrix(true positives: 0, false positives: 1354, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Höhenverstellbar
+Confusion matrix(true positives: 432, false positives: 1470, false negatives: 1061
+EvalScores(precision: 22.71 %, recall: 28.94 %, f1_score: 25.45 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Kontrast
+Confusion matrix(true positives: 292, false positives: 1708, false negatives: 2028
+EvalScores(precision: 14.60 %, recall: 12.59 %, f1_score: 13.52 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Krümmung
+Confusion matrix(true positives: 201, false positives: 2, false negatives: 181
+EvalScores(precision: 99.01 %, recall: 52.62 %, f1_score: 68.72 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Leistungsaufnahme (SDR)
+Confusion matrix(true positives: 974, false positives: 873, false negatives: 1298
+EvalScores(precision: 52.73 %, recall: 42.87 %, f1_score: 47.29 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Leistungsaufnahme (Sleep)
+Confusion matrix(true positives: 534, false positives: 1218, false negatives: 1738
+EvalScores(precision: 30.48 %, recall: 23.50 %, f1_score: 26.54 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Neigungswinkelbereich
+Confusion matrix(true positives: 0, false positives: 1742, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Panel
+Confusion matrix(true positives: 1816, false positives: 294, false negatives: 508
+EvalScores(precision: 86.07 %, recall: 78.14 %, f1_score: 81.91 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Reaktionszeit
+Confusion matrix(true positives: 1755, false positives: 307, false negatives: 560
+EvalScores(precision: 85.11 %, recall: 75.81 %, f1_score: 80.19 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Schwenkwinkelbereich
+Confusion matrix(true positives: 0, false positives: 763, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Seitenverhältnis
+Confusion matrix(true positives: 2007, false positives: 22, false negatives: 323
+EvalScores(precision: 98.92 %, recall: 86.14 %, f1_score: 92.09 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Stromversorgung
+Confusion matrix(true positives: 1098, false positives: 223, false negatives: 1228
+EvalScores(precision: 83.12 %, recall: 47.21 %, f1_score: 60.21 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Thunderbolt
+Confusion matrix(true positives: 28, false positives: 13, false negatives: 18
+EvalScores(precision: 68.29 %, recall: 60.87 %, f1_score: 64.37 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: USB-Hub Ausgang
+Confusion matrix(true positives: 658, false positives: 0, false negatives: 532
+EvalScores(precision: 100.00 %, recall: 55.29 %, f1_score: 71.21 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: USB-Hub Eingänge USB-B
+Confusion matrix(true positives: 460, false positives: 0, false negatives: 396
+EvalScores(precision: 100.00 %, recall: 53.74 %, f1_score: 69.91 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: USB-Hub Eingänge USB-C
+Confusion matrix(true positives: 0, false positives: 2, false negatives: 502
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: VESA
+Confusion matrix(true positives: 1822, false positives: 161, false negatives: 393
+EvalScores(precision: 91.88 %, recall: 82.26 %, f1_score: 86.80 %)
+2024-03-25 19:19:45.109 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Variable Synchronisierung
+Confusion matrix(true positives: 290, false positives: 1593, false negatives: 2040
+EvalScores(precision: 15.40 %, recall: 12.45 %, f1_score: 13.77 %)
+2024-03-25 19:19:45.109 | INFO     | __main__:main:68 - ##### Machine learning results #####
+Confusion matrix(true positives: 34228, false positives: 24542, false negatives: 36947
+EvalScores(precision: 58.24 %, recall: 48.09 %, f1_score: 52.68 %)
+Product precision: 0.01%
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Abmessungen
+Confusion matrix(true positives: 2, false positives: 1732, false negatives: 2308
+EvalScores(precision: 0.12 %, recall: 0.09 %, f1_score: 0.10 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse DVI
+Confusion matrix(true positives: 147, false positives: 12, false negatives: 76
+EvalScores(precision: 92.45 %, recall: 65.92 %, f1_score: 76.96 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse DisplayPort
+Confusion matrix(true positives: 4, false positives: 4, false negatives: 1709
+EvalScores(precision: 50.00 %, recall: 0.23 %, f1_score: 0.46 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse HDMI
+Confusion matrix(true positives: 410, false positives: 1718, false negatives: 1669
+EvalScores(precision: 19.27 %, recall: 19.72 %, f1_score: 19.49 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse Klinke
+Confusion matrix(true positives: 905, false positives: 0, false negatives: 971
+EvalScores(precision: 100.00 %, recall: 48.24 %, f1_score: 65.08 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse LAN
+Confusion matrix(true positives: 135, false positives: 0, false negatives: 49
+EvalScores(precision: 100.00 %, recall: 73.37 %, f1_score: 84.64 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse Mini DisplayPort
+Confusion matrix(true positives: 0, false positives: 0, false negatives: 25
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse USB-A
+Confusion matrix(true positives: 385, false positives: 132, false negatives: 787
+EvalScores(precision: 74.47 %, recall: 32.85 %, f1_score: 45.59 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse USB-C
+Confusion matrix(true positives: 73, false positives: 257, false negatives: 58
+EvalScores(precision: 22.12 %, recall: 55.73 %, f1_score: 31.67 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse VGA
+Confusion matrix(true positives: 499, false positives: 14, false negatives: 238
+EvalScores(precision: 97.27 %, recall: 67.71 %, f1_score: 79.84 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Auflösung
+Confusion matrix(true positives: 1763, false positives: 157, false negatives: 567
+EvalScores(precision: 91.82 %, recall: 75.67 %, f1_score: 82.96 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Ausgänge Display
+Confusion matrix(true positives: 0, false positives: 0, false negatives: 124
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Beschichtung
+Confusion matrix(true positives: 731, false positives: 1026, false negatives: 1562
+EvalScores(precision: 41.61 %, recall: 31.88 %, f1_score: 36.10 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Besonderheiten
+Confusion matrix(true positives: 444, false positives: 1572, false negatives: 1880
+EvalScores(precision: 22.02 %, recall: 19.10 %, f1_score: 20.46 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Bilddiagonale (Zoll)
+Confusion matrix(true positives: 1465, false positives: 59, false negatives: 865
+EvalScores(precision: 96.13 %, recall: 62.88 %, f1_score: 76.02 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Bilddiagonale (cm)
+Confusion matrix(true positives: 590, false positives: 1254, false negatives: 1740
+EvalScores(precision: 32.00 %, recall: 25.32 %, f1_score: 28.27 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Bildwiederholfrequenz
+Confusion matrix(true positives: 1762, false positives: 235, false negatives: 568
+EvalScores(precision: 88.23 %, recall: 75.62 %, f1_score: 81.44 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Blickwinkel horizontal
+Confusion matrix(true positives: 1696, false positives: 324, false negatives: 634
+EvalScores(precision: 83.96 %, recall: 72.79 %, f1_score: 77.98 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Blickwinkel vertikal
+Confusion matrix(true positives: 1696, false positives: 324, false negatives: 634
+EvalScores(precision: 83.96 %, recall: 72.79 %, f1_score: 77.98 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Energieeffizienzklasse
+Confusion matrix(true positives: 1583, false positives: 305, false negatives: 439
+EvalScores(precision: 83.85 %, recall: 78.29 %, f1_score: 80.97 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbe
+Confusion matrix(true positives: 2, false positives: 1991, false negatives: 2328
+EvalScores(precision: 0.10 %, recall: 0.09 %, f1_score: 0.09 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum Adobe RGB
+Confusion matrix(true positives: 161, false positives: 67, false negatives: 187
+EvalScores(precision: 70.61 %, recall: 46.26 %, f1_score: 55.90 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum DCI-P3
+Confusion matrix(true positives: 322, false positives: 68, false negatives: 309
+EvalScores(precision: 82.56 %, recall: 51.03 %, f1_score: 63.08 %)
+2024-03-25 19:19:45.110 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum NTSC
+Confusion matrix(true positives: 0, false positives: 585, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum REC 2020
+Confusion matrix(true positives: 0, false positives: 0, false negatives: 33
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum REC 709
+Confusion matrix(true positives: 0, false positives: 45, false negatives: 152
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum sRGB
+Confusion matrix(true positives: 830, false positives: 182, false negatives: 553
+EvalScores(precision: 82.02 %, recall: 60.01 %, f1_score: 69.31 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbtiefe
+Confusion matrix(true positives: 1327, false positives: 65, false negatives: 941
+EvalScores(precision: 95.33 %, recall: 58.51 %, f1_score: 72.51 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Form
+Confusion matrix(true positives: 943, false positives: 172, false negatives: 1387
+EvalScores(precision: 84.57 %, recall: 40.47 %, f1_score: 54.75 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Gewicht
+Confusion matrix(true positives: 1643, false positives: 299, false negatives: 665
+EvalScores(precision: 84.60 %, recall: 71.19 %, f1_score: 77.32 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: HDR
+Confusion matrix(true positives: 395, false positives: 85, false negatives: 305
+EvalScores(precision: 82.29 %, recall: 56.43 %, f1_score: 66.95 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Helligkeit
+Confusion matrix(true positives: 1923, false positives: 138, false negatives: 403
+EvalScores(precision: 93.30 %, recall: 82.67 %, f1_score: 87.67 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Herstellergarantie
+Confusion matrix(true positives: 0, false positives: 1354, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Höhenverstellbar
+Confusion matrix(true positives: 425, false positives: 1477, false negatives: 1068
+EvalScores(precision: 22.34 %, recall: 28.47 %, f1_score: 25.04 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Kontrast
+Confusion matrix(true positives: 296, false positives: 1704, false negatives: 2024
+EvalScores(precision: 14.80 %, recall: 12.76 %, f1_score: 13.70 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Krümmung
+Confusion matrix(true positives: 201, false positives: 2, false negatives: 181
+EvalScores(precision: 99.01 %, recall: 52.62 %, f1_score: 68.72 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Leistungsaufnahme (SDR)
+Confusion matrix(true positives: 984, false positives: 863, false negatives: 1288
+EvalScores(precision: 53.28 %, recall: 43.31 %, f1_score: 47.78 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Leistungsaufnahme (Sleep)
+Confusion matrix(true positives: 543, false positives: 1209, false negatives: 1729
+EvalScores(precision: 30.99 %, recall: 23.90 %, f1_score: 26.99 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Neigungswinkelbereich
+Confusion matrix(true positives: 0, false positives: 1742, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Panel
+Confusion matrix(true positives: 1816, false positives: 294, false negatives: 508
+EvalScores(precision: 86.07 %, recall: 78.14 %, f1_score: 81.91 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Reaktionszeit
+Confusion matrix(true positives: 1759, false positives: 303, false negatives: 556
+EvalScores(precision: 85.31 %, recall: 75.98 %, f1_score: 80.37 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Schwenkwinkelbereich
+Confusion matrix(true positives: 0, false positives: 763, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Seitenverhältnis
+Confusion matrix(true positives: 2007, false positives: 22, false negatives: 323
+EvalScores(precision: 98.92 %, recall: 86.14 %, f1_score: 92.09 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Stromversorgung
+Confusion matrix(true positives: 1098, false positives: 223, false negatives: 1228
+EvalScores(precision: 83.12 %, recall: 47.21 %, f1_score: 60.21 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Thunderbolt
+Confusion matrix(true positives: 28, false positives: 13, false negatives: 18
+EvalScores(precision: 68.29 %, recall: 60.87 %, f1_score: 64.37 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: USB-Hub Ausgang
+Confusion matrix(true positives: 658, false positives: 0, false negatives: 532
+EvalScores(precision: 100.00 %, recall: 55.29 %, f1_score: 71.21 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: USB-Hub Eingänge USB-B
+Confusion matrix(true positives: 460, false positives: 0, false negatives: 396
+EvalScores(precision: 100.00 %, recall: 53.74 %, f1_score: 69.91 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: USB-Hub Eingänge USB-C
+Confusion matrix(true positives: 0, false positives: 2, false negatives: 502
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.111 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: VESA
+Confusion matrix(true positives: 1822, false positives: 161, false negatives: 393
+EvalScores(precision: 91.88 %, recall: 82.26 %, f1_score: 86.80 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Variable Synchronisierung
+Confusion matrix(true positives: 295, false positives: 1588, false negatives: 2035
+EvalScores(precision: 15.67 %, recall: 12.66 %, f1_score: 14.00 %)
+2024-03-25 19:19:45.112 | INFO     | __main__:main:75 - ##### Manual mapping results #####
+Confusion matrix(true positives: 34678, false positives: 22777, false negatives: 36497
+EvalScores(precision: 60.36 %, recall: 48.72 %, f1_score: 53.92 %)
+Product precision: 0.02%
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Abmessungen
+Confusion matrix(true positives: 2, false positives: 1732, false negatives: 2308
+EvalScores(precision: 0.12 %, recall: 0.09 %, f1_score: 0.10 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse DVI
+Confusion matrix(true positives: 147, false positives: 12, false negatives: 76
+EvalScores(precision: 92.45 %, recall: 65.92 %, f1_score: 76.96 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse DisplayPort
+Confusion matrix(true positives: 4, false positives: 4, false negatives: 1709
+EvalScores(precision: 50.00 %, recall: 0.23 %, f1_score: 0.46 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse HDMI
+Confusion matrix(true positives: 63, false positives: 6, false negatives: 2016
+EvalScores(precision: 91.30 %, recall: 3.03 %, f1_score: 5.87 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse Klinke
+Confusion matrix(true positives: 905, false positives: 0, false negatives: 971
+EvalScores(precision: 100.00 %, recall: 48.24 %, f1_score: 65.08 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse LAN
+Confusion matrix(true positives: 135, false positives: 0, false negatives: 49
+EvalScores(precision: 100.00 %, recall: 73.37 %, f1_score: 84.64 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse Mini DisplayPort
+Confusion matrix(true positives: 0, false positives: 0, false negatives: 25
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse USB-A
+Confusion matrix(true positives: 385, false positives: 132, false negatives: 787
+EvalScores(precision: 74.47 %, recall: 32.85 %, f1_score: 45.59 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse USB-C
+Confusion matrix(true positives: 73, false positives: 257, false negatives: 58
+EvalScores(precision: 22.12 %, recall: 55.73 %, f1_score: 31.67 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Anschlüsse VGA
+Confusion matrix(true positives: 498, false positives: 15, false negatives: 239
+EvalScores(precision: 97.08 %, recall: 67.57 %, f1_score: 79.68 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Auflösung
+Confusion matrix(true positives: 1787, false positives: 133, false negatives: 543
+EvalScores(precision: 93.07 %, recall: 76.70 %, f1_score: 84.09 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Ausgänge Display
+Confusion matrix(true positives: 0, false positives: 0, false negatives: 124
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Beschichtung
+Confusion matrix(true positives: 718, false positives: 1039, false negatives: 1575
+EvalScores(precision: 40.87 %, recall: 31.31 %, f1_score: 35.46 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Besonderheiten
+Confusion matrix(true positives: 391, false positives: 1625, false negatives: 1933
+EvalScores(precision: 19.39 %, recall: 16.82 %, f1_score: 18.02 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Bilddiagonale (Zoll)
+Confusion matrix(true positives: 1571, false positives: 142, false negatives: 759
+EvalScores(precision: 91.71 %, recall: 67.42 %, f1_score: 77.71 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Bilddiagonale (cm)
+Confusion matrix(true positives: 596, false positives: 1248, false negatives: 1734
+EvalScores(precision: 32.32 %, recall: 25.58 %, f1_score: 28.56 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Bildwiederholfrequenz
+Confusion matrix(true positives: 1766, false positives: 231, false negatives: 564
+EvalScores(precision: 88.43 %, recall: 75.79 %, f1_score: 81.63 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Blickwinkel horizontal
+Confusion matrix(true positives: 1829, false positives: 193, false negatives: 501
+EvalScores(precision: 90.45 %, recall: 78.50 %, f1_score: 84.05 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Blickwinkel vertikal
+Confusion matrix(true positives: 1822, false positives: 200, false negatives: 508
+EvalScores(precision: 90.11 %, recall: 78.20 %, f1_score: 83.73 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Energieeffizienzklasse
+Confusion matrix(true positives: 1585, false positives: 303, false negatives: 437
+EvalScores(precision: 83.95 %, recall: 78.39 %, f1_score: 81.07 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbe
+Confusion matrix(true positives: 2, false positives: 1991, false negatives: 2328
+EvalScores(precision: 0.10 %, recall: 0.09 %, f1_score: 0.09 %)
+2024-03-25 19:19:45.112 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum Adobe RGB
+Confusion matrix(true positives: 161, false positives: 67, false negatives: 187
+EvalScores(precision: 70.61 %, recall: 46.26 %, f1_score: 55.90 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum DCI-P3
+Confusion matrix(true positives: 322, false positives: 68, false negatives: 309
+EvalScores(precision: 82.56 %, recall: 51.03 %, f1_score: 63.08 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum NTSC
+Confusion matrix(true positives: 0, false positives: 585, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum REC 2020
+Confusion matrix(true positives: 0, false positives: 0, false negatives: 33
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum REC 709
+Confusion matrix(true positives: 0, false positives: 45, false negatives: 152
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbraum sRGB
+Confusion matrix(true positives: 830, false positives: 182, false negatives: 553
+EvalScores(precision: 82.02 %, recall: 60.01 %, f1_score: 69.31 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Farbtiefe
+Confusion matrix(true positives: 1320, false positives: 72, false negatives: 948
+EvalScores(precision: 94.83 %, recall: 58.20 %, f1_score: 72.13 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Form
+Confusion matrix(true positives: 1304, false positives: 251, false negatives: 1026
+EvalScores(precision: 83.86 %, recall: 55.97 %, f1_score: 67.13 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Gewicht
+Confusion matrix(true positives: 1641, false positives: 301, false negatives: 667
+EvalScores(precision: 84.50 %, recall: 71.10 %, f1_score: 77.22 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: HDR
+Confusion matrix(true positives: 395, false positives: 85, false negatives: 305
+EvalScores(precision: 82.29 %, recall: 56.43 %, f1_score: 66.95 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Helligkeit
+Confusion matrix(true positives: 1927, false positives: 134, false negatives: 399
+EvalScores(precision: 93.50 %, recall: 82.85 %, f1_score: 87.85 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Herstellergarantie
+Confusion matrix(true positives: 0, false positives: 1354, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Höhenverstellbar
+Confusion matrix(true positives: 548, false positives: 1354, false negatives: 945
+EvalScores(precision: 28.81 %, recall: 36.70 %, f1_score: 32.28 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Kontrast
+Confusion matrix(true positives: 211, false positives: 1832, false negatives: 2109
+EvalScores(precision: 10.33 %, recall: 9.09 %, f1_score: 9.67 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Krümmung
+Confusion matrix(true positives: 201, false positives: 2, false negatives: 181
+EvalScores(precision: 99.01 %, recall: 52.62 %, f1_score: 68.72 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Leistungsaufnahme (SDR)
+Confusion matrix(true positives: 974, false positives: 873, false negatives: 1298
+EvalScores(precision: 52.73 %, recall: 42.87 %, f1_score: 47.29 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Leistungsaufnahme (Sleep)
+Confusion matrix(true positives: 671, false positives: 1169, false negatives: 1601
+EvalScores(precision: 36.47 %, recall: 29.53 %, f1_score: 32.64 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Neigungswinkelbereich
+Confusion matrix(true positives: 0, false positives: 1742, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Panel
+Confusion matrix(true positives: 1796, false positives: 294, false negatives: 528
+EvalScores(precision: 85.93 %, recall: 77.28 %, f1_score: 81.38 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Reaktionszeit
+Confusion matrix(true positives: 1749, false positives: 313, false negatives: 566
+EvalScores(precision: 84.82 %, recall: 75.55 %, f1_score: 79.92 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Schwenkwinkelbereich
+Confusion matrix(true positives: 0, false positives: 763, false negatives: 0
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Seitenverhältnis
+Confusion matrix(true positives: 2003, false positives: 26, false negatives: 327
+EvalScores(precision: 98.72 %, recall: 85.97 %, f1_score: 91.90 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Stromversorgung
+Confusion matrix(true positives: 1098, false positives: 223, false negatives: 1228
+EvalScores(precision: 83.12 %, recall: 47.21 %, f1_score: 60.21 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Thunderbolt
+Confusion matrix(true positives: 28, false positives: 13, false negatives: 18
+EvalScores(precision: 68.29 %, recall: 60.87 %, f1_score: 64.37 %)
+2024-03-25 19:19:45.113 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: USB-Hub Ausgang
+Confusion matrix(true positives: 658, false positives: 0, false negatives: 532
+EvalScores(precision: 100.00 %, recall: 55.29 %, f1_score: 71.21 %)
+2024-03-25 19:19:45.114 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: USB-Hub Eingänge USB-B
+Confusion matrix(true positives: 460, false positives: 0, false negatives: 396
+EvalScores(precision: 100.00 %, recall: 53.74 %, f1_score: 69.91 %)
+2024-03-25 19:19:45.114 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: USB-Hub Eingänge USB-C
+Confusion matrix(true positives: 0, false positives: 2, false negatives: 502
+EvalScores(precision: 0.00 %, recall: 0.00 %, f1_score: 0.00 %)
+2024-03-25 19:19:45.114 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: VESA
+Confusion matrix(true positives: 1822, false positives: 161, false negatives: 393
+EvalScores(precision: 91.88 %, recall: 82.26 %, f1_score: 86.80 %)
+2024-03-25 19:19:45.114 | INFO     | spec_extraction.evaluation.evaluate:print_confusion_matrix_per_attr:154 - Attribute: Variable Synchronisierung
+Confusion matrix(true positives: 280, false positives: 1603, false negatives: 2050
+EvalScores(precision: 14.87 %, recall: 12.02 %, f1_score: 13.29 %)
+2024-03-25 19:19:45.114 | DEBUG    | spec_extraction.evaluation.evaluate:wrapper:77 - Function 'main' took 7470.37 seconds to execute
