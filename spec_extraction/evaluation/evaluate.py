@@ -215,7 +215,7 @@ def _calc_single_attribute_confusion_matrix(
     return confusion_matrix
 
 
-def evaluate_product(proc, eval_product: CatalogProduct, normalization=True) -> dict[str, ConfusionMatrix]:
+def evaluate_product(proc, eval_product: CatalogProduct) -> dict[str, ConfusionMatrix]:
     """Collect all specifications from the reference data and the catalog data and compares them.
 
     Assumes that the reference data is stored in a JSON file in the
@@ -228,41 +228,35 @@ def evaluate_product(proc, eval_product: CatalogProduct, normalization=True) -> 
         The processing object.
     eval_product
         The product to evaluate.
-    normalization
-        Enable or disable additional value normalization stage. Enabled by default.
 
     Returns
     -------
     dict[str, ConfusionMatrix]
         The attribute name and confusion matrix for each attribute.
     """
-    evaluation_specs = eval_product.specifications
-
     # Create structured reference data from Geizhals raw data
     filename = ProductPage.reference_filename_from_id(eval_product.id)
     reference_data = ProductPage.load_from_json(DATA_DIR / filename)
     ref_export_file = f"ref_specs_{eval_product.id}_catalog.json"
-    reference_as_dict = {}
+    raw_reference_data = {}
     for detail in reference_data.product_details:
-        reference_as_dict[detail.name] = detail.value
-
+        raw_reference_data[detail.name] = detail.value
     # machine learning disabled for reference data
-    reference_product_specs = proc.extract_properties(reference_as_dict, "geizhals")
+    structured_reference_specs = proc.extract_properties(raw_reference_data, "geizhals")
 
-    if len(reference_product_specs.keys()) <= 0:
-        logger.warning(f"Reference data {reference_product_specs} empty for {reference_data.id}")
+    if len(structured_reference_specs.keys()) <= 0:
+        logger.warning(f"Reference data {structured_reference_specs} empty for {reference_data.id}")
 
-    product = CatalogProduct(name=eval_product.name, specifications=reference_product_specs, id=eval_product.id)
+    product = CatalogProduct(name=eval_product.name, specifications=structured_reference_specs, id=eval_product.id)
     product.save_to_json(REFERENCE_DIR / ref_export_file)
     logger.debug(f"Reference data saved to {ref_export_file}")
 
-    # Normalize and compare specifications
-    if normalization:
-        reference_product_specs = normalize_product_specifications(reference_product_specs)
-        evaluation_specs = normalize_product_specifications(evaluation_specs)
+    # Normalize and compare specifications as dictionaries
+    reference_specification = normalize_product_specifications(structured_reference_specs)
+    evaluation_specification = normalize_product_specifications(eval_product.specifications)
     logger.debug(f"Latest reference specs: {reference_data.url}")
 
-    return calculate_confusion_matrix_per_attr(reference_product_specs, evaluation_specs)
+    return calculate_confusion_matrix_per_attr(reference_specification, evaluation_specification)
 
 
 def color_diff(string1, string2):
