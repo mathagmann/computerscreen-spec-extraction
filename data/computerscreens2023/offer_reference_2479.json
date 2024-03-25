@@ -1,0 +1,170 @@
+{
+    "url": "https://geizhals.at/aoc-u2879vf-a1391247.html?hloc=at&hloc=de",
+    "product_name": "AOC U2879VF, 28\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "28\"/\u200b71.1cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 157ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 80.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "170\u00b0/\u200b160\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "TN"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "Innolux (M280DGJ-L30)"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (8bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "96% (sRGB), 66% (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (40-62Hz via DisplayPort, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-99kHz (horizontal), 50-76Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA, 1x DVI, 1x HDMI 2.0, 1x DisplayPort 1.2a+"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +24\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz/\u200bsilber (Standfu\u00df), keine Angabe (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 49W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "27kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "keine Angabe (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "659x561x245mm (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "7.94kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "EPEAT Silver, mechanische Tasten, Picture-in-Picture, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "26.09.2023, 12:13"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "09.02.2016, 13:05"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Singer Komputer",
+            "price": 455.7,
+            "offer_link": "https://www.meistersinger.at/product.php?product=397620&f=g2",
+            "promotion_description": null
+        }
+    ]
+}

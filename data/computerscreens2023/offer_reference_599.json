@@ -1,0 +1,318 @@
+{
+    "url": "https://geizhals.at/lenovo-legion-y27q-30-66f7gac3eu-a2871080.html?hloc=at&hloc=de",
+    "product_name": "Lenovo Legion Y27q-30, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "2560x1440, 16:9, 109ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "400cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 3.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), 0.5ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 400"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (8bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "99% (sRGB), keine Angabe (Adobe RGB), 95% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "165Hz (180Hz OC)"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium (48-165Hz via DisplayPort, 48-144Hz via HDMI, mit LFC-Support, mit HDR), VESA certified AdaptiveSync"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "15-260kHz (horizontal), 48-165Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0 (144Hz@2560x1440), 1x DisplayPort 1.4 (165Hz@2560x1440, 180Hz@2560x1440 via OC)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 3W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "135mm (h\u00f6henverstellbar), \u00b190\u00b0 (Pivot), \u00b130\u00b0 (drehbar), +25\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "85W (maximal), 54W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "26kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "29kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "89.5% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "613.7x401.5x258.8mm (mit Standfu\u00df), 613.7x365.9x61mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "6.60kg (mit Standfu\u00df), 4.60kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten mit Steuerkreuz, Sicherheitsschloss (Kensington), Unterst\u00fctzung f\u00fcr modulare Webcam (Lenovo LC 50), Werkskalibrierung (Delta-E <2)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 09:54"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "03.01.2023, 16:32"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "euronics-maxi-media",
+            "price": 284.34,
+            "offer_link": "https://ebay.de/itm/175720743826?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": "Hinweis zu Gutscheinaktionen -6% mit Gutscheincode: POWEREBAY6 maximaler Rabatt EUR 50,-  g\u00fcltig bis 2023.10.04 08:00hDer Gutschein ist 30-malig pro Nutzerkonto einl\u00f6sbar."
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 290.42,
+            "offer_link": "https://www.amazon.de/dp/B0BCQJZQX6?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BCQJZQX6&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 322.48,
+            "offer_link": "https://www.proshop.at/Bildschirm/Lenovo-27-Bildschirm-Legion-Y27q-30-Black-1-ms-AMD-Adaptive-Sync/3143998?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 335.99,
+            "offer_link": "https://www.mylemon.at/artikel/lenovo/66f7gac3eu/y27q-30-gaming-monitor-69.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 336.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000000722754513&ano=A-H722754513&mno=66F7GAC3EU&ean=196800453969&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 348.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeWyzng3lY9gAQcxxiHV0uVEfeRE2UoT3YAQSzqDMGPcb1iqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Flenovo-legion-y27q-30-68-6-cm-27-zoll-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 374.95,
+            "offer_link": "https://ebay.de/itm/374884145560?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 378.45,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=366194",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 387.01,
+            "offer_link": "https://haym.info/produktdetails?id=3C04943",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 391.59,
+            "offer_link": "https://direkt.jacob.de/produkte/lenovo-legion-y27q-30-66f7gac3eu-artnr-8027700.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Deltatecc",
+            "price": 398.02,
+            "offer_link": "https://ebay.de/itm/354983326099?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 398.99,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=EP1403494",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 399.0,
+            "offer_link": "https://www.cyberport.at/?DEEP=6133-11X&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 399.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA_LR6aoYlmWcoGxPFWjt6o8F7E8Tls9O8h76ahAcWFiSGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6133-11X%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 401.27,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1612591&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 402.35,
+            "offer_link": "https://www.computeruniverse.net/de/p/90924509?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 419.5,
+            "offer_link": "https://www.heinzsoft-shop.de/lenovo-legion-y27q-30-led-monitor-qhd-68-6-cm-27.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "SKC Computer & Multimedia Store",
+            "price": 419.9,
+            "offer_link": "https://www.skc.at/produkte/tfts/lenovo_legion_y27q-30_-_led-monitor_-_68.6_cm_27-237786",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 422.24,
+            "offer_link": "https://technikladen.at/I-66F7GAC3EU-Lenovo-D32U-40-315IN-MONITOR-66F7GAC3EU-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 424.0,
+            "offer_link": "https://www.alternate.at/Lenovo/Legion-Y27q-30-Gaming-Monitor/html/product/1869212?partner=AtGeizhalsat&campaign=Monitor/Lenovo/1869212",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 427.19,
+            "offer_link": "https://www.future-x.at/lenovo-legion-y27q-30-led-monitor-68-6-cm-27-2560-x-1440-qhd-%40-180-hz-ips-400-cd-m%B2-1000%3A1-0-5-ms-2xhdmi-displayport-lautsprecher-raven-black-p-9072284/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 442.67,
+            "offer_link": "https://ebay.de/itm/295959250406?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neckermann.at",
+            "price": 445.99,
+            "offer_link": "https://www.neckermann.at/tft-monitor-y27q-30-527290.html?vkh=F1&utm_source=Geizhals&utm_medium=cpc&utm_campaign=psm&utm_term=1475627",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 461.14,
+            "offer_link": "https://www.taufnaus.de/product/10603698",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "buecher.de",
+            "price": 488.99,
+            "offer_link": "https://www.awin1.com/pclick.php?p=36181920673&a=332667&m=14191",
+            "promotion_description": null
+        }
+    ]
+}

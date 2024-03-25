@@ -1,0 +1,312 @@
+{
+    "url": "https://geizhals.at/aoc-u32u1-a2166559.html?hloc=at&hloc=de",
+    "product_name": "AOC U32U1, 31.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "31.5\"/\u200b80cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 140ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "600cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.300:1 (statisch), 50.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 600"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "135% (sRGB), 111% (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-160kHz (horizontal), 23-60Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 2.0, 1x HDMI 1.4, 1x DisplayPort 1.2, 1x USB-C 3.0 mit DisplayPort 1.2 (shared)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "3x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-C 3.0 mit DisplayPort 1.2 (shared)"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-In, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "120mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b140\u00b0 (drehbar), +18.5\u00b0/\u200b-3.5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), silber (Standfu\u00df), schwarz/\u200bsilber (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 60W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "55kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "80kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "92.0% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "718x414x277mm (mit Standfu\u00df), 718x414x75mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "keine Angabe (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, Steuerkreuz, USB-C Power Delivery (65W)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 12:55"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "29.10.2019, 10:06"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "alza.at",
+            "price": 779.9,
+            "offer_link": "https://www.alza.at/32-aoc-u32u1-d6217878.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_wk234c&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_wk234c",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 869.99,
+            "offer_link": "https://www.ottoversand.at/p/35630306-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=35630306-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 869.99,
+            "offer_link": "https://www.universal.at/p/35630306-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 869.99,
+            "offer_link": "https://www.galaxus.at/de/s1/product/aoc-u32u1-3840-x-2160-pixel-3150-monitor-13239808?utm_content=1-2w&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "NRE - Computer & Service",
+            "price": 875.72,
+            "offer_link": "https://www.nre.at/product_info.php?info=p36061_aoc-u32u1-31-5.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 876.3,
+            "offer_link": "https://www.amazon.de/dp/B07T4BRV7G?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B07T4BRV7G&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 924.12,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-u32u1-80-u32u1-artnr-5623796.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 957.0,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=296551",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 966.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=296551",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 981.69,
+            "offer_link": "https://www.computeruniverse.net/de/p/90778027?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 990.64,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/11444956?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 990.65,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/11444956?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigitech",
+            "price": 996.02,
+            "offer_link": "https://www.edigitech.de/detail/index/sArticle/941668?sPartner=12",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 997.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=5349381",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 1007.33,
+            "offer_link": "https://haym.info/produktdetails?id=0C04538",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 1016.98,
+            "offer_link": "https://www.1ashop.at/de/produkt/24681/aoc-u32u1-led-monitor-80-cm-31-5-3840-x-2160-4k.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 1029.83,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656602734",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 1039.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=30000000005349381&ano=T5349381&mno=U32U1&ean=4038986116749&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 1054.49,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeW9oWUfIubVEL--u3mic3WK_eRE2UoT3YAQSzqDMGPcb1iqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Faoc-u32u1-80-cm-31-5-zoll-4k-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 1070.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=11444956&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 1081.99,
+            "offer_link": "https://ebay.de/itm/265155451047?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 1098.22,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=5349381",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Conrad.at",
+            "price": 1195.0,
+            "offer_link": "https://www.conrad.at/de/p/2300680?insert=7M&utm_source=geizhals&utm_medium=cpc&utm_campaign=pvgl&utm_content=dl_article",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 1201.33,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/u32u1/81-3cm-31-5-u32u1.html",
+            "promotion_description": null
+        }
+    ]
+}

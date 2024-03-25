@@ -1,0 +1,198 @@
+{
+    "url": "https://geizhals.at/aoc-24b2xd-a2793257.html?hloc=at&hloc=de",
+    "product_name": "AOC 24B2XD, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 20.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "97.6% (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 50-76Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1920x1080), 1x DVI (75Hz@1920x1080)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), keine Angabe (typisch), 18W (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "A+"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "26.28kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "18kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.2% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "539.47x418.35x170.94mm (mit Standfu\u00df), 539.47x320.94x37.6mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "2.70kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 12:37"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "18.08.2022, 13:57"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Amazon.at",
+            "price": 104.73,
+            "offer_link": "https://www.amazon.de/dp/B08R66WH2M?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B08R66WH2M&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 105.82,
+            "offer_link": "https://www.proshop.at/Bildschirm/AOC-24-Bildschirm-24B2XD-Black-4-ms/3193405?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 119.71,
+            "offer_link": "https://www.taufnaus.de/product/10602246",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 133.15,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-24b2xd-24b2xd-artnr-8347191.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 137.64,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/24b2xd/b2-24b2xd-led-display-60.html",
+            "promotion_description": null
+        }
+    ]
+}

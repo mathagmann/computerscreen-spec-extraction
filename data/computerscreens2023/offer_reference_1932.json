@@ -1,0 +1,414 @@
+{
+    "url": "https://geizhals.at/aoc-24p2q-a2294328.html?hloc=at&hloc=de",
+    "product_name": "AOC 24P2Q, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 50.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "107% (sRGB), 79% (Adobe RGB), 78.5% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-85kHz (horizontal), 48-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA, 1x DVI, 1x HDMI 1.4, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-In, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b1180\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 20W (typisch), 22W (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "A"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "32.12kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "17kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "88.7% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "540x513x200mm (mit Standfu\u00df), 540x326x51mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "4.63kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington), TCO 9 zertifiziert"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 11:11"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "20.05.2020, 09:55"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Amazon.at",
+            "price": 153.18,
+            "offer_link": "https://www.amazon.de/dp/B086X4QN6Z?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B086X4QN6Z&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 164.5,
+            "offer_link": "https://www.hiq24.de/shop/artikel/278168/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 164.58,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-60-5cm-23-8-24p2q-artnr-6434318.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 164.79,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/24p2q/60-5cm-23-8-24p2q.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 164.8,
+            "offer_link": "https://haym.info/produktdetails?id=0C16104",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 166.15,
+            "offer_link": "https://www.computeruniverse.net/de/p/90800913?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 166.15,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/12925562?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 166.16,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/12925562?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 166.38,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1620808&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 167.06,
+            "offer_link": "https://www.proshop.at/Bildschirm/AOC-Bildschirm-24P2Q-75Hz-Speakers-USB-Hub/2884584?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 168.08,
+            "offer_link": "https://www.ba-computer.at/aoc-24p2q-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-full-hd-1080p-24p2q.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 168.86,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/60-5cm-23-8-AOC-24P2Q-Full-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 169.68,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/61cm24_1920x1080_AOC_24P2Q_169_4ms_HDMI_DVI_VGA_DisplayPort_VESA_Pivot_Speaker_Full_HD_Black.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 169.9,
+            "offer_link": "https://www.alternate.at/AOC/24P2Q-LED-Monitor/html/product/1650393?partner=AtGeizhalsat&campaign=Monitor/AOC/1650393",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 170.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA6E7xlJdv2azQPrAOUUrJTb-1Q_OqbBks0BX8ZsMB8b6Gy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6123-1CL%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 170.41,
+            "offer_link": "https://www.taufnaus.de/product/10606248",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 172.5,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656602782",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 172.89,
+            "offer_link": "https://geniuzcom.at/AOC-24P2Q-LED-Monitor-61-cm-24-238-sichtbar-1920-x-1080-Full-HD-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 177.49,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeW9oWUfIubVEL--u3mic3WK-CDKbILvDlisDBPiur06hKiqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Faoc-pro-line-24p2q-60-5-cm-23-8-zoll-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 179.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=160000001714000471&ano=S1714000471&mno=24P2Q&ean=4038986147293&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 180.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-0840&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 181.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6123-1CL&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 181.99,
+            "offer_link": "https://ebay.de/itm/265023097133?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 182.14,
+            "offer_link": "https://www.1ashop.at/de/produkt/24643/aoc-24p2q-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-full-hd-1080p.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 183.19,
+            "offer_link": "https://www.future-x.at/aoc-60-5-cm-238-16-09-dvi%2Bhdmi%2Bdp%2Busb-black-flachbildschirm-tft-lcd-60-5-cm-4-ms-ips-dvi-hdmi-vga-eingang-p-8459518/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 184.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=5721180",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 185.7,
+            "offer_link": "https://technikladen.at/P-AOC-P2-24P2Q-605-cm-238-Zoll-1920-x-1080-Pixel-Full-HD-LED-4-ms-Schwarz?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "NRE - Computer & Service",
+            "price": 187.73,
+            "offer_link": "https://www.nre.at/product_info.php?info=p36069_aoc-24p2q-23-8.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 191.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=a3887293&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 192.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Faoc-238-24p2q-m0000DW009%3Futm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000DW009",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 193.0,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC3887293",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 193.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=12925562&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 196.5,
+            "offer_link": "https://lumatech.at/products/aoc-24p2q-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-full-hd-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "PCO Computer",
+            "price": 201.35,
+            "offer_link": "https://www.pco.co.at/Displays/Desktop-Displays/AOC-24P2Q-6045CM-238IN-IPS::73178.html?utm_source=geizhals&utm_medium=CPC&utm_campaign=2010",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 204.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=335920&artname=AOC+60%2C5cm+%2823%2C8%22%29+24P2Q+++++16%3A09+DVI%2BHDMI%2BDP%2BUSB+IPS+black",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Xpert",
+            "price": 205.76,
+            "offer_link": "https://www.xpert.business/de/24p2q-24-inch-full-hd-ips-led-monitor-1920x1080-pivot-has-speakers.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 205.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/AOC-24P2Q-60-45CM-23-8IN-IPS::31307.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 207.9,
+            "offer_link": "https://www.meistersinger.at/product.php?product=582730&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Conrad.at",
+            "price": 209.99,
+            "offer_link": "https://www.conrad.at/de/p/2300718?insert=7M&utm_source=geizhals&utm_medium=cpc&utm_campaign=pvgl&utm_content=dl_article",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 211.44,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=5721180",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Dreiland",
+            "price": 229.0,
+            "offer_link": "https://www.dreiland.at/p/AOC-24P2Q-Monitor-24-60-5cm?ean=4038986147293&sku=24P2Q&utm_medium=affiliate&utm_source=geizhals",
+            "promotion_description": null
+        }
+    ]
+}

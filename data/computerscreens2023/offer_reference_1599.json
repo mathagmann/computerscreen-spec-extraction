@@ -1,0 +1,172 @@
+{
+    "url": "https://geizhals.at/lg-20mk400h-b-a2466398.html?hloc=at&hloc=de",
+    "product_name": "LG 20MK400H-B, 19.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "19.5\"/\u200b49.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1366x768, 16:9, 80ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "200cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "600:1 (statisch), 5.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "2ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "90\u00b0/\u200b65\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "TN"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-61kHz (horizontal), 50-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1366x768), 1x HDMI 1.4"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "75x75 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 13W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "D"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "11kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "81.0% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "469x366x182mm (mit Standfu\u00df), 469x276x38mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "2.30kg (mit Standfu\u00df), 2.00kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre (Bring-In)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 01:06"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "02.02.2021, 02:12"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 113.76,
+            "offer_link": "https://direkt.jacob.de/produkte/lg-20mk400h-b-computerbildschirm-20mk400h-b-artnr-6984704.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 114.4,
+            "offer_link": "https://www.mylemon.at/artikel/lg/20mk400h_b/lcd-monitor-20mk400h-b-19.html",
+            "promotion_description": null
+        }
+    ]
+}

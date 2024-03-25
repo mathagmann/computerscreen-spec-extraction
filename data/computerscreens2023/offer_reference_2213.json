@@ -1,0 +1,396 @@
+{
+    "url": "https://geizhals.at/lg-electronics-32ul750-w-a1939750.html?hloc=at&hloc=de",
+    "product_name": "LG 32UL750-W, 31.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "31.5\"/\u200b80cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 140ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "400cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "3.000:1 (statisch), 5.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "VA"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "Innolux"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 600, HDR10"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (8bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), 95% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (40-60Hz via DisplayPort, 40-60Hz via HDMI, ohne LFC-Support, mit HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-135kHz (horizontal), 56-61Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0, 1x DisplayPort 1.2, 1x USB-C 3.0 mit DisplayPort 1.2 (shared)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-C 3.0 mit DisplayPort 1.2 (shared)"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 5W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "110mm (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +15\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), silber (Standfu\u00df), wei\u00df (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 50W (typisch), 54W (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "B"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "78.84kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "40kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "77kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "88.5% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "728.1x491.7x230mm (mit Standfu\u00df), 728.1x424.6x49.9mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "7.00kg (mit Standfu\u00df), 5.30kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "USB-C Power Delivery (60W), Steuerkreuz, Hardware-Kalibrierung, Picture-in-Picture, Sicherheitsschloss (Kensington), kompatibel mit LG Dual Controller Software, HDCP 2.2"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre (Pickup&Return)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 15:48"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "03.12.2018, 16:36"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "mylemon.at",
+            "price": 439.1,
+            "offer_link": "https://www.mylemon.at/artikel/lg/32ul750_w_aeu/32ul750-32in-81-28cm-ips.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigital.at",
+            "price": 466.0,
+            "offer_link": "https://click.edigital.at/monitor/lg-32ul750-w-4k-uhd-freesync-gaming-led-monitor-p739334?utm_source=geizhals.at&utm_medium=price-comparison&utm_term=739334",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 504.8,
+            "offer_link": "https://haym.info/produktdetails?id=9C22803",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 506.9,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/80cm-31-5-LG-32UL750-W-4K-Ultra-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 506.91,
+            "offer_link": "https://ebay.de/itm/285369256960?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": "Hinweis zu Gutscheinaktionen -10% mit Gutscheincode: POWEREBAY10 maximaler Rabatt EUR 50,-  g\u00fcltig bis 2023.10.04 08:00hDer Gutschein ist 30-malig pro Nutzerkonto einl\u00f6sbar."
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 507.18,
+            "offer_link": "https://direkt.jacob.de/produkte/lg-32ul750-32in-32ul750-w-aeu-artnr-5476933.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 510.8,
+            "offer_link": "https://www.galaxus.at/de/s1/product/lg-electronics-32ul750-w-3840-x-2160-pixel-3150-monitor-11812723?utm_content=3-4w&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 512.59,
+            "offer_link": "https://www.mylemon.at/artikel/lg/32ul750_w/32ul750-w-32-3840x2160-4ms.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 512.6,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=295112",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 516.48,
+            "offer_link": "https://www.ba-computer.at/lg-32ul750-w-led-monitor-80-cm-32-31-5-sichtbar-32ul750-w-aeu.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 519.23,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656660094",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 521.39,
+            "offer_link": "https://www.cls.at/product/2340361/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 521.39,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/80cm32_3840x2160_LG_32UL750W_169_4ms_USBC_2xHDMI_DisplayPort_Speaker_4K_UHD_Silver.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 522.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=295112",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 524.03,
+            "offer_link": "https://www.proshop.at/Bildschirm/LG-32-Bildschirm-32UL750-W-4K-UHD-USB-Hub-Speakers-White-4-ms-AMD-FreeSync/2794501?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ABComputer",
+            "price": 528.0,
+            "offer_link": "https://www.abonline.at/lg-electronics-32ul750-w.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigitech",
+            "price": 528.73,
+            "offer_link": "https://www.edigitech.de/detail/index/sArticle/941667?sPartner=12",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "hardwarecamp24",
+            "price": 529.0,
+            "offer_link": "https://www.hardwarecamp24.de/TFTScanner-Drucker/TFTs/ab-28-7110cm-/LG-32UL750-W-813-cm-32-VA-Panel-169-4K-UHD-3840-x-2160::33062.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 532.44,
+            "offer_link": "https://www.heinzsoft-shop.de/lg-32ul750-w-led-monitor-4k-80-cm.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 532.93,
+            "offer_link": "https://www.computeruniverse.net/de/p/90772744?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 534.34,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/11218415?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 534.35,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/11218415?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 535.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=160000000445203076&ano=S445203076&mno=32UL750-W.AEU&ean=8806098487400&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 539.59,
+            "offer_link": "https://www.future-x.at/lg-32ul750-w-led-monitor-80-cm-32-315-sichtbar-3840-x-2160-4k-400-cd-m%B2-4-ms-2xhdmi-displayport-usb-c-lautsprecher-p-7001993/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 546.99,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeWzcaik-Q1-os-CZHIfLvM-Q5YJDaxYEu-eNzsX9hs16i_RFikLlYxaC51E2oRlTusw~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Flg-32ul750-w-80-cm-31-5-zoll-4k-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "VDS-Online",
+            "price": 550.0,
+            "offer_link": "https://www.vds-online.at/index.php?action=ansicht_artikel&artikel_id=28260&PA=GH",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigitech",
+            "price": 553.2,
+            "offer_link": "https://www.edigitech.de/detail/index/sArticle/941978?sPartner=12",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 556.64,
+            "offer_link": "https://www.heinzsoft-shop.de/lg-32ul750-w-21cm-32.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 561.49,
+            "offer_link": "https://ebay.de/itm/383430570765?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 564.99,
+            "offer_link": "https://www.ottoversand.at/p/66426165-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=66426165-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 564.99,
+            "offer_link": "https://www.universal.at/p/66426165-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 581.39,
+            "offer_link": "https://ebay.de/itm/354616858502?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 593.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000000784732592&ano=A-H784732592&mno=32UL750-W&ean=8806098487400&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 639.66,
+            "offer_link": "https://geniuzcom.at/LG-32UL750-W-LED-Monitor-80-cm-32-315-sichtbar",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 646.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=y343330343732&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 655.61,
+            "offer_link": "https://www.1ashop.at/de/produkt/25258/lg-32ul750-w-led-monitor-80-cm-32-31-5-sichtbar.html",
+            "promotion_description": null
+        }
+    ]
+}

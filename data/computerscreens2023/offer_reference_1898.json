@@ -1,0 +1,172 @@
+{
+    "url": "https://geizhals.at/lenovo-thinkvision-t24i-20-61f7mat2eu-a2308331.html?hloc=at&hloc=de",
+    "product_name": "Lenovo ThinkVision T24i-20, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 3.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 50-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1920x1080), 1x HDMI 1.4, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "3x USB-A 3.0, 1x USB-A 3.0 (BC 1.2)"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b145\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "55W (maximal), 14W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "D"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "13kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "88.6% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "539.8x409.3x205mm (mit Standfu\u00df), 539.8x326.5x46.8mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.90kg (mit Standfu\u00df), 3.30kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, EPEAT Gold, mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 10:22"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "12.06.2020, 22:29"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "group24",
+            "price": 199.92,
+            "offer_link": "https://www.group24.de/lenovo-thinkvision-t24i-20-led-monitor-60.5-cm-23.8/61f7mat2eu-22518",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 255.15,
+            "offer_link": "https://www.taufnaus.de/product/12952643",
+            "promotion_description": null
+        }
+    ]
+}

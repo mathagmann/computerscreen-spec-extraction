@@ -1,0 +1,336 @@
+{
+    "url": "https://geizhals.at/aoc-27v5c-bk-a2775862.html?hloc=at&hloc=de",
+    "product_name": "AOC 27V5C/BK, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 82ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 20.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), 1ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "123% (sRGB), 91% (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (48-75Hz via DisplayPort, 48-75Hz via HDMI, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 50-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 1.4 (75Hz@1920x1080), 1x DisplayPort 1.2 (75Hz@1920x1080), 1x USB-C 3.0 mit DisplayPort 1.2 (75Hz@1920x1080)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-C 3.0 mit DisplayPort 1.2"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 3W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), \u00b190\u00b0 (Pivot), \u00b128\u00b0 (drehbar), +21\u00b0/\u200b-3\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 30W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "21kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "22kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.2% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "613.03x516.6x200mm (mit Standfu\u00df), 613.03x363.4x43.9mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "6.08kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, USB-C Power Delivery (65W), Steuerkreuz, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 13:06"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "26.07.2022, 16:32"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "galaxus.at",
+            "price": 164.9,
+            "offer_link": "https://www.galaxus.at/de/s1/product/aoc-27v5cbk-1920-x-1080-pixel-27-monitor-21376136?utm_content=3-5&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 166.27,
+            "offer_link": "https://www.ba-computer.at/aoc-27v5c-bk-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-27v5c-bk.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 166.29,
+            "offer_link": "https://www.amazon.de/dp/B09ZYC4PRP?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B09ZYC4PRP&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 169.28,
+            "offer_link": "https://haym.info/produktdetails?id=2C17150",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 171.89,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/27v5c_bk/27v5c-bk-27-panel.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 171.9,
+            "offer_link": "https://www.alza.at/27-aoc-27v5c-bk-d7386839.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_wk227z8b&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_wk227z8b",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mynotebook.de",
+            "price": 172.0,
+            "offer_link": "https://mynotebook.de/aoc-27v5c-bk-27v5c-2fbk.html?ff=4&fp=108374&utm_source=geizhals_de&utm_medium=preisvergleich&utm_campaign=geizhals&utm_content=mynotebook",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 173.64,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/68-6cm-27-AOC-27V5C-Full-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 173.92,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1562628&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 175.08,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-27v5c-bk-68-4-27v5c-bk-artnr-7848319.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 175.1,
+            "offer_link": "https://www.computeruniverse.net/de/p/90907116?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 175.24,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/24545228?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 175.25,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/24545228?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 175.89,
+            "offer_link": "https://geniuzcom.at/AOC-27V5C/BK-LED-Monitor-686-cm-27-1920-x-1080-Full-HD-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 177.15,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=358598",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 177.16,
+            "offer_link": "https://www.1ashop.at/de/produkt/94845/aoc-monitor-27v5c.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 177.17,
+            "offer_link": "https://technikladen.at/P-AOC-Monitor-27V5C?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 177.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=358598",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 178.02,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656645080",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 178.58,
+            "offer_link": "https://www.proshop.at/Bildschirm/AOC-27-Bildschirm-27V5CBK-LED-monitor-Full-HD-1080p-27-Black-4-ms/3099872?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 182.39,
+            "offer_link": "https://www.future-x.at/aoc-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-%40-75-hz-ips-300-cd-m%B2-1000%3A1-4-ms-hdmi-displayport-lautsprecher-schwarz-p-9070040/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 183.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=24545228&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 183.94,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC46049007",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 184.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=50000001055728578&ano=A1055728578&mno=27V5C%2FBK&ean=4038986180160&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 191.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=i343039343239&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 197.4,
+            "offer_link": "https://lumatech.at/products/aoc-27v5c-bk-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 200.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=409429&artname=AOC+68%2C6cm+%2827%22%29+++27V5C%2FBK++16%3A09+HDMI%2BUSB-C+IPS+Lift+Spk.",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 212.29,
+            "offer_link": "https://www.taufnaus.de/product/10602041",
+            "promotion_description": null
+        }
+    ]
+}

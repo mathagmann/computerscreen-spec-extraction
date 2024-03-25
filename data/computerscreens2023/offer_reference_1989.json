@@ -1,0 +1,174 @@
+{
+    "url": "https://geizhals.at/msi-optix-mag251rx-a2237591.html?hloc=at&hloc=de",
+    "product_name": "MSI Optix MAG251RX, 24.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "24.5\"/\u200b62.2cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 90ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "400cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 100.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), 1ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 400"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (8bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "107.3% (sRGB), 92% (Adobe RGB), 85.5% (DCI-P3), 107.3% (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "240Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, NVIDIA G-Sync Compatible zertifiziert (48-240Hz via DisplayPort)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "121-265kHz (horizontal), 48-240Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0, 1x DisplayPort 1.2, 1x USB-C 3.0 mit DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "3x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 36W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "23kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "40kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "88.1% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "506.1x507x182.4mm (mit Standfu\u00df), 560.10x335.5x74.4mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.40kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, Steuerkreuz, Sicherheitsschloss (Kensington), Beleuchtung auf R\u00fcckseite (RGB)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre (Pickup&Return)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 02:06"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "17.02.2020, 17:29"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Megaport",
+            "price": 489.0,
+            "offer_link": "https://megaport.de/gaming-pc-intel-i9-fury.html",
+            "promotion_description": null
+        }
+    ]
+}

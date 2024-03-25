@@ -1,0 +1,336 @@
+{
+    "url": "https://geizhals.at/aoc-u34v5c-bk-a2841297.html?hloc=at&hloc=de",
+    "product_name": "AOC U34V5C/BK, 34\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "34\"/\u200b86.4cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3440x1440, 21:9, 110ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "4.000:1 (statisch), 20.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), 1ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "VA"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "121% (sRGB), 90% (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "100Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (40-100Hz via DisplayPort, 40-100Hz via HDMI, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 50-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 2.0 (100Hz@3440x1440), 1x DisplayPort 1.2 (100Hz@3440x1440), 1x USB-C 3.0 mit DisplayPort 1.2 (100Hz@3440x1440)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-C 3.0 mit DisplayPort 1.2"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 5W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), N/\u200bA (Pivot), \u00b18\u00b0 (drehbar), +21.5\u00b0/\u200b-3.5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 60W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "34kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "35kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "87.7% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "817.45x404.55x250mm (mit Standfu\u00df), 817.45x370.69x55.34mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "9.14kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, USB-C Power Delivery (65W), mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 11:11"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "03.11.2022, 18:29"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 311.58,
+            "offer_link": "https://www.computeruniverse.net/de/p/90916914?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 312.95,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/25107648?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 312.96,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/25107648?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 317.31,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-u34v5c-u34v5c-bk-artnr-8040053.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 323.49,
+            "offer_link": "https://www.galaxus.at/de/s1/product/aoc-u34v5cbk-3440-x-1440-pixel-34-monitor-23100685?utm_content=2-3&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 326.21,
+            "offer_link": "https://www.amazon.de/dp/B0BGLQHV2P?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BGLQHV2P&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 329.0,
+            "offer_link": "https://www.alternate.at/AOC/U34V5C-BK-LED-Monitor/html/product/1878884?partner=AtGeizhalsat&campaign=Monitor/AOC/1878884",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 329.04,
+            "offer_link": "https://www.proshop.at/Bildschirm/AOC-34-Bildschirm-Value-line-U34V5CBK-V5-series-LED-monitor-34-Black-4-ms-AMD-FreeSync/3134413?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 334.49,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeW7S8dCTcvZk2hKtSHLw2E3IDgs7fO3XRRPDuSyCvwtIziqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Faoc-u34v5c-bk-68-6cm-27-zoll-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 337.99,
+            "offer_link": "https://www.ottoversand.at/p/48277320-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=48277320-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 337.99,
+            "offer_link": "https://www.universal.at/p/48277320-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 342.82,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/u34v5c_bk/u34v5c-bk-34-wqhd-mit.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 342.83,
+            "offer_link": "https://haym.info/produktdetails?id=2C23894",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 342.96,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1614503&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 343.49,
+            "offer_link": "https://ebay.de/itm/385718769418?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 343.96,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/86-4cm-34-AOC-U34V5C-BK-UltraWide-Quad-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 352.9,
+            "offer_link": "https://www.alza.at/34-aoc-u34v5c-bk-d7639244.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_wk243y45&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_wk243y45",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 355.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=7763658",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 359.39,
+            "offer_link": "https://www.ba-computer.at/aoc-value-line-u34v5c-bk-v5-series-led-monitor-86-4-cm-34-u34v5c-bk.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 362.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/334462/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 367.09,
+            "offer_link": "https://www.future-x.at/aoc-u34v5c-bk-86-36cm-34zoll-va-wqhd-display-3440x1440-21%3A9-4ms-300cd-m2-hdmi-dp-usb-p-9074915/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 367.55,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC46139569",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 374.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=30000000007763658&ano=T7763658&mno=U34V5C%2FBK&ean=4038986110617&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 380.0,
+            "offer_link": "https://lumatech.at/products/aoc-value-line-u34v5c-bk-v5-series-led-monitor-86-4-cm-34",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "bauguru",
+            "price": 383.0,
+            "offer_link": "https://restposten.bauguru.at/monitore/134633-monitor-aoc-u34v5c-bk-34-va-lcd-100-hz-4038986110617.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 395.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=25107648&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 409.11,
+            "offer_link": "https://www.taufnaus.de/product/10603775",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 409.98,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=7763658",
+            "promotion_description": null
+        }
+    ]
+}

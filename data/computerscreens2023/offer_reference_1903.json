@@ -1,0 +1,360 @@
+{
+    "url": "https://geizhals.at/asus-be24eqk-90lm05m1-b01370-a2306377.html?hloc=at&hloc=de",
+    "product_name": "ASUS BE24EQK, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 100.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 50-76Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1920x1080), 1x HDMI 1.4, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-In, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 15W (typisch), 15W (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "A+"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "21.90kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "22kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "keine Angabe (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "540x426x195mm (mit Standfu\u00df), 540x355x53mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "4.60kg (mit Standfu\u00df), 3.90kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "mechanische Tasten, Mikrofon, Webcam (2.0 Megapixel, neigbar), Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 10:48"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "09.06.2020, 11:30"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 182.61,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1621248&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 193.13,
+            "offer_link": "https://www.amazon.de/dp/B088727NM2?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B088727NM2&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 199.22,
+            "offer_link": "https://www.galaxus.at/de/s1/product/asus-be24eqk-mit-integrierter-webcam-1920-x-1080-pixel-24-monitor-13327698?utm_content=2-4&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 208.42,
+            "offer_link": "https://www.proshop.at/Bildschirm/ASUS-24-Bildschirm-BE24EQK-Webcam-Speakers-Black-5-ms/2862379?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 208.86,
+            "offer_link": "https://direkt.jacob.de/produkte/asus-60-5cm-commerc-be24eqk-90lm05m1-b01370-artnr-6434330.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 209.49,
+            "offer_link": "https://www.computeruniverse.net/de/p/90800905?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 210.42,
+            "offer_link": "https://www.mylemon.at/artikel/asus/90lm05m1_b01370/60-5cm-commerc-be24eqk-dp.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 210.43,
+            "offer_link": "https://haym.info/produktdetails?id=0C12863",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 213.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwAyhA6o4q59X7bblnbja3C5m9_0ainUN2N8cEzpD9ukvAGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6135-0E1%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 213.9,
+            "offer_link": "https://www.1ashop.at/de/produkt/78452/asus-be24eqk-led-monitor-60-5-cm-23-8-1920-x-1080-full-hd-1080p.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 213.9,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=303561",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 213.9,
+            "offer_link": "https://www.alternate.at/ASUS/BE24EQK-LED-Monitor/html/product/1642415?partner=AtGeizhalsat&campaign=Monitor/ASUS/1642415",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "NRE - Computer & Service",
+            "price": 217.89,
+            "offer_link": "https://www.nre.at/product_info.php?info=p36329_asus-23-8-be24eqk-mikrofon-webcam.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 217.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=303561",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "hardwarecamp24",
+            "price": 219.0,
+            "offer_link": "https://www.hardwarecamp24.de/TFTScanner-Drucker/TFTs/ab-24-6096cm-/ASUS-BE24EQK-LED-Monitor-605-cm-238-1920-x-1080-Full-::35271.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 223.32,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/12931606?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 223.33,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/12931606?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 223.81,
+            "offer_link": "https://www.ba-computer.at/asus-be24eqk-led-monitor-60-5-cm-23-8-1920-x-1080-full-hd-1080p-90lm05m1-b01370.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 225.5,
+            "offer_link": "https://www.hiq24.de/shop/artikel/277939/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 225.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6135-0E1&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 227.29,
+            "offer_link": "https://www.future-x.at/asus-be24eqk-led-monitor-60-5-cm-238-1920-x-1080-full-hd-1080p-ips-300-cd-m%B2-1000%3A1-5-ms-hdmi-vga-displayport-lautsprecher-schwarz-p-8477009/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "bauguru",
+            "price": 227.5,
+            "offer_link": "https://restposten.bauguru.at/monitore/125313-monitor-asus-be24eqk-ips-led-23-4718017562768.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 227.75,
+            "offer_link": "https://www.cls.at/product/2634071/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 229.23,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656607776",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 238.67,
+            "offer_link": "https://www.taufnaus.de/product/10606753",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 240.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=420000001623020337&ano=U1623020337&mno=90LM05M1-B01370&ean=4718017562768&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 251.4,
+            "offer_link": "https://lumatech.at/products/asus-be24eqk-led-monitor-60-5-cm-23-8-1920-x-1080-full-hd-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 259.0,
+            "offer_link": "https://www.galaxus.at/de/s1/product/asus-605-cm-238-1920-x-1080-2380-monitor-37343482?utm_content=1-2w&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 284.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=320000000807445586&ano=A-I807445586&mno=BE24EQK&ean=192876562765&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Conrad.at",
+            "price": 285.0,
+            "offer_link": "https://www.conrad.at/de/p/2383512?insert=7M&utm_source=geizhals&utm_medium=cpc&utm_campaign=pvgl&utm_content=dl_article",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "woolloom",
+            "price": 285.15,
+            "offer_link": "https://ebay.de/itm/126117222960?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Zar-Systems",
+            "price": 295.0,
+            "offer_link": "https://ebay.de/itm/195687339020?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        }
+    ]
+}

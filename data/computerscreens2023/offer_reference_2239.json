@@ -1,0 +1,162 @@
+{
+    "url": "https://geizhals.at/lg-electronics-24ck550n-3a-a1899752.html?hloc=at&hloc=de",
+    "product_name": "LG 24CK550N-3A, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 5.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS (AH-IPS)"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "LG Display"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-69kHz (horizontal), 57-63Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 1.4, 1x DisplayPort-Out 1.2 (Daisy Chain)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "1x Gb LAN (RJ-45)"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 3.0, 4x USB-A 2.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 3W), 1x Line-In, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b1178\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "65W (maximal), 61.8W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "87.8% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "534x513x240mm (mit Standfu\u00df), 534x333x68mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "6.10kg (mit Standfu\u00df), 3.95kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "mechanische Tasten, Thin Client (AMD GX-212JJ, 4GB RAM, 32GB SSD), Sicherheitsschloss (Kensington), Wi-Fi 5 (WLAN 802.11a/\u200bb/\u200bg/\u200bn/\u200bac), Bluetooth 4.0 LE"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre (Vorabaustausch)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 16:03"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "03.10.2018, 12:29"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 273.1,
+            "offer_link": "https://direkt.jacob.de/produkte/thin-client-monitor-24ck550n-3a-artnr-4400089.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        }
+    ]
+}

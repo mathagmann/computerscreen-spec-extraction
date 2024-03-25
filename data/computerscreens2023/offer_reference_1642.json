@@ -1,0 +1,400 @@
+{
+    "url": "https://geizhals.at/msi-optix-mag274qrfde-qd-9s6-3ca8da-028-a2452244.html?hloc=at&hloc=de",
+    "product_name": "MSI Optix MAG274QRFDE-QD, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "2560x1440, 16:9, 109ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 100.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), 1ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS (AHVA), Quantum-Dot"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "AU Optronics"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "Blue-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "HDR10, MSI DisplayHDR Ready (Hersteller)"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (8bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "147% (sRGB), 99% (Adobe RGB), 97% (DCI-P3), 100% (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "165Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium (48-165Hz via DisplayPort, 48-165Hz via HDMI, mit LFC-Support, mit HDR)"
+        },
+        {
+            "name": "Unsch\u00e4rfereduktionsfunktion",
+            "value": "MSI Anti Motion Blur"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "91-242kHz (horizontal), 30-165Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0b, 1x DisplayPort 1.2a, 1x USB-C mit DisplayPort 1.2a"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 2.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 2.0"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "100mm (h\u00f6henverstellbar), \u00b190\u00b0 (Pivot), \u00b175\u00b0 (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 32W (typisch), 37W (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "B"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "54.02kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "32kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "54kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "88.5% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "614.9x532.7x206.7mm (mit Standfu\u00df), 614.9x369.3x47.4mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "6.05kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, USB-C Power Delivery (15W), Steuerkreuz, Sicherheitsschloss (Kensington), Beleuchtung auf R\u00fcckseite (RGB)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre (Pickup&Return)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 04:58"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "07.01.2021, 10:45"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "DiTech.at",
+            "price": 489.0,
+            "offer_link": "https://www.ditech.at/details.php?artnr=311684",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 489.0,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=311684",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 489.99,
+            "offer_link": "https://www.ottoversand.at/p/63036813-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=63036813-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 489.99,
+            "offer_link": "https://www.ottoversand.at/p/41852550-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=41852550-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 489.99,
+            "offer_link": "https://www.universal.at/p/41852550-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 489.99,
+            "offer_link": "https://www.universal.at/p/63036813-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 489.99,
+            "offer_link": "https://www.galaxus.at/de/s1/product/msi-optix-mag274qrf-qd-2560-x-1440-pixel-27-monitor-17751419?utm_content=5-8&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Media Markt.at",
+            "price": 489.99,
+            "offer_link": "https://www.mediamarkt.at/de/product/_msi-gaming-monitor-optix-mag274qrfde-qd-27-zoll-wqhd-165hz-1ms-300cd-ips-hdr10-97percent-dci-p3-schwarz-1923920.html?utm_source=geizhals&utm_medium=psm-product%20feed&utm_term=1923920&utm_campaign=price%20comparison_mm-ka-produkte%20onl-nat_3222",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 499.0,
+            "offer_link": "https://www.cyberport.at/?DEEP=6117-011&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 499.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwAxiNp2m7lhfDBmxbkivOr9Q1m5map2uAiQecHq_JfEQxGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6117-011%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ONE.de",
+            "price": 499.99,
+            "offer_link": "https://atlas.r.akipam.com/ts/i5534285/tsc?amc=pricecomp.blbn.455753.471470.14133111&rmd=3&trg=https%3A%2F%2Fwww.one.de%2Fmsi-optix-mag274qrfde-qd-monitor-71416%3FsPartner%3DBELBOON",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 503.19,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/15444526?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 503.19,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/15444526?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 506.0,
+            "offer_link": "https://www.alternate.at/MSI/Optix-MAG274QRFDE-QD-Gaming-Monitor/html/product/1699376?partner=AtGeizhalsat&campaign=Monitor/MSI/1699376",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 509.12,
+            "offer_link": "https://direkt.jacob.de/produkte/msi-optix-mag274qrfde-qd-9s6-3ca8da-028-artnr-6960797.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 513.98,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/27-MSI-Optix-MAG274QRFDE-QD-WQHD-Gaming-TFT-Monitor-165Hz.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 515.82,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1621600&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 515.86,
+            "offer_link": "https://haym.info/produktdetails?id=1C13215",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neon24.de",
+            "price": 516.0,
+            "offer_link": "https://www.neon24.de/MSI-Optix-MAG274QRFDE-QD-27",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 516.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/291484/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "kiebel.de",
+            "price": 529.0,
+            "offer_link": "https://www.kiebel.de/zubehoer/27-Zoll-68-6cm-MSI-Optix-MAG274QRF-QD-2560x1440-165Hz-IPS-1ms.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 533.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=6173374",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 537.11,
+            "offer_link": "https://www.1ashop.at/de/produkt/67470/msi-optix-mag274qrf-qd-led-monitor-69-cm-27.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 541.3,
+            "offer_link": "https://www.computeruniverse.net/de/p/90822118?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 541.3,
+            "offer_link": "https://www.future-x.at/msi-optix-mag274qrf-qd-led-monitor-69-cm-27-2560-x-1440-wqhd-%40-165-hz-ips-300-cd-m%B2-1000%3A1-1-ms-2xhdmi-displayport-usb-c-schwarz-p-8787613/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigitech",
+            "price": 542.35,
+            "offer_link": "https://www.edigitech.de/detail/index/sArticle/944247?sPartner=12",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 543.05,
+            "offer_link": "https://www.ba-computer.at/msi-optix-mag274qrf-qd-led-monitor-gaming-69-cm-27-9s6-3ca8da-028.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "drucker_de_gmbh | eBay.de",
+            "price": 544.16,
+            "offer_link": "https://ebay.de/itm/266393214926?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 550.55,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656602799",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 559.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=30000000006173374&ano=T6173374&mno=9S6-3CA8DA-028&ean=4719072745608&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 575.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=15444526&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 580.32,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=6173374",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 585.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Fmsi-optix-27-mag274qrfde-qd-m0000LNVQO%3Fvouchercode%3Dstephan%26utm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000LNVQO",
+            "promotion_description": "Hinweis zu Gutscheinaktionen 20\u20ac Gutscheincode STEPHAN nur g\u00fcltig bis 10. Oktober 2023 um 23:59 Uhr bei einem Mindestbestellwert von 129\u20ac. Alle Gutscheininformationen unter https://www.shoepping.at/a/gutscheinbedingungen/stephan Aktionsbedingungen bei shoepping.at"
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 595.82,
+            "offer_link": "https://www.taufnaus.de/product/10608072",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 602.25,
+            "offer_link": "https://www.mylemon.at/artikel/msi/9s6_3ca8da_028/27-l-optix-mag274qrfde-qd.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 605.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1580&from=geizhals.at",
+            "promotion_description": null
+        }
+    ]
+}

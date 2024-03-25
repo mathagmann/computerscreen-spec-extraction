@@ -1,0 +1,218 @@
+{
+    "url": "https://geizhals.at/philips-momentum-279m1rv-a2558235.html?hloc=at&hloc=de",
+    "product_name": "Philips Momentum 279M1RV, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 163ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "450cd/\u200bm\u00b2 (typisch)"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS (AH-IPS/\u200bNano IPS)"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "LG Display"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 600"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "133% (sRGB), 110.1% (Adobe RGB), 98% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "144Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium (48-170Hz via DisplayPort, 48-144Hz via HDMI, mit LFC-Support, mit HDR), NVIDIA G-Sync Compatible zertifiziert (60-170Hz via DisplayPort), HDMI VRR"
+        },
+        {
+            "name": "Unsch\u00e4rfereduktionsfunktion",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-254kHz (horizontal), 48-144Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "3x HDMI 2.1 (144Hz@3840x2160), 1x DisplayPort 1.4 (144Hz@3840x2160), 1x USB-C 3.0 mit DisplayPort 1.4 (120Hz@3840x2160)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0, 1x USB-C 3.0 mit DisplayPort 1.4"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 5W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), N/\u200bA (Pivot), \u00b135\u00b0 (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 54.9W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "52kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "90kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "93.5% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "609x545x282mm (mit Standfu\u00df), 609x353x75mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "9.00kg (mit Standfu\u00df), 5.20kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, USB-C Power Delivery (65W), Steuerkreuz, Picture-in-Picture, Sicherheitsschloss (Kensington), Beleuchtung auf R\u00fcckseite (Philips Ambiglow), Werkskalibrierung (Delta-E <2), KVM-Switch, Philips SmartImage"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre (Pickup&Return)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 00:50"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "07.07.2021, 12:10"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Proshop.at",
+            "price": 896.52,
+            "offer_link": "https://www.proshop.at/Bildschirm/Philips-27-Bildschirm-Momentum-279M1RV-3840x2160-144Hz-Nano-IPS-USB-C-Black-1-ms/3118087?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 903.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwAwqzX3eQZkYX44I26OZb1lcvWo33EBVCy8inMdET56gvGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6108-1H5%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 903.52,
+            "offer_link": "https://www.amazon.de/dp/B098T38CFX?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B098T38CFX&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 903.9,
+            "offer_link": "https://www.alza.at/27-philips-279m1rv-d7215793.htm?kampan=geizhals_at_monitory_herni_144hz_wc120a77g6a&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_herni_144hz_wc120a77g6a",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 907.53,
+            "offer_link": "https://direkt.jacob.de/produkte/philips-279m1rv-00-68-6cm-279m1rv-00-artnr-7264027.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 907.55,
+            "offer_link": "https://www.galaxus.at/de/s1/product/philips-279m1rv00-3840-x-2160-pixel-27-monitor-17743435?utm_content=2w&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 940.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6108-1H5&APID=294&STOREID=7",
+            "promotion_description": null
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "url": "https://geizhals.at/lenovo-legion-y32p-30-66f9uac6eu-a2874174.html?hloc=at&hloc=de",
+    "product_name": "Lenovo Legion Y32p-30, 31.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "31.5\"/\u200b80cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 140ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "350cd/\u200bm\u00b2 (typisch), 400cd/\u200bm\u00b2 (HDR)"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 3.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "2ms (GtG), 0.2ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter, Local Dimming (16 Zonen)"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 400"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (8bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "99% (sRGB), keine Angabe (Adobe RGB), 90% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "144Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium (48-144Hz via DisplayPort, 48-144Hz via HDMI, mit LFC-Support, mit HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-185kHz (horizontal), 48-144Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.1 (144Hz@3840x2160), 1x DisplayPort 1.4 (144Hz@3840x2160), 1x USB-C 3.0 mit DisplayPort 1.4 (144Hz@3840x2160)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 3.0, 1x USB-C 3.0 (USB PD 15W)"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0, 1x USB-C 3.0 mit DisplayPort 1.4"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 5W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "135mm (h\u00f6henverstellbar), N/\u200bA (Pivot), \u00b130\u00b0 (drehbar), +22\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "175W (maximal), 62W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.1% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "715.1x463.8x298.4mm (mit Standfu\u00df), 715.1x424.4x59.5mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "9.60kg (mit Standfu\u00df), 7.40kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, USB-C Power Delivery (75W), mechanische Tasten mit Steuerkreuz, Lichtsensor, Sicherheitsschloss (Kensington), Werkskalibrierung (Delta-E <2), Beleuchtung auf Frontseite (RGB)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 09:51"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "10.01.2023, 14:51"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "mylemon.at",
+            "price": 797.39,
+            "offer_link": "https://www.mylemon.at/artikel/lenovo/66f9uac6eu/legion-y32p-30-gaming-monitor.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 797.4,
+            "offer_link": "https://www.proshop.at/Bildschirm/Lenovo-31-Bildschirm-Legion-Y32P-30-3840x2160-144Hz-IPS-75W-USB-C-Black-1-ms-AMD-FreeSync-Premium/3145599?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 811.74,
+            "offer_link": "https://direkt.jacob.de/produkte/lenovo-legion-y32p-30-66f9uac6eu-artnr-8226699.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 869.14,
+            "offer_link": "https://www.amazon.de/dp/B0BRJH3QKB?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BRJH3QKB&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 869.93,
+            "offer_link": "https://haym.info/produktdetails?id=3C04944",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 869.95,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=366196",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 884.53,
+            "offer_link": "https://www.taufnaus.de/product/10607410",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 939.99,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=EP1403506",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 940.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=10000000180829717&ano=BC180829717&mno=66F9UAC6EU&ean=196800876515&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 976.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA_LR6aoYlmWcoGxPFWjt6o_lg6PxY_VreQGu9x7vS-H_Gy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6133-11Z%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 999.0,
+            "offer_link": "https://www.cyberport.at/?DEEP=6133-11Z&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Lenovo AT",
+            "price": 999.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=OH8IRygBZ89RqLZGLohqgU8U1BWL8NkqMu7PdSOefmkRrhKuW9k9AKLC1QcYXCcHOlPSk86XOZyhbYrWc5KXFQ~~&rdlink=https%3A%2F%2Flenovo.7eer.net%2Fc%2F1398965%2F1188605%2F3838%3FsubId1%3DAT%26subId2%3DgeizhalsUUI%26subId3%3Dgeizhalsat_66F9UAC6EU%26prodsku%3D66F9UAC6EU%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fat%252Fde%252Fp%252Faccessories-and-software%252Fmonitors%252Fgaming%252F66F9UAC6EU%26intsrc%3DCATF_9187",
+            "promotion_description": null
+        }
+    ]
+}

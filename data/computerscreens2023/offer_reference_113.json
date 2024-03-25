@@ -1,0 +1,228 @@
+{
+    "url": "https://geizhals.at/aoc-27g2sp-bk-a2994826.html?hloc=at&hloc=de",
+    "product_name": "AOC 27G2SP/BK, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 82ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 80.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), 1ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "123% (sRGB), 105% (Adobe RGB), 98% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "165Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-200kHz (horizontal), 48-165Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1920x1080), 2x HDMI 1.4 (144Hz@1920x1080), 1x DisplayPort 1.2 (165Hz@1920x1080)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b130\u00b0 (drehbar), +23\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz/\u200brot (untere Blende), schwarz/\u200brot (Standfu\u00df), schwarz/\u200brot (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 28W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "21kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "26kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "89.7% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "612.5x398.6x227.4mm (mit Standfu\u00df), 612.5x365.8x48.8mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.07kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 02:03"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "31.07.2023, 16:54"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 297.22,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-gaming-27g2sp-bk-27g2spu-artnr-7848317.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 299.87,
+            "offer_link": "https://www.ba-computer.at/aoc-27g2spu-27-27g2sp-bk.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 299.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=7338891",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 302.33,
+            "offer_link": "https://haym.info/produktdetails?id=3C14947",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 312.18,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/27g2sp_bk/27g2spu-27.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 312.19,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656694795",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 316.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=30000000007338891&ano=T7338891&mno=27G2SP%2FBK&ean=8592978384364&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 333.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=25213184&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 346.92,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=7338891",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 355.23,
+            "offer_link": "https://www.taufnaus.de/product/13712118",
+            "promotion_description": null
+        }
+    ]
+}

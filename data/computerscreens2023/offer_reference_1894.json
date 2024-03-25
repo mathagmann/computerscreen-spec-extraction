@@ -1,0 +1,384 @@
+{
+    "url": "https://geizhals.at/asus-proart-pa27ucx-k-90lm04nc-b01370-a2309374.html?hloc=at&hloc=de",
+    "product_name": "ASUS ProArt PA27UCX-K, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 163ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "keine Angabe (typisch), 1.000cd/\u200bm\u00b2 (HDR)"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 100.000.000:1 (dynamisch), 1.000.000:1 (HDR)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS (AmLED), Quantum-Dot"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "AU Optronics"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "Mini LED, flicker-free, Blaulichtfilter, Full Array Local Dimming (576 Zonen)"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 1000, HDR10, Dolby Vision, Ultra HD Premium"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "nein (10bit nativ)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "100% (sRGB), 99.5% (Adobe RGB), 97% (DCI-P3), 83% (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync (40-60Hz)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "40-144kHz (horizontal), 30-60Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0b, 1x DisplayPort 1.2, 1x USB-C mit DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "1x USB-C (Netzteil)"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-C mit DisplayPort 1.2"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "120mm (h\u00f6henverstellbar), \u00b190\u00b0 (Pivot), \u00b160\u00b0 (drehbar), +23\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 46W (typisch), 63W (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "C"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "91.98kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "36kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "43kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "87.6% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "625x424x229mm (mit Standfu\u00df), 625x367x91mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "11.50kg (mit Standfu\u00df), 7.60kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, Blendschutzhaube, USB-C Power Delivery (90W), mechanische Tasten mit Steuerkreuz, Hardware-Kalibrierung (14bit LUT), Colorimeter (X-Rite i1), Picture-in-Picture, HDCP 2.2, DICOM, ASUS Off-Axis Contrast Optimization, Calman Ready, Werkskalibrierung (Delta-E <1)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "f\u00fcnf Jahre nach Registrierung (innerhalb von drei Monaten nach Kauf, Standard: drei Jahre)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 10:42"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "16.06.2020, 10:38"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 1952.7,
+            "offer_link": "https://www.computeruniverse.net/de/p/90803116?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 1952.7,
+            "offer_link": "https://www.amazon.de/dp/B089SRDQLW?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B089SRDQLW&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 1956.0,
+            "offer_link": "https://www.proshop.at/Bildschirm/ASUS-27-Bildschirm-ProArt-PA27UCX-K-Black-5-ms/2883712?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ASUS",
+            "price": 1999.9,
+            "offer_link": "https://webshop.asus.com/de/90LM04NC-B01370/ASUS-ProArt-PA27UCX-K-68-47cm-27-Zoll-Professional-Monitor",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "asus-eshop",
+            "price": 1999.9,
+            "offer_link": "https://ebay.de/itm/363091562834?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 2016.69,
+            "offer_link": "https://direkt.jacob.de/produkte/asus-68-6cm-profess-pa27ucx-k-90lm04nc-b01370-artnr-6473562.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 2029.55,
+            "offer_link": "https://technikladen.at/P-ASUS-ProArt-PA27UCX-K-686-cm-27-Zoll-3840-x-2160-Pixel-4K-Ultra-HD-LED-5-ms-Schwarz?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 2031.99,
+            "offer_link": "https://www.ottoversand.at/p/97803422-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=97803422-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 2031.99,
+            "offer_link": "https://www.universal.at/p/97803422-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 2031.99,
+            "offer_link": "https://www.galaxus.at/de/s1/product/asus-pa27ucx-k-3840-x-2160-pixel-27-monitor-13575071?utm_content=5-8&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 2037.13,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1319713&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 2058.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/278176/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 2070.13,
+            "offer_link": "https://www.mylemon.at/artikel/asus/90lm04nc_b01370/68-6cm-profess-pa27ucx-k.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 2070.14,
+            "offer_link": "https://www.cls.at/product/2652129/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 2070.15,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=304170",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 2070.16,
+            "offer_link": "https://www.1ashop.at/de/produkt/79599/asus-proart-pa27ucx-k-led-monitor-68-47-cm-27.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 2070.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=304170",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 2079.0,
+            "offer_link": "https://www.alza.at/27-asus-proart-pa27ucx-k-d5882387.htm?kampan=geizhals_at_monitory_profesionalni_grafika-a-foto_wa043v22c&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_profesionalni_grafika-a-foto_wa043v22c",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 2082.29,
+            "offer_link": "https://www.future-x.at/asus-68-6-cm-professpa27ucx-k-hdmi-dp-ips-spk-lift-flachbildschirm-tft-lcd-68-6-cm-p-8481983/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 2104.12,
+            "offer_link": "https://www.ba-computer.at/asus-proart-pa27ucx-k-led-monitor-68-47-cm-27-90lm04nc-b01370.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 2106.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1494&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 2115.58,
+            "offer_link": "https://www.taufnaus.de/product/10606158",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 2116.46,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656607767",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neon24.de",
+            "price": 2145.0,
+            "offer_link": "https://www.neon24.de/ASUS-ProArt-PA27UCX-K-27",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 2199.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=420000000448688618&ano=U448688618&mno=90LM04NC-B01370&ean=4718017463317&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 2225.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Fasus-proart-27-pa27ucx-k-m0000LNTOP%3Fvouchercode%3Dstephan%26utm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000LNTOP",
+            "promotion_description": "Hinweis zu Gutscheinaktionen 20\u20ac Gutscheincode STEPHAN nur g\u00fcltig bis 10. Oktober 2023 um 23:59 Uhr bei einem Mindestbestellwert von 129\u20ac. Alle Gutscheininformationen unter https://www.shoepping.at/a/gutscheinbedingungen/stephan Aktionsbedingungen bei shoepping.at"
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 2279.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=13014043&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 2290.49,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeW1WudmdODi4ylMg4uclMAsLSl0cCStp3dj5msfkAFaLQiqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Fasus-proart-pa27ucx-k-68-6cm-27-zoll-4k-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 2302.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=i333337383737&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "bauguru",
+            "price": 2323.3,
+            "offer_link": "https://restposten.bauguru.at/monitore/130996-monitor-asus-pa27ucx-k-27-ips-led-4718017463317.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 2327.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=337877&artname=ASUS+ProArt+PA27UCX-K+68.47cm+%2816%3A9%29+UHD+HDMI+DP",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Digitfoto",
+            "price": 2819.13,
+            "offer_link": "https://www.digitfoto.de/infosproduit.php?refinfos=ASUSPA27UCXK&pdb=15",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Conrad.at",
+            "price": 2969.0,
+            "offer_link": "https://www.conrad.at/de/p/2383549?insert=7M&utm_source=geizhals&utm_medium=cpc&utm_campaign=pvgl&utm_content=dl_article",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 3029.0,
+            "offer_link": "https://www.alternate.at/ASUS/PA27UCX-K-LED-Monitor/html/product/1650372?partner=AtGeizhalsat&campaign=Monitor/ASUS/1650372",
+            "promotion_description": null
+        }
+    ]
+}

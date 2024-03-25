@@ -1,0 +1,162 @@
+{
+    "url": "https://geizhals.at/medion-akoya-x52708-md21508-30032492-a2746852.html?hloc=at&hloc=de",
+    "product_name": "Medion Akoya X52708, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "2560x1440, 16:9, 109ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "350cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "2.500:1 (statisch), 30.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "8ms (GtG), 1ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "VA"
+        },
+        {
+            "name": "Form",
+            "value": "gebogen (curved), 1500R/\u200b1.5m"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "165Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), 48-165Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI (144Hz@2560x1440), 1x DisplayPort (165Hz@2560x1440)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "110mm (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), grau (Standfu\u00df), schwarz/\u200bgrau (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "40W (maximal), 28W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.32W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "28kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "91.0% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "605x498x232mm (mit Standfu\u00df), 605x365x100mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.70kg (mit Standfu\u00df), 4.10kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre (Bring-In)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 13:00"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "02.06.2022, 16:27"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "MEDIONshop-Deutschland",
+            "price": 299.99,
+            "offer_link": "https://ebay.de/itm/374920371224?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        }
+    ]
+}

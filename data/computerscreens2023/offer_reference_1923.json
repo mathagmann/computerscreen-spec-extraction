@@ -1,0 +1,396 @@
+{
+    "url": "https://geizhals.at/aoc-27p2c-a2294895.html?hloc=at&hloc=de",
+    "product_name": "AOC 27P2C, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 82ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 50.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "99% (sRGB), 73.7% (Adobe RGB), 73.3% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (48-75Hz via DisplayPort, 48-75Hz via HDMI, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-85kHz (horizontal), 48-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 1.4, 1x DisplayPort 1.2, 1x USB-C 3.0 mit DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0, 1x USB-C 3.0 mit DisplayPort 1.2"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-In, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b1180\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), keine Angabe (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "21kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "23kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "88.7% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "614x544x200mm (mit Standfu\u00df), 614x369x51mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.41kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington), KVM-Switch, TCO 9 zertifiziert"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 11:03"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "20.05.2020, 17:43"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 176.25,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1620806&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 177.7,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/68-6cm-27-AOC-27P2C-Full-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "visunext.at",
+            "price": 177.99,
+            "offer_link": "https://www.visunext.at/p/aoc-27p2c-monitor-1000026045/?channable=0058186964003130303030323630343590&utm_source=geizhals&utm_medium=geizhals&utm_campaign=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mynotebook.de",
+            "price": 179.0,
+            "offer_link": "https://mynotebook.de/aoc-27p2c-27p2c.html?ff=4&fp=81133&utm_source=geizhals_de&utm_medium=preisvergleich&utm_campaign=geizhals&utm_content=mynotebook",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 179.17,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-27p2c-68-6cm-27p2c-artnr-6471668.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 179.18,
+            "offer_link": "https://www.computeruniverse.net/de/p/90802298?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 180.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/283272/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "NRE - Computer & Service",
+            "price": 181.16,
+            "offer_link": "https://www.nre.at/product_info.php?info=p36071_aoc-27p2c-27.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 181.19,
+            "offer_link": "https://www.galaxus.at/de/s1/product/aoc-27p2c-1920-x-1080-pixel-27-monitor-13501679?utm_content=2-4&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 181.19,
+            "offer_link": "https://www.amazon.de/dp/B086X4CX7Z?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B086X4CX7Z&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 182.92,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/27p2c/27p2c-27-ips-1920x1080-16.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 182.93,
+            "offer_link": "https://haym.info/produktdetails?id=0C17583",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 183.19,
+            "offer_link": "https://www.future-x.at/aoc-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-ips-250-cd-m%B2-1000%3A1-4-ms-hdmi-displayport-usb-c-lautsprecher-schwarz-p-8565285/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 184.9,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=315057",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 184.9,
+            "offer_link": "https://www.alternate.at/AOC/27P2C-LED-Monitor/html/product/1650427?partner=AtGeizhalsat&campaign=Monitor/AOC/1650427",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 185.58,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/686cm27_1920x1080_AOC_27P2C_4ms_169_USB_HDMI_DisplayPort_Speaker_Pivot_Full_HD_Black.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 185.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=315057",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 188.19,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656602961",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 188.99,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeW7S8dCTcvZk2hKtSHLw2E3KSgZRk22QLBigIFJPN5pusiqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Faoc-27p2c-68-cm-27-zoll-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 189.09,
+            "offer_link": "https://geniuzcom.at/AOC-27P2C-LED-Monitor-686-cm-27-1920-x-1080-Full-HD-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 189.7,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/13038761?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 189.71,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/13038761?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 191.02,
+            "offer_link": "https://www.proshop.at/Bildschirm/AOC-27-Bildschirm-27P2C-Black-4-ms/2884596?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 193.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=420000001300376592&ano=U1300376592&mno=27P2C&ean=4038986187336&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 193.99,
+            "offer_link": "https://ebay.de/itm/373760295889?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 196.16,
+            "offer_link": "https://www.ba-computer.at/aoc-27p2c-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-27p2c.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 202.7,
+            "offer_link": "https://lumatech.at/products/aoc-27p2c-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 205.9,
+            "offer_link": "https://www.alza.at/27-aoc-27p2c-d6218421.htm?kampan=geizhals_at_monitory_kancelarske_75hz_wk227z1d&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_75hz_wk227z1d",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 213.38,
+            "offer_link": "https://www.taufnaus.de/product/10606430",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 215.04,
+            "offer_link": "https://www.1ashop.at/de/produkt/24655/aoc-27p2c-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 216.46,
+            "offer_link": "https://technikladen.at/P-AOC-P2-27P2C-686-cm-27-Zoll-1920-x-1080-Pixel-Full-HD-LED-4-ms-Schwarz?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 217.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=5721287",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 225.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=a3887620&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 225.34,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC3887620",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 228.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=13038761&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Conrad.at",
+            "price": 229.99,
+            "offer_link": "https://www.conrad.at/de/p/2300725?insert=7M&utm_source=geizhals&utm_medium=cpc&utm_campaign=pvgl&utm_content=dl_article",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 240.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=338070&artname=AOC+68%2C6cm+%2827%22%29+++27P2C+++++16%3A09+HDMI%2BDP%2BUSB++IPS+Lift+bl.",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 248.24,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=5721287",
+            "promotion_description": null
+        }
+    ]
+}

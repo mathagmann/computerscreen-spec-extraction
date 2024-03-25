@@ -1,0 +1,322 @@
+{
+    "url": "https://geizhals.at/acer-nitro-xv5-xv275uvymipruzx-um-hx5ee-v01-a2863541.html?hloc=at&hloc=de",
+    "product_name": "Acer Nitro XV5 XV275UVymipruzx, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "2560x1440, 16:9, 109ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "350cd/\u200bm\u00b2 (typisch), 400cd/\u200bm\u00b2 (HDR)"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 100.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), 0.5ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS, Quantum-Dot"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "Blue-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "HDR10, HDR 400 (Hersteller)"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), 90% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "160Hz (170Hz OC)"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium (48-170Hz via DisplayPort, 48-144Hz via HDMI, mit LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Unsch\u00e4rfereduktionsfunktion",
+            "value": "Acer Visual Response Boost (VRB)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "31-178kHz (horizontal), 48-170Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 2.0 (120Hz@2560x1440), 1x DisplayPort 1.4 (165Hz@2560x1440), 1x USB-C 3.0 mit DisplayPort 1.4 (170Hz@2560x1440)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 2.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 2.0, 1x USB-C 3.0 mit DisplayPort 1.4"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 3W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "110mm (h\u00f6henverstellbar), \u00b190\u00b0 (Pivot), \u00b120\u00b0 (drehbar), +15\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "grau (Displayrahmen), grau (untere Blende), grau (Standfu\u00df), grau (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "75x75 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 23.4W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "26kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "44kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.4% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "614x431x232mm (mit Standfu\u00df), 614x362x78mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "keine Angabe (mit Standfu\u00df), 5.62kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, USB-C Power Delivery (65W), Steuerkreuz, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre (Bring-In)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 10:05"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "12.12.2022, 18:15"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Deltatecc",
+            "price": 383.99,
+            "offer_link": "https://ebay.de/itm/334940586423?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": "Hinweis zu Gutscheinaktionen -4% mit Gutscheincode: POWEREBAY4 maximaler Rabatt EUR 50,-  g\u00fcltig bis 2023.10.04 08:00hDer Gutschein ist 30-malig pro Nutzerkonto einl\u00f6sbar."
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 395.0,
+            "offer_link": "https://www.arlt.com/Gaming/Monitore/68-58-cm-27-0-Zoll-Acer-Nitro-XV5-XV275UVymipruzx-WQHD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 398.01,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1624475&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "JB-Computer",
+            "price": 399.0,
+            "offer_link": "https://www.jb-computer.de/monitore/monitore/alle-monitore/9517/acer-nitro-xv275uv-27-16-9-wqhd-ips-display-schwarz?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 399.0,
+            "offer_link": "https://www.galaxus.at/de/s1/product/acer-nitro-xv275uvymipruzx-2560-x-1440-pixel-27-monitor-24496468?utm_content=4-6&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 399.98,
+            "offer_link": "https://www.mylemon.at/artikel/acer/um_hx5ee_v01/nitro-xv275uv-gaming-monitor-68.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 399.99,
+            "offer_link": "https://www.ottoversand.at/p/89584765-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=89584765-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 399.99,
+            "offer_link": "https://www.universal.at/p/89584765-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 402.35,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/26042392?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 402.35,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/26042392?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 402.35,
+            "offer_link": "https://www.amazon.de/dp/B0BWNF3JBK?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BWNF3JBK&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 405.0,
+            "offer_link": "https://www.alternate.at/Acer/Nitro-XV275UV-Gaming-Monitor/html/product/1857843?partner=AtGeizhalsat&campaign=Monitor/Acer/1857843",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 407.35,
+            "offer_link": "https://haym.info/produktdetails?id=3C14404",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 407.35,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=366168",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 410.56,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656693481",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 412.51,
+            "offer_link": "https://direkt.jacob.de/produkte/acer-nitro-xv275uv-um-hx5ee-v01-artnr-8125585.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 416.89,
+            "offer_link": "https://www.future-x.at/acer-nitro-xv275uv-27-16%3A9-wqhd-ips-display-schwarz-hdmi-usb-typ-c-p-9187228/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 420.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=380000000501569305&ano=A-M501569305&mno=UM.HX5EE.V01&ean=4711121032493&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 420.38,
+            "offer_link": "https://technikladen.at/I-UMHX5EEV01-Acer-Nitro-XV275UV-27-16-9-WQHD-IPS-Display-schwarz-27-IPS-UMHX5EEV01-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "SKC Computer & Multimedia Store",
+            "price": 425.9,
+            "offer_link": "https://www.skc.at/produkte/tfts/acer_nitro_xv275uv_27_16_9_wqhd_ips_display_schwarz_-_27_-_ips-240671",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "JB-Computer-Shop | eBay.de",
+            "price": 429.9,
+            "offer_link": "https://ebay.de/itm/275927558992?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 433.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/343196/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neckermann.at",
+            "price": 440.99,
+            "offer_link": "https://www.neckermann.at/tft-monitor-nitro-xv275uvymipruzx-517008.html?vkh=F1&utm_source=Geizhals&utm_medium=cpc&utm_campaign=psm&utm_term=1435626",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 459.1,
+            "offer_link": "https://www.taufnaus.de/product/13499878",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "buecher.de",
+            "price": 486.99,
+            "offer_link": "https://www.awin1.com/pclick.php?p=35971777519&a=332667&m=14191",
+            "promotion_description": null
+        }
+    ]
+}

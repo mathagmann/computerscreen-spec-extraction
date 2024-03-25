@@ -1,0 +1,174 @@
+{
+    "url": "https://geizhals.at/dell-s2721d-210-axkx-a2357762.html?hloc=at&hloc=de",
+    "product_name": "Dell S2721D, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "2560x1440, 16:9, 109ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "350cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "99% (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (48-75Hz via DisplayPort, 48-75Hz via HDMI, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-115kHz (horizontal), 48-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 1.4, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 3W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +21\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), grau (Standfu\u00df), wei\u00df (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "40W (maximal), 19W (typisch), 20W (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "A+"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "29.20kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "19kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.1% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "611.6x453.4x186.8mm (mit Standfu\u00df), 611.6x364.6x55.4mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.40kg (mit Standfu\u00df), 4.40kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 09:27"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "25.08.2020, 08:51"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "TaufNaus",
+            "price": 415.64,
+            "offer_link": "https://www.taufnaus.de/product/10611154",
+            "promotion_description": null
+        }
+    ]
+}

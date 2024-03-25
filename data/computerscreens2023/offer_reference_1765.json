@@ -1,0 +1,414 @@
+{
+    "url": "https://geizhals.at/aoc-u32e2n-a2383778.html?hloc=at&hloc=de",
+    "product_name": "AOC U32E2N, 31.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "31.5\"/\u200b80cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 140ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "350cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "2.500:1 (statisch), 20.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "VA (MVA)"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "104% (sRGB), 77% (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-140kHz (horizontal), 40-60Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 3W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +23.5\u00b0/\u200b-6\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "68W (maximal), 44W (typisch), 55W (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "B"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "80.30kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "40kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.0% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "714.82x522.81x253.81mm (mit Standfu\u00df), 714.82x425.24x55.71mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "8.34kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "mechanische Tasten, Picture-in-Picture, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 06:34"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "29.09.2020, 17:08"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 339.24,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1368824&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 348.29,
+            "offer_link": "https://www.ba-computer.at/aoc-u32e2n-led-monitor-80-cm-32-31-5-sichtbar-u32e2n.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 348.31,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/u32e2n/u32e2n-32-va-dp-2xhdmi.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 348.32,
+            "offer_link": "https://haym.info/produktdetails?id=0C27610",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "NRE - Computer & Service",
+            "price": 348.88,
+            "offer_link": "https://www.nre.at/product_info.php?info=p36080_aoc-u32e2n-31-5.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 348.9,
+            "offer_link": "https://www.alza.at/32-aoc-u32e2n-d6217876.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_wk234b&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_wk234b",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 349.9,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/80cm-31-5-AOC-U32E2N-4K-Ultra-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 351.05,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-essential-line-u32e2n-u32e2n-artnr-6793077.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 352.84,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/14759965?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 352.84,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/14759965?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 352.84,
+            "offer_link": "https://www.galaxus.at/de/s1/product/aoc-u32e2n-3840-x-2160-pixel-32-monitor-13974618?utm_content=5-8&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 352.84,
+            "offer_link": "https://www.amazon.de/dp/B08CKMF2NY?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B08CKMF2NY&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 355.0,
+            "offer_link": "https://www.alternate.at/AOC/U32E2N-LED-Monitor/html/product/1686619?partner=AtGeizhalsat&campaign=Monitor/AOC/1686619",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 358.99,
+            "offer_link": "https://www.ottoversand.at/p/27912220-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=27912220-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 358.99,
+            "offer_link": "https://www.universal.at/p/27912220-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 359.0,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=309372",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 359.89,
+            "offer_link": "https://www.computeruniverse.net/de/p/90817309?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 360.86,
+            "offer_link": "https://www.proshop.at/Bildschirm/AOC-32-Bildschirm-U32E2N-4K-UHD-Speakers-Black-4-ms/3054953?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 361.53,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656602735",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 362.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=309372",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 364.93,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/80cm315_3840x2160_AOC_EssentialLine_U32E2N_169_4ms_HDMI_DisplayPort_VESA_Speaker_4K_UHD_Black.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 364.94,
+            "offer_link": "https://geniuzcom.at/AOC-U32E2N-LED-Monitor-80-cm-32-315-sichtbar",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 374.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=160000000577551273&ano=S577551273&mno=U32E2N&ean=4038986118286&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 375.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/288306/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 379.49,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeW9oWUfIubVEL--u3mic3WK-JBGPbH8lUyFjo1QuYU9OEiqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Faoc-e2-u32e2n-80-cm-31-5-zoll-4k-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 380.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1123&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 381.59,
+            "offer_link": "https://www.future-x.at/aoc-32-va-uhd-4k-monitor-3840-x-2160-60hz-displayport-hdmi-4ms-flachbildschirm-tft-lcd-32-2500%3A1-displayport-eingang-p-8690437/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 385.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Faoc-315-u32e2n-m0000L1SEG%3Fvouchercode%3Dstephan%26utm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000L1SEG",
+            "promotion_description": "Hinweis zu Gutscheinaktionen 20\u20ac Gutscheincode STEPHAN nur g\u00fcltig bis 10. Oktober 2023 um 23:59 Uhr bei einem Mindestbestellwert von 129\u20ac. Alle Gutscheininformationen unter https://www.shoepping.at/a/gutscheinbedingungen/stephan Aktionsbedingungen bei shoepping.at"
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 389.49,
+            "offer_link": "https://ebay.de/itm/384156275763?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 392.34,
+            "offer_link": "https://www.1ashop.at/de/produkt/55059/aoc-u32e2n-80cm-31-5zoll-lcd-3840x2160-16:9-hdmi/dp-in.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 395.2,
+            "offer_link": "https://lumatech.at/products/aoc-u32e2n-led-monitor-80-cm-32-31-5-sichtbar",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 398.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=6158608",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 403.51,
+            "offer_link": "https://www.taufnaus.de/product/10602210",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 405.24,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC4026965",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "bauguru",
+            "price": 408.6,
+            "offer_link": "https://restposten.bauguru.at/monitore/127748-monitor-aoc-u32e2n-32-led-va-flicker-free-4038986118286.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "PCO Computer",
+            "price": 414.29,
+            "offer_link": "https://www.pco.co.at/Displays/Desktop-Displays/AOC-U32E2N-8001CM-315IN::76530.html?utm_source=geizhals&utm_medium=CPC&utm_campaign=2010",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 416.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=14759965&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 417.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=a4026965&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 442.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Large-Format/AOC-U32E2N-80-01CM-31-5IN::751.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 447.18,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=6158608",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 455.1,
+            "offer_link": "https://www.meistersinger.at/product.php?product=680880&f=g2",
+            "promotion_description": null
+        }
+    ]
+}

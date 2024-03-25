@@ -1,0 +1,426 @@
+{
+    "url": "https://geizhals.at/dell-p2223hc-210-bdfr-a2692184.html?hloc=at&hloc=de",
+    "product_name": "Dell P2223HC, 21.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "21.5\"/\u200b54.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 102ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "99% (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 56-76Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 1.4, 1x DisplayPort 1.2, 1x USB-C 3.0 mit DisplayPort 1.2, 1x DisplayPort-Out (Daisy Chain)"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-C 3.0 mit DisplayPort 1.2"
+        },
+        {
+            "name": "Audio",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), \u00b190\u00b0 (Pivot), \u00b145\u00b0 (drehbar), +21\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), grau (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "169W (maximal), 12W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "D"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "12kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.2% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "487.26x364x179.57mm (mit Standfu\u00df), 487.26x289.99x52.15mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "4.97kg (mit Standfu\u00df), 3.03kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, EPEAT Gold, USB-C Power Delivery (65W), Steuerkreuz, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 16:04"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "11.03.2022, 13:59"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 159.22,
+            "offer_link": "https://direkt.jacob.de/produkte/dell-22-usb-c-dell-p2223hc-artnr-7634618.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 159.83,
+            "offer_link": "https://www.galaxus.at/de/s1/product/dell-inc-p2223hc-1920-x-1080-pixel-22-monitor-19695906?utm_content=2w&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 160.33,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/23765382?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 160.34,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/23765382?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 168.34,
+            "offer_link": "https://www.mylemon.at/artikel/dell/dell_p2223hc/22-usb-c-monitor-p2223hc.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 168.35,
+            "offer_link": "https://geniuzcom.at/Dell-P2223HC-LED-Monitor-546-cm-215-1920-x-1080-Full-HD-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 168.58,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656622319",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 170.74,
+            "offer_link": "https://haym.info/produktdetails?id=2C06529",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 172.88,
+            "offer_link": "https://www.computeruniverse.net/de/p/90860035?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neon24.de",
+            "price": 174.0,
+            "offer_link": "https://www.neon24.de/Dell-P2223HC-215",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 176.13,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/54-6cm-21-5-DELL-Dell-22-USB-C-Monitor-P2223HC-Full-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 176.89,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1554726&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 176.9,
+            "offer_link": "https://www.alza.at/21-5-dell-p2223hc-professional-d7071605.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_adl22i24e&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_adl22i24e",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 177.96,
+            "offer_link": "https://www.proshop.at/Bildschirm/Dell-22-Bildschirm-P2223HC-1920x1080-FHD-IPS-65W-USB-C-HUB-Black-5-ms/3053831?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mynotebook.de",
+            "price": 181.0,
+            "offer_link": "https://mynotebook.de/dell-p2223hc-dell-p2223hc.html?ff=4&fp=103207&utm_source=geizhals_de&utm_medium=preisvergleich&utm_campaign=geizhals&utm_content=mynotebook",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CNW IT-Systeme",
+            "price": 181.7,
+            "offer_link": "https://www.c-nw.de/dell-22-usb-c-monitor-21-5-zoll-54-6-cm-p2223hc.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 182.12,
+            "offer_link": "https://www.cls.at/product/4457476/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 182.12,
+            "offer_link": "https://www.1ashop.at/de/produkt/88746/dell-p2223hc-21-5.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 182.12,
+            "offer_link": "https://technikladen.at/P-Dell-22-USB-C-Monitor-P2223HC-546cm-215?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 182.58,
+            "offer_link": "https://www.ba-computer.at/dell-p2223hc-led-monitor-54-6-cm-22-1920-x-1080-full-hd-1080p-dell-p2223hc.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 182.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=7334416",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 184.31,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/559cm22_1920x1080_Dell_P2223HC_169_14ms_IPS_HDMI_DisplayPort_USBC_USBHub_VESA_Pivot_Full_HD_BlackSilver.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 187.99,
+            "offer_link": "https://www.future-x.at/dell-p2223hc-led-monitor-54-6-cm-22-1920-x-1080-full-hd-1080p-60-hz-ips-250-cd-m%B2-1000%3A1-5-ms-hdmi-displayport-usb-c-schwarz-silber-p-9019994/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 188.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=20000001035664777&ano=I1035664777&mno=DELL-P2223HC&ean=5397184567944&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 189.58,
+            "offer_link": "https://www.heinzsoft-shop.de/dell-p2223hc-led-monitor-full-hd-10.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 191.8,
+            "offer_link": "https://lumatech.at/products/dell-p2223hc-led-monitor-54-6-cm-21-5-1920-x-1080-full-hd-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 192.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=i343034303037&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 193.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=23765382&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 195.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/DELL-EMC-TFT-P2223HC-21-5IN-FHD::12592.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "group24",
+            "price": 196.23,
+            "offer_link": "https://www.group24.de/dell-p2223hc-22-zoll-1920x1080/dell-p2223hc",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 196.8,
+            "offer_link": "https://www.meistersinger.at/product.php?product=803516&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "MTX Computer Shop",
+            "price": 198.42,
+            "offer_link": "https://mtx-computer.eu/s/de/p/243386/dell-p-series-22-usb-c-monitor-p2223hc-54-6-cm-21.5-zoll-1920-x-1080-pixel-full-hd-lcd?sPartner=gat&utm_source=gat&utm_campaign=gat&utm_medium=CPC&__shop=3",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Conrad.at",
+            "price": 199.99,
+            "offer_link": "https://www.conrad.at/de/p/2575409?insert=7M&utm_source=geizhals&utm_medium=cpc&utm_campaign=pvgl&utm_content=dl_article",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 201.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=404007&artname=Dell+55%2C8cm+%2822%22%29+++P2223HC+16%3A9++HDMI%2BDP%2BUSB-C+IPS+Lift",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 204.51,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=7334416",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 209.03,
+            "offer_link": "https://ebay.de/itm/284801440709?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 209.67,
+            "offer_link": "https://www.taufnaus.de/product/10604356",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Media Markt.at",
+            "price": 214.99,
+            "offer_link": "https://www.mediamarkt.at/de/product/_dell-monitor-p2223hc-215-zoll-fhd-14ms-ips-60hz-250cd-99percent-srgb-schwarz-1897824.html?utm_source=geizhals&utm_medium=psm-product%20feed&utm_term=1897824&utm_campaign=price%20comparison_mm-ka-produkte%20onl-nat_3222",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "VDS-Online",
+            "price": 215.0,
+            "offer_link": "https://www.vds-online.at/index.php?action=ansicht_artikel&artikel_id=34360&PA=GH",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 215.4,
+            "offer_link": "https://technikladen.at/22-1920-x-1080-pixels-Full?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 221.32,
+            "offer_link": "https://geniuzcom.at/Dell-P2223HC-LED-Monitor-546-cm-22-1920-x-1080-Full-HD-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 222.22,
+            "offer_link": "https://www.mylemon.at/artikel/dell/210_bdfr/monitor-led-21-5-p2223hc.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 224.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=210000000730847492&ano=A-L730847492&mno=P2223HC&ean=5397184567944&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 248.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=320000000521161111&ano=A-I521161111&mno=210-BDFR&ean=5715063019313&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigital.at",
+            "price": 307.0,
+            "offer_link": "https://click.edigital.at/monitor/dell-lcd-led-monitor-p2223hc-215-fhd-1920x1080-60hz-169-ips-10001-250cd-5ms-dp-hdmi-usb-c-schwarz-p1051954?utm_source=geizhals.at&utm_medium=price-comparison&utm_term=1051954",
+            "promotion_description": null
+        }
+    ]
+}

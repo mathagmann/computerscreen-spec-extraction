@@ -1,0 +1,294 @@
+{
+    "url": "https://geizhals.at/lc-power-lc-m27-4k-uhd-144-v2-a2748799.html?hloc=at&hloc=de",
+    "product_name": "LC-Power LC-M27-4K-UHD-144-V2, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 163ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "350cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 1.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "keine Angabe (GtG), 1ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "HDR 400 (Hersteller)"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "100% (sRGB), 85% (Adobe RGB), 90% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "144Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.1, 1x DisplayPort 1.4, 1x USB-C mit DisplayPort"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 5W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "120mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b120\u00b0 (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "75x75 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), keine Angabe (typisch), keine Angabe (Energielabel alt A+++ bis G), keine Angabe (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "32kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "43kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "89.2% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "613.3x551.3x269.2mm (mit Standfu\u00df), 613.3x367.3x65.2mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.49kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, USB-C Power Delivery (65W), mechanische Tasten, Picture-in-Picture, Beleuchtung auf R\u00fcckseite (RGB)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 13:42"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "08.06.2022, 14:28"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 533.43,
+            "offer_link": "https://direkt.jacob.de/produkte/lc-power-27-zoll-lc-m27-4k-uhd-144-v2-artnr-7840492.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 534.5,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1621389&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 537.47,
+            "offer_link": "https://www.computeruniverse.net/de/p/90922123?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 537.76,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/68-6cm-27-LC-Power-LC-M27-4K-UHD-144-V2-4K-Ultra-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 543.16,
+            "offer_link": "https://www.ba-computer.at/lc-power-lc-m27-4k-uhd-144-v2-lcd-monitor-68-6-cm-27-lc-m27-4k-uhd-144-v2.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 543.18,
+            "offer_link": "https://www.mylemon.at/artikel/lc_power/lc_m27_4k_uhd_144_v2/27-68-58cm-tft-lc.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 543.25,
+            "offer_link": "https://haym.info/produktdetails?id=2C13645",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 543.49,
+            "offer_link": "https://www.future-x.at/lc-power-lcd-monitor-68-6-cm-27-3840-x-2160-4k-%40-144-hz-ips-350-cd-m%B2-1000%3A1-hdr400-1-ms-2xhdmi-2xdisplayport-usb-c-lautsprecher-schwarz-p-9135509/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 551.17,
+            "offer_link": "https://technikladen.at/P-LC-Power-27-6858cm-TFT-4K-UHD-LC-M27-4K-UHD-144-V2-Flachbildschirm-TFT/LCD-6858-cm?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 563.75,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=348828",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 563.75,
+            "offer_link": "https://geniuzcom.at/LC-Power-LC-M27-4K-UHD-144-V2-LCD-Monitor-686-cm-27",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 565.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=420000000528659515&ano=U528659515&mno=LC-M27-4K-UHD-144-V2&ean=4260070129810&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 569.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=348828",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 574.03,
+            "offer_link": "https://www.proshop.at/Bildschirm/LC-Power-27-Bildschirm-LC-M27-4K-UHD-144-V2-LCD-monitor-4K-27-HDR-Black-1-ms-AMD-Adaptive-Sync/3089307?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 581.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=i343038393232&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 582.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=408922&artname=LC-Power+68%2C58cm+%2827%22%29+LC-M27-4K-UHD-144-V2+DP%2BHDMI+2.1+IPS",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 586.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=24541422&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 589.05,
+            "offer_link": "https://technikladen.at/I-LC-M27-4K-UHD-144-V2-LC-Power-LC-M27-4K-UHD-144-V2-686-cm-27-Zoll-3840-x-2160-Pixel-4K-Ultra-HD-LCD-1-ms-Schwarz-LC-M27-4K-UHD-144-V2-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neckermann.at",
+            "price": 632.99,
+            "offer_link": "https://www.neckermann.at/tft-monitor-lc-power-lc-m27-4k-uhd-144-v2-534115.html?vkh=F1&utm_source=Geizhals&utm_medium=cpc&utm_campaign=psm&utm_term=1493742",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 653.07,
+            "offer_link": "https://www.taufnaus.de/product/10606369",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "buecher.de",
+            "price": 687.99,
+            "offer_link": "https://www.awin1.com/pclick.php?p=36266306874&a=332667&m=14191",
+            "promotion_description": null
+        }
+    ]
+}

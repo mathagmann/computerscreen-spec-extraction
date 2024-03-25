@@ -1,0 +1,308 @@
+{
+    "url": "https://geizhals.at/aoc-27g2u5-bk-a2132601.html?hloc=at&hloc=de",
+    "product_name": "AOC 27G2U5/BK, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 82ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 80.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), 1ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS (IGZO)"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "Panda (LC238LF1F)"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (6bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (48-75Hz via DisplayPort, 48-75Hz via HDMI, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA, 2x HDMI 1.4, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-In, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b130\u00b0 (drehbar), +21.5\u00b0/\u200b-3.5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz/\u200brot (untere Blende), schwarz/\u200brot (Standfu\u00df), schwarz/\u200brot (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 28W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "26kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "keine Angabe (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "612x396x227mm (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.10kg (mit Standfu\u00df), 3.70kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 13:43"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "11.09.2019, 12:47"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "group24",
+            "price": 160.53,
+            "offer_link": "https://www.group24.de/aoc-g2-27g2u5-bk-27-zoll-1920x1080/27g2u5-bk",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 165.88,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1620448&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 165.89,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/27g2u5_bk/dis-27-27g2u5-bk-gaming.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 165.89,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/68-6cm-27-AOC-27G2U5-BK-Full-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 165.9,
+            "offer_link": "https://www.galaxus.at/de/s1/product/aoc-27g2u5bk-1920-x-1080-pixel-27-monitor-12283954?utm_content=2-3&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neon24.de",
+            "price": 167.0,
+            "offer_link": "https://www.neon24.de/AOC-27G2U5-BK-27",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 167.24,
+            "offer_link": "https://www.computeruniverse.net/de/p/90780528?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 167.26,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-27g2u5-bk-computerbildschirm-27g2u5-bk-artnr-5969953.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 167.29,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/11849862?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 167.29,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/11849862?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 170.99,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeW9oWUfIubVEL--u3mic3WK9OxHP3jvwJiGzRItC0EKL7iqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Faoc-27g2u5-bk-68-6-cm-27-zoll-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "buecher.de",
+            "price": 171.99,
+            "offer_link": "https://www.awin1.com/pclick.php?p=34668441315&a=332667&m=14191",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "reichelt.at",
+            "price": 172.89,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=_H-mtCJLO1Iot7kz-rPNbbnKWw6_NB4BEeR41DdQmYo",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 173.62,
+            "offer_link": "https://www.proshop.at/Bildschirm/AOC-27-Bildschirm-27G2U5BK-Black-5-ms-AMD-FreeSync/2809671?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 175.49,
+            "offer_link": "https://ebay.de/itm/265141523958?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 175.9,
+            "offer_link": "https://www.future-x.at/aoc-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-%40-75-hz-ips-250-cd-m%B2-1000%3A1-5-ms-2xhdmi-displayport-lautsprecher-schwarz-p-8813103/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neckermann.at",
+            "price": 177.99,
+            "offer_link": "https://www.neckermann.at/tft-monitor-27g2u5bk-419310.html?vkh=F1&utm_source=Geizhals&utm_medium=cpc&utm_campaign=psm&utm_term=1151504",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 182.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=140000000599532049&ano=R599532049&mno=27G2U5%2FBK&ean=4038986187091&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 183.24,
+            "offer_link": "https://technikladen.at/I-27G2U5-BK-AOC-G2-27G2U5-BK-686-cm-27-Zoll-1920-x-1080-Pixel-Full-HD-LED-1-ms-Schwarz-Rot-27G2U5-BK-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "MIFCOM",
+            "price": 189.0,
+            "offer_link": "https://www.mifcom.de/27-aoc-27g2u5-bk-fhd-ips-75hz-id13425?___store=default",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 200.99,
+            "offer_link": "https://www.ottoversand.at/p/54659931-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=54659931-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 200.99,
+            "offer_link": "https://www.universal.at/p/54659931-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 205.98,
+            "offer_link": "https://www.taufnaus.de/product/10605463",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "NRE - Computer & Service",
+            "price": 983.88,
+            "offer_link": "https://www.nre.at/product_info.php?info=p36063_aoc-27g2u5-bk-27.html",
+            "promotion_description": null
+        }
+    ]
+}

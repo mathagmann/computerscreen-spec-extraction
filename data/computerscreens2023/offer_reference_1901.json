@@ -1,0 +1,154 @@
+{
+    "url": "https://geizhals.at/hikvision-pro-series-fc-ds-d5032fc-a-a2306649.html?hloc=at&hloc=de",
+    "product_name": "Hikvision Pro Series FC DS-D5032FC-A, 31.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "31.5\"/\u200b80cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 70ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "8ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1920x1080), 1x DVI, 1x HDMI, 1x BNC-In, 1x BNC-Out"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "1x USB-A"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-In, 1x Line-Out, 1x Cinch-In, 1x Cinch-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), keine Angabe (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 45W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "86.7% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "729x526x167mm (mit Standfu\u00df), 729x433x50mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.75kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 10:40"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "09.06.2020, 14:24"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Elektroshop Wagner AT",
+            "price": 399.47,
+            "offer_link": "https://www.elektroshopwagner.at/product_info.php?info=p310008&utm_campaign=geizhals_at_310008&utm_source=geizhals_at&utm_medium=CPC&utm_content=textanzeige&campaign=geizhals_at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ams-elektro.com",
+            "price": 451.61,
+            "offer_link": "https://www.ams-elektro.com/product_info.php?products_id=2275301&refID=ghz&utm_source=ghz&utm_medium=CPC&utm_campaign=",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARDEBOShopping",
+            "price": 533.89,
+            "offer_link": "https://ebay.de/itm/295934735328?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412749",
+            "promotion_description": null
+        }
+    ]
+}

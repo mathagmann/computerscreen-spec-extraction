@@ -1,0 +1,316 @@
+{
+    "url": "https://geizhals.at/philips-6000-series-45b1u6900ch-a2922747.html?hloc=at&hloc=de",
+    "product_name": "Philips 6000 Series 45B1U6900CH, 44.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "44.5\"/\u200b113cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "5120x1440, 32:9, 120ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "450cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "3.000:1 (statisch), 80.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "VA"
+        },
+        {
+            "name": "Form",
+            "value": "gebogen (curved), 1500R/\u200b1.5m"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 2H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 400"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "123% (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync"
+        },
+        {
+            "name": "Unsch\u00e4rfereduktionsfunktion",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-114kHz (horizontal), 48-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0 (75Hz@5120x1440), 1x DisplayPort 1.4 (75Hz@5120x1440), 1x USB-C 3.1 mit DisplayPort 1.4 (75Hz@5120x1440), 1x USB-C 3.0 mit DisplayPort 1.4 (75Hz@5120x1440)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "1x Gb LAN (RJ-45)"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "3x USB-A 3.1, 1x USB-A 3.1 (BC 1.2), 1x USB-C 3.0 (USB PD 15W)"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-C 3.1 mit DisplayPort 1.4, 1x USB-C 3.0 mit DisplayPort 1.4"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 5W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), N/\u200bA (Pivot), \u00b145\u00b0 (drehbar), +15\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 46.3W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "58kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "77kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "keine Angabe (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "1085x515x238mm (mit Standfu\u00df), 1085x337x158mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "12.96kg (mit Standfu\u00df), 9.90kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, EPEAT, USB-C Power Delivery (100W), mechanische Tasten, Anwesenheitssensor, Lichtsensor, Mikrofon, IR-Webcam (5.0 Megapixel), Picture-in-Picture, Sicherheitsschloss (Kensington), KVM-Switch, HDCP 2.2, Werkskalibrierung (Delta-E <2), Philips SmartImage"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 05:34"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "29.03.2023, 10:55"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "mylemon.at",
+            "price": 872.09,
+            "offer_link": "https://www.mylemon.at/artikel/philips/45b1u6900ch_00/multichannel-44-5-curved-webcam.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 872.1,
+            "offer_link": "https://www.galaxus.at/de/s1/product/philips-45b1u6900ch-5120-x-1440-pixel-4450-monitor-24193130?utm_content=2-3&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 913.85,
+            "offer_link": "https://www.proshop.at/Bildschirm/Philips-45-Bildschirm-45B1U6900CH-6000-Series-LED-monitor-curved-45-HDR-Black-4-ms/3170963?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 951.9,
+            "offer_link": "https://www.alza.at/45-philips-45b1u6900ch-00-d7729650.htm?kampan=geizhals_at_monitory_kancelarske_prohnute-60hz_wc130c2&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_prohnute-60hz_wc130c2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 959.3,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=367715",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 959.49,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1635010&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 962.41,
+            "offer_link": "https://direkt.jacob.de/produkte/philips-113-03cm-44-5zoll-45b1u6900ch-00-artnr-8273506.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 967.27,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/25970172?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 967.28,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/25970172?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 968.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=367715",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 976.4,
+            "offer_link": "https://www.amazon.de/dp/B0BVKZW2CP?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BVKZW2CP&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 1010.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwAwqzX3eQZkYX44I26OZb1lco7TDW461WEMBODPyJ-yyIGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6108-1JT%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 1016.5,
+            "offer_link": "https://www.1ashop.at/de/produkt/119465/philips-44-5-5120x1440-va-curved-h/a-150-mm-superwide-usb-c-15-cm.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 1016.5,
+            "offer_link": "https://www.future-x.at/philips-45b1u6900ch-6000-series-led-monitor-gebogen-114-3-cm-45-445-sichtbar-5120-x-1440-dual-quad-hd-%40-75-hz-va-450-cd-m%B2-3000%3A1-displayhdr-400-4-ms-2xhdmi-p-9179552/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 1017.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=8262091",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 1023.42,
+            "offer_link": "https://www.ba-computer.at/philips-45b1u6900ch-6000-series-led-monitor-gebogen-114-3-cm-45-45b1u6900ch-00.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 1026.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=20000000205982808&ano=I205982808&mno=45B1U6900CH%2F00&ean=8712581797430&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigitech",
+            "price": 1033.53,
+            "offer_link": "https://www.edigitech.de/detail/index/sArticle/945953?sPartner=12",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 1038.0,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC46152835",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 1047.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=25970172&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 1049.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6108-1JT&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 1056.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/PHILIPS-45B1U6900CH-44-5IN-WLED::36255.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 1085.7,
+            "offer_link": "https://www.meistersinger.at/product.php?product=855587&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 1147.81,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=8262091",
+            "promotion_description": null
+        }
+    ]
+}

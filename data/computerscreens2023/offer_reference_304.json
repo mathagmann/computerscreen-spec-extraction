@@ -1,0 +1,172 @@
+{
+    "url": "https://geizhals.at/msi-pro-mp161-a2946163.html?hloc=at&hloc=de",
+    "product_name": "MSI PRO MP161, 15.6\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "15.6\"/\u200b39.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 141ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "600:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "170\u00b0/\u200b170\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "6bit (262k Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "nein (6bit nativ)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x Mini HDMI 1.4 (60Hz@1920x1080), 2x USB-C mit DisplayPort 1.2 (60Hz@1920x1080, Netzanschluss)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 1.5W)"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), keine Angabe (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "grau (Displayrahmen), grau (untere Blende), grau (Standfu\u00df), grau (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), keine Angabe (typisch), keine Angabe (Energielabel alt A+++ bis G), keine Angabe (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "18kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "USB-C"
+        },
+        {
+            "name": "Anwendung",
+            "value": "portabel (Klappmechanismus)"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "79.5% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "362.26x232.92x17.8mm (mit Standfu\u00df), 362.26x232.92x10.8mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "keine Angabe (mit Standfu\u00df), 750g (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "mechanische Tasten"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre (Pickup&Return)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 04:16"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "10.05.2023, 15:43"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Proshop.at",
+            "price": 216.49,
+            "offer_link": "https://www.proshop.at/Bildschirm/MSI-16-Bildschirm-PRO-MP161-LCD-monitor-Full-HD-1080p-16-Grey-4-ms-AMD-Adaptive-Sync/3156895?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "bauguru",
+            "price": 216.8,
+            "offer_link": "https://restposten.bauguru.at/monitore/126342-monitor-msi-pro-mp161-ips-15-6-full-hd-4711377022088.html",
+            "promotion_description": null
+        }
+    ]
+}

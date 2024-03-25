@@ -1,0 +1,352 @@
+{
+    "url": "https://geizhals.at/eizo-flexscan-s2133-grau-s2133-gy-a1015635.html?hloc=at&hloc=de",
+    "product_name": "Eizo FlexScan S2133 grau, 21.3\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "21.3\"/\u200b54.1cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1600x1200, 4:3, 94ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "420cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.500:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "6ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "31-76kHz (horizontal), 59-61Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1600x1200), 1x DVI, 1x DisplayPort"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 2.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 2.0"
+        },
+        {
+            "name": "Audio",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "82mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b135\u00b0 (drehbar), +40\u00b0/\u200b-0\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "grau (Displayrahmen), grau (untere Blende), grau (Standfu\u00df), grau (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "45W (maximal), 13W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "17kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "83.7% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "465x535x208mm (mit Standfu\u00df), 465x361x64mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.60kg (mit Standfu\u00df), 8.60kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "EPEAT Gold, Lichtsensor"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "f\u00fcnf Jahre (Vor-Ort)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "04.10.2023, 01:02"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "11.10.2013, 14:11"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 775.46,
+            "offer_link": "https://www.computeruniverse.net/de/p/90534336?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "VDS-Online",
+            "price": 778.0,
+            "offer_link": "https://www.vds-online.at/index.php?action=ansicht_artikel&artikel_id=25129&PA=GH",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 778.02,
+            "offer_link": "https://haym.info/produktdetails?id=3A55851",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 778.09,
+            "offer_link": "https://www.future-x.at/eizo-flexscan-s2133-gy-led-monitor-54-cm-213-1600-x-1200-ips-420-cd-m%B2-1500%3A1-6-ms-dvi-d-vga-displayport-grau-p-229533/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 779.0,
+            "offer_link": "https://www.cls.at/product/1094366/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 779.0,
+            "offer_link": "https://www.alternate.at/EIZO/S2133-GY-LED-Monitor/html/product/1104670?partner=AtGeizhalsat&campaign=Monitor/EIZO/1104670",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 786.9,
+            "offer_link": "https://www.galaxus.at/de/s1/product/eizo-s2133h-1600-x-1200-pixel-21-monitor-2580466?utm_content=1-2w&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 787.64,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1650315&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 787.65,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/54-61cm-21-5-Eizo-FlexScan-S2133-GY-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 789.54,
+            "offer_link": "https://www.mylemon.at/artikel/eizo/s2133_gy/21-3-s2133-gy.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 789.55,
+            "offer_link": "https://www.1ashop.at/de/produkt/104973/eizo-s2133-gy-21-3zoll-ips-grau-computerbildschirm.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 789.55,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=162987",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "reichelt.at",
+            "price": 789.57,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=iF6ArP4pvlOO_AJx6k5NNcUKZ6wA6favop1vW9Hh-MA",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 793.8,
+            "offer_link": "https://technikladen.at/P-EIZO-FlexScan-S2133-GY-541-cm-213-Zoll-1600-x-1200-Pixel-UXGA-LCD-7-ms-Grau?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 793.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=162987",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ABComputer",
+            "price": 799.0,
+            "offer_link": "https://www.abonline.at/eizo-s2133-gy.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 801.56,
+            "offer_link": "https://direkt.jacob.de/produkte/EIZO-FlexScan-S2133-GY-S2133-GY-artnr-1875139.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 801.57,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/3731967?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 801.58,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/3731967?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 801.64,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656636745",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 811.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/126345/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 827.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Feizo-flexscan-s2133-213-grau-m0000DXT7V%3Fvouchercode%3Dstephan%26utm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000DXT7V",
+            "promotion_description": "Hinweis zu Gutscheinaktionen 20\u20ac Gutscheincode STEPHAN nur g\u00fcltig bis 10. Oktober 2023 um 23:59 Uhr bei einem Mindestbestellwert von 129\u20ac. Alle Gutscheininformationen unter https://www.shoepping.at/a/gutscheinbedingungen/stephan Aktionsbedingungen bei shoepping.at"
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 831.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=110000001352061885&ano=F1352061885&mno=S2133-GY&ean=4995047043072&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CG-Shop",
+            "price": 831.6,
+            "offer_link": "https://www.cgshop.at/shop/eizo-flexscan-s2133-gy-21-3-4-3-businessmonitor/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 842.59,
+            "offer_link": "https://www.proshop.at/Bildschirm/EIZO-21-Bildschirm-FlexScan-S2133-GY-Grey-6-ms/2436132?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 844.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=i313334363338&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 847.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-0870&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 849.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=134638&artname=EIZO+54.1cm+%2821.3%22%29+S2133-GY++4%3A3+DVI%2BDP%2BUSB+LED+grey+lift",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 851.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=3731967&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 908.88,
+            "offer_link": "https://www.taufnaus.de/product/10605806",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 909.9,
+            "offer_link": "https://www.alza.at/21-eizo-s2133-gy-d2202614.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_wl560c2b&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_wl560c2b",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "iQ shop",
+            "price": 940.66,
+            "offer_link": "https://www.fairplace-vorarlberg.at/produkte/details/eizo-s2133-gy-54cm-21.3in-led-grey?utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&utm_term=31202",
+            "promotion_description": null
+        }
+    ]
+}

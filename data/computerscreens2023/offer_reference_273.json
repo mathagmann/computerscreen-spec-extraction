@@ -1,0 +1,460 @@
+{
+    "url": "https://geizhals.at/hp-e27-g5-6n4e2aa-6n4e2a5-a2948318.html?hloc=at&hloc=de",
+    "product_name": "HP E27 G5, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 82ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 8.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (6bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "99% (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-85kHz (horizontal), 50-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 1.4, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), \u00b190\u00b0 (Pivot), \u00b145\u00b0 (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), silber (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "50W (maximal), 30W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "D"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "17kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.4% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "612x546x227mm (mit Standfu\u00df), 611.7x363.3x46.4mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "6.96kg (mit Standfu\u00df), 4.83kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, EPEAT Gold, mechanische Tasten mit Steuerkreuz, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 04:00"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "14.05.2023, 11:41"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "playox (AT)",
+            "price": 176.12,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/26222916?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 177.76,
+            "offer_link": "https://www.ba-computer.at/hp-e27-g5-e-series-led-monitor-68-6-cm-27-6n4e2aa-abb.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 177.78,
+            "offer_link": "https://haym.info/produktdetails?id=3C06030",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 178.78,
+            "offer_link": "https://www.proshop.at/Bildschirm/HP-27-Bildschirm-E27-G5-Silver-5-ms/3150404?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CNW IT-Systeme",
+            "price": 179.8,
+            "offer_link": "https://www.c-nw.de/hp-e27-g5-27-zoll-68-6-cm-cm-fhd-monitor-6n4e2aa.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Notebook.de",
+            "price": 180.76,
+            "offer_link": "https://www.notebook.de/TFTBeamer/Monitore/HP-Inc./375546/HP-E27-G5-E-Series-LED-Monitor-68.6-cm-27?sPartner=GeizhalsNB",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 181.41,
+            "offer_link": "https://direkt.jacob.de/produkte/hp-e27-g5-6n4e2aa-abb-artnr-8151988.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 181.41,
+            "offer_link": "https://www.computeruniverse.net/de/p/90926666?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 182.07,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/26222916?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyclotron (AT)",
+            "price": 182.17,
+            "offer_link": "https://www.cyclotron.de/route.php?artikel=C1012714&partner=gh_at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Easynotebooks.de (AT)",
+            "price": 182.27,
+            "offer_link": "https://www.easynotebooks.de/TFTBeamer/Monitore/HP-Inc./375546/HP-E27-G5-E-Series-LED-Monitor-68.6-cm-27?sPartner=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 182.5,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1627354&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 182.85,
+            "offer_link": "https://www.mylemon.at/artikel/hewlett_packard/6n4e2aa_abb/hp-e27-g5-ips-fhd.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 182.86,
+            "offer_link": "https://www.cls.at/product/4530041/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 182.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=8087425",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 184.33,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/68-6cm-27-HP-E27-G5-Full-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Xpert",
+            "price": 184.78,
+            "offer_link": "https://www.xpert.business/de/6n4e2aa-abb-hp-e27-g5-fhd-monitor-emea-intl-english-loc-euro-plug.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 184.8,
+            "offer_link": "https://www.1ashop.at/de/produkt/114917/hp-e27-g5-e-series-led-monitor-68-6-cm-27.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 184.8,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=372307",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mynotebook.de",
+            "price": 185.0,
+            "offer_link": "https://mynotebook.de/hp-e27-g5-6n4e2aa-23abb.html?ff=4&fp=112970&utm_source=geizhals_de&utm_medium=preisvergleich&utm_campaign=geizhals&utm_content=mynotebook",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 186.85,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/686cm27_1920x1080_HP_E27_G5_IPS_HDMI_DP_Pivot_Full_HD.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 186.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=372307",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 186.99,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeW5RGwWAxJ9Tr4aZSwJR6SCTeRE2UoT3YAQSzqDMGPcb1iqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Fhp-e27-g5-68-6-cm-27-zoll-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 189.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=y343332363134&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 189.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwAxNNA5EM7eUxS0JQ6Ai5blFAjwTTChWhr0kuniDJJGoyGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6118-28J%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 189.59,
+            "offer_link": "https://www.future-x.at/hp-e27-g5-e-series-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-%40-75-hz-ips-300-cd-m%B2-1000%3A1-5-ms-hdmi-displayport-usb-schwarz-und-silber-st%E4nder-p-9156898/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 190.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=20000000896899860&ano=I896899860&mno=6N4E2AA%23ABB&ean=196786297373&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 190.59,
+            "offer_link": "https://www.heinzsoft-shop.de/hp-e27-g5-e-series-led-monitor-ful.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 191.17,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656678851",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 191.99,
+            "offer_link": "https://ebay.de/itm/385601574513?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 193.51,
+            "offer_link": "https://www.amazon.de/dp/B0BXH2QWX5?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BXH2QWX5&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 193.9,
+            "offer_link": "https://www.alternate.at/HP/E27-G5-LED-Monitor/html/product/1904933?partner=AtGeizhalsat&campaign=Monitor/HP/1904933",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "VDS-Online",
+            "price": 196.0,
+            "offer_link": "https://www.vds-online.at/index.php?action=ansicht_artikel&artikel_id=36340&PA=GH",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 197.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/HP-INC-E27-G5-27IN-FHD-1920X1080::35651.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 199.8,
+            "offer_link": "https://www.meistersinger.at/product.php?product=846364&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 199.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=26222916&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 201.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000000690433559&ano=A-H690433559&mno=6N4E2AA&ean=196786297373&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 201.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6118-28J&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 202.23,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC46298505",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 203.9,
+            "offer_link": "https://www.alza.at/27-hp-e27-g5-d7847337.htm?kampan=geizhals_at_monitory_kancelarske_x_hpbm2007c81e&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_x_hpbm2007c81e",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 209.81,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=8087425",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 210.14,
+            "offer_link": "https://ebay.de/itm/295951502041?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 214.49,
+            "offer_link": "https://technikladen.at/P-6N4E2AAABB-HP-E27-G5-IPS-FHD-1920x1080-DP-HDMI-250cd-Flachbildschirm-TFT-LCD-IPS-6N4E2AAABB-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 214.6,
+            "offer_link": "https://lumatech.at/products/hp-e27-g5-e-series-led-monitor-68-6-cm-27",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "group24",
+            "price": 220.75,
+            "offer_link": "https://www.group24.de/hp-e27-g5-27-zoll-1920x1080/6n4e2aa-abb",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 236.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=422669&artname=HP+E27+G5+IPS+FHD+1920x1080+DP%2FHDMI+250cd",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 243.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=320000000947762372&ano=A-I947762372&mno=6N4E2AT%23ABB&ean=5715063140192&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 243.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=320000001340063555&ano=A-I1340063555&mno=6N4E2AT&ean=5715063140185&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 253.18,
+            "offer_link": "https://www.proshop.at/Bildschirm/HP-27-Bildschirm-E27-G5-Silver-5-ms/3150675?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 325.3,
+            "offer_link": "https://www.future-x.at/hp-e27-g5-e-series-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-%40-75-hz-ips-300-cd-m%B2-1000%3A1-5-ms-hdmi-displayport-usb-schwarz-und-silber-st%E4nder-p-9144342/?pv=2",
+            "promotion_description": null
+        }
+    ]
+}

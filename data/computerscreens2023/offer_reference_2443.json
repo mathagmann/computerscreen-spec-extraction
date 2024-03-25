@@ -1,0 +1,402 @@
+{
+    "url": "https://geizhals.at/eizo-flexscan-ev2456-weiss-ev2456-wt-a1563000.html?hloc=at&hloc=de",
+    "product_name": "Eizo FlexScan EV2456 wei\u00df, 24.1\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "24.1\"/\u200b61.2cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1200, 16:10, 94ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "350cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "31-76kHz (horizontal), 59-61Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1920x1200), 1x DVI, 1x HDMI 1.4, 1x DisplayPort"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 1W), 1x Line-In, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "158mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b1172\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), wei\u00df (untere Blende), wei\u00df (Standfu\u00df), wei\u00df (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "44W (maximal), 13W (typisch), 13W (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "A++"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "18.98kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "D"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "14kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "92.7% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "531x351x190mm (mit Standfu\u00df), 531x342x46mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.70kg (mit Standfu\u00df), 3.70kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, EPEAT Gold, Lichtsensor, DICOM, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "f\u00fcnf Jahre (Vor-Ort)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "04.10.2023, 00:02"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "18.01.2017, 12:02"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "CNW IT-Systeme",
+            "price": 375.9,
+            "offer_link": "https://www.c-nw.de/eizo-flexscan-ev2456-wt.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 387.12,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1660658&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 388.06,
+            "offer_link": "https://direkt.jacob.de/produkte/eizo-61-0cm-24-ev2456-wt-artnr-3394441.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 389.94,
+            "offer_link": "https://www.computeruniverse.net/de/p/90682329?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 389.94,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/6654958?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 389.95,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/6654958?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 390.98,
+            "offer_link": "https://www.ba-computer.at/eizo-flexscan-ev2456-led-monitor-61-1-cm-24-1-ev2456-wt.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 391.0,
+            "offer_link": "https://www.alternate.at/EIZO/EV2456-WT-LED-Monitor/html/product/1327472?partner=AtGeizhalsat&campaign=Monitor/EIZO/1327472",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 392.01,
+            "offer_link": "https://www.mylemon.at/artikel/eizo/ev2456_wt/24-1-l-ev2456-wt.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 392.02,
+            "offer_link": "https://haym.info/produktdetails?id=7C06727",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 392.09,
+            "offer_link": "https://www.cls.at/product/1937321/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 392.09,
+            "offer_link": "https://www.future-x.at/eizo-flexscan-ev2456-wt-led-monitor-61-1-cm-241-1920-x-1200-ips-350-cd-m%B2-1000%3A1-5-ms-hdmi-dvi-d-vga-displayport-lautsprecher-wei%DF-p-381965/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 396.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=o4D454556323435365754&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 397.23,
+            "offer_link": "https://www.galaxus.at/de/s1/product/eizo-ev2456-1920-x-1200-pixel-24-monitor-6078831?utm_content=4-6&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 397.25,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=236503",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ABComputer",
+            "price": 399.0,
+            "offer_link": "https://www.abonline.at/eizo-ev2456-wt.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 399.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=236503",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 401.28,
+            "offer_link": "https://www.1ashop.at/de/produkt/7658/eizo-flexscan-ev2456-24-1zoll-full-hd-ips-weiss-flach-computerbildschirm.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 404.5,
+            "offer_link": "https://geniuzcom.at/EIZO-FlexScan-EV2456-LED-Monitor-611-cm-241_1",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 405.54,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656608026",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 405.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/234873/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 406.68,
+            "offer_link": "https://technikladen.at/P-EIZO-FlexScan-EV2456-WT-612-cm-241-Zoll-1920-x-1200-Pixel-WUXGA-LCD-5-ms-Weiss?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 406.9,
+            "offer_link": "https://www.alza.at/24-eizo-flexscan-ev2456-wt-d4725651.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_wl577fx2&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_wl577fx2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 410.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA2MquNycGB1aKbsq36AXe617cVgj1Pm8mAvnRGzoTkbiGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6114-38L%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "VDS-Online",
+            "price": 412.0,
+            "offer_link": "https://www.vds-online.at/index.php?action=ansicht_artikel&artikel_id=19311&PA=GH",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 416.99,
+            "offer_link": "https://www.proshop.at/Bildschirm/EIZO-24-Bildschirm-FlexScan-EV2456-WT-White-5-ms/2581574?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 423.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=20000000089438278&ano=I89438278&mno=EV2456-WT&ean=4995047049739&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 426.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-0857&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 429.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6114-38L&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 431.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=219879&artname=EIZO+61.0cm+%2824%22%29+++EV2456-WT++++16%3A10+DVI%2BHDMI%2BDP%2BUSB+white",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CG-Shop",
+            "price": 432.0,
+            "offer_link": "https://www.cgshop.at/shop/eizo-flexscan-ev2456-wt/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 435.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Feizo-flexscan-ev2456-241-m0000DXDQ0%3Fvouchercode%3Dstephan%26utm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000DXDQ0",
+            "promotion_description": "Hinweis zu Gutscheinaktionen 20\u20ac Gutscheincode STEPHAN nur g\u00fcltig bis 10. Oktober 2023 um 23:59 Uhr bei einem Mindestbestellwert von 129\u20ac. Alle Gutscheininformationen unter https://www.shoepping.at/a/gutscheinbedingungen/stephan Aktionsbedingungen bei shoepping.at"
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 436.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/EIZO-EV2456-61CM-24IN-IPS-WHITE::3801.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 436.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=6654958&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "reichelt.at",
+            "price": 445.28,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=hxhm2vVWwjpUQI4gLalEzCh_qm3F3bGn2BkHwpQDt-o",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 449.1,
+            "offer_link": "https://www.meistersinger.at/product.php?product=421543&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 452.24,
+            "offer_link": "https://www.taufnaus.de/product/10602497",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "iQ shop",
+            "price": 474.01,
+            "offer_link": "https://www.iq-shop.at/product/eizo-ev2456-61cm-24in-ips-white/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "iQ shop",
+            "price": 474.01,
+            "offer_link": "https://www.fairplace-vorarlberg.at/produkte/details/eizo-ev2456-61cm-24in-ips-white?utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&utm_term=31183",
+            "promotion_description": null
+        }
+    ]
+}

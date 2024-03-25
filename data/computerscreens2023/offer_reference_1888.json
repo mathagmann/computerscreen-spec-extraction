@@ -1,0 +1,324 @@
+{
+    "url": "https://geizhals.at/asus-proart-pa32ucx-pk-90lm03hc-b01370-a2314791.html?hloc=at&hloc=de",
+    "product_name": "ASUS ProArt PA32UCX-PK, 32\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "32\"/\u200b81.3cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 138ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "600cd/\u200bm\u00b2 (typisch), 1.200cd/\u200bm\u00b2 (HDR)"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 100.000.000:1 (dynamisch), 1.000.000:1 (HDR)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS (AmLED), Quantum-Dot"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "AU Optronics (M320QAN02.5)"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "Mini LED, flicker-free, Blaulichtfilter, Full Array Local Dimming (1152 Zonen)"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 1000, HDR10, Dolby Vision, Ultra HD Premium"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "nein (10bit nativ)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "100% (sRGB), 99.5% (Adobe RGB), 99% (DCI-P3), 89% (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync (40-60Hz)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "109-142kHz (horizontal), 29-65Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "3x HDMI 2.0b, 1x DisplayPort 1.2, 2x Thunderbolt 3"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "3x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 3W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b160\u00b0 (drehbar), +23\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 58.67W (typisch), 63W (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "C"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "91.98kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "80kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "97kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "91.1% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "727x600x229mm (mit Standfu\u00df), 727x426x69mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "14.64kg (mit Standfu\u00df), 9.70kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, Blendschutzhaube, USB-C Power Delivery (60W), mechanische Tasten mit Steuerkreuz, Hardware-Kalibrierung (14bit LUT), Colorimeter (X-Rite i1), Lichtsensor, Picture-in-Picture, HDCP 2.2, DICOM, ASUS Off-Axis Contrast Optimization, Calman Ready, Werkskalibrierung (Delta-E <1), L\u00fcfter"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "f\u00fcnf Jahre nach Registrierung (innerhalb von drei Monaten nach Kauf, Standard: drei Jahre)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 10:38"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "19.06.2020, 18:18"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Syswork",
+            "price": 2800.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1520&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 2800.3,
+            "offer_link": "https://www.computeruniverse.net/de/p/90803115?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 2807.23,
+            "offer_link": "https://direkt.jacob.de/produkte/asus-81-3cm-profess-pa32ucx-pk-90lm03hc-b01370-artnr-6473559.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 2820.81,
+            "offer_link": "https://www.mylemon.at/artikel/asus/90lm03hc_b01370/81-3cm-profess-pa32ucx-pk.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 2821.6,
+            "offer_link": "https://www.cls.at/product/2652126/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 2821.6,
+            "offer_link": "https://www.future-x.at/asus-81-3-cm-professpa32ucx-pk-grey-dp%2Bhdmi-uhd-spk-lift-flachbildschirm-tft-lcd-81-3-cm-grau-p-8481986/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 2826.14,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1319710&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 2863.81,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/13014040?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 2863.82,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/13014040?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 2881.59,
+            "offer_link": "https://www.galaxus.at/de/s1/product/asus-proart-pa32ucx-pk-3840-x-2160-pixel-32-monitor-13575046?utm_content=2-4&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 2881.6,
+            "offer_link": "https://www.1ashop.at/de/produkt/79600/asus-proart-pa32ucx-pk-led-monitor-81-28-cm-32.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 2881.6,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=304417",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 2884.77,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656609323",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 2910.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=304417",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 2941.76,
+            "offer_link": "https://www.proshop.at/Bildschirm/ASUS-32-Bildschirm-ProArt-PA32UCX-PK-Black-5-ms/2883713?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 2966.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=420000001721963073&ano=U1721963073&mno=90LM03HC-B01370&ean=4718017693585&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 2986.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/278430/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 3042.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Fasus-proart-32-pa32ucx-pk-m0000LNVPE%3Fvouchercode%3Dstephan%26utm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000LNVPE",
+            "promotion_description": "Hinweis zu Gutscheinaktionen 20\u20ac Gutscheincode STEPHAN nur g\u00fcltig bis 10. Oktober 2023 um 23:59 Uhr bei einem Mindestbestellwert von 129\u20ac. Alle Gutscheininformationen unter https://www.shoepping.at/a/gutscheinbedingungen/stephan Aktionsbedingungen bei shoepping.at"
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 3109.0,
+            "offer_link": "https://www.alza.at/32-asus-proart-pa32ucx-p-d5882389.htm?kampan=geizhals_at_monitory_profesionalni_grafika-a-foto_wa049m1c1&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_profesionalni_grafika-a-foto_wa049m1c1",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 3159.04,
+            "offer_link": "https://www.ba-computer.at/asus-proart-pa32ucx-pk-led-monitor-81-28-cm-32-90lm03hc-b01370.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 3282.14,
+            "offer_link": "https://www.amazon.de/dp/B089SQF4Y8?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B089SQF4Y8&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 3319.67,
+            "offer_link": "https://www.taufnaus.de/product/10606159",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 3839.0,
+            "offer_link": "https://www.alternate.at/ASUS/PA32UCX-PK-LED-Monitor/html/product/1650359?partner=AtGeizhalsat&campaign=Monitor/ASUS/1650359",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "bauguru",
+            "price": 4968.8,
+            "offer_link": "https://restposten.bauguru.at/monitore/126114-monitor-asus-pa32ucx-pk-32-led-ips-flicker-free-144-hz-4718017693585.html",
+            "promotion_description": null
+        }
+    ]
+}

@@ -1,0 +1,382 @@
+{
+    "url": "https://geizhals.at/hp-m24fw-2d9k1aa-a2539156.html?hloc=at&hloc=de",
+    "product_name": "HP M24fw, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (6bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "99% (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (48-75Hz via HDMI, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-86kHz (horizontal), 48-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA, 1x HDMI 1.4"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +25\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "grau (Displayrahmen), grau (untere Blende), silber (Standfu\u00df), wei\u00df (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), keine Angabe (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "15kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "92.3% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "535.8x396.8x177.2mm (mit Standfu\u00df), 535.8x315.6x34mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "2.50kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "ein Jahr"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 01:48"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "06.06.2021, 23:34"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 130.93,
+            "offer_link": "https://direkt.jacob.de/produkte/hp-m24fw-2d9k1aa-abb-artnr-7283312.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 131.38,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1423291&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 132.99,
+            "offer_link": "https://www.mylemon.at/artikel/hewlett_packard/2d9k1aa_abb/hp-24-l-m24fw-display.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 133.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=310000000217126357&ano=A-H217126357&mno=2D9K1AA%23ABB&ean=195161272578&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 133.18,
+            "offer_link": "https://www.proshop.at/Bildschirm/HP-24-Bildschirm-M24fw-White-5-ms-AMD-FreeSync/2986658?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 133.48,
+            "offer_link": "https://www.galaxus.at/de/s1/product/hp-inc-m24fw-1920-x-1080-pixel-2380-monitor-17552781?utm_content=2-3&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 135.9,
+            "offer_link": "https://www.alza.at/24-hp-m24fw-d6638434.htm?kampan=geizhals_at_monitory_kancelarske_75hz_wp087e4h7&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_75hz_wp087e4h7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "buecher.de",
+            "price": 139.99,
+            "offer_link": "https://www.awin1.com/pclick.php?p=35125338885&a=332667&m=14191",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 140.17,
+            "offer_link": "https://www.heinzsoft-shop.de/hp-m24fw-m-series-led-monitor-full.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 141.08,
+            "offer_link": "https://www.computeruniverse.net/de/p/90852475?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 141.08,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/19964885?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neckermann.at",
+            "price": 143.99,
+            "offer_link": "https://www.neckermann.at/tft-monitor-hp-m24fw-424504.html?vkh=F1&utm_source=Geizhals&utm_medium=cpc&utm_campaign=psm&utm_term=1166133",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 144.56,
+            "offer_link": "https://www.1ashop.at/de/produkt/117550/hp-m24fw-m-series-led-monitor-61-cm-24.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 146.3,
+            "offer_link": "https://direkt.jacob.de/produkte/hp-m24fw-monitor-2d9k1e9-abb-artnr-7647479.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 146.99,
+            "offer_link": "https://www.mylemon.at/artikel/hewlett_packard/2d9k1e9_abb/hp-24-l-m24fw-display.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 147.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwAwffrrkPGEScGlZR2ptLT4Yv3Y9_SKF78_sM2Qd6kGjIGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6119-22A%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 147.03,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/19964885?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 147.34,
+            "offer_link": "https://www.proshop.at/Bildschirm/HP-24-Bildschirm-M24fw-White-5-ms-AMD-FreeSync/3009673?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 149.85,
+            "offer_link": "https://technikladen.at/I-2D9K1AAABB-HP-24-L-M24fw-Display-605-cm-238-2D9K1AAABB-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 151.0,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/60-5cm-23-8-HP-M24fw-Full-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 152.9,
+            "offer_link": "https://www.alternate.at/HP/M24fw-LED-Monitor/html/product/1801046?partner=AtGeizhalsat&campaign=Monitor/HP/1801046",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 154.64,
+            "offer_link": "https://ebay.de/itm/295955220030?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 157.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6119-22A&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigital.at",
+            "price": 158.0,
+            "offer_link": "https://click.edigital.at/monitor/hp-monitor-m24fw-238-ag-ips-monitor-1920x1080-10001-300cd-5ms-vga-hdmi-freesync-p948093?utm_source=geizhals.at&utm_medium=price-comparison&utm_term=948093",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cybertec24",
+            "price": 159.0,
+            "offer_link": "https://ebay.de/itm/165480495601?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 159.23,
+            "offer_link": "https://haym.info/produktdetails?id=2C05665",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 160.65,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1510287&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 160.79,
+            "offer_link": "https://www.future-x.at/hp-m24fw-m-series-led-monitor-61-cm-24-238-sichtbar-1920-x-1080-full-hd-1080p-%40-75-hz-ips-300-cd-m%B2-1000%3A1-5-ms-hdmi-vga-ceramic-white-p-9076114/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 165.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=140000000332257860&ano=R332257860&mno=2D9K1E9%23ABB&ean=196068980856&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "group24",
+            "price": 172.43,
+            "offer_link": "https://www.group24.de/hp-m24fw-24-zoll-1920-x-1080/2d9k1e9-abb",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 177.86,
+            "offer_link": "https://www.taufnaus.de/product/16242840",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 180.89,
+            "offer_link": "https://www.taufnaus.de/product/10606106",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Zar-Systems",
+            "price": 189.0,
+            "offer_link": "https://ebay.de/itm/204482207588?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "StarPlanet",
+            "price": 189.0,
+            "offer_link": "https://www.amazon.de/dp/B099RW52J7?linkCode=xm2&camp=2025&creative=165953&smid=A103K7MCY40P2G&creativeASIN=B099RW52J7&tag=geizhals10-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 192.34,
+            "offer_link": "https://www.taufnaus.de/product/10618207",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 197.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=320000000138412006&ano=A-I138412006&mno=2D9K1AA&ean=5715063139844&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 375.5,
+            "offer_link": "https://www.hiq24.de/shop/artikel/314445/?sPartner=geizhals",
+            "promotion_description": null
+        }
+    ]
+}

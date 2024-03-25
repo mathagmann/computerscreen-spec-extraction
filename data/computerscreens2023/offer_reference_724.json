@@ -1,0 +1,254 @@
+{
+    "url": "https://geizhals.at/philips-evnia-8000-series-34m2c8600-a2837088.html?hloc=at&hloc=de",
+    "product_name": "Philips Evnia 8000 34M2C8600, 34\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "34\"/\u200b86.4cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3440x1440, 21:9, 110ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2 (typisch), 450cd/\u200bm\u00b2 (HDR)"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "0.1ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "OLED (QD-OLED), Quantum-Dot"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "Samsung"
+        },
+        {
+            "name": "Form",
+            "value": "gebogen (curved), 1800R/\u200b1.8m"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 2H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR True Black 400"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "nein (10bit nativ)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "148.8% (sRGB), 97.8% (Adobe RGB), 99.3% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "175Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium Pro (48-175Hz via DisplayPort, 48-120Hz via HDMI, mit LFC-Support, mit HDR)"
+        },
+        {
+            "name": "Unsch\u00e4rfereduktionsfunktion",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-255kHz (horizontal), 48-175Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0 (100Hz@3440x1440), 1x DisplayPort 1.4 (175Hz@3440x1440), 1x USB-C 3.0 mit DisplayPort 1.4 (175Hz@3440x1440)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "3x USB-A 3.0, 1x USB-A 3.0 (BC 1.2)"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-C 3.0 mit DisplayPort 1.4, 1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 5W, DTS-Zertifizierung), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), N/\u200bA (Pivot), \u00b120\u00b0 (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), wei\u00df (untere Blende), wei\u00df (Standfu\u00df), wei\u00df (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 98.1W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "55kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "75kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "89.0% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "813x553x295mm (mit Standfu\u00df), 813x367x135mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "8.70kg (mit Standfu\u00df), 6.80kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, USB-C Power Delivery (90W), Steuerkreuz, Picture-in-Picture, Sicherheitsschloss (Kensington), Beleuchtung auf R\u00fcckseite (Philips Ambiglow), KVM-Switch, HDCP 2.3, Werkskalibrierung (Delta-E <2), Philips SmartImage"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "-"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "24.10.2022, 17:07"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "galaxus.at",
+            "price": 963.39,
+            "offer_link": "https://www.galaxus.at/de/s1/product/philips-evnia-34m2c8600-3440-x-1440-pixel-34-monitor-24101534?utm_content=2-3&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 971.49,
+            "offer_link": "https://www.amazon.de/dp/B0BSNWDH8M?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BSNWDH8M&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 995.0,
+            "offer_link": "https://www.alternate.at/Philips/Evnia-34M2C8600-OLED-Monitor/html/product/100005899?partner=AtGeizhalsat&campaign=Monitor/Philips/100005899",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigital.at",
+            "price": 1026.0,
+            "offer_link": "https://click.edigital.at/monitor/philips-34-zoll-monitor-34m2c860000-qd-oled-auflosung-3440-x-1440-wqhd-reaktionszeit-01-ms-gtg-verbindung-dp-hdmi-p1022785?utm_source=geizhals.at&utm_medium=price-comparison&utm_term=1022785",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 1028.43,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1630099&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 1038.99,
+            "offer_link": "https://www.mylemon.at/artikel/philips/34m2c8600_00/34m2c8600-00-86-336cm-34zoll.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 1039.0,
+            "offer_link": "https://www.alza.at/34-philips-34m2c8600-d7673364.htm?kampan=geizhals_at_monitory_herni_ostatni-frekvence_wc130b8a64&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_herni_ostatni-frekvence_wc130b8a64",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 1042.6,
+            "offer_link": "https://direkt.jacob.de/produkte/philips-evnia-34m2c8600-34m2c8600-00-artnr-8232376.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 1044.99,
+            "offer_link": "https://www.universal.at/p/93761166-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 1054.73,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/25636224?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 1054.74,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/25636224?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 1303.58,
+            "offer_link": "https://www.proshop.at/Bildschirm/Philips-34-Bildschirm-Evnia-34M2C8600-Evnia-8000-Series-OLED-monitor-curved-34-HDR-White-01-ms-AMD-Adaptive-Sync/3143093?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 1790.07,
+            "offer_link": "https://www.mylemon.at/artikel/philips/42m2n8900_00/42m2n8900-00-106-68cm-42zoll.html",
+            "promotion_description": null
+        }
+    ]
+}

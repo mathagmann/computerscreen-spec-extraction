@@ -1,0 +1,406 @@
+{
+    "url": "https://geizhals.at/dell-se2422h-210-azgt-a2534820.html?hloc=at&hloc=de",
+    "product_name": "Dell SE2422H, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "3.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "VA"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (48-75Hz via HDMI, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 48-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1920x1080), 1x HDMI 1.4 (75Hz@1920x1080)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +21\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "24W (maximal), 15.7W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "16kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "85.2% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "552.64x420.25x178.81mm (mit Standfu\u00df), 552.64x331.61x49.69mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "3.77kg (mit Standfu\u00df), 3.18kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 01:57"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "28.05.2021, 11:34"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 103.28,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1437884&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 104.16,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/16581385?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 104.17,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/16581385?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 106.01,
+            "offer_link": "https://www.proshop.at/Bildschirm/Dell-Bildschirm-SE2422H-1920x1080-FHD-75Hz-VA/2968369?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 106.56,
+            "offer_link": "https://direkt.jacob.de/produkte/dell-se2422h-60-5-210-azgt-artnr-7282807.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 106.8,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/60-5cm-23-8-DELL-24-Monitor-SE2422H-60-5cm-23-8-Full-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 108.88,
+            "offer_link": "https://www.mylemon.at/artikel/dell/dell_se2422h/se2422h-60-9-cm-23.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 108.89,
+            "offer_link": "https://haym.info/produktdetails?id=1C15788",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 108.9,
+            "offer_link": "https://www.alza.at/238-dell-se2422h-d6548527.htm?kampan=geizhals_at_monitory_kancelarske_75hz_adl24s45e&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_75hz_adl24s45e",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 108.91,
+            "offer_link": "https://www.cls.at/product/4312887/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 110.22,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656606053",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 111.0,
+            "offer_link": "https://www.1ashop.at/de/produkt/78057/dell-se2422h-led-monitor-61-cm-24-23-8-sichtbar.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 111.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=o44454C4D4F4E30323431&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neckermann.at",
+            "price": 112.99,
+            "offer_link": "https://www.neckermann.at/tft-monitor-se2422h-541005.html?vkh=F1&utm_source=Geizhals&utm_medium=cpc&utm_campaign=psm&utm_term=1511332",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 113.0,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=356706",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 113.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=356706",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 114.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=280000000776662285&ano=A-E776662285&mno=DELL-SE2422H&ean=5397184505052&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 114.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1438&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 115.19,
+            "offer_link": "https://www.future-x.at/dell-se2422h-led-monitor-61-cm-24-1920-x-1080-full-hd-75-hz-va-250-cd-m%B2-3000%3A1-5-ms-hdmi-vga-p-8901266/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 115.37,
+            "offer_link": "https://www.galaxus.at/de/s1/product/dell-inc-se2422h-1920-x-1080-pixel-2380-monitor-17743531?utm_content=2-3w&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CNW IT-Systeme",
+            "price": 115.5,
+            "offer_link": "https://www.c-nw.de/dell-monitor-24-zoll-60-90cm-se2422h.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigital.at",
+            "price": 118.0,
+            "offer_link": "https://click.edigital.at/monitor/dell-led-monitor-238-zoll-full-hd-75-hz-5-ms-amd-freesync-flimmerfrei-vga-hdmi-p949524?utm_source=geizhals.at&utm_medium=price-comparison&utm_term=949524",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mynotebook.de",
+            "price": 120.0,
+            "offer_link": "https://mynotebook.de/dell-se2422h-dell-se2422h.html?ff=4&fp=100740&utm_source=geizhals_de&utm_medium=preisvergleich&utm_campaign=geizhals&utm_content=mynotebook",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office discount",
+            "price": 120.99,
+            "offer_link": "https://www.office-discount.at/dell-se2422h-monitor-61-0-cm-(24-0-zoll)-schwarz-759718?srpId=efb95480a6ac91e5a4ef5283a36934cc&lkz=1140206&obt=0&fcv=1bf624ce3bd6c4bc8b4322199a8d6040&storeType=B2C&utm_medium=PSM&utm_source=Geizhals&utm_campaign=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 121.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=140000001554328657&ano=R1554328657&mno=SE2422H&ean=5397184505052&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "buecher.de",
+            "price": 121.99,
+            "offer_link": "https://www.awin1.com/pclick.php?p=36305478988&a=332667&m=14191",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 122.92,
+            "offer_link": "https://www.computeruniverse.net/de/p/90833725?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 123.0,
+            "offer_link": "https://technikladen.at/P-Dell-24-Monitor-SE2422H-605cm-238-Flachbildschirm-TFT/LCD-605-cm?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 124.43,
+            "offer_link": "https://technikladen.at/I-Dell-24-Monitor-SE2422H-605cm-238-Flachbildschirm-TFT/LCD-605-cm?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "VDS-Online",
+            "price": 126.0,
+            "offer_link": "https://www.vds-online.at/index.php?action=ansicht_artikel&artikel_id=31078&PA=GH",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 127.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Fdell-238-se2422h-m0000LNVPQ%3Futm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000LNVPQ",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 129.87,
+            "offer_link": "https://geniuzcom.at/Dell-SE2422H-LED-Monitor-61-cm-24-238-sichtbar",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 130.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=16581385&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 133.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=110000001809254138&ano=F1809254138&mno=210-AZGT&ean=5397184505052&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 135.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=388994&artname=Dell+60.5cm+%2823%2C8%22%29+SE2422H++16%3A9+VGA%2BHDMI+VA+black",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 140.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA_d__dtMSwkKnr1oJ5ztAe9WJIGkHEAWMxsAsmg_pfi7Gy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6137-01D%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 140.61,
+            "offer_link": "https://www.taufnaus.de/product/10603293",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 144.0,
+            "offer_link": "https://www.cyberport.at/?DEEP=6137-01D&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ABComputer",
+            "price": 148.0,
+            "offer_link": "https://www.abonline.at/dell-se2422h.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "bauguru",
+            "price": 179.4,
+            "offer_link": "https://restposten.bauguru.at/monitore/125381-monitor-dell-se2422h-ips-23-8-lcd-va-amd-freesync-flicker-free-5397184505052.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "woolloom",
+            "price": 224.71,
+            "offer_link": "https://ebay.de/itm/126114406550?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "url": "https://geizhals.at/aoc-27b2dm-a2593728.html?hloc=at&hloc=de",
+    "product_name": "AOC 27B2DM, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 82ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "4.000:1 (statisch), 20.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "VA"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 50-76Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA, 1x DVI, 1x HDMI 1.4"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +21.5\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), keine Angabe (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "24kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "25kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.0% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "613.4x457.87x182.9mm (mit Standfu\u00df), 613.4x364.17x36.3mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "3.70kg (mit Standfu\u00df), 2.18kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 23:09"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "02.09.2021, 14:50"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "BA-Computer",
+            "price": 121.96,
+            "offer_link": "https://www.ba-computer.at/aoc-27b2dm-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-27b2dm.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 121.98,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/686cm27_1920x1080_AOC_27B2DM_169_4ms_HDMI_DVI_VGA_VESA_Full_HD_Black.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 123.34,
+            "offer_link": "https://haym.info/produktdetails?id=1C26363",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 123.98,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1621184&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "NRE - Computer & Service",
+            "price": 125.0,
+            "offer_link": "https://www.nre.at/product_info.php?info=p36105_aoc-27b2dm-27.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 125.02,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/27b2dm/68-6cm-27-27b2dm-16.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 125.03,
+            "offer_link": "https://www.computeruniverse.net/de/p/90844570?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 125.04,
+            "offer_link": "https://www.galaxus.at/de/s1/product/aoc-27b2dm-1920-x-1080-pixel-27-monitor-17743340?utm_content=3-5&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 125.43,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/AOC-27B2DM-TFT-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 125.44,
+            "offer_link": "https://geniuzcom.at/AOC-27B2DM-LED-Monitor-686-cm-27-1920-x-1080-Full-HD-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 125.9,
+            "offer_link": "https://www.1ashop.at/de/produkt/74438/aoc-27b2dm-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 125.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=325530",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 125.9,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=325530",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mynotebook.de",
+            "price": 126.0,
+            "offer_link": "https://mynotebook.de/aoc-27b2dm-27b2dm.html?ff=4&fp=108510&utm_source=geizhals_de&utm_medium=preisvergleich&utm_campaign=geizhals&utm_content=mynotebook",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 126.39,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656602741",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 126.46,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-27b2dm-computerbildschirm-27b2dm-artnr-7350074.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 126.9,
+            "offer_link": "https://www.alza.at/27-aoc-27b2dm-d7639227.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_wk227y80&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_wk227y80",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 128.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=6882367",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 129.24,
+            "offer_link": "https://www.proshop.at/Bildschirm/AOC-27-Bildschirm-27B2DM-LED-monitor-Full-HD-1080p-27-Black-4-ms/3139446?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 130.58,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/19510762?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 130.59,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/19510762?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 131.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=160000001955222642&ano=S1955222642&mno=27B2DM&ean=4038986189989&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 131.97,
+            "offer_link": "https://technikladen.at/P-AOC-686cm-27-27B2DM-16-09-VGA-DVI-VA-FHD-Flachbildschirm-TFT/LCD-686-cm?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 133.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=a4283547&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 133.99,
+            "offer_link": "https://www.taufnaus.de/product/10602030",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigital.at",
+            "price": 137.0,
+            "offer_link": "https://click.edigital.at/monitor/aoc-27b2dm-led-monitor-27-full-hd-va-hdmi-vesa-flicker-free-lowblue-light-schwarz-p991667?utm_source=geizhals.at&utm_medium=price-comparison&utm_term=991667",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 137.2,
+            "offer_link": "https://www.future-x.at/aoc-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-%40-75-hz-mva-250-cd-m%B2-4-ms-hdmi-dvi-vga-lautsprecher-black-texture-p-8958185/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 137.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=19510762&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 138.65,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC4283547",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Deltatecc",
+            "price": 143.58,
+            "offer_link": "https://ebay.de/itm/334992101398?var=544212656764&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 144.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=383239&artname=AOC+68%2C6cm+%2827%22%29+++27B2DM++++16%3A09+VGA+DVI+VA+black",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 144.6,
+            "offer_link": "https://www.meistersinger.at/product.php?product=762695&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 144.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/AOC-27B2DM-68-6CM-27IN-VA::30643.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 149.87,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=6882367",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "pcspezialistbonn",
+            "price": 149.9,
+            "offer_link": "https://ebay.de/itm/334860894066?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 153.0,
+            "offer_link": "https://lumatech.at/products/aoc-27b2dm-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p",
+            "promotion_description": null
+        }
+    ]
+}

@@ -1,0 +1,388 @@
+{
+    "url": "https://geizhals.at/aoc-27p2q-a2294387.html?hloc=at&hloc=de",
+    "product_name": "AOC 27P2Q, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 82ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 50.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "99% (sRGB), 78% (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-85kHz (horizontal), 48-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA, 1x DVI, 1x HDMI 1.4, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-In, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b1180\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 20W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "18kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "88.7% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "614x544x200mm (mit Standfu\u00df), 614x369x51mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.41kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington), TCO 9 zertifiziert"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 11:09"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "20.05.2020, 10:47"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 176.37,
+            "offer_link": "https://www.computeruniverse.net/de/p/90800915?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 177.78,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1620631&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 177.79,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/68-6cm-27-AOC-27P2Q-Full-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 177.95,
+            "offer_link": "https://www.ba-computer.at/aoc-27p2q-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-27p2q.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 177.97,
+            "offer_link": "https://haym.info/produktdetails?id=0C16030",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 177.97,
+            "offer_link": "https://www.amazon.de/dp/B086X4D3NK?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B086X4D3NK&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 178.99,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-27p2q-27p2q-artnr-6434379.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 179.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/283273/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 179.9,
+            "offer_link": "https://www.proshop.at/Bildschirm/AOC-27-Bildschirm-27P2Q-75Hz-Black-4-ms/2884592?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 179.9,
+            "offer_link": "https://www.alternate.at/AOC/27P2Q-LED-Monitor/html/product/1650428?partner=AtGeizhalsat&campaign=Monitor/AOC/1650428",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 180.48,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/27p2q/27p2q-27-ips-d-sub.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 180.49,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/686cm27_1920_x_1080_AOC_27P2Q_Full_HD_4ms_IPS_HDMI_VGA_DVI_DP_USB_169_Black.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 180.83,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/12930547?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 180.84,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/12930547?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 181.95,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=303185",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 181.97,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656602784",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 183.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=303185",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 183.9,
+            "offer_link": "https://geniuzcom.at/AOC-27P2Q-LED-Monitor-686-cm-27-1920-x-1080-Full-HD-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 185.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA6E7xlJdv2azQPrAOUUrJTZ-67RmhsH10a5BHr-I0U_5Gy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6123-1CP%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 187.49,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeW9oWUfIubVEL--u3mic3WK-siDXWZA0_OaC22SkxLbSliqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Faoc-27p2q-68-6-cm-27-zoll-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 189.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=160000000414267672&ano=S414267672&mno=27P2Q&ean=4038986187329&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 190.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1012&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 192.49,
+            "offer_link": "https://ebay.de/itm/384151120879?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 192.67,
+            "offer_link": "https://www.1ashop.at/de/produkt/24682/aoc-27p2q-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 193.09,
+            "offer_link": "https://www.future-x.at/aoc-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p-ips-250-cd-m%B2-1000%3A1-4-ms-hdmi-dvi-displayport-vga-lautsprecher-schwarz-p-8524229/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 194.71,
+            "offer_link": "https://technikladen.at/P-AOC-P2-27P2Q-686-cm-27-Zoll-1920-x-1080-Pixel-Full-HD-LED-4-ms-Schwarz?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 197.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6123-1CP&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 202.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=a3887299&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 203.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Faoc-27-27p2q-m0000HODKI%3Futm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000HODKI",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 203.34,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC3887299",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 204.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=12930547&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 207.9,
+            "offer_link": "https://lumatech.at/products/aoc-27p2q-led-monitor-68-6-cm-27-1920-x-1080-full-hd-1080p",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 209.21,
+            "offer_link": "https://www.taufnaus.de/product/10606504",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Xpert",
+            "price": 209.56,
+            "offer_link": "https://www.xpert.business/de/27p2q-27-inch-full-hd-ips-led-monitor-1920x1080-pivot-has-speakers.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Conrad.at",
+            "price": 209.99,
+            "offer_link": "https://www.conrad.at/de/p/2300719?insert=7M&utm_source=geizhals&utm_medium=cpc&utm_campaign=pvgl&utm_content=dl_article",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 215.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=336002&artname=AOC+68%2C6cm+%2827%22%29+++27P2Q+++++16%3A09+HDMI%2BDVI%2BDP%2BUSB++IPS+blac",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 217.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/AOC-27P2Q-68-58CM-27IN-IPS::36617.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 219.9,
+            "offer_link": "https://www.meistersinger.at/product.php?product=582724&f=g2",
+            "promotion_description": null
+        }
+    ]
+}

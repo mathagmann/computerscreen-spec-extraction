@@ -1,0 +1,164 @@
+{
+    "url": "https://geizhals.at/hp-omen-x-25-4nk94aa-a2098169.html?hloc=at&hloc=de",
+    "product_name": "HP Omen X 25, 24.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "24.5\"/\u200b62.2cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 90ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "400cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "170\u00b0/\u200b160\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "TN"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "240Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "NVIDIA G-Sync (1-250Hz via DisplayPort)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 1.4, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-In, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +23\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz/\u200brot (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (via Adapter, inkludiert)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 24W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.39W (Standby)"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "89.8% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "557x490x272mm (mit Standfu\u00df), 557x331x99mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "6.26kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten mit Steuerkreuz, Sicherheitsschloss (Kensington), Kopfh\u00f6rerhalter"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 14:26"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "16.07.2019, 13:24"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 379.0,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1620619&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 724.58,
+            "offer_link": "https://www.taufnaus.de/product/10604785",
+            "promotion_description": null
+        }
+    ]
+}

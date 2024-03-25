@@ -1,0 +1,178 @@
+{
+    "url": "https://geizhals.at/hikvision-value-series-ds-d5027fn-a2315254.html?hloc=at&hloc=de",
+    "product_name": "Hikvision Value Series DS-D5027FN, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 82ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "14ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1920x1080), 1x HDMI 1.4"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), keine Angabe (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 40W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "keine Angabe (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "614x454x226mm (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "4.06kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 10:33"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "22.06.2020, 13:45"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "OCTO24",
+            "price": 170.0,
+            "offer_link": "https://www.octo24.com/Hikvision-302503576-Hikvision-23-6i-monitor-1080P-HDMI-VGA::644338.html?channable=02bff8696400363434333338d5&utm_campaign=geizhals&utm_content=&utm_source=channable&utm_medium=cpc&utm_term=",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Elektroshop Wagner AT",
+            "price": 214.78,
+            "offer_link": "https://www.elektroshopwagner.at/product_info.php?info=p310005&utm_campaign=geizhals_at_310005&utm_source=geizhals_at&utm_medium=CPC&utm_content=textanzeige&campaign=geizhals_at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TK-Shop24.de",
+            "price": 224.52,
+            "offer_link": "https://tk-shop24.de/videoueberwachung/hikvision/monitore/displays-23-bis-39/12958/ds-d5027fn/eu?utm_source=geizhals&utm_medium=psm&utm_campaign=feed",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "EXPERT-Security",
+            "price": 242.25,
+            "offer_link": "https://www.expert-security.de/hikvision-ds-d5027fn-eu-27-led-monitor.html?refid=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 242.4,
+            "offer_link": "https://direkt.jacob.de/produkte/hikvision-ds-d5027fn-eu-monitor-ds-d5027fn-eu-artnr-7480042.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 247.99,
+            "offer_link": "https://www.mylemon.at/artikel/hikvision/ds_d5027fn_eu/ds-d5027fn-eu-monitor-led.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigital.at",
+            "price": 248.0,
+            "offer_link": "https://click.edigital.at/monitor/hikvision-monitor-27-ds-d5027fn-p972253?utm_source=geizhals.at&utm_medium=price-comparison&utm_term=972253",
+            "promotion_description": null
+        }
+    ]
+}

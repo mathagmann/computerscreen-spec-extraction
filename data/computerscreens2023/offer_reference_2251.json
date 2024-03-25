@@ -1,0 +1,174 @@
+{
+    "url": "https://geizhals.at/ag-neovo-x-15e-weiss-x15e00a1e0100-a1866126.html?hloc=at&hloc=de",
+    "product_name": "AG neovo X-15E wei\u00df, 15\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "15\"/\u200b38.1cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1024x768, 4:3, 85ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "320cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "keine Angabe (statisch), 3.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "140\u00b0/\u200b125\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "TN"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1024x768), 1x DVI, 1x S-Video, 1x Composite"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), keine Angabe (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "wei\u00df (Displayrahmen), wei\u00df (untere Blende), wei\u00df (Standfu\u00df), wei\u00df (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 36W (typisch), 12W (Energielabel alt A+++ bis G), 2W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "A"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "17.52kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "11kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "58.2% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "380x359x155mm (mit Standfu\u00df), 380x315x54mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "4.60kg (mit Standfu\u00df), 4.20kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 16:01"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "09.08.2018, 15:16"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "EXPERT-Security",
+            "price": 465.95,
+            "offer_link": "https://www.expert-security.de/ag-neovo-x-15ew-15-lcd-monitor-1024x768-pixel.html?refid=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigitech",
+            "price": 477.07,
+            "offer_link": "https://www.edigitech.de/detail/index/sArticle/940879?sPartner=12",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 492.25,
+            "offer_link": "https://www.taufnaus.de/product/10603899",
+            "promotion_description": null
+        }
+    ]
+}

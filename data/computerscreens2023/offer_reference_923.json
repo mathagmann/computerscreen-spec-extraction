@@ -1,0 +1,308 @@
+{
+    "url": "https://geizhals.at/acer-predator-x32-fp-x32fpbmiiiiphuzx-um-jx0ee-p01-a2741348.html?hloc=at&hloc=de",
+    "product_name": "Acer Predator X32FPbmiiiiphuzx, 32\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "32\"/\u200b81.3cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 138ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "400cd/\u200bm\u00b2 (typisch), 1.200cd/\u200bm\u00b2 (HDR)"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 100.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS (AmLED), Quantum-Dot"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "AU Optronics (M320QAN02.8)"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "Mini LED, flicker-free, Blaulichtfilter, Full Array Local Dimming (576 Zonen)"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 1000"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), 99% (Adobe RGB), 97% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "160Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium Pro (48-160Hz via DisplayPort, 48-160Hz via HDMI, mit LFC-Support, mit HDR)"
+        },
+        {
+            "name": "Unsch\u00e4rfereduktionsfunktion",
+            "value": "Acer Visual Response Boost (VRB)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "4x HDMI 2.1 (160Hz@3840x2160), 1x DisplayPort 1.4 (160Hz@3840x2160), 1x USB-C 3.0 mit DisplayPort 1.4 (160Hz@3840x2160)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0, 1x USB-C 3.0 mit DisplayPort 1.4"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 7W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), N/\u200bA (Pivot), \u00b130\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), keine Angabe (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "39kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "51kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.3% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "727x508x263mm (mit Standfu\u00df), 727x430x93.3mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "10.30kg (mit Standfu\u00df), 7.30kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten mit Steuerkreuz, Werkskalibrierung (Delta-E <2), Sicherheitsschloss (Kensington), USB-C Power Delivery (90W), KVM Switch"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre (Bring-In)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 14:01"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "25.05.2022, 08:26"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 1379.99,
+            "offer_link": "https://www.ottoversand.at/p/93596311-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=93596311-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 1379.99,
+            "offer_link": "https://www.universal.at/p/93596311-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 1410.76,
+            "offer_link": "https://www.amazon.de/dp/B0BC18KSW9?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BC18KSW9&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "deltatecc-prime",
+            "price": 1486.0,
+            "offer_link": "https://ebay.de/itm/255936117115?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 1518.0,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=360014",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 1533.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=360014",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 1546.61,
+            "offer_link": "https://www.galaxus.at/de/s1/product/acer-predator-x32fp-3840-x-2160-pixel-32-monitor-21800225?utm_content=2-3&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 1549.25,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/81-3cm-32-Acer-X32-FP-4K-Ultra-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 1551.46,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1634726&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 1554.44,
+            "offer_link": "https://direkt.jacob.de/produkte/acer-predator-x32-um-jx0ee-p01-artnr-8271268.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 1562.28,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/23711699?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 1562.29,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/23711699?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "expert TechnoMarkt",
+            "price": 1599.0,
+            "offer_link": "https://www.expert-technomarkt.de/Monitore/Acer-Predator-X32FP-4K-Ultra-HD-Monitor-81,3-cm-32-EEK-F-16-9-1-ms-400-cd/m-Schwarz-Schwarz.17162077033.html?campaign=geizhals/Computer/Monitore/Predator-X32FP-4K-Ultra-HD-Monitor-81,3-cm-32-EEK-F-16-9-1-ms-400-cd/m-Schwarz",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigitech",
+            "price": 1606.47,
+            "offer_link": "https://www.edigitech.de/detail/index/sArticle/945991?sPartner=12",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 1615.99,
+            "offer_link": "https://www.mylemon.at/artikel/acer/um_jx0ee_p01/predator-x32fpbmiiiiphuzx-81-3cm-32.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 1616.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA9aNvHU84MlKs-CV6MlIxxz2UvV3bDbi-t_S9LVkxtnNGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6121-4NG%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 1620.67,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656693477",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 1663.8,
+            "offer_link": "https://www.proshop.at/Bildschirm/Acer-32-Bildschirm-Predator-X32FP-Gaming-monitor-32-4K-Mini-LED-UHD-3840x2160-160Hz-USB-C-VESA-Display-HDR-1000-Black-1-ms-AMD-FreeSync-2/3035131?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 1663.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/343013/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 1673.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6121-4NG&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 1692.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=10000000164803517&ano=BC164803517&mno=UM.JX0EE.P01&ean=4710886952305&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 1789.82,
+            "offer_link": "https://www.taufnaus.de/product/12631769",
+            "promotion_description": null
+        }
+    ]
+}

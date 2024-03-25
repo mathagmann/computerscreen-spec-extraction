@@ -1,0 +1,430 @@
+{
+    "url": "https://geizhals.at/iiyama-prolite-xub2796hsu-b5-a2906310.html?hloc=at&hloc=de",
+    "product_name": "iiyama ProLite XUB2796HSU-B5, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 82ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 80.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), 1ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (6bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (48-75Hz via DisplayPort, 48-75Hz via HDMI, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "31-85kHz (horizontal), 48-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI (75Hz@1920x1080), 1x DisplayPort (75Hz@1920x1080)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 2.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 2.0"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), N/\u200bA (drehbar), +23\u00b0/\u200b-3\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 19W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "20kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "91.0% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "610x403.5x252mm (mit Standfu\u00df), 610x362x39mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.20kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, Steuerkreuz, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre (Abwicklung \u00fcber Hersteller, Produktregistrierung innerhalb von 60 Tagen nach dem Kauf: Link, Garantie-Informationen: Link)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 06:34"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "01.03.2023, 18:29"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "JB-Computer",
+            "price": 164.89,
+            "offer_link": "https://www.jb-computer.de/monitore/monitore/alle-monitore/9772/iiyama-prolite-xub2796hsu-b5-27-16-9-full-hd-ips-display-schwarz?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 166.27,
+            "offer_link": "https://www.ba-computer.at/iiyama-prolite-xub2796hsu-b5-led-monitor-68-5-cm-27-xub2796hsu-b5.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 166.29,
+            "offer_link": "https://www.computeruniverse.net/de/p/90919002?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 167.39,
+            "offer_link": "https://www.heinzsoft-shop.de/iiyama-prolite-xub2796hsu-b5-led-monit.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-systems - your online store",
+            "price": 169.0,
+            "offer_link": "https://www.e-systems.de/Iiyama-ProLite-XUB2796HSU-B5-27-68-5cm-Full-HD-Monitor-fuer-Business-und-Gamingeinsteiger/7042291",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 169.9,
+            "offer_link": "https://www.arlt.com/Gaming/Monitore/68-60cm-27-0-Iiyama-Prolite-XUB2796HSU-B5-FullHD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "hmepowerseller",
+            "price": 169.9,
+            "offer_link": "https://ebay.de/itm/195683266518?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "NRE - Computer & Service",
+            "price": 169.98,
+            "offer_link": "https://www.nre.at/product_info.php?info=p37886_iiyama-prolite-xub2796hsu-b5-27.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 169.99,
+            "offer_link": "https://www.mylemon.at/artikel/iiyama/xub2796hsu_b5/tft-xub2796hsu-68-5cm-ips.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 170.0,
+            "offer_link": "https://haym.info/produktdetails?id=3C03443",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 171.19,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1621559&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 171.31,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/26042386?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 171.32,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/26042386?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mynotebook.de",
+            "price": 173.0,
+            "offer_link": "https://mynotebook.de/iiyama-prolite-xub2796hsu-b5-xub2796hsu-b5.html?ff=4&fp=112250&utm_source=geizhals_de&utm_medium=preisvergleich&utm_campaign=geizhals&utm_content=mynotebook",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 173.31,
+            "offer_link": "https://direkt.jacob.de/produkte/iiyama-prolite-xub2796hsu-b5-xub2796hsu-b5-artnr-8129957.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 173.7,
+            "offer_link": "https://www.cls.at/product/4519875/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "reichelt.at",
+            "price": 173.7,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=SY7Qe9yrWPJvFVI0ZwHieiONf4Q_2WXXXYHB5JGuNXM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "JB-Computer-Shop | eBay.de",
+            "price": 174.9,
+            "offer_link": "https://ebay.de/itm/276045344692?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 176.04,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/686cm27_1920x1080_iiyama_ProLite_XUB2796HSUB5_169_1ms_IPS_HDMI_DisplayPort_USB_2.0_VESA_Pivot_Speaker_FullHD_Black.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 177.9,
+            "offer_link": "https://www.1ashop.at/de/produkt/108669/iiyama-tft-xub2796hsu-68-5cm-ips-27-/1920x1080/hdmi/dp/2xusb/hoev-flachbildschirm-tft/lcd-68-5-cm.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 177.9,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=366243",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 177.91,
+            "offer_link": "https://www.galaxus.at/de/s1/product/iiyama-tft-270685cm-iiyama-prolite-xub2796hsu-b5-schwarz-169-1920-x-1080-pixel-2717-monitor-23689954?utm_content=4-6&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 178.11,
+            "offer_link": "https://technikladen.at/P-XUB2796HSU-B5-Iiyama-ProLite-XUB2796HSU-B5-686-cm-27-Zoll-1920-x-1080-Pixel-Full-HD-LED-1-ms-Schwarz-XUB2796HSU-B5-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyclotron (AT)",
+            "price": 178.64,
+            "offer_link": "https://www.cyclotron.de/route.php?artikel=C1009380&partner=gh_at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 178.79,
+            "offer_link": "https://www.future-x.at/iiyama-prolite-xub2796hsu-b5-27-home-business-ete-ips-schwarz-full-hd-ips-75-hz-hdmi-1920-x-1080-pixel-reaktionszeit%3A-1-ms-mprt-p-9110368/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 178.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=366243",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 179.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=7893750",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 182.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=y343433373436&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 182.65,
+            "offer_link": "https://www.proshop.at/Bildschirm/iiyama-27-Bildschirm-ProLite-XUB2796HSU-B5-LED-monitor-Full-HD-1080p-27-Black-1-ms-AMD-FreeSync/3145388?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 182.9,
+            "offer_link": "https://www.alternate.at/iiyama/ProLite-XUB2796HSU-B5-LED-Monitor/html/product/1892004?partner=AtGeizhalsat&campaign=Monitor/iiyama/1892004",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 183.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=20000000606145799&ano=I606145799&mno=XUB2796HSU-B5&ean=4948570121717&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 184.61,
+            "offer_link": "https://ebay.de/itm/354911847735?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 184.9,
+            "offer_link": "https://www.alza.at/27-iiyama-prolite-xub2796hsu-b5-d7776097.htm?kampan=geizhals_at_monitory_kancelarske_x_wa840q9j&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_x_wa840q9j",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "SKC Computer & Multimedia Store",
+            "price": 186.9,
+            "offer_link": "https://www.skc.at/produkte/tfts/iiyama_prolite_xub2796hsu-b5_-_led-monitor_-_68.5_cm_27-229435",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 190.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Led-Small-Format/IIYAMA-CONSIGNMENT-XUB2796HSU-B5-27-FHD-IPS::31058.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 191.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=j696979787562323739366873756235&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 191.69,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC46175283",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 192.0,
+            "offer_link": "https://www.meistersinger.at/product.php?product=844172&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 192.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=26042386&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "digimex.at",
+            "price": 196.8,
+            "offer_link": "http://www.digimex.at/dij-iiyama-prolite-xub2796hsu-b5-686cm-27-zoll-schwarz-p-322947.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 199.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=420452&artname=IIYAMA+68.6cm+%2827%22%29+++XUB2796HSU-B5+16%3A9++HDMI%2BDP%2BUSB+IPS",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 203.2,
+            "offer_link": "https://lumatech.at/products/iiyama-prolite-xub2796hsu-b5-led-monitor-68-5-cm-27",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 209.36,
+            "offer_link": "https://www.taufnaus.de/product/10606432",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 209.85,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=7893750",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "woolloom",
+            "price": 285.49,
+            "offer_link": "https://ebay.de/itm/126114406315?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        }
+    ]
+}

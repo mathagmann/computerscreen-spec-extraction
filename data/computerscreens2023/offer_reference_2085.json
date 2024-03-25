@@ -1,0 +1,338 @@
+{
+    "url": "https://geizhals.at/hp-omen-x-27-6fn07aa-a2157126.html?hloc=at&hloc=de",
+    "product_name": "HP Omen X 27, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "2560x1440, 16:9, 109ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "400cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 10.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "170\u00b0/\u200b160\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "TN"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "240Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium Pro (48-240Hz via DisplayPort, 48-240Hz via HDMI, mit LFC-Support, mit HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 2.0, 1x DisplayPort 1.4"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "130mm (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +23\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz/\u200brot (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (via Adapter, inkludiert)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "65W (maximal), 30W (typisch), 45W (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "C"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "65.70kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "32kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "53kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "87.5% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "614x534x272mm (mit Standfu\u00df), 614x374x100mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "7.10kg (mit Standfu\u00df), 4.34kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 13:24"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "15.10.2019, 17:07"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "edv-Werksverkauf | eBay.de",
+            "price": 299.0,
+            "offer_link": "https://ebay.de/itm/386009458069?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 319.77,
+            "offer_link": "https://www.mylemon.at/artikel/hewlett_packard/6fn07aa_abb/hp-omen-x-27-69.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 319.78,
+            "offer_link": "https://haym.info/produktdetails?id=3C16339",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 321.61,
+            "offer_link": "https://direkt.jacob.de/produkte/hp-omen-x-6fn07aa-artnr-7528148.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 330.94,
+            "offer_link": "https://www.proshop.at/Bildschirm/HP-Bildschirm-OMEN-X-2560x1440-240Hz-TN/2846961?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 334.94,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1620607&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 334.95,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeWzvw6S05tOLBUEFglaFJEImKg3Wu8DrIzryPwJ1boeTbiqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Fhp-omen-x27-68-58-cm-27-zoll-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 338.82,
+            "offer_link": "https://www.heinzsoft-shop.de/omen-x-by-hp-27-led-monitor-68-58-cm-27.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 345.33,
+            "offer_link": "https://www.galaxus.at/de/s1/product/hp-inc-omen-x-27-2560-x-1440-pixel-27-monitor-12240920?utm_content=2-4&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 361.07,
+            "offer_link": "https://ebay.de/itm/285342891011?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 364.95,
+            "offer_link": "https://ebay.de/itm/385371001274?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 366.15,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/11954868?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 372.1,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/11954868?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 429.97,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/68-6cm-27-HP-27-Quad-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 444.85,
+            "offer_link": "https://www.taufnaus.de/product/10622512",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 448.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwAwffrrkPGEScGlZR2ptLT4beL6jLQWp7Pnzd8sskYC4YGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6119-21L%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 453.75,
+            "offer_link": "https://direkt.jacob.de/produkte/hp-omen-x-6fn07aa-abb-artnr-6048455.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 453.78,
+            "offer_link": "https://www.computeruniverse.net/de/p/90784443?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 459.94,
+            "offer_link": "https://technikladen.at/I-HP-OMEN-686-cm/27-Flachbildschirm-TFT/LCD-2560x1440-TN?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "buecher.de",
+            "price": 459.99,
+            "offer_link": "https://www.awin1.com/pclick.php?p=31401977211&a=332667&m=14191",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 468.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6119-21L&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "group24",
+            "price": 469.93,
+            "offer_link": "https://www.group24.de/omen-x-by-hp-27-27-zoll-2.560-x-1.440/6fn07aa-abb",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 474.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=140000002116309570&ano=R2116309570&mno=6FN07AA%23ABB&ean=193808255311&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 474.56,
+            "offer_link": "https://www.galaxus.at/de/s1/product/hp-inc-omen-x-2560-x-1440-pixel-27-monitor-13383057?utm_content=5-8&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neckermann.at",
+            "price": 483.99,
+            "offer_link": "https://www.neckermann.at/tft-monitor-hp-omen-x27-140709.html?vkh=F1&utm_source=Geizhals&utm_medium=cpc&utm_campaign=psm&utm_term=415238",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigital.at",
+            "price": 555.0,
+            "offer_link": "https://click.edigital.at/monitor/27-hp-gaming-monitor-240hz-1ms-schwarz-p1005483?utm_source=geizhals.at&utm_medium=price-comparison&utm_term=1005483",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "bauguru",
+            "price": 862.8,
+            "offer_link": "https://restposten.bauguru.at/monitore/132282-monitor-hp-27-27-led-tn-240-hz-0193808255311.html",
+            "promotion_description": null
+        }
+    ]
+}

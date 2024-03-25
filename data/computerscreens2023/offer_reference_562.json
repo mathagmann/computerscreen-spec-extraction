@@ -1,0 +1,336 @@
+{
+    "url": "https://geizhals.at/aoc-24p3cv-a2885303.html?hloc=at&hloc=de",
+    "product_name": "AOC 24P3CV, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 20.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 1.4, 1x DisplayPort 1.2, 1x USB-C 3.0 mit DisplayPort 1.2, 1x DisplayPort-Out (Daisy Chain)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "1x Gb LAN (RJ-45)"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-C 3.0 mit DisplayPort 1.2"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b1180\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), keine Angabe (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "18kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "18kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "keine Angabe (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "keine Angabe (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "keine Angabe (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, TCO 9 zertifiziert, USB-C Power Delivery (65W), mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 09:18"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "26.01.2023, 11:59"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 213.66,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-pro-line-24p3cv-24p3cv-artnr-8129873.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 217.91,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1624662&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 217.92,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/AOC-24P3CV-TFT-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 218.53,
+            "offer_link": "https://www.ba-computer.at/aoc-pro-line-24p3cv-p3-series-led-monitor-61-cm-24-24p3cv.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 218.55,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/24p3cv/24p3cv-60-45cm-23-8zoll.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 218.59,
+            "offer_link": "https://haym.info/produktdetails?id=3C06548",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 219.75,
+            "offer_link": "https://www.computeruniverse.net/de/p/90919461?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 219.75,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/26049396?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 219.76,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/26049396?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 222.19,
+            "offer_link": "https://www.1ashop.at/de/produkt/114586/aoc-pro-line-24p3cv-p3-series-led-monitor-61-cm-24.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 222.19,
+            "offer_link": "https://www.future-x.at/aoc-pro-line-p3-series-led-monitor-61-cm-24-238-sichtbar-1920-x-1080-full-hd-1080p-%40-75-hz-ips-300-cd-m%B2-1000%3A1-4-ms-hdmi-displayport-usb-c-lautsprecher-p-9140315/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 222.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=7896053",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 225.69,
+            "offer_link": "https://technikladen.at/P-24P3CV-AOC-24P3CV-6045cm-238Zoll-IPS-TFT-1920x1080-HDMI-DP-USB-Black-Flachbildschirm-TFT-LCD-6045-cm-24P3CV-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 225.7,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=364091",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 233.8,
+            "offer_link": "https://www.galaxus.at/de/s1/product/aoc-24p3cv-6045cm-238zoll-ips-tft-1920x1080-hdmi-dp-usb-black-1920-x-1080-pixel-2380-monitor-24235754?utm_content=1-2w&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 233.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=364091",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 236.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=30000000007896053&ano=T7896053&mno=24P3CV&ean=4038986140751&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 237.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=i343231353832&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 241.01,
+            "offer_link": "https://www.amazon.de/dp/B0BQMV55PZ?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BQMV55PZ&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 243.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=26049396&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 248.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/AOC-24P3CV-23-8IN-IPS-1920X1080::34467.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Xpert",
+            "price": 249.12,
+            "offer_link": "https://www.xpert.business/de/24p3cv-p3-series-24-inch-full-hd-ips-led-monitor-1920x1080-pivot-has-rj45-usb-c-speakers.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 250.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=421582&artname=AOC+60%2C5cm+%2823%2C8%22%29+24P3CV++++16%3A09+HDMI%2BDP%2BUSB-C+IPS++black+reta",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 253.2,
+            "offer_link": "https://www.meistersinger.at/product.php?product=845196&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 259.12,
+            "offer_link": "https://www.taufnaus.de/product/10736168",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 259.6,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=7896053",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 265.8,
+            "offer_link": "https://lumatech.at/products/aoc-pro-line-24p3cv-p3-series-led-monitor-61-cm-24",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "bauguru",
+            "price": 286.3,
+            "offer_link": "https://restposten.bauguru.at/monitore/128458-monitor-aoc-24p3cv-23-8-led-ips-flicker-free-4038986140751.html",
+            "promotion_description": null
+        }
+    ]
+}

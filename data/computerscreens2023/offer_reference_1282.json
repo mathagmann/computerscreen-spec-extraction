@@ -1,0 +1,246 @@
+{
+    "url": "https://geizhals.at/lg-27up650-w-a2576741.html?hloc=at&hloc=de",
+    "product_name": "LG 27UP650-W, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 163ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "320cd/\u200bm\u00b2 (typisch), 400cd/\u200bm\u00b2 (HDR)"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.200:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 400"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (8bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "99% (sRGB), keine Angabe (Adobe RGB), 95% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (40-60Hz via DisplayPort, 40-60Hz via HDMI, ohne LFC-Support, mit HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-135kHz (horizontal), 56-61Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0, 1x DisplayPort 1.4"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "110mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), N/\u200bA (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), silber (Standfu\u00df), wei\u00df (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "44W (maximal), 40W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "32kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "49kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.1% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "613.5x459.3x293.3mm (mit Standfu\u00df), 613.5x363.5x45.4mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.60kg (mit Standfu\u00df), 3.80kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, Steuerkreuz, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre (Bring-In)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 23:33"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "03.08.2021, 13:09"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "group24",
+            "price": 258.83,
+            "offer_link": "https://www.group24.de/lg-27up650-w-27-zoll-3840x2160/27up650-w.aeu",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 362.02,
+            "offer_link": "https://www.proshop.at/Bildschirm/LG-27-Bildschirm-27UP650-W-3840x2160-IPS-Black-5-ms-AMD-FreeSync/2990989?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 369.0,
+            "offer_link": "https://www.cyberport.at/?DEEP=6105-3DL&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 369.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwAxY1wJfGNcxjK_kBLRNaAQEoK2Qkr7zApCuqvHZjsnXpGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6105-3DL%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 372.62,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/68-6cm-27-LG-27UP650-W-4K-Ultra-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 378.99,
+            "offer_link": "https://www.galaxus.at/de/s1/product/lg-electronics-27up650-w-3840-x-2160-pixel-27-monitor-23483999?utm_content=2w&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 379.13,
+            "offer_link": "https://direkt.jacob.de/produkte/lg-27up650-w-computerbildschirm-27up650-w-aeu-artnr-7484376.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 405.38,
+            "offer_link": "https://www.heinzsoft-shop.de/lg-27up650-w-27.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 408.89,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/24782120?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 408.9,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/24782120?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "NRE - Computer & Service",
+            "price": 452.98,
+            "offer_link": "https://www.nre.at/product_info.php?info=p37363_lg-27-27up650-w-weiss.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 454.99,
+            "offer_link": "https://www.mylemon.at/artikel/lg/27up650_w/27up650-w-computerbildschirm-68-6.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigital.at",
+            "price": 455.0,
+            "offer_link": "https://click.edigital.at/monitor/lg-27up650-w-27-4k-uhd-ips-monitor-p907419?utm_source=geizhals.at&utm_medium=price-comparison&utm_term=907419",
+            "promotion_description": null
+        }
+    ]
+}

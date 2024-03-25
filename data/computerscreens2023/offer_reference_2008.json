@@ -1,0 +1,376 @@
+{
+    "url": "https://geizhals.at/lg-electronics-43un700-b-a2216470.html?hloc=at&hloc=de",
+    "product_name": "LG 43UN700-B, 42.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "42.5\"/\u200b108cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 104ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "400cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "8ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS (AH-IPS)"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "LG Display"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "HDR10"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "ja (8bit+2bit)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-135kHz (horizontal), 56-61Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0, 2x HDMI 1.4, 1x DisplayPort 1.4, 1x USB-C 3.0 mit DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "1x seriell-In"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-C 3.0 mit DisplayPort 1.2"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 10W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +10\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "200x200 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "200W (maximal), 95W (typisch), 68W (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "A"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "99.28kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "57kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "81kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "89.5% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "967x647.6x275mm (mit Standfu\u00df), 967x575.2x70.6mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "17.50kg (mit Standfu\u00df), 13.80kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, USB-C Power Delivery (60W), Picture-in-Picture, Sicherheitsschloss (Kensington), kompatibel mit LG Dual Controller Software, Fernbedienung"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre (Bring-In)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Hinweis",
+            "value": "BGR Subpixel Layout. F\u00fcr optimale Text-Darstellung sollten ClearType-Anpassungen im Betriebssystem vorgenommen werden (Info)."
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 12:02"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "29.01.2020, 11:54"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "group24",
+            "price": 618.68,
+            "offer_link": "https://www.group24.de/lg-43un700-b-42-51-zoll-3840x2160/43un700-b.aeu",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 655.9,
+            "offer_link": "https://www.alza.at/43-lg-uhd-43un700b-d7679850.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_wk060a1t81&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_wk060a1t81",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "reichelt.at",
+            "price": 670.58,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=zbB32_euZJMKgPwo_-Ulrt-D3b9_OY_WDmm73ZK4BOA",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 674.51,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/12431630?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 674.52,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/12431630?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 688.87,
+            "offer_link": "https://www.galaxus.at/de/s1/product/lg-electronics-43un700-b-3840-x-2160-pixel-43-monitor-13278393?utm_content=5-8&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 692.56,
+            "offer_link": "https://www.proshop.at/Bildschirm/LG-43-Bildschirm-43UN700-B-4K-UHD-IPS-USB-C-HDR-10-Black-5-ms/2831697?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 716.31,
+            "offer_link": "https://www.arlt.com/Gaming/Monitore/107-95cm-42-5-LG-43UN700-B-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 722.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/270747/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 735.03,
+            "offer_link": "https://direkt.jacob.de/produkte/lg-43un700-b-aeu-109-22cm-43un700-b-aeu-artnr-6151551.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 737.64,
+            "offer_link": "https://www.mylemon.at/artikel/lg/43un700_b/43-43un700-b-4k-uhd.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 737.65,
+            "offer_link": "https://www.1ashop.at/de/produkt/78194/lg-43un700-b-led-monitor-109-2-cm-43-42-51-sichtbar.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 737.65,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=300424",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 745.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=300424",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 747.06,
+            "offer_link": "https://www.ba-computer.at/lg-43un700-b-led-monitor-109-2-cm-43-42-51-sichtbar-43un700-b.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 751.55,
+            "offer_link": "https://www.cls.at/product/2610285/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 751.55,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656660200",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Notebook.de",
+            "price": 752.4,
+            "offer_link": "https://www.notebook.de/TFTBeamer/Monitore/LG-Electronics/226796/LG-43UN700-B-LED-Monitor-109.2-cm-43-42.51-sichtbar?sPartner=GeizhalsNB",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 754.16,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/1092cm43_3840x2160_LG_43UN700B_169_5ms_4xHDMI_DisplayPort_USB_USBC_4K_Black.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 754.17,
+            "offer_link": "https://geniuzcom.at/LG-43UN700-B-LED-Monitor-1092-cm-43-4251-sichtbar",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigitech",
+            "price": 758.46,
+            "offer_link": "https://www.edigitech.de/detail/index/sArticle/942323?sPartner=12",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Easynotebooks.de (AT)",
+            "price": 758.71,
+            "offer_link": "https://www.easynotebooks.de/TFTBeamer/Monitore/LG-Electronics/226796/LG-43UN700-B-LED-Monitor-109.2-cm-43-42.51-sichtbar?sPartner=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 770.42,
+            "offer_link": "https://www.heinzsoft-shop.de/lg-43ud79-b-42-5.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 774.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=160000001427323229&ano=S1427323229&mno=43UN700-B&ean=8806098699773&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 782.8,
+            "offer_link": "https://www.future-x.at/lg-43un700-b-led-monitor-109-2-cm-43-4251-sichtbar-3840-x-2160-4k-ah-ips-400-cd-m%B2-1000%3A1-5-ms-4xhdmi-displayport-usb-c-mattschwarz-p-8249419/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 793.99,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeWzcaik-Q1-os-CZHIfLvM-RW8VrjrIsD5Cl0WK4pAEpc_RFikLlYxaC51E2oRlTusw~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Flg-43un700-b-108-cm-42-5-zoll-4k-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 797.63,
+            "offer_link": "https://ebay.de/itm/285483474910?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 804.7,
+            "offer_link": "https://lumatech.at/products/lg-43un700-b-led-monitor-109-2-cm-43-42-51-sichtbar",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 814.99,
+            "offer_link": "https://ebay.de/itm/373579888298?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 816.81,
+            "offer_link": "https://www.heinzsoft-shop.de/lg-43un700-b-led-monitor-4k-109-2.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 825.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=250000001683012988&ano=A-C1683012988&mno=43UN700-B.AEU&ean=8806098699773&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 844.55,
+            "offer_link": "https://ebay.de/itm/295962535442?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        }
+    ]
+}

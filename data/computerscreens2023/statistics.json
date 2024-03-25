@@ -1,0 +1,130 @@
+{
+    "product_count_per_shop": [
+        [
+            "mylemon.at",
+            1912
+        ],
+        [
+            "Jacob Elektronik direkt (AT)",
+            1794
+        ],
+        [
+            "ElectronicShop24",
+            1699
+        ],
+        [
+            "Proshop.at",
+            1542
+        ],
+        [
+            "TaufNaus",
+            1485
+        ],
+        [
+            "galaxus.at",
+            1479
+        ],
+        [
+            "haym.infotec",
+            1349
+        ],
+        [
+            "CSV-Direct.de",
+            1241
+        ],
+        [
+            "Future-X.at",
+            1179
+        ],
+        [
+            "playox (AT)",
+            1161
+        ],
+        [
+            "office-partner (AT)",
+            1140
+        ],
+        [
+            "e-tec.at",
+            1117
+        ],
+        [
+            "DiTech.at",
+            1076
+        ],
+        [
+            "1ashop.at",
+            1011
+        ],
+        [
+            "BA-Computer",
+            1010
+        ],
+        [
+            "TechnikLaden",
+            1005
+        ],
+        [
+            "Amazon.at",
+            964
+        ],
+        [
+            "Waldbauer",
+            955
+        ],
+        [
+            "Syswork",
+            946
+        ],
+        [
+            "ARLT Computer",
+            938
+        ],
+        [
+            "I-CS",
+            927
+        ],
+        [
+            "Alternate.at",
+            897
+        ],
+        [
+            "Cyberport.at",
+            740
+        ],
+        [
+            "Cyberport Stores \u00d6sterreich",
+            723
+        ],
+        [
+            "CLS-IT",
+            720
+        ],
+        [
+            "ms-it-beratung",
+            692
+        ],
+        [
+            "cw-mobile.de",
+            636
+        ],
+        [
+            "bauguru",
+            610
+        ],
+        [
+            "HEINZSOFT (AT)",
+            577
+        ],
+        [
+            "HiQ24",
+            553
+        ]
+    ],
+    "total_shops": 288,
+    "total_products": 45458,
+    "n_most_common_shops": 30,
+    "total_products_n_most_common_shops": 32078,
+    "percentage_products_most_common_shops": 70.57,
+    "median_price": 421.96
+}

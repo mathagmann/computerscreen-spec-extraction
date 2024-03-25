@@ -1,0 +1,346 @@
+{
+    "url": "https://geizhals.at/philips-e-line-242e2fa-a2364713.html?hloc=at&hloc=de",
+    "product_name": "Philips E-line 242E2FA, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), 1ms (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "113.8% (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (48-75Hz via DisplayPort, 48-75Hz via HDMI, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Unsch\u00e4rfereduktionsfunktion",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-85kHz (horizontal), 48-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA, 1x HDMI 1.4, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 3W), 1x Line-In, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "75x75 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 12.19W (typisch), 24W (Energielabel alt A+++ bis G), 0.35W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "A"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "35.04kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "D"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "15kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "92.7% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "540x428x187mm (mit Standfu\u00df), 540x312x36mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "3.45kg (mit Standfu\u00df), 2.28kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, Steuerkreuz, Sicherheitsschloss (Kensington), Philips SmartImage"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 09:38"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "03.09.2020, 12:36"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 140.02,
+            "offer_link": "https://www.computeruniverse.net/de/p/90814156?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 140.92,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/14188705?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 140.93,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/14188705?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 142.01,
+            "offer_link": "https://www.proshop.at/Bildschirm/Philips-24-Bildschirm-E-line-242E2FA-Black-1-ms/2887700?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 145.46,
+            "offer_link": "https://direkt.jacob.de/produkte/philips-242e2fa-00-e-242e2fa-00-artnr-6610251.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "electronic4you",
+            "price": 149.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Fphilips-e-line-242e2fa-238-lcd-monitor--m0000IUGCJ%3Futm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000IUGCJ",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "electronic4you",
+            "price": 149.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=electronic4you-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.electronic4you.at%2Fphilips-e-line-242e2fa-23-8-lcd-monitor-224633.html%3Futm_source%3DGEIZHALS.AT%26utm_medium%3DPreisvergleich%26utm_content%3Dphilips%2520e-line%2520242e2fa%252023-8-%2520lcd%2520monitor%2B224633%2BHG42%2BSO421%2BGR4211",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Majdic",
+            "price": 149.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=majdic&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.majdic.at%2Fphilips-e-line-242e2fa-23-8-lcd-monitor-224633.html%3Futm_source%3DMAJDIC.GEIZHALS.AT%26utm_medium%3DPreisvergleich%26utm_content%3Dphilips%2520e-line%2520242e2fa%252023-8-%2520lcd%2520monitor%2B224633%2BHG42%2BSO421%2BGR4211",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 149.9,
+            "offer_link": "https://www.alza.at/24-philips-242e2fa00-d6231273.htm?kampan=geizhals_at_monitory_kancelarske_75hz_wc118b20d&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_75hz_wc118b20d",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 149.9,
+            "offer_link": "https://www.alternate.at/Philips/242E2FA-00-LED-Monitor/html/product/1761258?partner=AtGeizhalsat&campaign=Monitor/Philips/1761258",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Media Markt.at",
+            "price": 149.99,
+            "offer_link": "https://www.mediamarkt.at/de/product/_philips-monitor-242e2fa-e-line-24-zoll-full-hd-1797601.html?utm_source=geizhals&utm_medium=psm-product%20feed&utm_term=1797601&utm_campaign=price%20comparison_mm-ka-produkte%20onl-nat_3222",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 152.05,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=306616",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 152.06,
+            "offer_link": "https://www.mylemon.at/artikel/philips/242e2fa_00/242e2fa-00-24-ips-1920x1080.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 152.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=306616",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 152.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=5833294",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 152.98,
+            "offer_link": "https://www.galaxus.at/de/s1/product/philips-242e2fa00-1920-x-1080-pixel-24-monitor-13974596?utm_content=5-8&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 153.59,
+            "offer_link": "https://haym.info/produktdetails?id=1C00166",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 156.79,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1335319&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 157.01,
+            "offer_link": "https://www.1ashop.at/de/produkt/82984/philips-e-line-242e2fa-led-monitor-60-5-cm-24.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 159.4,
+            "offer_link": "https://www.future-x.at/philips-e-line-242e2fa-led-monitor-60-5-cm-24-238-sichtbar-1920-x-1080-full-hd-1080p-%40-75-hz-ips-300-cd-m%B2-1000%3A1-1-ms-hdmi-vga-displayport-lautsprecher-p-8820073/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 160.99,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeWxOlEquRAdU8HCdCa6CtRXwDgs7fO3XRRPDuSyCvwtIziqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Fphilips-e-line-242e2fa-61-cm-24-zoll-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 164.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=30000000005833294&ano=T5833294&mno=242E2FA%2F00&ean=8712581767600&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 164.99,
+            "offer_link": "https://ebay.de/itm/384149043953?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 165.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1376&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 169.43,
+            "offer_link": "https://www.ba-computer.at/philips-e-line-242e2fa-led-monitor-60-5-cm-24-242e2fa-00.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 170.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=14188705&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 175.58,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=5833294",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 176.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Fphilips-e-line-238-242e2fa-m0000LNMQI%3Futm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000LNMQI",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "price-guard-Shop",
+            "price": 180.9,
+            "offer_link": "https://ebay.de/itm/145312019374?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        }
+    ]
+}

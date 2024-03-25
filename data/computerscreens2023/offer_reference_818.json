@@ -1,0 +1,430 @@
+{
+    "url": "https://geizhals.at/samsung-odyssey-ark-ls55bg970nuxen-a2791491.html?hloc=at&hloc=de",
+    "product_name": "Samsung Odyssey Ark, 54.6\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "54.6\"/\u200b138.7cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 81ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "420cd/\u200bm\u00b2 (typisch), 600cd/\u200bm\u00b2 (HDR)"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "VA, Quantum-Dot (QLED)"
+        },
+        {
+            "name": "Panel-Hersteller",
+            "value": "Samsung"
+        },
+        {
+            "name": "Form",
+            "value": "gebogen (curved), 1000R/\u200b1m"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "Blue-LED, flicker-free, Blaulichtfilter, Full Array Local Dimming (Mini LED, 1056 Zonen)"
+        },
+        {
+            "name": "HDR",
+            "value": "Quantum HDR 2000 (Hersteller), HDR10"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "nein (10bit nativ)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), 95% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "165Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium Pro"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), 48-165Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "4x HDMI 2.1 (165Hz@3840x2160)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "1x Gb LAN (RJ-45), 1x Toslink"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 2.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 2.0"
+        },
+        {
+            "name": "Audio",
+            "value": "2.2.2 Lautsprecher (4x 5W), Subwoofer (2x 10W), Dolby Atmos, 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "270mm (h\u00f6henverstellbar), \u00b190\u00b0 (Pivot), N/\u200bA (drehbar), +10\u00b0/\u200b-10\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "400x300 (via Adapter)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "190W (maximal), 84W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "84kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "205kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "99.3% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "1174.8x1102x379mm (mit Standfu\u00df), 1174.8x704.8x251.8mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "41.50kg (mit Standfu\u00df), 21.10kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, Steuerkreuz, Picture-in-Picture, Sicherheitsschloss (Kensington), Beleuchtung auf R\u00fcckseite (RGB), Betriebssystem (Tizen), Fernbedienung, Wi-Fi 5 (WLAN 802.11a/\u200bb/\u200bg/\u200bn/\u200bac), Bluetooth 5.2, Lichtsensor, Werkskalibrierung, adaptive Surround-Beleuchtung (Samsung Eclipse Lightning), externe Anschlussbox (Samsung One Connect)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 12:44"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "16.08.2022, 15:04"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Cyberport.at",
+            "price": 1536.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA9MZEQcrbj7HL_l719tzomWJVkTaxQm-VC7jrCo1W_fZGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6110-4DG%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 1562.02,
+            "offer_link": "https://www.ditech.at/details.php?artnr=354651",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 1562.02,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=354651",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 1562.02,
+            "offer_link": "https://www.amazon.de/dp/B0B63PMZDY?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0B63PMZDY&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "techonly",
+            "price": 1649.0,
+            "offer_link": "https://www.techonly.at/index.php?route=product/product&product_id=14167",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 1750.36,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/24766044?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 1750.37,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/24766044?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 1761.26,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1571088&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 1765.5,
+            "offer_link": "https://www.cls.at/product/4478931/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 1765.5,
+            "offer_link": "https://www.future-x.at/samsung-odyssey-ark-s55bg970nu-g97nb-series-qled-monitor-gebogen-138-cm-55-3840-x-2160-4k-%40-165-hz-va-600-cd-m%B2-1000000%3A1-hdr10%2B-gaming-1-ms-4xhdmi-lautsprecher-p-9077653/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 1814.11,
+            "offer_link": "https://www.mylemon.at/artikel/samsung/ls55bg970nuxen/dis-55-s55bg970nu-gaming.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "electronic4you",
+            "price": 1814.12,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=electronic4you-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.electronic4you.at%2Fsamsung-odyssey-ark-54-6-230691.html%3Futm_source%3DGEIZHALS.AT%26utm_medium%3DPreisvergleich%26utm_content%3Dsamsung%2520odyssey%2520ark%252054-6%2B230691%2BHG42%2BSO421%2BGR4211",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Media Markt.at",
+            "price": 1819.0,
+            "offer_link": "https://www.mediamarkt.at/de/product/_samsung-gaming-monitor-odyssey-ark-546-zoll-qled-165hz-169-va-hdr-schwarz-1903083.html?utm_source=geizhals&utm_medium=psm-product%20feed&utm_term=1903083&utm_campaign=price%20comparison_mm-ka-produkte%20onl-nat_3222",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 1831.51,
+            "offer_link": "https://www.1ashop.at/de/produkt/115147/samsung-odyssey-ark-s55bg970nu-g97nb-series-qled-monitor-gebogen-138-cm-55.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 1837.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=7823435",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigitech",
+            "price": 1841.57,
+            "offer_link": "https://www.edigitech.de/detail/index/sArticle/945189?sPartner=12",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "VDS-Online",
+            "price": 1848.0,
+            "offer_link": "https://www.vds-online.at/index.php?action=ansicht_artikel&artikel_id=34436&PA=GH",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "neon24.de",
+            "price": 1855.0,
+            "offer_link": "https://www.neon24.de/Samsung-ODYSsey-Ark-546",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 1859.99,
+            "offer_link": "https://www.ottoversand.at/p/81278022-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=81278022-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 1859.99,
+            "offer_link": "https://www.universal.at/p/81278022-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 1869.89,
+            "offer_link": "https://www.ba-computer.at/samsung-odyssey-ark-s55bg970nu-g97nb-series-qled-monitor-gebogen-138-cm-55-ls55bg970nuxen.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 1872.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=360000001337230580&ano=A-T1337230580&mno=LS55BG970NUXEN&ean=8806094408072&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 1890.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=24766044&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 1911.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=o4D53414C53353542473937304E55&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 1946.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Led-Large-Format/SAMSUNG-S55BG970NU-55IN-LED-3840X2160-V::29019.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Majdic",
+            "price": 1949.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=majdic&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.majdic.at%2Fsamsung-odyssey-ark-54-6-230691.html%3Futm_source%3DMAJDIC.GEIZHALS.AT%26utm_medium%3DPreisvergleich%26utm_content%3Dsamsung%2520odyssey%2520ark%252054-6%2B230691%2BHG42%2BSO421%2BGR4211",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "reichelt.at",
+            "price": 1970.61,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=plpro3PNrnmfyyljXp1UhEcz6RqnR3nq3J-5ua1fpXg",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 1976.29,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=7823435",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 2006.1,
+            "offer_link": "https://www.meistersinger.at/product.php?product=842359&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 2013.3,
+            "offer_link": "https://lumatech.at/products/samsung-odyssey-ark-s55bg970nu-g97nb-series-qled-monitor-gebogen-138-cm-55",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 2183.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Fsamsung-odyssey-ark-m0000KCVE1%3Fvouchercode%3Dstephan%26utm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000KCVE1",
+            "promotion_description": "Hinweis zu Gutscheinaktionen 20\u20ac Gutscheincode STEPHAN nur g\u00fcltig bis 10. Oktober 2023 um 23:59 Uhr bei einem Mindestbestellwert von 129\u20ac. Alle Gutscheininformationen unter https://www.shoepping.at/a/gutscheinbedingungen/stephan Aktionsbedingungen bei shoepping.at"
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 2203.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1084&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 2242.14,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/139-70cm-55-0-Samsung-LS55BG970NUXEN-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mynotebook.de",
+            "price": 2361.0,
+            "offer_link": "https://mynotebook.de/samsung-odyssey-ark-s55bg970nu-ls55bg970nuxen.html?ff=4&fp=111955&utm_source=geizhals_de&utm_medium=preisvergleich&utm_campaign=geizhals&utm_content=mynotebook",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "visunext.at",
+            "price": 2368.99,
+            "offer_link": "https://www.visunext.at/p/samsung-odyssey-ark-s55bg970nu-monitor-1000024719/?channable=0058186964003130303030323437313994&utm_source=geizhals&utm_medium=geizhals&utm_campaign=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 2389.0,
+            "offer_link": "https://www.alternate.at/SAMSUNG/Odyssey-Ark-Gaming-Monitor/html/product/1858643?partner=AtGeizhalsat&campaign=Monitor/SAMSUNG/1858643",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyclotron (AT)",
+            "price": 2419.2,
+            "offer_link": "https://www.cyclotron.de/route.php?artikel=C1021918&partner=gh_at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 2479.99,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeWz8PonVKnkpNfjsP_-oMgiqXQhaPrW2V2Ub8oR58hBQ0iqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Fsamsung-odyssey-ark-139-7cm-55-zoll-smart-curved-gaming-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 2488.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6110-4DG&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "group24",
+            "price": 2735.81,
+            "offer_link": "https://www.group24.de/samsung-odyssey-ark-s55bg970nu-55-zoll-3840x2160/ls55bg970nuxen",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "tecedo.at",
+            "price": 2888.0,
+            "offer_link": "https://www.tecedo.at/samsung-odyssey-ark-s55bg970nuxen-135203.html?EXT=geizhals&campaign=geizhals%2FEDV%2FMonitore%2FE1386980&gruppe=3006874",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "sopo.at",
+            "price": 3040.49,
+            "offer_link": "https://www.sopo.at/haushaltsgeraete/waschen-trocknen/waschmaschinen/60200/samsung-odyssey-ark-s55bg970nuxen-curved",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 3040.88,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=EP1386980",
+            "promotion_description": null
+        }
+    ]
+}

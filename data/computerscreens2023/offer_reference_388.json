@@ -1,0 +1,358 @@
+{
+    "url": "https://geizhals.at/asus-rog-strix-xg27aqmr-90lm08k0-b01170-a2926334.html?hloc=at&hloc=de",
+    "product_name": "ASUS ROG Strix XG27AQMR, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "2560x1440, 16:9, 109ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "350cd/\u200bm\u00b2 (typisch), 600cd/\u200bm\u00b2 (HDR)"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "1ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "VESA DisplayHDR 600, HDR10"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "120% (sRGB), keine Angabe (Adobe RGB), 97% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "300Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync Premium Pro (48-300Hz via DisplayPort, 48-144Hz via HDMI, mit LFC-Support, mit HDR), NVIDIA G-Sync Compatible"
+        },
+        {
+            "name": "Unsch\u00e4rfereduktionsfunktion",
+            "value": "ASUS Extreme Low Motion Blur Sync (ELMB SYNC)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-255kHz (horizontal), 48-300Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "2x HDMI 2.0 (144Hz@2560x1440), 1x DisplayPort 1.4 (300Hz@2560x1440)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "110mm (h\u00f6henverstellbar), \u00b190\u00b0 (Pivot), \u00b125\u00b0 (drehbar), +20\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 23W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "F"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "26kWh/\u200b1000h"
+        },
+        {
+            "name": "Energieeffizienzklasse HDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch HDR",
+            "value": "70kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "89.0% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "614.81x399.32x264.93mm (mit Standfu\u00df), 614.81x367.12x60.12mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "7.31kg (mit Standfu\u00df), 4.37kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten mit Steuerkreuz, Sicherheitsschloss (Kensington), HDCP, Werkskalibrierung (Delta-E <2), Stativgewinde"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 05:30"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "05.04.2023, 16:42"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "galaxus.at",
+            "price": 734.99,
+            "offer_link": "https://www.galaxus.at/de/s1/product/asus-xg27aqmr-2560-x-1440-pixel-27-monitor-24498512?utm_content=2-3&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 741.17,
+            "offer_link": "https://www.computeruniverse.net/de/p/90925179?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 741.17,
+            "offer_link": "https://www.amazon.de/dp/B0BY2WZ25C?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BY2WZ25C&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 756.34,
+            "offer_link": "https://www.proshop.at/Bildschirm/ASUS-27-Bildschirm-XG27AQMR-2560x1440-Fast-IPS-Black-1-ms-AMD-FreeSync-2/3156603?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 767.06,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/68-6cm-27-ASUS-XG27AQMR-Quad-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 776.45,
+            "offer_link": "https://direkt.jacob.de/produkte/asus-rog-strix-90lm08k0-b01170-artnr-8274918.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 778.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwAyhA6o4q59X7bblnbja3C5n1n5ZD2QAzB_-MTh-yXhG6Gy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6135-0HG%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "OTTO \u00d6sterreich",
+            "price": 789.99,
+            "offer_link": "https://www.ottoversand.at/p/50767342-0/?IWL=116&WKZ=10&NUMSArt=10202010393820&NUMSArtPc=10202010393821&AffiliateID=geizhals&ActionID=preissuchmaschinen&utm_medium=ppsm&utm_source=geizhals&utm_campaign=preissuchmaschinen&utm_content=geizhals&Name=50767342-0",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Universal Versand",
+            "price": 789.99,
+            "offer_link": "https://www.universal.at/p/50767342-0?AffiliateID=geizhals&ActionID=preissuchmaschinen&Name=feed_geizhals&WKZ=61&IWL=10&NUMSArt=90102010313070&NUMSArtPc=90102010313071&utm_source=geizhals&utm_medium=ppsm&utm_campaign=preissuchmaschinen&utm_content=feed_geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 794.42,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1638888&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 795.94,
+            "offer_link": "https://www.mylemon.at/artikel/asus/90lm08k0_b01170/68-5cm-rog-strix-xg27aqmr.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 795.95,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=368048",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 795.96,
+            "offer_link": "https://haym.info/produktdetails?id=3C07083",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "asus-eshop",
+            "price": 799.9,
+            "offer_link": "https://ebay.de/itm/364281719468?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 808.0,
+            "offer_link": "https://www.alternate.at/ASUS/ROG-Strix-XG27AQMR-Gaming-Monitor/html/product/1907005?partner=AtGeizhalsat&campaign=Monitor/ASUS/1907005",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 808.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=368048",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 808.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6135-0HG&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 822.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=250000000162918675&ano=A-C162918675&mno=90LM08K0-B01170&ean=4711081988274&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 824.25,
+            "offer_link": "https://technikladen.at/P-90LM08K0-B01170-ASUS-685cm-ROG-STRIX-XG27AQMR-WQHD-300Hz-Flachbildschirm-TFT-LCD-685-cm-90LM08K0-B01170-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 826.9,
+            "offer_link": "https://www.alza.at/27-asus-rog-strix-xg27aqmr-d7697080.htm?kampan=geizhals_at_monitory_herni_ostatni-frekvence_wa043bc10b&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_herni_ostatni-frekvence_wa043bc10b",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 845.09,
+            "offer_link": "https://www.future-x.at/asus-rog-strix-xg27aqmr-led-monitor-gaming-68-6-cm-27-2560-x-1440-wqhd-%40-300-hz-fast-ips-350-cd-m%B2-1000%3A1-displayhdr-600-1-ms-2xhdmi-displayport-p-9185876/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 849.8,
+            "offer_link": "https://www.ba-computer.at/asus-rog-strix-xg27aqmr-led-monitor-gaming-68-6-cm-27-90lm08k0-b01170.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 854.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1600&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 855.55,
+            "offer_link": "https://www.cls.at/product/4533769/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 879.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=i343236303136&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 884.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=426016&artname=ASUS+ROG+Strix+XG27AQMR+68.4cm+%2816%3A9%29+WQHD+HDMI+DP",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 886.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=26764030&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 890.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Fasus-rog-strix-27-xg27aqmr-m0000LNMR6%3Fvouchercode%3Dstephan%26utm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000LNMR6",
+            "promotion_description": "Hinweis zu Gutscheinaktionen 20\u20ac Gutscheincode STEPHAN nur g\u00fcltig bis 10. Oktober 2023 um 23:59 Uhr bei einem Mindestbestellwert von 129\u20ac. Alle Gutscheininformationen unter https://www.shoepping.at/a/gutscheinbedingungen/stephan Aktionsbedingungen bei shoepping.at"
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 910.95,
+            "offer_link": "https://www.taufnaus.de/product/12952613",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Conrad.at",
+            "price": 1019.0,
+            "offer_link": "https://www.conrad.at/de/p/2898164?insert=7M&utm_source=geizhals&utm_medium=cpc&utm_campaign=pvgl&utm_content=dl_article",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 1153.83,
+            "offer_link": "https://www.taufnaus.de/product/13594608",
+            "promotion_description": null
+        }
+    ]
+}

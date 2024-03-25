@@ -1,0 +1,298 @@
+{
+    "url": "https://geizhals.at/aoc-x24p1-gr-a1906804.html?hloc=at&hloc=de",
+    "product_name": "AOC X24P1/GR, 24\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "24\"/\u200b61cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1200, 16:10, 94ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "300cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 50.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "4ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "keine Angabe (horizontal), keine Angabe (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1920x1200), 1x DVI, 1x HDMI 1.4, 1x DisplayPort 1.2"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "4x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 2W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "150mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b1175\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), grau (untere Blende), silber (Standfu\u00df), grau (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 22W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "18kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "keine Angabe (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "535x533x203mm (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "5.50kg (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington), TCO 9 zertifiziert"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 16:03"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "15.10.2018, 13:26"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "BA-Computer",
+            "price": 258.89,
+            "offer_link": "https://www.ba-computer.at/aoc-x24p1-gr-led-monitor-61-cm-24-1920-x-1200-wuxga-60-hz-x24p1-gr.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 258.91,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/x24p1_gr/x24p1-gr-24-w-1920x1200.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 258.92,
+            "offer_link": "https://haym.info/produktdetails?id=8C31621",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 261.67,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/61cm-24-AOC-X24P1-GR-WUXGA-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 261.68,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1621009&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "NRE - Computer & Service",
+            "price": 262.98,
+            "offer_link": "https://www.nre.at/product_info.php?info=p23146_aoc-x24p1gr-61cm-24-ips.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 263.0,
+            "offer_link": "https://www.alternate.at/AOC/X24P1-GR-LED-Monitor/html/product/1761645?partner=AtGeizhalsat&campaign=Monitor/AOC/1761645",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 263.56,
+            "offer_link": "https://geniuzcom.at/AOC-X24P1/GR-LED-Monitor-61-cm-24-1920-x-1200-WUXGA-60-Hz",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 263.87,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-x24p1-gr-x24p1-gr-artnr-4461520.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 263.88,
+            "offer_link": "https://www.computeruniverse.net/de/p/90745115?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 264.9,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=4876092",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 266.37,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656607195",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 266.38,
+            "offer_link": "https://www.1ashop.at/de/produkt/24696/aoc-x24p1/gr-led-monitor-61-cm-24-1920-x-1200-wuxga.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 267.78,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/10062863?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 267.78,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/10062863?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 270.9,
+            "offer_link": "https://www.galaxus.at/de/s1/product/aoc-x24p1gr-1920-x-1200-pixel-24-monitor-11686518?utm_content=5-8&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Krob",
+            "price": 273.24,
+            "offer_link": "https://shop.krob.at/index.jsf?entity=product&eid=AC3128067",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 276.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=50000000290983797&ano=A290983797&mno=X24P1%2FGR&ean=4038986146555&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 276.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=a3128067&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "PCO Computer",
+            "price": 291.8,
+            "offer_link": "https://www.pco.co.at/Displays/Desktop-Displays/AOC-X24P1GR-61CM-24IN-IPS::72854.html?utm_source=geizhals&utm_medium=CPC&utm_campaign=2010",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 295.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/AOC-X24P1GR-61CM-24IN-IPS::739.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 299.13,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=4876092",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 301.42,
+            "offer_link": "https://www.taufnaus.de/product/10605160",
+            "promotion_description": null
+        }
+    ]
+}

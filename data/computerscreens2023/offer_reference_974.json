@@ -1,0 +1,400 @@
+{
+    "url": "https://geizhals.at/eizo-flexscan-ev2490-schwarz-ev2490-bk-a2701751.html?hloc=at&hloc=de",
+    "product_name": "Eizo FlexScan EV2490 schwarz, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "31-68kHz (horizontal), 59-61Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 1.4, 1x DisplayPort, 1x USB-C 3.0 mit DisplayPort"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "1x Gb LAN (RJ-45)"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "1x USB-C 3.0 (15W), 3x USB-A 3.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0, 1x USB-C 3.0 mit DisplayPort"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 1W), 1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "191mm (h\u00f6henverstellbar), \u00b190\u00b0 (Pivot), \u00b1172\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "155W (maximal), 11W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "C"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "9kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "90.6% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "537.8x332.4x230mm (mit Standfu\u00df), 537.8x320.4x57.4mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "7.20kg (mit Standfu\u00df), 4.50kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, TCO 9 zertifiziert, USB-C Power Delivery (70W), Lichtsensor, Sicherheitsschloss (Kensington), DICOM"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "f\u00fcnf Jahre (Vor-Ort)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 15:45"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "28.03.2022, 11:58"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "Proshop.at",
+            "price": 337.93,
+            "offer_link": "https://www.proshop.at/Bildschirm/EIZO-24-Bildschirm-FlexScan-Black-5-ms/3069147?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 341.55,
+            "offer_link": "https://www.computeruniverse.net/de/p/90892933?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 367.2,
+            "offer_link": "https://haym.info/produktdetails?id=2C08388",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 374.5,
+            "offer_link": "https://direkt.jacob.de/produkte/eizo-flexscan-ev2490-bk-ev2490-bk-artnr-7744859.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 375.7,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=342195",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CNW IT-Systeme",
+            "price": 379.1,
+            "offer_link": "https://www.c-nw.de/eizo-flexscan-ev2490-bk-schwarz-23-8-zoll-60-5-cm.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 379.99,
+            "offer_link": "https://www.future-x.at/eizo-flexscan-mit-flexstand-led-monitor-60-5-cm-238-1920-x-1080-full-hd-1080p-%40-60-hz-ips-250-cd-m2-1000%3A1-5-ms-hdmi-displayport-usb-c-lautsprecher-schwarz-p-9033719/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 383.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=342195",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 386.98,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1550458&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 387.87,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/60-5cm-23-8-EIZO-EV2490-BK-Full-HD-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 387.99,
+            "offer_link": "https://www.mylemon.at/artikel/eizo/ev2490_bk/24-l-ev2490-bk-23.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 388.0,
+            "offer_link": "https://www.alternate.at/EIZO/FlexScan-EV2490-BK-LED-Monitor/html/product/1834757?partner=AtGeizhalsat&campaign=Monitor/EIZO/1834757",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 389.0,
+            "offer_link": "https://www.cls.at/product/4462944/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 389.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=250000001488103837&ano=A-C1488103837&mno=EV2490-BK&ean=4995047063315&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 390.42,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/24003133?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 390.43,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/24003133?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 395.9,
+            "offer_link": "https://www.galaxus.at/de/s1/product/eizo-flexscan-ev2490-1920-x-1080-pixel-2380-monitor-20645696?utm_content=5-8&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 400.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA2MquNycGB1aKbsq36AXe62LaL16Qs8ikx8LSfA7CIHXGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6114-3A1%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 400.74,
+            "offer_link": "https://geniuzcom.at/EIZO-FlexScan-EV2490-BK-Mit-FlexStand-LED-Monitor-605-cm-238",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 402.3,
+            "offer_link": "https://www.1ashop.at/de/produkt/94026/eizo-flexscan-ev2490-bk-mit-flexstand-led-monitor-60-5-cm-23-8.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 403.81,
+            "offer_link": "https://www.ba-computer.at/eizo-flexscan-ev2490-bk-mit-flexstand-led-monitor-60-5-cm-23-8-ev2490-bk.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "VDS-Online",
+            "price": 405.0,
+            "offer_link": "https://www.vds-online.at/index.php?action=ansicht_artikel&artikel_id=32255&PA=GH",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 410.39,
+            "offer_link": "https://technikladen.at/P-EIZO-24-L-EV2490-BK-238-Zoll-Schwarz?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 418.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6114-3A1&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 419.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/EIZO-EV2490-60-5CM-23-8IN-IPS-BLACK::12934.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 421.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1326&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 421.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/322038/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 423.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=24003133&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 429.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Feizo-flexscan-ev2490-238-schwarz-m0000LNVQC%3Fvouchercode%3Dstephan%26utm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000LNVQC",
+            "promotion_description": "Hinweis zu Gutscheinaktionen 20\u20ac Gutscheincode STEPHAN nur g\u00fcltig bis 10. Oktober 2023 um 23:59 Uhr bei einem Mindestbestellwert von 129\u20ac. Alle Gutscheininformationen unter https://www.shoepping.at/a/gutscheinbedingungen/stephan Aktionsbedingungen bei shoepping.at"
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 431.1,
+            "offer_link": "https://www.meistersinger.at/product.php?product=807016&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 432.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=i343035323631&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 435.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=405261&artname=EIZO+60.5cm+%2823%2C8%22%29+EV2490-BK+16%3A09+HDMI%2BDP%2BUSB-C+black",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 446.81,
+            "offer_link": "https://www.taufnaus.de/product/10606971",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigital.at",
+            "price": 452.0,
+            "offer_link": "https://click.edigital.at/monitor/eizo-flexscan-ev2490-bk-computerbildschirm-605-cm-238-1920-x-1080-pixel-full-hd-led-schwarz-p1061572?utm_source=geizhals.at&utm_medium=price-comparison&utm_term=1061572",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "iQ shop",
+            "price": 453.08,
+            "offer_link": "https://www.fairplace-vorarlberg.at/produkte/details/eizo-ev2490-60.5cm-23.8in-ips-black?utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&utm_term=31898",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "iQ shop",
+            "price": 453.08,
+            "offer_link": "https://www.iq-shop.at/product/eizo-ev2490-60-5cm-23-8in-ips-black/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Foto K\u00f6ster",
+            "price": 475.0,
+            "offer_link": "https://www.foto-koester.de/zubehoer/sonstiges-zubehoer/415823/eizo-ev2490-bk-flexscan-61-cm-23-8-sw-office-monitor?sPartner=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "fotokoch.at",
+            "price": 478.99,
+            "offer_link": "https://www.fotokoch.at/Eizo-EV2490-BK-FlexScan-61-cm-23-8-sw-Office-Monitor_47868.html?redirect=47868&partnerid=10292&utm_source=geizhals-at&utm_medium=referral",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Conrad.at",
+            "price": 505.0,
+            "offer_link": "https://www.conrad.at/de/p/2895805?insert=7M&utm_source=geizhals&utm_medium=cpc&utm_campaign=pvgl&utm_content=dl_article",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 507.9,
+            "offer_link": "https://www.alza.at/24-eizo-farbkante-ev2490-bk-d7343433.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_wl577fx9&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_wl577fx9",
+            "promotion_description": null
+        }
+    ]
+}

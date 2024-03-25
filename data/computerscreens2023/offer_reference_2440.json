@@ -1,0 +1,332 @@
+{
+    "url": "https://geizhals.at/dell-e2016hv-a1573398.html?hloc=at&hloc=de",
+    "product_name": "Dell E2016HV, 19.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "19.5\"/\u200b49.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1600x900, 16:9, 94ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "200cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "600:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "170\u00b0/\u200b160\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "TN"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 56-76Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1600x900), 1x DisplayPort"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +22\u00b0/\u200b-6\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), keine Angabe (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 15W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "80.8% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "472x368x168mm (mit Standfu\u00df), 472x275x52mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "2.72kg (mit Standfu\u00df), 2.22kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "EPEAT Gold, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 23:51"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "08.02.2017, 09:09"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 68.08,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX0022271&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 68.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/234823/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 69.82,
+            "offer_link": "https://www.ba-computer.at/dell-e2016hv-led-monitor-50-8-cm-20-19-5-sichtbar-e2016hv.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 69.83,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/508cm20_1600x900_Dell_E_Series_E2016HV_LCD_60Hz_5ms_VGA_black.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 70.02,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/6704826?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 70.03,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/6704826?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 71.18,
+            "offer_link": "https://www.proshop.at/Bildschirm/Dell-Bildschirm-E2016HV/2582050?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 72.27,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656607374",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 73.62,
+            "offer_link": "https://haym.info/produktdetails?id=7C08557",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 74.34,
+            "offer_link": "https://www.mylemon.at/artikel/dell/e2016hv/20-monitor-e2016hv-49-4cm.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 74.77,
+            "offer_link": "https://direkt.jacob.de/produkte/dell-20-monitor-e2016hv-artnr-3402479.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 75.41,
+            "offer_link": "https://www.galaxus.at/de/s1/product/dell-inc-e2016hv-1600-x-900-pixel-1950-monitor-11686516?utm_content=2-4&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 75.9,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=160000000338225149&ano=S338225149&mno=E2016HV&ean=5397063744459&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 83.59,
+            "offer_link": "https://www.future-x.at/dell-e2016hv-led-monitor-50-8-cm-20-195-sichtbar-1600-x-900-60-hz-tn-200-cd-m%B2-600%3A1-5-ms-vga-schwarz-p-526004/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 95.1,
+            "offer_link": "https://www.cls.at/product/1988294/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "complIT EDV",
+            "price": 95.1,
+            "offer_link": "https://verkauf.complit.at/eshop.php?action=article_detail&s_supplier_aid=4152934",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 95.9,
+            "offer_link": "https://www.alza.at/20-dell-e2016hv-d5686590.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_adl22d07_it&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_adl22d07_it",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mynotebook.de",
+            "price": 99.0,
+            "offer_link": "https://mynotebook.de/dell-e2016hv-e2016hv.html?ff=4&fp=93650&utm_source=geizhals_de&utm_medium=preisvergleich&utm_campaign=geizhals&utm_content=mynotebook",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 99.35,
+            "offer_link": "https://www.1ashop.at/de/produkt/9961/dell-e2016hv-49-4cm-19-5-flachbildschirm-tft/lcd-49-5-cm.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 102.76,
+            "offer_link": "https://www.computeruniverse.net/de/p/90705968?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 103.5,
+            "offer_link": "https://www.meistersinger.at/product.php?product=445575&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 103.9,
+            "offer_link": "https://www.alternate.at/Dell/E2016HV-LED-Monitor/html/product/1384366?partner=AtGeizhalsat&campaign=Monitor/Dell/1384366",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 104.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA1yhrCevxah1w9_dmVdjY5f64zWsRu7T_J_HcmHE3G2OGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6136-172%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 104.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/DELL-EMC-TFT-E2016HV-19-5IN-BLACK::702.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 105.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=6704826&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT (AT)",
+            "price": 109.92,
+            "offer_link": "https://www.heinzsoft-shop.de/dell-e2016hv-led-monitor-50-8-cm-20.html?refID=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "smartathome",
+            "price": 110.85,
+            "offer_link": "https://smartathome.at//eshop.php?action=article_detail&s_supplier_aid=4152934",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 114.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6136-172&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ABComputer",
+            "price": 119.0,
+            "offer_link": "https://www.abonline.at/dell-e2016hv.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HEINZSOFT Notebook&PC Shop",
+            "price": 121.34,
+            "offer_link": "https://ebay.de/itm/295688429607?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        }
+    ]
+}

@@ -1,0 +1,424 @@
+{
+    "url": "https://geizhals.at/eizo-coloredge-cg2700x-cg2700x-bk-a2713228.html?hloc=at&hloc=de",
+    "product_name": "Eizo ColorEdge CG2700X, 27\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "27\"/\u200b68.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "3840x2160, 16:9, 163ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "500cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.450:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "13ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "10bit (1.07 Mrd. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "nein (10bit nativ)"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), 99% (Adobe RGB), 98% (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "25-137kHz (horizontal), 23-61Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x HDMI 1.4 (60Hz@2560x1440), 1x DisplayPort 1.2 (60Hz@2560x1440), 1x USB-C 3.0 mit DisplayPort 1.2 (60Hz@2560x1440)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "1x Gb LAN (RJ-45)"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "2x USB-A 3.0, 2x USB-A 2.0"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "1x USB-B 3.0, 1x USB-C 3.0 mit DisplayPort 1.2"
+        },
+        {
+            "name": "Audio",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "155mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b1172\u00b0 (drehbar), +35\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "274W (maximal), 65W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "G"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "36kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "80.8% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "638x415.9x245mm (mit Standfu\u00df), 638x390x86.2mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "9.80kg (mit Standfu\u00df), 6.80kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Blendschutzhaube, USB-C Power Delivery (94W), Hardware-Kalibrierung (16bit LUT), HDCP 2.3"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "f\u00fcnf Jahre (Vor-Ort)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 15:24"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "12.04.2022, 11:40"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "CNW IT-Systeme",
+            "price": 2771.0,
+            "offer_link": "https://www.c-nw.de/eizo-coloredge-cg2700x-27-zoll-68-5-cm.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 2785.13,
+            "offer_link": "https://direkt.jacob.de/produkte/eizo-coloredge-cg2700x-cg2700x-artnr-7994960.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 2793.99,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1621411&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 2799.42,
+            "offer_link": "https://www.mylemon.at/artikel/eizo/cg2700x/coloredge-27-cg2700x-lcd-monitor.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 2799.43,
+            "offer_link": "https://technikladen.at/P-CG2700X-EIZO-ColorEdge-CG2700X-686-cm-27-Zoll-3840-x-2160-Pixel-4K-Ultra-HD-LCD-13-ms-Schwarz-CG2700X-Displays-Projektoren-GRATISVERSAND-Versandkostenfrei-bestellen-in-Oesterreich?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 2800.99,
+            "offer_link": "https://www.future-x.at/eizo-coloredge-cg-series-led-monitor-68-4-cm-27-3840-x-2160-4k-ips-500-cd-m%B2-1450%3A1-13-ms-hdmi-displayport-usb-c-schwarz-mit-6-monate-null-helle-pixel-p-9069130/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Digitfoto",
+            "price": 2814.0,
+            "offer_link": "https://www.digitfoto.de/infosproduit.php?refinfos=EIZO395148&pdb=15",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 2820.0,
+            "offer_link": "https://www.cls.at/product/4492150/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "VDS-Online",
+            "price": 2820.0,
+            "offer_link": "https://www.vds-online.at/index.php?action=ansicht_artikel&artikel_id=34518&PA=GH",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 2824.53,
+            "offer_link": "https://www.computeruniverse.net/de/p/90912702?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CG-Shop",
+            "price": 2825.0,
+            "offer_link": "https://www.cgshop.at/shop/eizo-coloredge-cg2700x-27-169-uhd-bildbearbeitungsmonitor/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 2832.1,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/68-4cm-27-EIZO-ColorEdge-CG2700X-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 2838.14,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/24444061?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 2838.15,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/24444061?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 2849.42,
+            "offer_link": "https://www.galaxus.at/de/s1/product/eizo-coloredge-cg2700x-3840-x-2160-pixel-27-monitor-23055729?utm_content=5-8&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LiWiener",
+            "price": 2850.0,
+            "offer_link": "http://www.liwiener.at/webshop/product_info.php?info=p3185_Eizo-CG2700X.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 2850.0,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=364413",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 2884.3,
+            "offer_link": "https://www.proshop.at/Bildschirm/EIZO-27-Bildschirm-ColorEdge-CG2700X-CG-Series-LED-monitor-4K-27-HDR-Black-13-ms/3199985?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 2884.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=364413",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 2892.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1316&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 2926.12,
+            "offer_link": "https://www.1ashop.at/de/produkt/115110/eizo-coloredge-cg2700x-cg-series-led-monitor-68-4-cm-27.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 2929.0,
+            "offer_link": "https://www.alternate.at/EIZO/CG2700X-ColorEdge-LED-Monitor/html/product/1868258?partner=AtGeizhalsat&campaign=Monitor/EIZO/1868258",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "edigitech",
+            "price": 2959.45,
+            "offer_link": "https://www.edigitech.de/detail/index/sArticle/945532?sPartner=12",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Foto K\u00f6ster",
+            "price": 2997.0,
+            "offer_link": "https://www.foto-koester.de/zubehoer/sonstiges-zubehoer/415825/eizo-cg2700x-68-4-cm-27-schwarz-coloredge-grafik-monitor-lichtschutz?sPartner=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DIGITALSTORE Vienna",
+            "price": 2998.0,
+            "offer_link": "https://www.digitalstore.at/ColorEdge-CG2700X/MO000277",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Calumet Photo Video",
+            "price": 2998.0,
+            "offer_link": "https://www.calumetphoto.de/product/EIZO-CG2700X-ColorEdge-27-Zoll/EIZCG2700X?utm_source=geizhals&amp;utm_medium=preisvergleich&amp;utm_campaign=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "K\u00fccher-Digitale Welt",
+            "price": 2999.0,
+            "offer_link": "https://shop.kuecher.com/eizo-cg2700x-coloredge-27-zoll-monitor",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 2999.0,
+            "offer_link": "https://www.cyberport.at/?DEEP=6114-3A6&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 2999.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA2MquNycGB1aKbsq36AXe63uu3EZ-yS4KTZ_-VUlcsGxGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6114-3A6%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 2999.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=24444061&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Technicomp",
+            "price": 3000.0,
+            "offer_link": "https://technicomp.at/produkt/eizo-coloredge-cs2700x-27-zoll-mit-integriertem-farbmessgeraet/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "fotokoch.at",
+            "price": 3023.19,
+            "offer_link": "https://www.fotokoch.at/Eizo-CG2700X-ColorEdge-Grafik-Monitor-Lichtschutz-schwarz-68-4-cm-27_49939.html?redirect=49939&partnerid=10292&utm_source=geizhals-at&utm_medium=referral",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 3023.19,
+            "offer_link": "https://www.amazon.de/dp/B0BCQ7XSZZ?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BCQ7XSZZ&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 3028.38,
+            "offer_link": "https://www.ba-computer.at/eizo-coloredge-cg2700x-cg-series-led-monitor-68-4-cm-27-cg2700x.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 3029.0,
+            "offer_link": "https://www.alza.at/27-eizo-coloredge-cg2700x-d7740795.htm?kampan=geizhals_at_monitory_profesionalni_grafika-a-foto_wl579i40a&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_profesionalni_grafika-a-foto_wl579i40a",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 3041.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=360000001038073545&ano=A-T1038073545&mno=CG2700X&ean=4995047063643&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 3064.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Feizo-coloredge-27-cg2700x-m0000LNTNS%3Fvouchercode%3Dstephan%26utm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000LNTNS",
+            "promotion_description": "Hinweis zu Gutscheinaktionen 20\u20ac Gutscheincode STEPHAN nur g\u00fcltig bis 10. Oktober 2023 um 23:59 Uhr bei einem Mindestbestellwert von 129\u20ac. Alle Gutscheininformationen unter https://www.shoepping.at/a/gutscheinbedingungen/stephan Aktionsbedingungen bei shoepping.at"
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 3102.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=i343133393539&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 3124.5,
+            "offer_link": "https://www.hiq24.de/shop/artikel/331325/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 3130.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/EIZO-CG2700X-27IN-IPS-BLACK::31052.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 3132.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=413959&artname=EIZO+68.5cm+%2827%22%29+++CG2700X+16%3A9+HDMI%2BDP%2BUSB-C+IPS+black",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 3230.1,
+            "offer_link": "https://www.meistersinger.at/product.php?product=838904&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 3250.89,
+            "offer_link": "https://www.taufnaus.de/product/10604144",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Conrad.at",
+            "price": 3695.0,
+            "offer_link": "https://www.conrad.at/de/p/2895809?insert=7M&utm_source=geizhals&utm_medium=cpc&utm_campaign=pvgl&utm_content=dl_article",
+            "promotion_description": null
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "url": "https://geizhals.at/eizo-duravision-fds1903-schwarz-fds1903-bk-a1390942.html?hloc=at&hloc=de",
+    "product_name": "Eizo DuraVision FDS1903 schwarz, 19\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "19\"/\u200b48.3cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1280x1024, 5:4, 86ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "350cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "170\u00b0/\u200b160\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "TN"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare)"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "24.8-74.8kHz (horizontal), 56.2-75.1Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1280x1024), 1x Composite (1x BNC)"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "Lautsprecher (2x 0.3W)"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "100mm (h\u00f6henverstellbar), 90\u00b0 (Pivot), \u00b135\u00b0 (drehbar), keine Angabe (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), keine Angabe (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (belegt)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "36W (maximal), keine Angabe (typisch), keine Angabe (Energielabel alt A+++ bis G), 1.3W (Standby)"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "84.0% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "405x506x205mm (mit Standfu\u00df), 405x334x61mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "6.10kg (mit Standfu\u00df), 4.30kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "mechanische Tasten, Fernbedienung"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "zwei Jahre (Vor-Ort)"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "04.10.2023, 00:26"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "08.02.2016, 19:20"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 680.15,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=AGX1191557&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 692.64,
+            "offer_link": "https://www.ba-computer.at/eizo-19-inch-duravision-squarescreen-5-4-1280-x-1024-flachbildschirm-tft-lcd-48-3-cm-fds1903-a-bk.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 692.66,
+            "offer_link": "https://technikladen.at/L-EIZO-19-Inch-Duravision-Squarescreen-5-4-1280-x-1024-Flachbildschirm-TFT/LCD-483-cm?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 694.82,
+            "offer_link": "https://direkt.jacob.de/produkte/eizo-duravision-fds1903-a-fds1903-a-bk-artnr-6051058.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 716.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=130000000695260792&ano=J695260792&mno=FDS1903-A-BK&ean=4995047053965&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 764.82,
+            "offer_link": "https://www.taufnaus.de/product/10603399",
+            "promotion_description": null
+        }
+    ]
+}

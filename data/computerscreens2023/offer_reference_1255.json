@@ -1,0 +1,262 @@
+{
+    "url": "https://geizhals.at/dell-se2222h-210-azku-a2590735.html?hloc=at&hloc=de",
+    "product_name": "Dell SE2222H, 21.5\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "21.5\"/\u200b54.6cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 102ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "3.000:1 (statisch), keine Angabe (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "5ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "VA"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "keine Angabe (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "60Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "Adaptive Sync, AMD FreeSync (48-75Hz via HDMI, ohne LFC-Support, ohne HDR)"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 48-75Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA (60Hz@1920x1080), 1x HDMI 1.4"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +21\u00b0/\u200b-5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "22W (maximal), 14.1W (typisch), keine Angabe (Energielabel alt A+++ bis G), 0.3W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "14kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "AC-In (internes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "85.6% (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "504.26x384.08x178.81mm (mit Standfu\u00df), 504.26x295.38x49.21mm (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "2.89kg (mit Standfu\u00df), 2.34kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "02.10.2023, 23:14"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "30.08.2021, 10:02"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "playox (AT)",
+            "price": 95.49,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/19427167?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 95.5,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/19427167?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 101.38,
+            "offer_link": "https://www.proshop.at/Bildschirm/Dell-22-Bildschirm-SE2222H-1920x1080-FHD-VA-Black-8-ms/3007115?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 102.84,
+            "offer_link": "https://www.mylemon.at/artikel/dell/210_azku/se2222h-55-9cm-22-full.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 102.85,
+            "offer_link": "https://www.amazon.de/dp/B095749V5V?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B095749V5V&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 105.75,
+            "offer_link": "https://www.mylemon.at/artikel/dell/dell_se2222h/22-monitor-se2222h-54-5.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 105.76,
+            "offer_link": "https://haym.info/produktdetails?id=2C00667",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "alza.at",
+            "price": 105.9,
+            "offer_link": "https://www.alza.at/22-dell-se2222h-style-energy-d6778327.htm?kampan=geizhals_at_monitory_kancelarske_do-kancelare_adl22i31b&utm_source=geizhals_at&utm_medium=product&utm_campaign=geizhals_at_monitory_kancelarske_do-kancelare_adl22i31b",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "BA-Computer",
+            "price": 114.04,
+            "offer_link": "https://www.ba-computer.at/dell-se2222h-led-monitor-55-9-cm-22-21-45-sichtbar-dell-se2222h.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 114.99,
+            "offer_link": "https://direkt.jacob.de/produkte/dell-se2222h-54-5-210-bbrr-artnr-7374638.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CLS-IT",
+            "price": 119.0,
+            "offer_link": "https://www.cls.at/product/4357480/gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 119.0,
+            "offer_link": "https://www.1ashop.at/de/produkt/106360/dell-se2222h-21-5.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 119.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=o44454C4D4F4E30323430&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 120.2,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656650056",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 124.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=280000000804409902&ano=A-E804409902&mno=DELL-SE2222H&ean=5397184505038&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 130.74,
+            "offer_link": "https://www.taufnaus.de/product/10606691",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "VDS-Online",
+            "price": 140.0,
+            "offer_link": "https://www.vds-online.at/index.php?action=ansicht_artikel&artikel_id=31084&PA=GH",
+            "promotion_description": null
+        }
+    ]
+}

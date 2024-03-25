@@ -1,0 +1,408 @@
+{
+    "url": "https://geizhals.at/aoc-24b2xh-a2272589.html?hloc=at&hloc=de",
+    "product_name": "AOC 24B2XH, 23.8\"",
+    "product_details": [
+        {
+            "name": "Diagonale",
+            "value": "23.8\"/\u200b60.5cm"
+        },
+        {
+            "name": "Aufl\u00f6sung",
+            "value": "1920x1080, 16:9, 93ppi"
+        },
+        {
+            "name": "Helligkeit",
+            "value": "250cd/\u200bm\u00b2"
+        },
+        {
+            "name": "Kontrast",
+            "value": "1.000:1 (statisch), 20.000.000:1 (dynamisch)"
+        },
+        {
+            "name": "Reaktionszeit",
+            "value": "7ms (GtG), keine Angabe (MPRT)"
+        },
+        {
+            "name": "Blickwinkel",
+            "value": "178\u00b0/\u200b178\u00b0"
+        },
+        {
+            "name": "Panel",
+            "value": "IPS"
+        },
+        {
+            "name": "Form",
+            "value": "gerade (flat)"
+        },
+        {
+            "name": "Beschichtung",
+            "value": "matt (non-glare), H\u00e4rtegrad 3H"
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "value": "White-LED, flicker-free, Blaulichtfilter"
+        },
+        {
+            "name": "HDR",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Farbtiefe",
+            "value": "8bit (16.7 Mio. Farben)"
+        },
+        {
+            "name": "FRC",
+            "value": "unbekannt"
+        },
+        {
+            "name": "Farbraum",
+            "value": "97.6% (sRGB), keine Angabe (Adobe RGB), keine Angabe (DCI-P3), keine Angabe (REC 709), keine Angabe (REC 2020)"
+        },
+        {
+            "name": "Bildwiederholfrequenz",
+            "value": "75Hz"
+        },
+        {
+            "name": "Variable Synchronisierung",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Signalfrequenz",
+            "value": "30-83kHz (horizontal), 50-76Hz (vertikal)"
+        },
+        {
+            "name": "Anschl\u00fcsse",
+            "value": "1x VGA, 1x HDMI 1.4"
+        },
+        {
+            "name": "Weitere Anschl\u00fcsse",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub Out",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "USB-Hub In",
+            "value": "N/\u200bA"
+        },
+        {
+            "name": "Audio",
+            "value": "1x Line-Out"
+        },
+        {
+            "name": "Ergonomie",
+            "value": "N/\u200bA (h\u00f6henverstellbar), N/\u200bA (Pivot), N/\u200bA (drehbar), +21.5\u00b0/\u200b-3.5\u00b0 (neigbar), keine Angabe (Schr\u00e4glage)"
+        },
+        {
+            "name": "Farbe",
+            "value": "schwarz (Displayrahmen), schwarz (untere Blende), schwarz (Standfu\u00df), schwarz (R\u00fcckseite)"
+        },
+        {
+            "name": "VESA",
+            "value": "100x100 (frei)"
+        },
+        {
+            "name": "Leistungsaufnahme",
+            "value": "keine Angabe (maximal), 19W (typisch), 18W (Energielabel alt A+++ bis G), 0.5W (Standby)"
+        },
+        {
+            "name": "Energieeffizienzklasse alt (A+++ bis G)",
+            "value": "A+"
+        },
+        {
+            "name": "Jahresverbrauch alt (A+++ bis G)",
+            "value": "26.28kWh"
+        },
+        {
+            "name": "Energieeffizienzklasse SDR (A bis G)",
+            "value": "E"
+        },
+        {
+            "name": "Energieverbrauch SDR",
+            "value": "17kWh/\u200b1000h"
+        },
+        {
+            "name": "Stromversorgung",
+            "value": "DC-In (externes Netzteil)"
+        },
+        {
+            "name": "Anwendung",
+            "value": "station\u00e4r"
+        },
+        {
+            "name": "Screen-to-Body-Ratio",
+            "value": "keine Angabe (berechnet)"
+        },
+        {
+            "name": "Abmessungen (BxHxT)",
+            "value": "540x420x187mm (mit Standfu\u00df), keine Angabe (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Gewicht",
+            "value": "2.70kg (mit Standfu\u00df), 2.18kg (ohne Standfu\u00df)"
+        },
+        {
+            "name": "Besonderheiten",
+            "value": "Slim Bezel, mechanische Tasten, Sicherheitsschloss (Kensington)"
+        },
+        {
+            "name": "Herstellergarantie",
+            "value": "drei Jahre"
+        },
+        {
+            "name": "USB-Schreibweise",
+            "value": "Link"
+        },
+        {
+            "name": "Letztes Preisupdate",
+            "value": "03.10.2023, 11:26"
+        },
+        {
+            "name": "Gelistet seit",
+            "value": "14.04.2020, 19:43"
+        }
+    ],
+    "offers": [
+        {
+            "shop_name": "BA-Computer",
+            "price": 92.72,
+            "offer_link": "https://www.ba-computer.at/aoc-24b2xh-eu-led-monitor-60-cm-24-23-8-sichtbar-24b2xh.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mylemon.at",
+            "price": 92.74,
+            "offer_link": "https://www.mylemon.at/artikel/aoc/24b2xh/24b2xh-23-8-1920x1080-14ms.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "galaxus.at",
+            "price": 92.9,
+            "offer_link": "https://www.galaxus.at/de/s1/product/aoc-24b2xh-1920-x-1080-pixel-24-monitor-12968201?utm_content=5-8&utm_campaign=preisvergleich&utm_source=geizhals&utm_medium=cpc&supplier=2705624",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Proshop.at",
+            "price": 93.37,
+            "offer_link": "https://www.proshop.at/Bildschirm/AOC-24-Bildschirm-24B2XH-1920x1080-75Hz-IPS-VGA-HDMI-Black-8-ms/2873960?utm_source=geizhals&utm_medium=cpc&utm_campaign=pricesite",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Jacob Elektronik direkt (AT)",
+            "price": 93.48,
+            "offer_link": "https://direkt.jacob.de/produkte/aoc-24b2xh-60-45cm-24b2xh-artnr-6225195.html?utm_source=geizhals&utm_medium=cpc&utm_campaign=Preisvergleich&ref=103",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Amazon.at",
+            "price": 93.68,
+            "offer_link": "https://www.amazon.de/dp/B0845VVRQ1?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0845VVRQ1&tag=geizhals1-21",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "CSV-Direct.de",
+            "price": 95.74,
+            "offer_link": "https://www.csv-direct.de/artinfo.php?artnr=A1620461&KATEGORIE=162&pva=geizhals2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "HiQ24",
+            "price": 96.9,
+            "offer_link": "https://www.hiq24.de/shop/artikel/278171/?sPartner=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Computer Expert",
+            "price": 97.18,
+            "offer_link": "https://shop.computerexpert.at/Shop/Artikel/605cm238_1920x1080_AOC_24B2XH_IPS_7ms_169_VGA_HDMI_Full_HD_Black.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "haym.infotec",
+            "price": 98.52,
+            "offer_link": "https://haym.info/produktdetails?id=0C08463",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ARLT Computer",
+            "price": 99.42,
+            "offer_link": "https://www.arlt.com/Hardware/Monitore-Beamer/AOC-24B2XH-TFT-Monitor.html?utm_medium=CPC&utm_campaign=PSM&utm_source=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "e-tec.at",
+            "price": 99.75,
+            "offer_link": "https://www.e-tec.at/details.php?artnr=302759",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "1ashop.at",
+            "price": 99.76,
+            "offer_link": "https://www.1ashop.at/de/produkt/24676/aoc-24b2xh-led-monitor-60-5-cm-23-8-1920-x-1080-full-hd-1080p.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "computeruniverse.at",
+            "price": 99.91,
+            "offer_link": "https://www.computeruniverse.net/de/p/90799379?country=at&utm_channel=psm&utm_source=geizhals_at&utm_campaign=cpc&utm_medium=katalog&utm_content=artikel&agt=10395",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "playox (AT)",
+            "price": 99.91,
+            "offer_link": "https://www.playox.de/productredirect/index/sku/12647547?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "office-partner (AT)",
+            "price": 99.92,
+            "offer_link": "https://www.office-partner.de/productredirect/index/sku/12647547?sPartner=p-geizhals-at&campaign=psm/geizhals-at/",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "mynotebook.de",
+            "price": 100.0,
+            "offer_link": "https://mynotebook.de/aoc-24b2xh.html?ff=4&fp=77198&utm_source=geizhals_de&utm_medium=preisvergleich&utm_campaign=geizhals&utm_content=mynotebook",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "DiTech.at",
+            "price": 100.9,
+            "offer_link": "https://www.ditech.at/details.php?artnr=302759",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile.de",
+            "price": 100.99,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=5QNCBYB9xMh6DJycvhgeW9oWUfIubVEL--u3mic3WK-_Ze5LIqi-E-7b4OafsO_aiqCdpe0PJ81gw-kNg21utg~~&rdlink=https%3A%2F%2Fwww.cw-mobile.de%2Faoc-24b2xh-60-5-cm-23-8-zoll-led-monitor.html%3Futm_source%3DPSM%26utm_medium%3DGeizhals%26utm_campaign%3DPSM",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport.at",
+            "price": 101.0,
+            "offer_link": "https://click.cptrack.de/?rd=true&k=H2jZOPSoNfIohcnyCFLwA6E7xlJdv2azQPrAOUUrJTbzIBVEjdH_jzjB6hOZkVTBGy_yTbYED5SeNM2e6jUszA~~&rdlink=https%3A%2F%2Fwww.cyberport.at%2F%3FDEEP%3D6123-1CX%26APID%3D66",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "0815",
+            "price": 101.76,
+            "offer_link": "https://www.0815.at/fc43bd8da5bd/656602766",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "cw-mobile",
+            "price": 103.49,
+            "offer_link": "https://ebay.de/itm/373557740514?var=0&mkevt=1&mkcid=1&toolid=20006&mkrid=707-53477-19255-0&campid=5337412747",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Alternate.at",
+            "price": 103.9,
+            "offer_link": "https://www.alternate.at/AOC/24B2XH-LED-Monitor/html/product/1650407?partner=AtGeizhalsat&campaign=Monitor/AOC/1650407",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TechnikLaden",
+            "price": 105.29,
+            "offer_link": "https://technikladen.at/P-AOC-B2-24B2XH-605-cm-238-Zoll-1920-x-1080-Pixel-Full-HD-LED-7-ms-Schwarz?tl=gzhls",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 106.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=160000000344924083&ano=S344924083&mno=24B2XH&ean=4038986147170&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 106.0,
+            "offer_link": "https://syswork.at/sw/index.html?open&mid=Artikel&artid=mon-1216&from=geizhals.at",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Waldbauer",
+            "price": 108.0,
+            "offer_link": "http://www.waldbauer.com/detail.php?art=i333332333736&ads=gh",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "MIFCOM",
+            "price": 109.0,
+            "offer_link": "https://www.mifcom.de/24-aoc-24b2xh-fhd-ips-75hz-id13646?___store=default",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "geniuzcom",
+            "price": 109.31,
+            "offer_link": "https://geniuzcom.at/AOC-24B2XH/EU-LED-Monitor-60-cm-24-238-sichtbar",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Cyberport Stores \u00d6sterreich",
+            "price": 109.9,
+            "offer_link": "https://www.cyberport.at/?DEEP=6123-1CX&APID=294&STOREID=7",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Future-X.at",
+            "price": 110.69,
+            "offer_link": "https://www.future-x.at/aoc-led-monitor-60-5-cm-238-1920-x-1080-full-hd-1080p-ips-250-cd-m%B2-1000%3A1-8-ms-hdmi-vga-p-8267329/?pv=2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "I-CS",
+            "price": 110.9,
+            "offer_link": "https://www.i-cs.at/eshop.php?action=article_detail&s_supplier_aid=12647547&rid=Geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ElectronicShop24",
+            "price": 112.0,
+            "offer_link": "https://www.electronicshop24.at/product_info.php?products_id=420000000354177439&ano=U354177439&mno=24B2XH%2FEU&ean=4038986147170&utm_medium=cpc&utm_campaign=preisvergleich&utm_content=item&utm_source=geizhals&ref=geizhals",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Syswork",
+            "price": 113.0,
+            "offer_link": "https://pvn.geizhals.de/trck/eclick/?campaign_alias=shoepping-at&project_alias=geizhals.de&admedia_alias=offerclick&subid=pv&url=https%3A%2F%2Fwww.shoepping.at%2Fp%2Fmonitore%2Faoc-24b2xheu-24-1920x1080-75hz-ips-169-m0000L24PD%3Futm_source%3Dpsm%26utm_medium%3Dgeizhals%26utm_campaign%3Dm0000L24PD",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Singer Komputer",
+            "price": 115.5,
+            "offer_link": "https://www.meistersinger.at/product.php?product=582731&f=g2",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "Austriahosting",
+            "price": 115.9,
+            "offer_link": "https://www.austriahosting.com/shop/Displays-Projektoren/Lcd-Monitor/AOC-24B2XH-60-45CM-23-8IN-IPS::745.html?language=de",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "ms-it-beratung",
+            "price": 116.0,
+            "offer_link": "https://ms-it-beratung.at/shop/details.php?art=332376&artname=AOC+60%2C5cm+%2823%2C8%22%29+24B2XH++++16%3A09+HDMI+IPS+black",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "bauguru",
+            "price": 122.0,
+            "offer_link": "https://restposten.bauguru.at/monitore/127895-monitor-aoc-24b2xh-eu-4038986147170.html",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "LumaTech",
+            "price": 125.6,
+            "offer_link": "https://lumatech.at/products/aoc-24b2xh-eu-led-monitor-60-cm-24-23-8-sichtbar",
+            "promotion_description": null
+        },
+        {
+            "shop_name": "TaufNaus",
+            "price": 127.13,
+            "offer_link": "https://www.taufnaus.de/product/10608295",
+            "promotion_description": null
+        }
+    ]
+}
