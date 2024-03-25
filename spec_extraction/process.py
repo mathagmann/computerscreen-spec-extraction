@@ -29,6 +29,7 @@ from token_classification import utilities as ml_utils
 
 REFERENCE_SHOP = "geizhals"
 
+
 def pretty(dictionary: dict):
     return json.dumps(dictionary, indent=4, sort_keys=True)
 
@@ -184,9 +185,8 @@ class Processing:
             logger.debug(f"Merged specs for {product_name}:\n{self.parser.nice_output(copy.deepcopy(combined_specs))}")
 
             catalog_filename = CatalogProduct.filename_from_id(product_id)
-            CatalogProduct(name=product_name, specifications=combined_specs, id=product_id).save_to_json(
-                catalog_dir / catalog_filename
-            )
+            catalog_product = CatalogProduct(name=product_name, specifications=combined_specs, id=product_id)
+            catalog_product.save_to_json(catalog_dir / catalog_filename)
 
     def extract_properties(self, raw_specification: dict, shop_name: str) -> dict[str, Any]:
         """Extracts structured properties from a single product.

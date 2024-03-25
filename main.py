@@ -6,16 +6,21 @@ from spec_extraction.bootstrap import bootstrap as extraction_bootstrap
 from spec_extraction.evaluation.evaluate import evaluate_pipeline
 from spec_extraction.evaluation.evaluate import measure_time
 from spec_extraction.evaluation.evaluate import print_confusion_matrix_per_attr
+from spec_extraction.evaluation.evaluate import sum_confusion_matrices
 
 DEFAULT_FIELD_MAPPINGS = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings.json"
+DEFAULT_PRODUCT_CATALOG_DIR = PRODUCT_CATALOG_DIR
 
 
 @measure_time
 def evaluate_base_pipeline():
     processing_instance = extraction_bootstrap(field_mappings=DEFAULT_FIELD_MAPPINGS, machine_learning_enabled=False)
-    processing_instance.merge_monitor_specs(PRODUCT_CATALOG_DIR)
+    processing_instance.merge_monitor_specs(DEFAULT_PRODUCT_CATALOG_DIR)
 
-    confusion_matrix, cm_per_attr, product_precision = evaluate_pipeline(processing_instance)
+    confusion_matrix, cm_per_attr, product_precision = evaluate_pipeline(
+        processing_instance, evaluated_data_dir=DEFAULT_PRODUCT_CATALOG_DIR
+    )
+    assert confusion_matrix == sum_confusion_matrices(cm_per_attr)
 
     return confusion_matrix, cm_per_attr, product_precision
 
@@ -23,8 +28,12 @@ def evaluate_base_pipeline():
 @measure_time
 def evaluate_base_pipeline_with_machine_learning():
     processing_instance = extraction_bootstrap(field_mappings=DEFAULT_FIELD_MAPPINGS, machine_learning_enabled=True)
+    processing_instance.merge_monitor_specs(DEFAULT_PRODUCT_CATALOG_DIR)
 
-    confusion_matrix, cm_per_attr, product_precision = evaluate_pipeline(processing_instance)
+    confusion_matrix, cm_per_attr, product_precision = evaluate_pipeline(
+        processing_instance, evaluated_data_dir=DEFAULT_PRODUCT_CATALOG_DIR
+    )
+    assert confusion_matrix == sum_confusion_matrices(cm_per_attr)
 
     return confusion_matrix, cm_per_attr, product_precision
 
@@ -33,9 +42,12 @@ def evaluate_base_pipeline_with_machine_learning():
 def evaluate_base_pipeline_with_manual_mapping():
     enhanced_field_mappings = ROOT_DIR / "spec_extraction" / "preparation" / "field_mappings_enhanced_mylemon.json"
     processing_instance = extraction_bootstrap(field_mappings=enhanced_field_mappings, machine_learning_enabled=False)
-    processing_instance.merge_monitor_specs(PRODUCT_CATALOG_DIR)
+    processing_instance.merge_monitor_specs(DEFAULT_PRODUCT_CATALOG_DIR)
 
-    confusion_matrix, cm_per_attr, product_precision = evaluate_pipeline(processing_instance)
+    confusion_matrix, cm_per_attr, product_precision = evaluate_pipeline(
+        processing_instance, evaluated_data_dir=DEFAULT_PRODUCT_CATALOG_DIR
+    )
+    assert confusion_matrix == sum_confusion_matrices(cm_per_attr)
 
     return confusion_matrix, cm_per_attr, product_precision
 

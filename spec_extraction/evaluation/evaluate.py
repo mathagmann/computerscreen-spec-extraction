@@ -2,16 +2,16 @@ import difflib
 import os
 import shutil
 import time
+from collections.abc import Generator
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Any
 
 import click
 from loguru import logger
 
 from config import DATA_DIR
-from config import PRODUCT_CATALOG_DIR
 from config import REFERENCE_DIR
-from data_generation.utilities import get_products_from_path
 from geizhals.geizhals_model import ProductPage
 from spec_extraction.model import CatalogProduct
 from spec_extraction.normalization import normalize_product_specifications
@@ -80,25 +80,44 @@ def measure_time(func):
     return wrapper
 
 
-def evaluate_pipeline(process: Processing) -> tuple[ConfusionMatrix, dict[str, ConfusionMatrix], float]:
+def get_products_from_catalog(catalog_dir: Path) -> Generator[CatalogProduct, None, None]:
+    """Yields raw specification with metadata from JSON files.
+
+    The order of the files is not guaranteed, but specifications from the same
+    monitor follow each other.
+
+    Example:
+    --------
+    product_1_catalog.json
+    product_2_catalog.json
+    product_3_catalog.json
+    """
+    for file in sorted(catalog_dir.glob("*.json")):
+        logger.debug(f"Loading {file.name}...")
+        yield CatalogProduct.load_from_json(catalog_dir / file.name)
+
+
+def evaluate_pipeline(
+    process: Processing,
+    evaluated_data_dir: Path,
+) -> tuple[ConfusionMatrix, dict[str, ConfusionMatrix], float]:
+    # Delete reference data directory and create it again
     shutil.rmtree(REFERENCE_DIR, ignore_errors=True)
     os.makedirs(REFERENCE_DIR, exist_ok=True)
-    logger.debug(f"Removed reference directory: {REFERENCE_DIR}")
-    products = get_products_from_path(DATA_DIR)
 
     products_perfect_precision = 0
     products_false_positives = 0
 
     cm_per_attr = {}
     res_confusion_matrix = ConfusionMatrix()
-    for idx, product in enumerate(products):
-        try:
-            confusion_matrix_per_attr = evaluate_product(process, idx, product)
-            conf_matrix = sum_confusion_matrices(confusion_matrix_per_attr)
-            logger.info(f"Product {product.product_id} scores: {conf_matrix.eval_score}")
-        except FileNotFoundError:
-            logger.debug(f"Product {product.product_id} not found in catalog.")
-            continue
+
+    evaluated_products = get_products_from_catalog(evaluated_data_dir)
+    idx = 0
+    for idx, eval_product in enumerate(evaluated_products):
+        logger.info(f"Evaluate product {eval_product.name}' with ID: {eval_product.id}")
+        confusion_matrix_per_attr = evaluate_product(process, eval_product=eval_product)
+        conf_matrix = sum_confusion_matrices(confusion_matrix_per_attr)
+        logger.info(f"Scores for Product ID {eval_product.id}: {conf_matrix.eval_score}")
 
         res_confusion_matrix += conf_matrix
 
@@ -106,9 +125,11 @@ def evaluate_pipeline(process: Processing) -> tuple[ConfusionMatrix, dict[str, C
         cm_per_attr = combine_confusion_matrices(cm_per_attr, confusion_matrix_per_attr)
         if conf_matrix.eval_score.precision == 1:
             products_perfect_precision += 1
-            logger.debug(f"Product {product.product_id} has perfect precision.")
+            logger.debug(f"Product {eval_product.id} has perfect precision.")
         else:
             products_false_positives += 1
+    assert idx > 0, "No products found for evaluation."
+    logger.debug(f"Processed {idx+1} products.")
 
     total_products = products_perfect_precision + products_false_positives
     product_precision = products_perfect_precision / total_products if total_products > 0 else 0.0
@@ -194,7 +215,7 @@ def _calc_single_attribute_confusion_matrix(
     return confusion_matrix
 
 
-def evaluate_product(proc, idx, product, normalization=True) -> dict[str, ConfusionMatrix]:
+def evaluate_product(proc, eval_product: CatalogProduct, normalization=True) -> dict[str, ConfusionMatrix]:
     """Collect all specifications from the reference data and the catalog data and compares them.
 
     Assumes that the reference data is stored in a JSON file in the
@@ -205,9 +226,7 @@ def evaluate_product(proc, idx, product, normalization=True) -> dict[str, Confus
     ----------
     proc
         The processing object.
-    idx
-        The index of the product.
-    product
+    eval_product
         The product to evaluate.
     normalization
         Enable or disable additional value normalization stage. Enabled by default.
@@ -217,43 +236,33 @@ def evaluate_product(proc, idx, product, normalization=True) -> dict[str, Confus
     dict[str, ConfusionMatrix]
         The attribute name and confusion matrix for each attribute.
     """
-    filename = ProductPage.reference_filename_from_id(product.product_id)
+    evaluation_specs = eval_product.specifications
+
+    # Create structured reference data from Geizhals raw data
+    filename = ProductPage.reference_filename_from_id(eval_product.id)
     reference_data = ProductPage.load_from_json(DATA_DIR / filename)
-    logger.debug(f"Processing product {idx:05d}: {reference_data.product_name}")
+    ref_export_file = f"ref_specs_{eval_product.id}_catalog.json"
+    reference_as_dict = {}
+    for detail in reference_data.product_details:
+        reference_as_dict[detail.name] = detail.value
 
-    # extracted and merged product data
-    catalog_filename = CatalogProduct.filename_from_id(product.product_id)
-    catalog_data = CatalogProduct.load_from_json(PRODUCT_CATALOG_DIR / catalog_filename)
-    cat_specs = catalog_data.specifications
+    # machine learning disabled for reference data
+    reference_product_specs = proc.extract_properties(reference_as_dict, "geizhals")
 
-    # extract Geizhals data
-    ref_export_file = f"ref_specs_{product.product_id}_catalog.json"
-    try:
-        ref_product = CatalogProduct.load_from_json(REFERENCE_DIR / ref_export_file)
-        ref_specs = ref_product.specifications
-    except FileNotFoundError:
-        ref_specs = None
-    if ref_specs is None:
-        reference_as_dict = {}
-        for detail in reference_data.product_details:
-            reference_as_dict[detail.name] = detail.value
-        ref_specs = proc.extract_properties(reference_as_dict, "geizhals")
+    if len(reference_product_specs.keys()) <= 0:
+        logger.warning(f"Reference data {reference_product_specs} empty for {reference_data.id}")
 
-        try:
-            # export structured reference data
-            ref_export_file = f"ref_specs_{product.product_id}_catalog.json"
-            product = CatalogProduct(name=catalog_data.name, specifications=ref_specs, id=catalog_data.id)
-            product.save_to_json(REFERENCE_DIR / ref_export_file)
-            logger.debug(f"Reference data saved to {ref_export_file}")
-        except Exception as e:
-            logger.error(f"Could not save reference data: {e}")
+    product = CatalogProduct(name=eval_product.name, specifications=reference_product_specs, id=eval_product.id)
+    product.save_to_json(REFERENCE_DIR / ref_export_file)
+    logger.debug(f"Reference data saved to {ref_export_file}")
 
+    # Normalize and compare specifications
     if normalization:
-        ref_specs = normalize_product_specifications(ref_specs)
-        cat_specs = normalize_product_specifications(cat_specs)
+        reference_product_specs = normalize_product_specifications(reference_product_specs)
+        evaluation_specs = normalize_product_specifications(evaluation_specs)
     logger.debug(f"Latest reference specs: {reference_data.url}")
 
-    return calculate_confusion_matrix_per_attr(ref_specs, cat_specs)
+    return calculate_confusion_matrix_per_attr(reference_product_specs, evaluation_specs)
 
 
 def color_diff(string1, string2):
