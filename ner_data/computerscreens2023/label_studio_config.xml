@@ -6,40 +6,12 @@
     <Label value="details-hdmi" background="#AD8B00"/>
   </Labels>
 
-<!--  <Labels name="displayport" toName="text">-->
-<!--    <Label value="type-displayport" background="#D3F261"/>-->
-<!--    <Label value="count-displayport" background="#389E0D"/>-->
-<!--    <Label value="version-displayport" background="#5CDBD3"/>-->
-<!--    <Label value="details-displayport" background="#096DD9"/>-->
-<!--  </Labels>-->
-
-<!--  <Labels name="usb-c" toName="text">-->
-<!--    <Label value="type-usb-c" background="#ADC6FF"/>-->
-<!--    <Label value="count-usb-c" background="#9254DE"/>-->
-<!--    <Label value="version-usb-c" background="#F759AB"/>-->
-<!--    <Label value="details-usb-c" background="#FFA39E"/>-->
-<!--  </Labels>-->
-
-<!--  <Labels name="usb-b" toName="text">-->
-<!--  	<Label value="type-usb-b" background="#ff969e"/>-->
-<!--    <Label value="count-usb-b" background="#D4380D"/>-->
-<!--    <Label value="version-usb-b" background="#FFC069"/>-->
-<!--    <Label value="details-usb-b" background="#AD8B00"/>-->
-<!--  </Labels>-->
-
-<!--  <Labels name="klinke" toName="text">-->
-<!--  	<Label value="type-klinke" background="#ADC6FF"/>-->
-<!--    <Label value="count-klinke" background="#9254DE"/>-->
-<!--    <Label value="version-klinke" background="#F759AB"/>-->
-<!--    <Label value="details-klinke" background="#FFA39E"/>-->
-<!--  </Labels>-->
-
-<!--  <Labels name="vga" toName="text">-->
-<!--    <Label value="type-vga" background="#D3F261"/>-->
-<!--    <Label value="count-vga" background="#389E0D"/>-->
-<!--    <Label value="version-vga" background="#5CDBD3"/>-->
-<!--    <Label value="details-vga" background="#096DD9"/>-->
-<!--  </Labels>-->
+  <Labels name="displayport" toName="text">
+    <Label value="type-displayport" background="#D3F261"/>
+    <Label value="count-displayport" background="#389E0D"/>
+    <Label value="version-displayport" background="#5CDBD3"/>
+    <Label value="details-displayport" background="#096DD9"/>
+  </Labels>
 
   <View style="white-space: pre-line; border: 1px solid #CCC; border-radius: 10px; padding: 5px">
     <Text name="text" value="$raw_specifications" inline="true" showLabels="true" granularity="word"/>
